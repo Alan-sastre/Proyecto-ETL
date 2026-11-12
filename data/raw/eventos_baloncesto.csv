@@ -1,0 +1,921 @@
+﻿ID,Deporte,Equipo_Local,Equipo_Visitante,Fecha,Marcador,Competicion,Cuota Local,Cuota Empate,Cuota Visitante
+BAL-000097,Baloncesto,Suns,Uniacja,29-12-2021,120-110,Copa del Rey,5.34,,7.37
+BAL-000008,Baloncesto,Tenerife,Celtics,02/07/2021,122-108,NBA,5.0,,5.85
+BAL-000778,Baloncesto,Gran Canaria,Celtics,2024-01-11,121-87,Copa del Rey,"1,61",,6.1
+BAL-000582,Baloncesto,Real Madrid,Warriors,23/07/2024,84-108,Euroliga,6.58,,2.09
+BAL-000568,Baloncesto,Heat,Bucks,30 de julio de 2022,86-97,Copa del Rey,3.61,,"5,86"
+BAL-000849,Baloncesto,Mavericks ,REAL MADRID,2024-08-15,1-1,Liga ACB,1.95,,2.14
+BAL-000355,Baloncesto,l_a_lakers ,Warriors,2024-12-13,1-1,Euroliga,1.95,,3.64
+BAL-000441,Baloncesto,Real Madrid,,2 de junio de 2021,93-115,,1.75,,4.23
+BAL-000415,Baloncesto,Valencia Basket,Celtics,23 de agosto de 2023,100-124,NBA,5.15,,4.87
+BAL-000263,Baloncesto,Celtics,Real Madrid,08-11-2021,78-105,Euroliga,4.47,,5.07
+BAL-000585,Baloncesto,Joventut,tenerife,07-12-2021,123-105,Liga ACB,6.75,,"1,70"
+BAL-000645,Baloncesto,Mavericks,Real Madrid,16-04-2022,100-116,Euroliga,1.76,,5.04
+BAL-000093,Baloncesto,Barcelona,Gran Canaria,29/01/2024,80-113,Copa del Rey,2.27,,4.3
+BAL-000880,Baloncesto,Gran Canaria,Knicks,20/12/2022,97-106,Copa del Rey,6.27,,1.85
+BAL-000359,Baloncesto,Valencia Basket,Heat,2024/03/26,98-82,Liga ACB,1.42,,6.51
+BAL-000461,Baloncesto,Celtics,Nuggets,21-12-2022,86-95,Copa del Rey,2.88,,1.23
+BAL-000107,Baloncesto,VALENCIA BASKET,Gran Canaria,2021/12/29,86-122,Euroliga,"1,78",,5.77
+BAL-000103,Baloncesto,Warriors,Real Madrid,2021-06-14,80-79,Copa del Rey,6.22,,3.92
+BAL-000410,Baloncesto,Bilbao Basket,Baskonia,2023-09-02,89-125,Euroliga,3.78,,2.23
+BAL-000258,Baloncesto,Valencia Basket,Zaragoza,30/07/2023,82-117,Copa del Rey,"3,77",,3.74
+BAL-000851,Baloncesto,Nuggets,Gran Canaria,2021-02-18,126-123,Copa del Rey,3.14,,6.77
+BAL-000805,Baloncesto,Baskonia,ZARAGOZA,2022/11/29,119-109,Liga ACB,3.9,,6.19
+BAL-000159,Baloncesto,Celtics,BILBAO BASKET,04-04-2024,107-79,Euroliga,106.74,,-
+BAL-000206,Baloncesto,nuggets,  Gran  Canaria ,23 de abril de 2023,109-121,NBA,6.55,,1.7
+BAL-000572,Baloncesto,Gran Canaria,JOVENTUT,24/07/2023,124-80,NBA,5.78,,5.33
+BAL-000522,Baloncesto,Unicaja,Valencia Basket,2021-12-24,111-104,Copa del Rey,"7,35",,1.79
+BAL-000575,Baloncesto,Unicaja,Real Madrid,29-09-2023,118-115,NBA,5.93,,7.0
+BAL-000342,Baloncesto,Suns,boston_celtics,2023-09-27,127-115,Liga ACB,"7,40",,"4,79"
+BAL-000574,Baloncesto,Uniacja,Barcelona,6 de abril de 2022,106-115,Copa del Rey,1.33,,"2,62"
+BAL-000292,Baloncesto,Valencia Basket,Tenerife,2024/08/01,82-96, Copa del Rey ,3.14,,1.71
+BAL-000015,Baloncesto,Nuggets,Mavericks,2024/08/11,102-115,Euroliga,3.84,,-
+BAL-000304,Baloncesto,Barcelona,Mavericks,2022/01/08,90-122,NBA,2.95,,4.59
+BAL-000185,Baloncesto,  Bilbao  Basket ,celtics,26 de agosto de 2023,107-88,Liga ACB,-1.01,,5.73
+BAL-000717,Baloncesto,Lakers,Bulls,14 de marzo de 2023,107-98,Liga ACB,1.3,,"3,80"
+BAL-000654,Baloncesto,Mavericks,Biblao Basket,23-12-2021,94-80,Copa del Rey,6.5,,4.83
+BAL-000067,Baloncesto,JOVENTUT,Baskonia,17-02-2023,117-83,Euroliga,1.53,,1.31
+BAL-000245,Baloncesto,Celtics,Lakers,11-04-2022,100-85,NBA,5.21,,7.14
+BAL-000065,Baloncesto,bilbao,Suns,04-07-2022,124-110,NBA,6.74,,4.52
+BAL-000573,Baloncesto,Barcelona,Baskonia,2022/11/09,95-107,Liga ACB,5.22,,5.47
+BAL-000210,Baloncesto,  Suns ,Celtics,19/04/2022,84-103,NBA,7.02,,-1.21
+BAL-000105,Baloncesto,Joventut,Mavericks,2023/07/25,89-110,Copa del Rey,2.99,,3.52
+BAL-000881,Baloncesto,Joventut,Unicaja,01-12-2022,90-108,Copa del Rey,6.13,,"4,58"
+BAL-000353,Baloncesto,Heat,BUCKS,2023/07/09,,NBA,1.31,,2.56
+BAL-000690,Baloncesto,Warriors,Heat,2023-10-01,104-79,Liga ACB,3.53,,5.59
+BAL-000348,Baloncesto,Heat,Gran Canaria,12-06-2021,98-111,Liga ACB,4.63,,1.78
+BAL-000128,Baloncesto,Nuggets,Unicaja,2024-02-10,,Euroliga,5.2,,7.17
+BAL-000039,Baloncesto,Gran Canaria,Baskonia,17 de octubre de 2023,114-98,NBA,5.44,,6.75
+BAL-000027,Baloncesto,Mavericks,  Heat ,20 de agosto de 2021,99-114,Copa del Rey,5.34,,5.05
+BAL-000754,Baloncesto,unicaja,l_a_lakers,31 de octubre de 2024,125-89,Liga ACB,3.3,,"2,02"
+BAL-000424,Baloncesto,joventut,Tenerife,13/09/2021,116-95,Liga ACB,2.61,,2.42
+BAL-000586,Baloncesto,lenovo_tenerife,Laekrs,26-03-2023,98-97,Liga ACB,5.62,,2.66
+BAL-000818,Baloncesto,Gran Canaria,Barcelona,9 de octubre de 2022,91-127,Euroliga,6.21,,7.14
+BAL-000376,Baloncesto,Knicsk,Lakers,2024-02-13,87-78,,-2.86,,"7,31"
+BAL-000301,Baloncesto,WARRIORS,Lakers,29-06-2024,86-103,Euroliga,2.66,,2.85
+BAL-000307,Baloncesto,  Zaragoza ,  Joventut ,2022/05/24,126-101,Euroliga,7.39,,6.28
+BAL-000555,Baloncesto,  Celtics ,Gran Canaria,31/03/2023,99-120,NBA,6.91,,1.49
+BAL-000481,Baloncesto,Tenerife,Unicaja,10/08/2021,126-98,Liga ACB,4.46,,1.43
+BAL-000407,Baloncesto,Bilbao Basket,Bluls,23-08-2023,97-93,Euroliga,4.41,,0.0
+BAL-000815,Baloncesto,Unicaja,Barcelona,25 de junio de 2024,119-120,Liga ACB,6.62,,6.83
+BAL-000715,Baloncesto,Bucks,Zaragoza,15 de septiembre de 2021,111-78,Copa del Rey,4.1,,7.33
+BAL-000362,Baloncesto,Bucks,Celtics,06/09/2023,115-128,Liga ACB,2.14,,7.35
+BAL-000183,Baloncesto,  Tenerife ,Real Madrid,05/12/2022,105-99,Liga ACB,5.18,,-
+BAL-000553,Baloncesto,Lakers,Bucks,2024/08/01,88-106,Copa del Rey,"1,83",,4.57
+BAL-000855,Baloncesto,celtics,Suns,20 de mayo de 2021,103-106,Liga ACB,2.52,,7.48
+BAL-000700,Baloncesto,Celtics,Heat,6 de enero de 2021,111-125,Copa del Rey,"1,67",,7.26
+BAL-000228,Baloncesto,Heat,Bulls,13/10/2023,120-110,Euroliga,1.7,,2.81
+BAL-000804,Baloncesto,Suns,Bucks,2021/04/01,91-115,Copa del Rey,4.95,,7.31
+BAL-000347,Baloncesto,Tenerife,Bulls,11-12-2024,106-128,Euroliga,5.93,,3.14
+BAL-000122,Baloncesto,Bucks,Joventut,14-02-2022,109-84,Liga ACB,6.35,,172.44
+BAL-000337,Baloncesto,Warriors,Lakers,23-02-2022,107-84,Copa del Rey,2.98,,5.89
+BAL-000476,Baloncesto,Zaragoza,Unicaja,13 de marzo de 2022,122-115,Euroliga,1.78,,1.73
+BAL-000172,Baloncesto,Valencia Basket,Zaragoza,03-08-2024,125-124,Copa del Rey,n/d,,1.55
+BAL-000885,Baloncesto,Knicks,denver_nuggets,23-01-2024,125-121,Copa del Rey,5.36,,5.09
+BAL-000808,Baloncesto,Barcelona,Zaragoza,2024/03/21,105-96,Liga ACB,3.16,,1.69
+BAL-000870,Baloncesto,Zaragoza,Unicaja,06-09-2024,101-117,Liga ACB,3.46,,2.69
+BAL-000837,Baloncesto,  Bucks ,NUGGETS,23-05-2021,103-124,Euroliga,7.19,,1.69
+BAL-000649,Baloncesto,Lakers,Heat,16 de mayo de 2024,115-104,NBA,1.74,,5.73
+BAL-000211,Baloncesto,Suns,Heat,10/08/2024,116-109,Liga ACB,4.09,,2.96
+BAL-000316,Baloncesto,Barcelona,Tenerife,2021-05-04,107-124,Liga ACB,2.57,,0.0
+BAL-000237,Baloncesto,iberostar_tenerife,Barcelona,,106-123,Copa del Rey,6.81,,2.17
+BAL-000224,Baloncesto,Tenerife,Lakers,6 de mayo de 2022,104-119,,2.56,,0.0
+BAL-000327,Baloncesto,  Mavericks ,Zaragoza,7 de septiembre de 2021,86-115,Euroliga,4.76,,5.82
+BAL-000333,Baloncesto,Suns,Valencia Basket,10 de mayo de 2024,119-90,Liga ACB,5.19,,0.0
+BAL-000669,Baloncesto,Barcelona,Unicaja,12/02/2024,93-91,Euroliga,7.4,,6.4
+BAL-000639,Baloncesto,Joventut,  Warriors ,2021-12-07,126-105,Euroliga,4.8,,2.27
+BAL-000052,Baloncesto,Bulls,Joventut,01/08/2024,78-83,Liga ACB,5.59,,5.44
+BAL-000493,Baloncesto,  Real  Madrid ,Unicaja,2024/05/23,115-85,Liga ACB,6.3,,1.39
+BAL-000069,Baloncesto,r_madrid,Gran Canaria,07-02-2021,92-82,Liga ACB,-,,1.52
+BAL-000299,Baloncesto,Zaragoza,Nuggets,2021-07-25,118-107,Liga ACB,3.84,,5.27
+BAL-000068,Baloncesto,ZARAGOZA,Baskonia,2022-07-31,117-128,NBA,3.6,,2.35
+BAL-000096,Baloncesto,Tenerife,Joventut,2022-11-04,81-122,NBA,3.38,,"1,47"
+BAL-000679,Baloncesto,Bulls,Bucks,3 de septiembre de 2024,112-119,Liga ACB,3.98,,6.71
+BAL-000674,Baloncesto,Real Madrid,Barcelona,2022/05/26,94-103,Euroliga,122.25,,3.35
+BAL-000510,Baloncesto,Tenerife,Baksonia,17 de diciembre de 2023,89-104,Copa del Rey,3.76,,3.97
+BAL-000656,Baloncesto,dreamland_gran_canaria,Knicks,30 de diciembre de 2022,79-81,Copa del Rey,4.71,,"5,37"
+BAL-000386,Baloncesto,Celtisc,Vlaencia Basket,2022-10-24,78-88,Euroliga,-,,"2,27"
+BAL-000763,Baloncesto,Real Madrid,Vlaencia Basket,2023/01/18,112-93,Euroliga,5.3,,1.39
+BAL-000436,Baloncesto,Joventut,Warriors,2022-01-15,101-100,Liga ACB,6.86,,5.35
+BAL-000467,Baloncesto,Zaragoza,BILBAO BASKET,26/10/2023,107-78,Euroliga,6.66,,6.54
+BAL-000738,Baloncesto,Tenerife,Heat,6 de diciembre de 2021,82-95,Euroliga,3.92,,"4,94"
+BAL-000225,Baloncesto,Zaragoza,Nuggtes,5 de septiembre de 2024,93-98,Liga ACB,7.08,,4.6
+BAL-000850,Baloncesto,Barcelona,,14/10/2023,126-83,NBA,4.4,,2.46
+BAL-000036,Baloncesto,Baskonia,valencia basket,12-01-2022,91-93,NBA,6.42,,5.55
+BAL-000563,Baloncesto,Joventut,Suns,30/01/2022,84-121,NBA,6.88,,6.0
+BAL-000079,Baloncesto,Warriors,Lakers,18/12/2021,84-120,Copa del Rey,6.75,,3.02
+BAL-000392,Baloncesto,Bilbao Basket,Valencia Basket,12 de agosto de 2021,119-120,Euroliga,7.35,,3.93
+BAL-000879,Baloncesto,Joventut,Unicaaj,07/09/2024,103-90,Euroliga,6.8,,6.5
+BAL-000092,Baloncesto,Celtics,Barcelona,2024-10-06,113-79,Liga ACB,7.17,,4.78
+BAL-000161,Baloncesto,Heat,Bulls,2024/09/05,78-114,Copa del Rey,4.39,,5.14
+BAL-000727,Baloncesto,Celtics,Lakers,2024-05-21,79-84,Euroliga,2.4,,4.02
+BAL-000324,Baloncesto,Suns,Baskonia,04/02/2022,99-106,Copa del Rey,5.53,,-1.3
+BAL-000726,Baloncesto,Zaragoza,Heat,2024-11-16,88-96,Euroliga,2.71,,2.14
+BAL-000326,Baloncesto,Knicks,Heat,2022-07-29,78-112,Copa del Rey,7.28,,5.34
+BAL-000066,Baloncesto,Knicks,Tenerife,11-06-2022,105-106,Copa del Rey,2.24,,4.27
+BAL-000325,Baloncesto,Baskonia,Mavericks,25 de febrero de 2023,96-99,Euroliga,1.92,,5.15
+BAL-000757,Baloncesto,unicaja_malaga,Valencia Basket,2024/03/12,119-110,Liga ACB,1.36,,5.28
+BAL-000358,Baloncesto,Barcelona,Suns,--/--/----,93-91,Euroliga,"3,48",,0.0
+BAL-000274,Baloncesto,Zaragoza,,14-11-2023,82-87,Euroliga,2.14,,6.64
+BAL-000010,Baloncesto,Joventut,bulls,08/05/2022,101-114,NBA,3.28,,1.34
+BAL-000584,Baloncesto,Suns,Zaragoza,2022/06/13,79-112,NBA,6.03,,1.53
+BAL-000809,Baloncesto,golden_state,Heat,2023/02/01,94-91,NBA,3.83,,3.67
+BAL-000825,Baloncesto,Nuggets,dallas_mavericks,2022/08/15,116-81,Copa del Rey,2.97,,6.14
+BAL-000334,Baloncesto,Valencia Basket,Knicks,2024-06-10,98-118,Liga ACB,0.0,,4.86
+BAL-000287,Baloncesto,Bilbao Basket,Lakers,2022/09/15,79-95,Copa del Rey,6.89,,4.94
+BAL-000028,Baloncesto,Valencia Basket,Bilbao Basket,06-07-2023,109-78,Liga ACB,4.54,,3.44
+BAL-000095,Baloncesto,HEAT,Mavericks,12 de julio de 2024,127-87,NBA,5.92,,4.31
+BAL-000514,Baloncesto,Unicaja,Lakers,24/05/2022,127-98,Liga ACB,2.62,,3.07
+BAL-000156,Baloncesto,Baskonia,Celtics,2023/11/03,125-88,Copa del Rey,4.12,,"4,20"
+BAL-000598,Baloncesto,Suns,Heat,04/10/2023,92-81,Euroliga,5.3,,4.27
+BAL-000290,Baloncesto,Joventut,Bilbao Basket,5 de noviembre de 2024,83-123,Euroliga,5.14,,1.66
+BAL-000448,Baloncesto,Gran Canaria,Joventut,2023-10-04,79-82,NBA,5.48,,2.96
+BAL-000464,Baloncesto,Unicaja,Valencia Basket,02/04/2022,91-126,NBA,2.22,,"3,04"
+BAL-000193,Baloncesto,  Gran  Canaria ,Suns,18/04/2021,118-101,NBA,1.23,,3.71
+BAL-000141,Baloncesto,Heat,Gran Canaria,2023/02/23,104-122,Liga ACB,5.14,,6.14
+BAL-000158,Baloncesto,lenovo_tenerife,Cletics,2022-02-17,113-127,Euroliga,4.51,,7.25
+BAL-000384,Baloncesto,real madrid,Celtics,2024/09/23,119-111,Liga ACB,1.93,,5.67
+BAL-000824,Baloncesto,Bulls,baskonia,23 de marzo de 2023,103-83,Liga ACB,4.74,,4.34
+BAL-000019,Baloncesto,MAVERICKS,Nuggets,2021/01/11,111-114,Liga ACB,7.45,,1.33
+BAL-000603,Baloncesto,Barcelona,Warriors,2022/07/16,118-111,Euroliga,2.56,,7.07
+BAL-000322,Baloncesto,Lakers,Tenerife,03/11/2023,79-122,Euroliga,7.32,,3.3
+BAL-000894,Baloncesto,zaragoza,  Lakers ,26-05-2023,106-79,Euroliga,3.94,,"4,17"
+BAL-000187,Baloncesto,  Suns ,Tenerife,15 de febrero de 2024,88-106,Copa del Rey,5.72,,7.05
+BAL-000330,Baloncesto,  Celtics ,Baskonia,2024-06-16,120-111,Euroliga,2.46,,5.74
+BAL-000751,Baloncesto,Tenerife,denver_nuggets,2024/07/14,103-121,Liga ACB,4.08,,4.14
+BAL-000296,Baloncesto,Bilbao Bsaket,Real Madrid,N/A,122-108,Euroliga,2.31,,7.49
+BAL-000752,Baloncesto,Knicks,Bulls,16/08/2024,95-113,Copa del Rey,"2,77",,3.51
+BAL-000787,Baloncesto,  Warriors ,Bilbao Basket,01/05/2021,84-127,NBA,5.64,,2.89
+BAL-000661,Baloncesto,Heat,mavericks,2024-10-31,123-89,Liga ACB,3.05,,5.27
+BAL-000806,Baloncesto,LAKERS,Tenerife,10-04-2021,119-79,NBA,5.29,,3.34
+BAL-000859,Baloncesto,Warriors,unicaja_malaga,12-10-2023,111-88,Copa del Rey,5.58,,5.49
+BAL-000014,Baloncesto,Gran Canaria,Celtics,2023-04-27,88-101,Liga ACB,3.14,,3.57
+BAL-000243,Baloncesto,Celtics,Heat,18 de diciembre de 2021,85-79,Copa del Rey,6.25,,6.15
+BAL-000428,Baloncesto,joventut_badalona,Tenerife,22/06/2022,128-88,,3.92,,4.14
+BAL-000678,Baloncesto,valencia basket,Real Madrid,2024/04/24,119-84,Copa del Rey,6.57,,4.49
+BAL-000858,Baloncesto,TENERIFE,Knicks,23/01/2024,122-94,Liga ACB,"5,31",,3.82
+BAL-000124,Baloncesto,TENERIFE,denver_nuggets,19-04-2022,93-123,NBA,5.96,,6.18
+BAL-000551,Baloncesto,Barcelona,Bilbao Basket,24 de julio de 2024,127-121,,4.49,,3.75
+BAL-000076,Baloncesto,Mavericks,Bilabo Basket,30 de abril de 2023,90-83,NBA,6.9,,4.04
+BAL-000001,Baloncesto,Warriors,Nuggets,05/03/2023,80-100,Copa del Rey,5.85,,4.59
+BAL-000684,Baloncesto,Zaragoza,Heat,2023-05-02,106-84,Liga ACB,7.47,,2.61
+BAL-000466,Baloncesto,Tenerife,Baskonia,27 de abril de 2023,99-98,NBA,6.61,,1.3
+BAL-000087,Baloncesto,Gran Canaria,Zaragoza,10/06/2022,116-105,Liga ACB,3.83,,6.54
+BAL-000213,Baloncesto,Unicaja,Teenrife,19-12-2024,105-109,NBA,5.57,,5.81
+BAL-000309,Baloncesto,Bulls,Unicaja,2022-03-28,98-88,Euroliga,6.34,,2.14
+BAL-000566,Baloncesto,Warriors,Baskonia,19-03-2021,102-123,Copa del Rey,5.58,,2.53
+BAL-000223,Baloncesto,Suns,Nuggets,16 de agosto de 2023,91-94,NBA,2.93,,5.72
+BAL-000744,Baloncesto,BILBAO BASKET,Suns,2021-11-17,122-119,Euroliga,"3,40",,"2,96"
+BAL-000006,Baloncesto,Knicks,Barcelona,2024-04-04,104-79,Euroliga,2.98,,6.84
+BAL-000355,Baloncesto,l_a_lakers,Warriors,2024-12-13,126-95,Euroliga,3.65,,3.64
+BAL-000454,Baloncesto,Warriors,Suns,24/05/2023,104-113,Liga ACB,4.78,,"4,87"
+BAL-000088,Baloncesto,Baskonia,Heat,2021/12/13,98-108,Euroliga,3.4,,6.48
+BAL-000168,Baloncesto,Mavericks,Joventut,2022/12/10,124-78,Liga ACB,5.09,,6.96
+BAL-000747,Baloncesto,Zaragoza,Lakers,3 de julio de 2022,99-93,Liga ACB,-2.75,,4.85
+BAL-000357,Baloncesto,Barcelona,Celtics,2023/06/08,122-123,Euroliga,"4,80",,4.67
+BAL-000835,Baloncesto,Bucks,Bulls,26 de diciembre de 2024,111-123,NBA,2.57,,2.81
+BAL-000412,Baloncesto,Bilbao Basket,Celtics,12-08-2021,98-104,Liga ACB,"3,75",,"3,22"
+BAL-000335,Baloncesto,WARRIORS,Heat,12-06-2024,91-98,NBA,2.26,,4.53
+BAL-000157,Baloncesto,Valencia Basket,Bucks,2023-09-22,104-110,Euroliga,1.38,,2.49
+BAL-000635,Baloncesto,new_york_knicks,valencia basket,2024/01/19,80-78,NBA,4.69,,3.5
+BAL-000314,Baloncesto,  Gran  Canaria ,Joventut,13/12/2022,88-111,Copa del Rey,n/d,,3.5
+BAL-000571,Baloncesto,Joventut,Bulls,22/02/2021,80-81,Liga ACB,4.09,,6.28
+BAL-000478,Baloncesto,Lakers,Baskonia,06/05/2023,113-90,NBA,2.89,,7.5
+BAL-000418,Baloncesto,Bucks,Nuggets,2 de septiembre de 2021,,Copa del Rey,3.37,,5.45
+BAL-000320,Baloncesto,Gran Canaria,Real Madrid,2024/11/27,126-102,Copa del Rey,6.56,,4.63
+BAL-000294,Baloncesto,Knicks,  Lakers ,3 de diciembre de 2022,104-108,Liga ACB,1.52,,7.31
+BAL-000896,Baloncesto,SUNS,Joventut,16 de diciembre de 2022,91-90,Liga ACB,3.72,,3.06
+BAL-000625,Baloncesto,Suns,bilbao,13/12/2021,119-120,Euroliga,5.49,,1.7
+BAL-000447,Baloncesto,Real Madrid,Valencia Basket,2021/04/17,121-128,Copa del Rey,6.12,,2.2
+BAL-000636,Baloncesto,  Bulls ,TENERIFE,,127-113,NBA,4.42,,1.24
+BAL-000396,Baloncesto,Bilbao Basket,Zaragoza,2024/04/03,114-87, Euroliga ,3.44,,6.76
+BAL-000519,Baloncesto,Tenerife,Valencia Basket,2021-06-13,117-104,Euroliga,4.97,,1.44
+BAL-000045,Baloncesto,  Heat ,Mavericks,2021/05/13,109-84,,3.85,,3.01
+BAL-000496,Baloncesto,Baskonia,Bilbao Basket,25-09-2023,95-85,Liga ACB,2.68,,3.65
+BAL-000666,Baloncesto,  Zaragoza ,Bulls,2023/05/06,128-121,Euroliga,1.56,,5.71
+BAL-000411,Baloncesto,Knicks,Mavericks,23 de julio de 2024,92-109,NBA,5.96,,2.4
+BAL-000512,Baloncesto,Suns,Lakers,2022/09/13,90-87,Copa del Rey,5.89,,3.78
+BAL-000051,Baloncesto,Knicks,Valencia Basket,30 de junio de 2024,114-123,Liga ACB,2.31,,"6,11"
+BAL-000706,Baloncesto,Celtics,Mavericks,2023/01/15,124-125,Euroliga,6.2,,3.17
+BAL-000410,Baloncesto,Bilbao Basket,Baskonia,2023-09-02,89-125,Euroliga,3.78,,2.23
+BAL-000005,Baloncesto,Baskonia,Tenerife,22-06-2023,128-91,Liga ACB,3.06,,7.3
+BAL-000143,Baloncesto,Barcelona,Knicks,2023-01-22,91-116,Copa del Rey,1.51,,0.0
+BAL-000086,Baloncesto,Celtics,Heat,10/12/2024,108-103,Liga ACB,4.98,,2.4
+BAL-000385,Baloncesto,Unicaja,Celtics,19-08-2021,87-90,Copa del Rey,3.84,,3.97
+BAL-000829,Baloncesto,Real Madrid,Bilbao Basket,24/02/2023,87-83,Copa del Rey,"5,66",,4.9
+BAL-000743,Baloncesto,Mavericks,Barcelona,2024-08-14,102-106,Euroliga,5.45,,4.49
+BAL-000315,Baloncesto,Knicks,Bilbao Basket,27-05-2023,90-124,Euroliga,5.92,,1.35
+BAL-000170,Baloncesto,  Bucks ,Mavericks,18 de noviembre de 2024,104-128,Copa del Rey,"3,21",,3.58
+BAL-000364,Baloncesto,SUNS,Bilbao Basket,26 de noviembre de 2023,81-92,Liga ACB,"6,21",,2.62
+BAL-000556,Baloncesto,UNICAJA,Nuggets,16-06-2022,91-115,Liga ACB,1.33,,3.71
+BAL-000413,Baloncesto,Warriors,Suns,28/11/2023,97-90,Euroliga,1.33,,4.02
+BAL-000277,Baloncesto,Barcelona,Baskonia,2021-12-29,111-125,Copa del Rey,3.67,,5.53
+BAL-000691,Baloncesto,Celtics,Heat,2022/11/20,118-112,Liga ACB,5.94,,3.1
+BAL-000710,Baloncesto,Barcelona,Tenerife,2021/12/05,116-86,Euroliga,4.18,,6.53
+BAL-000511,Baloncesto,warriors,Baskonia,02-03-2022,92-128,NBA,2.63,,4.74
+BAL-000450,Baloncesto,Nuggets,Unicaja,2023/05/10,84-88,Euroliga,1.43,,"4,74"
+BAL-000843,Baloncesto,BUCKS,tenerife,2023-03-10,90-125, NBA ,2.8,,7.37
+BAL-000854,Baloncesto,Celtics,Real Madrid,2024/07/28,90-125,Copa del Rey,"3,21",,6.21
+BAL-000677,Baloncesto,Celtics,Real Madrid,2023-09-15,120-125,NBA,3.63,,6.02
+BAL-000590,Baloncesto,BUCKS,Unicaja,20 de marzo de 2023,85-82,Copa del Rey,1.28,,6.02
+BAL-000190,Baloncesto,Knicks,Bilbao Basket,9 de enero de 2023,104-105,Copa del Rey,7.39,,1.58
+BAL-000583,Baloncesto,boston_celtics,Bucks,25/12/2021,100-110,Copa del Rey,2.23,,4.19
+BAL-000440,Baloncesto,Gran Canaria,Knicks,2021-05-26,104-122,NBA,5.52,,4.54
+BAL-000813,Baloncesto,Bulls,Gran Canaria,2024-11-20,105-106,NBA,3.3,,1.35
+BAL-000750,Baloncesto,Gran Canaria,Lakers,2023-06-12,113-104,Liga ACB,"6,71",,1.64
+BAL-000756,Baloncesto,VALENCIA BASKET,Knicks,13-09-2024,119-97,Copa del Rey,7.36,,2.1
+BAL-000580,Baloncesto,los_angeles_lakers,Heat,2023/07/04,103-127,Liga ACB,4.15,,3.33
+BAL-000463,Baloncesto,Bilbao Basket,Joventut,07/01/2021,112-82,Euroliga,6.95,,5.98
+BAL-000169,Baloncesto,Mavericks,tenerife,2022/07/11,107-113,Euroliga,4.81,,7.15
+BAL-000189,Baloncesto,Heat,Zaragoza,2023-10-24,100-119,Copa del Rey,6.75,,3.87
+BAL-000259,Baloncesto,Lakres,Warriors,12/07/2022,124-99,NBA,1.54,,2.9
+BAL-000516,Baloncesto,Celtics,Joventut,2023/12/24,119-80,Euroliga,6.54,,5.61
+BAL-000807,Baloncesto,joventut_badalona,milwaukee_bucks,09-04-2021,80-104,NBA,"5,14",,2.38
+BAL-000080,Baloncesto,Knicks,Warriors,23 de noviembre de 2021,113-117,Liga ACB,6.57,,6.99
+BAL-000178,Baloncesto,REAL MADRID,Baskonia,01-06-2022,86-95,Euroliga,4.23,,4.99
+BAL-000119,Baloncesto,Bucks,  Baskonia ,9 de febrero de 2023,81-86,Copa del Rey,6.12,,2.73
+BAL-000380,Baloncesto,Bilbao Basket,Barcelona,12-04-2021,100-78,Euroliga,"7,23",,"7,25"
+BAL-000465,Baloncesto,Nuggets,BUCKS,5 de junio de 2024,109-94,NBA,1.77,,2.19
+BAL-000710,Baloncesto,Barcelona,Tenerife,2021/12/05,116-86,Euroliga,4.18,,6.53
+BAL-000227,Baloncesto,Tenerife,Knicks,17/03/2023,82-118,,1.83,,1.65
+BAL-000724,Baloncesto,Knicks,Joventut,5 de septiembre de 2021,104-121,Liga ACB,6.59,,7.32
+BAL-000622,Baloncesto,Baskonia,Lakers,26/09/2022,120-90,NBA,6.74,,6.28
+BAL-000281,Baloncesto,WARRIORS,Real Madrid,16/05/2021,102-106,Liga ACB,6.02,,4.49
+BAL-000601,Baloncesto,Valencia Basket,Knicks,2024/11/25,113-125,Copa del Rey,6.01,,1.75
+BAL-000145,Baloncesto,Gran Canaria,Bucks,03-10-2022,117-97,NBA,5.08,,2.06
+BAL-000425,Baloncesto,Joventut,Barcelona,2023-04-09,108-110,Liga ACB,5.84,,6.81
+BAL-000573,Baloncesto,Barcelona,Baskonia,2022/11/09,95-107,Liga ACB,5.22,,5.47
+BAL-000132,Baloncesto,Nuggets,Gran Canaria,03-08-2022,91-112,Euroliga,"4,40",,"1,20"
+BAL-000082,Baloncesto,Baskonia,Celtics,09/07/2022,88-119,Euroliga,3.17,,1.74
+BAL-000212,Baloncesto,Suns,Zaragoza,26/09/2022,127-123,Liga ACB,7.34,,4.94
+BAL-000021,Baloncesto,Nuggtes,joventut,2023/09/04,125-110,Euroliga,4.31,,1.32
+BAL-000487,Baloncesto,celtics,Gran Canaria,15 de febrero de 2024,89-99,Copa del Rey,3.73,,6.12
+BAL-000221,Baloncesto,BILBAO BASKET,ZARAGOZA,19 de diciembre de 2023,114-83,Liga ACB,3.48,,6.55
+BAL-000699,Baloncesto,Bucks,Heat,10-08-2023,109-122,Liga ACB,1.54,,2.49
+BAL-000619,Baloncesto,Bulsl,Suns,12 de junio de 2023,112-120,NBA,2.77,,2.33
+BAL-000331,Baloncesto,  Warriors ,Basknoia,31-01-2021,87-115,Liga ACB,4.45,,5.8
+BAL-000569,Baloncesto,Bulls,Cletics,20-07-2023,102-81,Euroliga,6.18,,1.59
+BAL-000826,Baloncesto,Warriros,Valencia Basket,2023/08/13,119-87,Copa del Rey,1.99,,2.26
+BAL-000077,Baloncesto,Gran Canraia,Suns,2024-12-05,78-89,Copa del Rey,7.15,,5.65
+BAL-000560,Baloncesto,Knicks,gsw,14/09/2021,125-103,Copa del Rey,5.1,,5.17
+BAL-000006,Baloncesto,Knicks ,Barcelona,2024-04-04,1-1,Euroliga,1.95,,6.84
+BAL-000414,Baloncesto,miami_heat,Bilbao Basket,26/01/2024,127-110,NBA,4.0,,6.31
+BAL-000270,Baloncesto,Bulls,Baskonia,2023/07/31,116-81,NBA,2.59,,6.54
+BAL-000899,Baloncesto,Zaragoza,Warriors,2024/03/15,96-115,Copa del Rey,4.91,,5.01
+BAL-000140,Baloncesto,BARCELONA,Warriors,12/03/2022,99-105,Euroliga,4.86,,6.96
+BAL-000853,Baloncesto,Celtics,Unicaja,16 de noviembre de 2022,110-105,NBA,4.02,,n/d
+BAL-000822,Baloncesto,Tenerife,Heat,2023-04-10,93-94,NBA,6.91,,6.32
+BAL-000444,Baloncesto,Tenerife,chicago_bulls,11/10/2022,95-105,Euroliga,4.8,,2.77
+BAL-000319,Baloncesto,Lakers,Bucks,2022/08/08,97-127,Copa del Rey,1.8,,6.9
+BAL-000597,Baloncesto,  Celtics ,Unicaja,19-07-2021,128-119,Copa del Rey,6.31,,3.41
+BAL-000703,Baloncesto,Knicks,Bilbao Basket,17-12-2021,113-120,Liga ACB,7.14,,1.44
+BAL-000220,Baloncesto,Knicks,Nuggets,15 de enero de 2023,111-115,Copa del Rey,1.65,,3.36
+BAL-000534,Baloncesto,Unicaja,Real Madrid,30 de marzo de 2021,82-93,Copa del Rey,5.86,,2.82
+BAL-000390,Baloncesto,Joventut,chicago_bulls,2024-06-05,106-90,Copa del Rey,5.07,,2.53
+BAL-000426,Baloncesto,valencia_bc,  Lakers ,2022/06/26,112-111,NBA,7.3,,"6,81"
+BAL-000363,Baloncesto,Warriors,bucks,23-11-2022,99-114,Euroliga,5.18,,"3,84"
+BAL-000148,Baloncesto,Zaragoza,Mavericks,,101-104,Liga ACB,4.68,,1.94
+BAL-000595,Baloncesto,Warriors,Baskonia,2024/09/30,118-102,Euroliga,1.41,,5.77
+BAL-000261,Baloncesto,Unicaja,Barcelona,20-03-2023,104-119,Liga ACB,6.53,,6.48
+BAL-000321,Baloncesto,Bcuks,Gran Canaria,18-04-2024,83-93,Copa del Rey,7.42,,7.42
+BAL-000547,Baloncesto,Zaragoza,Bilbao Basket,2024/10/28,127-96,Liga ACB,2.51,,1.39
+BAL-000871,Baloncesto,Knicks,Zaragoza,10 de marzo de 2021,121-81,Liga ACB,6.59,,2.85
+BAL-000664,Baloncesto,Gran Canarai,Zaragoza,N/A,88-96,Copa del Rey,4.56,,-
+BAL-000062,Baloncesto,Warriors,Baskonia,23/12/2022,88-100,Euroliga,1.49,,6.5
+BAL-000877,Baloncesto,Nuggets,Mavericks,2022/06/16,89-95,NBA,1.58,,5.08
+BAL-000165,Baloncesto,Joventut,Mavericks,2024/01/24,102-98,NBA,4.37,,1.35
+BAL-000249,Baloncesto,REAL MADRID,Bucks,30-09-2024,83-82,Liga ACB,5.91,,3.39
+BAL-000175,Baloncesto,Bulls,Heat,2023-10-14,104-125,NBA,6.72,,"4,51"
+BAL-000125,Baloncesto,Lakers,Mavericks,24-08-2024,105-81,Copa del Rey,2.62,,6.32
+BAL-000477,Baloncesto,Baskonia,Unciaja,23/06/2022,99-107,Copa del Rey,3.29,,0.0
+BAL-000544,Baloncesto,new_york_knicks,ZARAGOZA,2023/01/17,102-87,Liga ACB,N/A,,"3,28"
+BAL-000648,Baloncesto,Warriors,Lakers,19 de enero de 2023,100-98,Euroliga,7.25,,4.7
+BAL-000072,Baloncesto,Barcelona,Unicaja,3 de enero de 2023,111-84,Liga ACB,3.03,,103.49
+BAL-000085,Baloncesto,Suns,Warriors,2024/07/08,,Copa del Rey,4.8,,3.27
+BAL-000527,Baloncesto,Gran Canaria,Suns,15 de octubre de 2021,120-89,Euroliga,"5,22",,3.52
+BAL-000345,Baloncesto,Bulls,Zaragoza,2022-09-26,88-102,Copa del Rey,3.45,,5.56
+BAL-000552,Baloncesto,Unicaja,Nuggets,2023/02/12,99-104,Copa del Rey,N/A,,"3,21"
+BAL-000602,Baloncesto,Baskonia,boston_celtics,2024-03-25,120-128,NBA,206.8,,1.37
+BAL-000882,Baloncesto,Bulls,Baskonia,29/08/2023,88-82,NBA,5.87,,2.53
+BAL-000520,Baloncesto,Bukcs,Zaragoza,8 de septiembre de 2022,83-128,NBA,6.91,,2.04
+BAL-000526,Baloncesto,Celtics,Valencia Basket,21/09/2022,96-82,NBA,1.29,,1.69
+BAL-000537,Baloncesto,Barcelona,Warriors,sin fecha,86-81,Copa del Rey,3.73,,-2.95
+BAL-000579,Baloncesto,Lakers,Mavericks,08/03/2021,117-112,NBA,2.3,,6.16
+BAL-000091,Baloncesto,Gran Canaria,Bulls,18-07-2021,128-85,Copa del Rey,3.09,,4.72
+BAL-000545,Baloncesto,  Barcelona ,Baskonia,2023-02-27,87-110,Liga ACB,3.1,,4.34
+BAL-000766,Baloncesto,Nuggets,Zaragoza,22 de abril de 2022,88-110,NBA,"3,81",,7.1
+BAL-000133,Baloncesto,Gran Canaria,Nuggets,29 de octubre de 2022,79-102,NBA,2.21,,2.24
+BAL-000154,Baloncesto,Mavericks,Lakers,24-01-2024,79-127,Copa del Rey,3.16,,6.08
+BAL-000769,Baloncesto,Heat,Bulls,15-04-2024,85-125,NBA,4.41,,3.14
+BAL-000071,Baloncesto,Heat,Mavericks,04-01-2022,93-128,Copa del Rey,5.54,,4.08
+BAL-000544,Baloncesto,new_york_knicks,ZARAGOZA,2023/01/17,102-87,Liga ACB,N/A,,"3,28"
+BAL-000565,Baloncesto,Warriors,Real Madrid,06/10/2023,88-114,Liga ACB,7.09,,1.57
+BAL-000286,Baloncesto,Bulls,Warriors,2022-05-10,101-84,Copa del Rey,"4,43",,"1,67"
+BAL-000622,Baloncesto,Baskonia,Lakers,26/09/2022,120-90,NBA,6.74,,6.28
+BAL-000480,Baloncesto,Bilbao Basket,Baskonia,2024-11-04,102-124,NBA,1.52,,5.64
+BAL-000737,Baloncesto,Unicaja,Zaragoza,2022-09-08,90-112,Euroliga,5.78,,2.35
+BAL-000707,Baloncesto,Baskonia,Celtics,19/05/2022,118-126,Liga ACB,"2,09",,5.75
+BAL-000620,Baloncesto,Gran Canaria,Joventut,13-01-2024,127-93,Euroliga,2.44,,5.02
+BAL-000236,Baloncesto,Tenerife,nuggets,15/04/2024,101-95,Euroliga,2.89,,6.66
+BAL-000163,Baloncesto,Valencia Basket,Joventut,2023-03-29,114-102,NBA,1.27,,3.58
+BAL-000548,Baloncesto,Warriors,Joventut,2023/06/20,111-110,Euroliga,3.43,,4.0
+BAL-000550,Baloncesto,Zaragoza,Unicaja,23 de febrero de 2024,111-90,Copa del Rey,1.28,,6.58
+BAL-000740,Baloncesto,Kincks,,24-10-2021,91-99,Copa del Rey,-,,1.38
+BAL-000485,Baloncesto,Zaragoza,Nuggets,01-12-2021,96-91,NBA,7.15,,1.64
+BAL-000557,Baloncesto,Gran Canarai,Zaragoza,12/07/2024,90-117,Liga ACB,2.26,,2.14
+BAL-000114,Baloncesto,Joventut,Bucks,2024/01/11,,NBA,115.03,,6.62
+BAL-000561,Baloncesto,WARRIORS,Baskonia,01/03/2021,104-120,Copa del Rey,3.85,,4.25
+BAL-000121,Baloncesto,Celtics,Joventut,19-06-2023,79-102,Copa del Rey,5.07,,1.32
+BAL-000755,Baloncesto,Mavericks,Bulls,24 de enero de 2023,128-85,Liga ACB,n/d,,1.59
+BAL-000371,Baloncesto,Heat,Bucks,04/08/2021,88-78,NBA,1.8,,7.36
+BAL-000459,Baloncesto,Valencia Basket,Warriors,30-11-2024,112-121,Euroliga,7.05,,4.43
+BAL-000111,Baloncesto,TENERIFE,Bilbao Basket,29 de abril de 2024,84-88,Liga ACB,5.53,,1.48
+BAL-000768,Baloncesto,Bulls,Heat,14 de marzo de 2023,97-96,Liga ACB,4.5,,1.26
+BAL-000729,Baloncesto,Bilbao Basket,Bulls,22-05-2024,123-92,Liga ACB,3.31,,5.98
+BAL-000546,Baloncesto,unicaja_malaga,Joventut,2 de mayo de 2024,122-92,Euroliga,"6,46",,6.3
+BAL-000239,Baloncesto,Knicks,Gran Canaria,09/10/2023,96-106,NBA,6.57,,-2.98
+BAL-000328,Baloncesto,tenerife,Celtics,10-02-2023,,NBA,4.72,,0.0
+BAL-000101,Baloncesto,Mavericks,Suns,8 de abril de 2022,105-101,Copa del Rey,4.83,,2.17
+BAL-000840,Baloncesto,Tenerife,new_york_knicks,14/05/2023,123-97,Liga ACB,"2,02",,3.53
+BAL-000588,Baloncesto,Tenerife,Bulls,2024-09-12,78-114,Copa del Rey,4.54,,1.8
+BAL-000886,Baloncesto,  Gran  Canaria ,Baskonia,2022/10/02,89-125,Copa del Rey,1.68,,2.07
+BAL-000800,Baloncesto,Heat,Bilbao Basket,12-08-2024,98-124,Copa del Rey,"1,94",,2.08
+BAL-000368,Baloncesto,Mavericks,Baskonia,07/04/2022,101-78,Liga ACB,7.28,,6.12
+BAL-000284,Baloncesto,Bilbao Basket,Mavericks,2022/03/20,120-118,NBA,2.26,,6.3
+BAL-000629,Baloncesto,Bilbao Basket,Bulls,01-06-2022,121-106,NBA,2.98,,4.27
+BAL-000673,Baloncesto,Baskonia,Nuggets,21-04-2021,110-108,Euroliga,1.9,,1.48
+BAL-000029,Baloncesto,Bilbao Basket,Bulls,2022-03-12,79-118,Copa del Rey,3.56,,5.31
+BAL-000129,Baloncesto,CELTICS,Mavericks,27 de marzo de 2024,108-78,NBA,0.0,,5.33
+BAL-000152,Baloncesto,Tenerife,Zaragoza,03/03/2023,118-126,NBA,2.71,,88.73
+BAL-000139,Baloncesto,Heat,los_angeles_lakers,2021/03/27,123-78,Liga ACB,4.3,,5.18
+BAL-000439,Baloncesto,Tenerife,Unicaja,2024-05-09,103-78,,2.17,,4.31
+BAL-000827,Baloncesto,Heat,Valencia Basket,2021-03-19,84-79,,3.35,,6.12
+BAL-000592,Baloncesto,Gran Canaria,Suns,11 de marzo de 2024,100-116, Liga ACB ,6.49,,3.89
+BAL-000406,Baloncesto,Gran Canaria,Nuggets,20 de febrero de 2021,126-97,Copa del Rey,3.39,,"5,65"
+BAL-000329,Baloncesto,  Valencia  Basket ,BILBAO BASKET,2022/11/28,115-119,NBA,2.48,,4.97
+BAL-000421,Baloncesto,barcellona,Nuggets,16/12/2022,85-95,Copa del Rey,6.4,,3.24
+BAL-000038,Baloncesto,knicks,Gran Canaria,25/11/2024,124-108,Euroliga,2.02,,5.14
+BAL-000445,Baloncesto,Valencia Basket,Bilbao Basket,24/12/2021,111-124,NBA,2.14,,7.16
+BAL-000338,Baloncesto,la_lakers,Suns,15-11-2022,127-104,Liga ACB,4.42,,4.4
+BAL-000044,Baloncesto,,Barcelona,26/10/2024,92-108,Liga ACB,4.32,,6.12
+BAL-000055,Baloncesto,Zaragoza,Bulls,2021/07/16,94-105,NBA,"6,96",,4.92
+BAL-000874,Baloncesto,  Unicaja ,boston_celtics,28/10/2021,95-93,Copa del Rey,N/A,,3.29
+BAL-000205,Baloncesto,Heat,Valencia Basket,18 de octubre de 2022,122-121,Euroliga,6.96,,1.58
+BAL-000533,Baloncesto,Lakers,Gran Canaria,04-11-2023,122-110,Liga ACB,1.73,,5.98
+BAL-000469,Baloncesto,Gran Canaria,  Barcelona ,2021-05-16,115-96,Copa del Rey,2.34,,6.88
+BAL-000697,Baloncesto,Real Madrid,Gran Canaria,2024-12-03,82-84,Copa del Rey,"6,02",,"7,46"
+BAL-000373,Baloncesto,Real Madrid,Bulls,4 de agosto de 2023,125-115,Copa del Rey,7.03,,3.66
+BAL-000722,Baloncesto,Bulls,Suns,2024-10-07,102-126,NBA,2.73,,4.93
+BAL-000844,Baloncesto,Tenerife,Bulls,2021/03/31,94-96,Euroliga,5.03,,3.67
+BAL-000176,Baloncesto,Nuggets,Warriors,2024-07-27,99-128,NBA,112.37,,4.27
+BAL-000040,Baloncesto,Joventut,Bilboa Basket,2023-05-24,95-88,Copa del Rey,5.83,,5.26
+BAL-000002,Baloncesto,LAKERS,bilbao basket,07/06/2023,82-94,Liga ACB,6.14,,2.91
+BAL-000802,Baloncesto,Joventut,Mavericks,9 de marzo de 2024,78-121,Euroliga,2.71,,1.37
+BAL-000634,Baloncesto,Heat,lenovo_tenerife,18/10/2022,78-88,Copa del Rey,2.7,,"6,73"
+BAL-000728,Baloncesto,Joventut,Knicks,15/04/2024,94-120,Copa del Rey,2.69,,0.0
+BAL-000147,Baloncesto,  Bucks ,Valencia Basekt,20/09/2022,100-121,Liga ACB,5.57,,1.73
+BAL-000383,Baloncesto,WARRIORS,Cletics,2021/11/23,128-117,Liga ACB,1.36,,-
+BAL-000523,Baloncesto,UNICAJA,Bilbao Basket,05/11/2022,125-90,Copa del Rey,6.27,,2.63
+BAL-000538,Baloncesto,Bulls,Zaragoza,20 de julio de 2023,117-128,Euroliga,5.75,,6.06
+BAL-000059,Baloncesto,Knicks,Tenerife,2023-09-09,110-97,Euroliga,3.62,,4.19
+BAL-000801,Baloncesto,boston_celtics,Joventut,2021-06-29,104-115,NBA,3.87,,1.9
+BAL-000491,Baloncesto,Zaragoza,Barcelona,21-09-2021,115-120,Euroliga,5.57,,2.47
+BAL-000116,Baloncesto,Celtics,Baskonia,01/02/2023,123-93,Liga ACB,4.08,,2.63
+BAL-000007,Baloncesto,Nuggets,Baskonia,20-06-2021,105-86,Euroliga,-2.3,,3.86
+BAL-000265,Baloncesto,Bulls,Nuggets,20/07/2021,122-109,Copa del Rey,5.21,,6.64
+BAL-000350,Baloncesto,Barcelona,  Heat ,6 de marzo de 2024,107-88,NBA,6.72,,1.76
+BAL-000509,Baloncesto,Nuggets,Baskonia,2023-09-15,93-83,NBA,6.01,,4.22
+BAL-000651,Baloncesto,Celtics,new_york_knicks,29 de octubre de 2024,107-116,,6.12,,4.4
+BAL-000003,Baloncesto,Nuggets,Tenerife,2022/08/25,94-78,NBA,7.35,,1.29
+BAL-000113,Baloncesto,WARRIORS,Knicks,2021-09-22,120-127,NBA,2.24,,5.96
+BAL-000693,Baloncesto,Valencia Basket,TENERIFE,2023/07/13,83-92,Euroliga,"1,42",,4.47
+BAL-000659,Baloncesto,Barcelona,Valencia Basket,20/05/2023,110-79,NBA,5.62,,4.65
+BAL-000506,Baloncesto,Lakers,Joventut,2023-07-30,120-119,NBA,3.54,,4.32
+BAL-000529,Baloncesto,heat,Celtics,23/04/2023,92-126,Copa del Rey,"5,98",,2.97
+BAL-000515,Baloncesto,Bilbao Basket,Real Madrid,18-02-2023,96-84,Euroliga,2.03,,5.31
+BAL-000865,Baloncesto,Bulls,Nuggets,11-09-2024,100-85,NBA,6.78,,4.05
+BAL-000498,Baloncesto,Tenerife,Gran Canaria,01-09-2022,111-105,NBA,2.66,,"6,95"
+BAL-000731,Baloncesto,Valencia Basket,Gran Canaria,05-05-2024,102-96,Copa del Rey,1.55,,6.04
+BAL-000366,Baloncesto,Lakers,ZARAGOZA,28/10/2024,128-113,Copa del Rey,3.08,,3.67
+BAL-000486,Baloncesto,Bukcs,Mavericks,2024-06-04,123-98,NBA,3.28,,3.97
+BAL-000848,Baloncesto,Lakers,Warriors,08-04-2022,100-81,Euroliga,4.45,,6.02
+BAL-000518,Baloncesto,  Lakers ,BARCELONA,28/12/2022,93-102,Copa del Rey,3.22,,-1.7
+BAL-000234,Baloncesto,UNICAJA,Tenerife,27-08-2024,110-109,Euroliga,5.38,,2.23
+BAL-000789,Baloncesto,Bilbao Basket,Heat,2023-11-24,120-122,Copa del Rey,6.53,,5.25
+BAL-000794,Baloncesto,Warriors,Knicks,2023/08/18,114-118,Euroliga,5.8,,5.6
+BAL-000063,Baloncesto,Knicsk,Valencia Basket,2024-09-02,106-117,Liga ACB,5.02,,2.95
+BAL-000820,Baloncesto,Knicks,Celtics,22/02/2021,107-112,Euroliga,1.48,,6.41
+BAL-000836,Baloncesto,Lakers,Knicks,2022/12/02,96-115,Euroliga,2.25,,0.0
+BAL-000455,Baloncesto,GRAN CANARIA,Nuggets,12-08-2024,82-122,Euroliga,3.8,,4.66
+BAL-000830,Baloncesto,Mavericks,Bilbao Basket,17 de julio de 2022,91-90,Liga ACB,5.41,,"4,03"
+BAL-000323,Baloncesto,Joventut,Bilbao Basket,2024-12-13,113-125,Euroliga,7.48,,6.23
+BAL-000404,Baloncesto,Unicaja,Baskonia,06/04/2024,115-87,NBA,5.59,,6.69
+BAL-000235,Baloncesto,Zaragoza,Bilbao Basket,04-03-2024,,NBA,6.47,,2.43
+BAL-000403,Baloncesto,Celtics,phoenix_suns,02-06-2023,113-111,Copa del Rey,3.02,,1.86
+BAL-000219,Baloncesto,Tenerife,Heat,2023/08/21,105-100,NBA,4.39,,7.25
+BAL-000400,Baloncesto,Bilbao Basket,chicago_bulls,27-02-2024,112-126,NBA,7.28,,6.62
+BAL-000317,Baloncesto,Barcelona,Joventut,,86-121,NBA,2.06,,2.1
+BAL-000733,Baloncesto,Lakers,Unicaja,2022-05-02,80-116,Copa del Rey,1.54,,"2,75"
+BAL-000268,Baloncesto,valencia basket,Heat,2024-08-22,115-90,Copa del Rey,1.59,,4.83
+BAL-000845,Baloncesto,,Baskonia,2024/02/13,128-99,Euroliga,7.43,,2.35
+BAL-000262,Baloncesto,Unicaja,Bucks,09-09-2022,124-86,NBA,4.9,,4.2
+BAL-000164,Baloncesto,Knicks,  Gran  Canaria ,27-01-2023,115-81, Euroliga ,3.16,,0.0
+BAL-000419,Baloncesto,Joventut,Heat,2022-08-11,104-85,,1.61,,5.86
+BAL-000900,Baloncesto,Gran Canaria,CELTICS,9 de enero de 2023,92-84,Copa del Rey,5.63,,4.22
+BAL-000354,Baloncesto,Knicks,Lakers,6 de julio de 2021,114-119,Liga ACB,6.79,,6.79
+BAL-000497,Baloncesto,Joventut,Tenerife,18 de mayo de 2024,105-110,NBA,"5,01",,4.87
+BAL-000104,Baloncesto,Barcelona,Bulls,2023/07/09,123-125,Copa del Rey,4.58,,1.24
+BAL-000621,Baloncesto,Heat,Mavericks,14-01-2024,101-86,NBA,3.01,,7.21
+BAL-000610,Baloncesto,Joventut,Nuggets,2021-10-14,100-94,Copa del Rey,148.54,,2.17
+BAL-000047,Baloncesto,Knicks,Real Madrid,N/A,116-89,NBA,3.37,,1.82
+BAL-000408,Baloncesto,penya,Nuggets,2022-10-13,93-85,Liga ACB,6.06,,7.03
+BAL-000857,Baloncesto,Suns,Heat,2024/08/06,117-98, Liga ACB ,3.95,,5.67
+BAL-000011,Baloncesto,Real Madrid,Lakers,18/07/2024,106-82,Copa del Rey,6.09,,2.82
+BAL-000702,Baloncesto,Knicks,baskonia_vitoria,01/06/2021,91-93,Copa del Rey,5.76,,"3,71"
+BAL-000453,Baloncesto,Unicaja,VALENCIA BASKET,2024-06-05,79-123,Liga ACB,3.82,,5.98
+BAL-000215,Baloncesto,Zaragoza,gran canaria,11-11-2023,87-128,Euroliga,6.67,,5.85
+BAL-000817,Baloncesto,  Bucks ,VALENCIA BASKET,08-01-2023,109-96,Copa del Rey,4.7,,3.99
+BAL-000849,Baloncesto,Mavericks,REAL MADRID,2024-08-15,82-89,Liga ACB,5.02,,2.14
+BAL-000626,Baloncesto,Real Madrid,iberostar_tenerife,2021-01-17,94-96,NBA,4.73,,6.84
+BAL-000567,Baloncesto,Lakers,Nuggets,26 de marzo de 2023,87-113,Copa del Rey,6.6,,2.68
+BAL-000332,Baloncesto,ny_knicks,Gran Canaria,05/08/2021,110-101,NBA,"5,62",,6.21
+BAL-000374,Baloncesto,Barcelona,l_a_lakers,2021-11-23,95-103,Euroliga,"1,79",,3.67
+BAL-000389,Baloncesto,Baskonia,Suns,N/A,106-117,Euroliga,1.43,,6.06
+BAL-000671,Baloncesto,Heat,Real Madrid,13-01-2024,110-104,Liga ACB,4.71,,7.13
+BAL-000668,Baloncesto,Heat,Celtics,29 de febrero de 2024,121-87,Copa del Rey,-,,1.3
+BAL-000382,Baloncesto,Valencia Basket,  Mavericks ,2022/02/21,86-106,Copa del Rey,5.53,,"4,94"
+BAL-000030,Baloncesto,,Cetlics,2023-09-05,120-97,Copa del Rey,6.59,,6.15
+BAL-000780,Baloncesto,GRAN CANARIA,Bulls,24-06-2022,94-91,NBA,5.93,,5.08
+BAL-000753,Baloncesto,Bareclona,Celtics,23/09/2024,113-118,Euroliga,6.06,,4.8
+BAL-000115,Baloncesto,Heat,Barcelona,2023/04/07,109-120,Euroliga,1.44,,1.64
+BAL-000311,Baloncesto,Gran Canaria,Bilbao Basket,14 de enero de 2021,105-98,Copa del Rey,7.14,,2.24
+BAL-000706,Baloncesto,Celtics,Mavericks,2023/01/15,124-125,Euroliga,6.2,,3.17
+BAL-000503,Baloncesto,joventut_badalona,Gran Canaria,10-06-2024,95-81,Euroliga,4.08,,7.37
+BAL-000614,Baloncesto,Knicks,,2022/11/10,97-103,NBA,6.52,,3.73
+BAL-000596,Baloncesto,Gran Canaria,Lakers,2024-06-13,84-94,Liga ACB,5.46,,1.31
+BAL-000377,Baloncesto,Warriors,Lakers,2022-08-06,92-102,Copa del Rey,6.13,,3.34
+BAL-000300,Baloncesto,Bilbao Basket,Barcelona,11/05/2024,110-91,NBA,2.34,,"3,49"
+BAL-000713,Baloncesto,Tenerfie,Heat,18 de junio de 2023,113-94,Liga ACB,6.76,,5.06
+BAL-000109,Baloncesto,Bulls,Bareclona,28/06/2024,88-106,Copa del Rey,7.2,,5.9
+BAL-000507,Baloncesto,Gran Canaira,Barcelona,02-07-2024,79-84,Euroliga,2.41,,"5,32"
+BAL-000834,Baloncesto,Unicaja,REAL MADRID,26 de junio de 2023,92-127,Copa del Rey,5.85,,5.0
+BAL-000379,Baloncesto,Bulls,Bilbao Basket,2022/08/31,106-96,Liga ACB,112.74,,"1,61"
+BAL-000043,Baloncesto,  Bucks ,Barcelona,27 de marzo de 2023,80-81,NBA,237.91,,5.0
+BAL-000106,Baloncesto,Bulls,TENERIFE,4 de abril de 2021,118-105,Copa del Rey,7.0,,0.0
+BAL-000402,Baloncesto,Bucks,Lakers,05-10-2024,105-109,Euroliga,2.58,,1.29
+BAL-000209,Baloncesto,Celtics,Mavericks,2021/12/02,124-82,Euroliga,5.44,,6.75
+BAL-000346,Baloncesto,Laekrs,Bucks,28-05-2021,81-86,Copa del Rey,0.0,,1.87
+BAL-000543,Baloncesto,Bilbao Basket,Lakers,2024-07-19,80-93,Euroliga,"5,98",,5.19
+BAL-000513,Baloncesto,Nuggets,Lakers,2022/07/21,117-94,Copa del Rey,3.74,,3.51
+BAL-000701,Baloncesto,Baskonia,Suns,1 de mayo de 2023,96-95,NBA,2.51,,2.96
+BAL-000589,Baloncesto,Valencia Basket,Zaragoza,07/05/2023,92-101,Copa del Rey,2.01,,3.3
+BAL-000488,Baloncesto,Heat,phoenix_suns,15 de diciembre de 2022,81-102,Copa del Rey,5.24,,7.13
+BAL-000446,Baloncesto,Unicaja,Knicks,22 de octubre de 2024,118-97,NBA,6.33,,3.81
+BAL-000641,Baloncesto,Barcelona,Warriors,22 de octubre de 2024,,Euroliga,1.57,,1.22
+BAL-000395,Baloncesto,Barcelona,Celtics,19/09/2022,125-121,Euroliga,1.69,,6.66
+BAL-000772,Baloncesto,Lakers,Nuggest,29/04/2023,114-116,Liga ACB,2.51,,"5,69"
+BAL-000024,Baloncesto,chicago_bulls,Bilbao Basket,08-01-2024,84-112,Copa del Rey,"4,06",,3.87
+BAL-000632,Baloncesto,Real Madrid,Joventut,17/05/2022,125-96,Copa del Rey,1.41,,5.58
+BAL-000336,Baloncesto,JOVENTUT,Teenrife,05/03/2021,127-126,NBA,4.47,,3.62
+BAL-000833,Baloncesto,  Suns ,Baskonia,07/05/2021,127-119,Liga ACB,5.27,,5.11
+BAL-000022,Baloncesto,Gran Cnaaria,Baskonia,06-06-2022,120-118,Copa del Rey,5.44,,4.21
+BAL-000171,Baloncesto,Heat,Baskonia,30/10/2023,81-89,NBA,-,,1.64
+BAL-000749,Baloncesto,dreamland_gran_canaria,Heat,2021/01/29,92-89,NBA,5.87,,5.49
+BAL-000155,Baloncesto,baskonia_vitoria,valencia_basket,28/08/2024,110-97,Euroliga,4.14,,6.31
+BAL-000819,Baloncesto,Mavericks,Gran Canaria,2021-01-03,96-90,NBA,n/d,,2.06
+BAL-000117,Baloncesto,Zaragoza,Barcelona,15/02/2023,117-84,NBA,3.2,,3.67
+BAL-000134,Baloncesto,Unicaja,Knicks,21-11-2024,100-98,Euroliga,2.61,,1.28
+BAL-000472,Baloncesto,Real Madrid,Baskonia,N/A,81-99,Liga ACB,7.44,,4.22
+BAL-000765,Baloncesto,Bilbao Basket,Unicaja,17 de junio de 2023,96-106,Copa del Rey,4.66,,1.59
+BAL-000663,Baloncesto,Baskonia,Unicjaa,2021-04-14,86-97,Liga ACB,5.57,,6.12
+BAL-000611,Baloncesto,Gran Canaria,Bucks,04/12/2023,92-84,NBA,6.63,,2.38
+BAL-000034,Baloncesto,Unicaja,Real Madrid,02/10/2023,86-101,Liga ACB,3.65,,132.89
+BAL-000867,Baloncesto,Real Madrid,Knicks,12-01-2023,114-92,Copa del Rey,6.95,,"3,57"
+BAL-000046,Baloncesto,baskonia,bucks,07-11-2024,121-105,Copa del Rey,4.87,,1.34
+BAL-000492,Baloncesto,Mavericks,Baskonia,24/08/2023,108-91,Liga ACB,4.15,,4.91
+BAL-000090,Baloncesto,Bluls,Gran Canaria,2021-11-23,99-94,Copa del Rey,6.74,,5.85
+BAL-000734,Baloncesto,Celtics,Heat,2022/11/16,109-90,Copa del Rey,-2.87,,5.74
+BAL-000788,Baloncesto,Zaragoza,Tenerife,2023/07/15,85-88,NBA,6.46,,6.63
+BAL-000184,Baloncesto,HEAT,Mavericks,24-12-2021,99-113,Euroliga,6.17,,3.73
+BAL-000783,Baloncesto,Bucks,Gran Canraia,22/10/2022,,NBA,2.12,,3.96
+BAL-000792,Baloncesto,Baskonia,Valencia Basket,2024-12-24,94-119,Copa del Rey,2.29,,2.73
+BAL-000624,Baloncesto,Bulls,  Bilbao  Basket ,11-10-2024,119-84,Copa del Rey,1.41,,1.83
+BAL-000712,Baloncesto,Suns,Real Madrid,23 de abril de 2024,101-100,NBA,3.73,,4.41
+BAL-000009,Baloncesto,Knicks,Bulls,03-02-2023,128-102,NBA,3.42,,5.49
+BAL-000554,Baloncesto,Barcelona,Tenerife,07-03-2021,106-99,Euroliga,1.54,,4.85
+BAL-000279,Baloncesto,Warriors,Real Madrid,sin fecha,94-109,NBA,6.33,,4.92
+BAL-000391,Baloncesto,Zaragoza,Bulls,2024/01/18,79-126,Euroliga,6.98,,6.01
+BAL-000026,Baloncesto,casademont_zaragoza,Warriors,02-12-2021,115-85,Copa del Rey,4.99,,6.83
+BAL-000650,Baloncesto,ZARAGOZA,Nuggets,10 de septiembre de 2024,82-105,Euroliga,4.15,,3.26
+BAL-000521,Baloncesto,Mavericks,chicago_bulls,01/07/2022,98-118,Euroliga,4.07,,4.44
+BAL-000785,Baloncesto,Celtics,valencia_basket,2022-04-17,121-115,Euroliga,2.01,,-1.85
+BAL-000083,Baloncesto,Real Madrid,Joventut,20/06/2021,124-80,NBA,6.46,,6.42
+BAL-000081,Baloncesto,Lakers,Zaragoza,2022-07-07,104-82,Copa del Rey,2.51,,3.6
+BAL-000535,Baloncesto,mavs,WARRIORS,3 de enero de 2024,110-125,Euroliga,3.2,,3.56
+BAL-000182,Baloncesto,Unicaja,Zaragoza,13 de mayo de 2024,96-104,Copa del Rey,"7,31",,"2,08"
+BAL-000242,Baloncesto,Baskonia,Warriors,17 de febrero de 2023,117-105,Liga ACB,0.0,,6.61
+BAL-000102,Baloncesto,Baskonia,Valencia Basket,6 de septiembre de 2021,125-84,Copa del Rey,5.5,,3.17
+BAL-000585,Baloncesto,Joventut,tenerife,07-12-2021,123-105,Liga ACB,6.75,,"1,70"
+BAL-000828,Baloncesto,Baskonia,Lakers,25/04/2023,125-89,Liga ACB,4.5,,3.1
+BAL-000891,Baloncesto,Nuggets,Warriors,06/07/2022,92-127,Euroliga,3.98,,N/A
+BAL-000618,Baloncesto,Tenerife,Celtics,27 de noviembre de 2023,109-104,Liga ACB,3.84,,4.57
+BAL-000760,Baloncesto,Valencia Basket,Real Madrid,16/04/2023,95-124,NBA,"5,81",,211.33
+BAL-000449,Baloncesto,Warriors,MAVERICKS,2021/01/02,123-82,Liga ACB,6.55,,4.74
+BAL-000696,Baloncesto,Knicks,Barcelona,15 de agosto de 2022,122-111,Liga ACB,1.55,,5.92
+BAL-000814,Baloncesto,Mavericks,BUCKS,4 de agosto de 2021,109-99,Liga ACB,"5,24",,2.45
+BAL-000089,Baloncesto,Nuggets,Baskonia,24-06-2022,94-126,Copa del Rey,1.56,,4.92
+BAL-000793,Baloncesto,  Zaragoza ,BASKONIA,2021/03/18,105-95,Liga ACB,"4,66",,6.74
+BAL-000057,Baloncesto,Zaragoza,Baskonia,2021-11-12,105-121,Euroliga,3.93,,4.85
+BAL-000798,Baloncesto,Bucks,Bulls,5 de enero de 2022,100-107,Euroliga,4.83,,1.55
+BAL-000774,Baloncesto,Bukcs,Warriors,30/06/2021,79-100,Liga ACB,3.53,,1.26
+BAL-000253,Baloncesto,Knicks,Mavericks,22/03/2024,120-90,Euroliga,0.0,,1.24
+BAL-000504,Baloncesto,Zaragoza,Bulls,24-01-2024,94-102,Euroliga,6.23,,"2,71"
+BAL-000196,Baloncesto,Celtics,Bulls,,105-103,Liga ACB,3.44,,5.4
+BAL-000070,Baloncesto,Laekrs,Mavericks,2021-07-29,82-123,NBA,6.84,,4.1
+BAL-000094,Baloncesto,real_madird,Celtics,5 de septiembre de 2022,94-95,Liga ACB,5.82,,1.78
+BAL-000443,Baloncesto,Bilbao Basket,Suns,12 de enero de 2022,126-81,Copa del Rey,6.1,,6.82
+BAL-000251,Baloncesto,Zaragoza,Bucks,30 de mayo de 2022,124-84,Liga ACB,3.16,,-1.63
+BAL-000559,Baloncesto,Joventut,Lakers,26 de marzo de 2023,85-82,Copa del Rey,-2.32,,5.97
+BAL-000748,Baloncesto,Joventut,  Gran  Canaria ,2022/01/15,101-114,Liga ACB,3.38,,4.41
+BAL-000302,Baloncesto,Heat,Unicaja,25/12/2023,126-109,Liga ACB,5.59,,4.18
+BAL-000689,Baloncesto,Warriors,  Unicaja ,2022/10/20,114-125,Euroliga,1.43,,6.17
+BAL-000594,Baloncesto,Joventut,Bilbao Basket,29 de marzo de 2022,114-118,Liga ACB,0.0,,"5,72"
+BAL-000138,Baloncesto,Tenerife,mavericks,16-08-2022,83-110,NBA,1.35,,5.92
+BAL-000617,Baloncesto,Real Madrid,Lakers,2022-06-17,118-79,Liga ACB,3.43,,6.77
+BAL-000773,Baloncesto,Cetlics,Mavericks,2024/10/06,83-86,Liga ACB,1.66,,4.09
+BAL-000231,Baloncesto,Bucks,Knicks,7 de septiembre de 2024,106-103,Euroliga,108.36,,"2,81"
+BAL-000460,Baloncesto,Unicaja,Nuggets,2022/01/25,97-112,Copa del Rey,6.72,,6.9
+BAL-000718,Baloncesto,Real Madrid,Tenerife,21 de marzo de 2021,116-126,Copa del Rey,5.06,,248.07
+BAL-000273,Baloncesto,Unicaja,Celtics,2023-08-03,114-117,Liga ACB,3.64,,1.51
+BAL-000605,Baloncesto,Unicaja,Suns,18 de junio de 2022,96-109,NBA,2.11,,6.88
+BAL-000517,Baloncesto,Mavericks,Tenerife,12-10-2024,88-112,Euroliga,1.26,,1.35
+BAL-000435,Baloncesto,Suns,GRAN CANARIA,26/09/2023,119-86,NBA,n/d,,2.22
+BAL-000627,Baloncesto,Heat,Unicaja,01-10-2023,108-82,NBA,2.05,,3.99
+BAL-000852,Baloncesto,Nuggets,Suns,2022-12-30,111-86,NBA,1.49,,2.46
+BAL-000662,Baloncesto,Gran Canaria,Celtics,17 de marzo de 2024,78-86,NBA,"7,33",,3.37
+BAL-000230,Baloncesto,Zaragoza,Barcelona,24/09/2021,119-124,Copa del Rey,1.33,,3.73
+BAL-000821,Baloncesto,Gran Canaria,Joventut,2021/10/21,83-78,NBA,1.93,,2.77
+BAL-000060,Baloncesto,denver_nuggets,Joventut,2021-01-20,118-127,Euroliga,"3,24",,-
+BAL-000288,Baloncesto,Nuggets,casademont_zaragoza,2024-01-24,116-94,NBA,1.58,,3.39
+BAL-000181,Baloncesto,Tenerife,MAVERICKS,2021/08/24,123-103,Liga ACB,2.79,,n/d
+BAL-000683,Baloncesto,Nuggets,Bucks,06/01/2021,102-81,Liga ACB,6.43,,"4,64"
+BAL-000153,Baloncesto,,Real Madrid,2023-10-13,79-117,NBA,5.78,,5.35
+BAL-000303,Baloncesto,Bilbao Basket,  Nuggets ,2024-06-17,121-88,Liga ACB,3.86,,2.29
+BAL-000252,Baloncesto,Bulls,bilbao,21-10-2024,123-114,Copa del Rey,"3,57",,2.9
+BAL-000393,Baloncesto,Celtics,Baskonia,10 de septiembre de 2023,96-102,Copa del Rey,2.95,,3.78
+BAL-000458,Baloncesto,Teenrife,Barcelona,26-11-2022,114-86,Euroliga,187.01,,2.94
+BAL-000312,Baloncesto,Bucks,suns,15-11-2024,101-79,Liga ACB,1.28,,"5,67"
+BAL-000197,Baloncesto,Real Madrid,NUGGETS,2023-11-29,124-93,Liga ACB,1.44,,1.81
+BAL-000705,Baloncesto,Barcelona,Bulls,2023-11-06,108-86,Liga ACB,5.29,,5.41
+BAL-000456,Baloncesto,Valencia Basket,Baskonia,31 de enero de 2023,123-93,Copa del Rey,5.46,,4.2
+BAL-000665,Baloncesto,Suns,Celtics,02/10/2024,121-112,NBA,2.54,,"3,97"
+BAL-000198,Baloncesto,Baskonia,Heat,--/--/----,119-125,Euroliga,6.68,,5.78
+BAL-000502,Baloncesto,Joventut,  Valencia  Basket ,2024-08-22,82-81,Euroliga,4.99,,2.79
+BAL-000681,Baloncesto,Suns,Heat,5 de agosto de 2023,96-82,NBA,5.08,,-1.97
+BAL-000130,Baloncesto,Knicks,Unicaja,9 de enero de 2021,105-94,NBA,3.52,,-1.86
+BAL-000151,Baloncesto,miami_heat,Bucks,2022-05-08,78-95,Euroliga,-2.68,,6.4
+BAL-000887,Baloncesto,Bilbao Basket,Knicks,2024-02-05,86-94,Copa del Rey,173.91,,5.31
+BAL-000289,Baloncesto,REAL MADRID,Bulls,,116-126,Copa del Rey,2.6,,"2,81"
+BAL-000658,Baloncesto,Unicaja,Real Madrid,2022-11-08,121-87,Liga ACB,5.34,,5.09
+BAL-000562,Baloncesto,bilbao,  Suns ,4 de octubre de 2021,100-89,NBA,"3,99",,3.85
+BAL-000692,Baloncesto,joventut,unicaja_malaga,2021/07/12,105-114,Euroliga,3.22,,4.76
+BAL-000216,Baloncesto,Nuggets,Bulls,2024/09/11,114-128,NBA,1.26,,4.04
+BAL-000149,Baloncesto,Bulls,Ngugets,09/08/2021,102-122,Copa del Rey,2.67,,5.31
+BAL-000475,Baloncesto,Baskonia,Zaragoza,07-02-2023,79-122,Copa del Rey,2.24,,3.04
+BAL-000484,Baloncesto,casademont_zaragoza,Celitcs,03-03-2022,89-88,NBA,5.33,,6.83
+BAL-000600,Baloncesto,Suns,Zaragoza,15-09-2021,127-110,NBA,6.07,,1.78
+BAL-000179,Baloncesto,Bucks,Bulls,2021/03/21,109-112,Liga ACB,2.2,,2.62
+BAL-000711,Baloncesto,Mavericks,Celtics,26-02-2024,110-109, Euroliga ,1.43,,"3,56"
+BAL-000889,Baloncesto,Tenerife,Bilbao Basket,5 de enero de 2024,100-107,Liga ACB,5.04,,3.3
+BAL-000369,Baloncesto,Barcelona,Zaragoza,18-08-2022,110-123, Copa del Rey ,"5,46",,"5,73"
+BAL-000499,Baloncesto,Joventut,Suns,30/06/2024,98-115,Liga ACB,1.44,,5.77
+BAL-000018,Baloncesto,Gran Canaria,Knicks,22-03-2024,127-115,NBA,"4,08",,5.72
+BAL-000126,Baloncesto,Lakers,Joventut,2021/03/20,116-122,Copa del Rey,"6,57",,5.16
+BAL-000803,Baloncesto,Gran Canaria,Baskonia,19 de diciembre de 2023,108-91,Copa del Rey,5.97,,1.33
+BAL-000686,Baloncesto,Tenerife,  Joventut ,12 de marzo de 2023,115-91,NBA,5.71,,3.83
+BAL-000360,Baloncesto,Bsakonia,Bulls,2024-09-25,109-93,,1.42,,6.83
+BAL-000191,Baloncesto,Barcelona,Gran Canaria,2022/10/02,95-119,Euroliga,4.69,,4.73
+BAL-000042,Baloncesto,Unicaja,Valencia Basket,13/05/2024,121-97,Liga ACB,2.86,,2.29
+BAL-000698,Baloncesto,MAVERICKS,Bucks,15 de septiembre de 2021,99-84, Copa del Rey ,6.94,,129.73
+BAL-000272,Baloncesto,Unicaja,Valencia Basket,2022/08/07,121-90,Copa del Rey,1.85,,4.82
+BAL-000549,Baloncesto,Tenerife,lakers,10 de noviembre de 2023,121-114,Euroliga,3.34,,2.33
+BAL-000759,Baloncesto,Mavericks,Knicks,16-11-2021,96-127,NBA,3.25,,2.45
+BAL-000430,Baloncesto,Mavericks,Bilbao Basket,,90-122,Euroliga,-,,1.74
+BAL-000118,Baloncesto,Valencia Basket,Zaragoza,13/12/2022,87-114,Copa del Rey,3.76,,6.27
+BAL-000308,Baloncesto,bucks,Gran Caanria,--/--/----,101-78,Euroliga,-2.52,,2.56
+BAL-000775,Baloncesto,Tenerife,Zaragoza,01-02-2021,107-113,Copa del Rey,-2.85,,3.64
+BAL-000341,Baloncesto,Bilbao Basket,Warriors,16-11-2023,121-110,Liga ACB,1.55,,3.12
+BAL-000687,Baloncesto,Tenreife,Gran Canaria,2023-12-09,107-102,,3.13,,5.78
+BAL-000746,Baloncesto,Bucks,Tenerife,2 de julio de 2024,106-110,NBA,5.26,,4.87
+BAL-000670,Baloncesto,Tenerife,Gran Canaria,02-01-2023,102-100,Liga ACB,7.23,,3.47
+BAL-000061,Baloncesto,Unicaja,Gran Canaria,19 de julio de 2023,128-86,Euroliga,5.51,,1.7
+BAL-000150,Baloncesto,casademont_zaragoza,Joventut,2022-05-07,115-108,NBA,6.73,,6.12
+BAL-000527,Baloncesto,Gran Canaria,Suns,15 de octubre de 2021,120-89,Euroliga,"5,22",,3.52
+BAL-000318,Baloncesto,Valencia Basket,Unicaja,2021-10-05,101-79,Copa del Rey,1.6,,3.53
+BAL-000422,Baloncesto,Nuggets,Unicaja,15 de noviembre de 2023,90-82,Liga ACB,5.31,,6.1
+BAL-000285,Baloncesto,BARCELONA,Bilbao Basket,25-06-2021,104-118,Euroliga,2.69,,7.4
+BAL-000108,Baloncesto,Nuggets,Bilbao Bakset,2024/04/27,85-94,Euroliga,2.49,,7.19
+BAL-000388,Baloncesto,BILBAO BASKET,Barcelona,2021-03-06,97-82,NBA,4.3,,2.88
+BAL-000672,Baloncesto,LAKERS,Valencia Basket,04/09/2023,126-102,Euroliga,2.88,,7.3
+BAL-000244,Baloncesto,Tenerife,  Valencia  Basket ,5 de diciembre de 2023,97-120,Copa del Rey,5.05,,4.75
+BAL-000471,Baloncesto,heat,Joventut,2024-10-03,82-78, NBA ,5.52,,5.4
+BAL-000532,Baloncesto,Mavericks,Kincks,14-09-2021,99-118,Copa del Rey,5.71,,6.36
+BAL-000709,Baloncesto,Celtics,Baskonia,09-01-2021,82-85,Liga ACB,7.46,,5.06
+BAL-000640,Baloncesto,bilbao,Unicaja,6 de julio de 2022,102-119,NBA,3.67,,1.91
+BAL-000653,Baloncesto,Gran Canaria,Knicks,2024-01-03,110-95,Copa del Rey,3.32,,4.45
+BAL-000399,Baloncesto,Lakers,suns,19-04-2023,89-121,Liga ACB,6.67,,"4,61"
+BAL-000004,Baloncesto,Lakers,Nuggets,30/06/2024,123-104,Copa del Rey,2.81,,-1.42
+BAL-000020,Baloncesto,baskonia_vitoria,Real Madrdi,02/04/2024,126-112,Euroliga,2.81,,3.75
+BAL-000832,Baloncesto,Valencia Basket,Warriors,5 de abril de 2022,128-118,Copa del Rey,3.11,,2.81
+BAL-000688,Baloncesto,Joventut,NUGGETS,2022/10/14,90-83,Euroliga,6.17,,0.0
+BAL-000056,Baloncesto,Heat,Lakers,2021/05/02,90-92,,4.75,,6.91
+BAL-000873,Baloncesto,Zaragoza,LAKERS,2024-11-16,82-113,Euroliga,5.79,,"4,15"
+BAL-000136,Baloncesto,Real Madrid,Knikcs,07/02/2024,94-107,Copa del Rey,1.71,,0.0
+BAL-000416,Baloncesto,KNICKS,Mavericks,2022/05/28,89-93,Euroliga,"3,89",,2.71
+BAL-000838,Baloncesto,Bulls,Valencia Basket,2024-05-31,109-103,Copa del Rey,5.83,,6.37
+BAL-000429,Baloncesto,Celtics,Joventut,2022-02-17,107-91,NBA,6.01,,3.93
+BAL-000256,Baloncesto,Barcelona,Warriors,03/07/2021,119-85,Copa del Rey,6.18,,7.11
+BAL-000694,Baloncesto,Bulls,Tenerife,2022/09/21,123-122,NBA,2.72,,4.86
+BAL-000776,Baloncesto,Unicaja,BARCELONA,2022-04-12,119-85,Liga ACB,"2,88",,2.87
+BAL-000608,Baloncesto,Baskonia,Tenerief,22-05-2024,93-124,Euroliga,3.1,,4.24
+BAL-000721,Baloncesto,Baskonia,SUNS,30/05/2023,122-82,Copa del Rey,-1.88,,-
+BAL-000387,Baloncesto,Warriors,Bucks,18 de enero de 2022,,NBA,1.79,,3.85
+BAL-000470,Baloncesto,Barcelona,  Unicaja ,14 de febrero de 2023,102-101,Euroliga,3.21,,3.1
+BAL-000856,Baloncesto,Knicks ,mavericks,2021/07/10,1-1,Copa del Rey,1.95,,3.44
+BAL-000682,Baloncesto,Warriors,iberostar_tenerife,28 de noviembre de 2024,78-84,Copa del Rey,N/A,,3.58
+BAL-000875,Baloncesto,Warriors,Barcelona,2024-08-21,127-122,Liga ACB,4.46,,2.91
+BAL-000869,Baloncesto,Suns,Nuggets,2024/03/18,115-118,Euroliga,7.3,,5.96
+BAL-000609,Baloncesto,Bilbao Basket,real_madrid_baloncesto,2024/04/21,84-104,NBA,5.43,,-1.16
+BAL-000725,Baloncesto,Lakers,Heat,26 de octubre de 2021,118-96,Liga ACB,7.06,,3.08
+BAL-000675,Baloncesto,Nuggets,Unicaja,25 de julio de 2024,117-110,Liga ACB,n/d,,4.89
+BAL-000762,Baloncesto,Warriors,Barcelona,2021-03-30,87-123,NBA,2.88,,6.21
+BAL-000173,Baloncesto,Nuggets,  Suns ,18/01/2021,118-79,Euroliga,4.55,,5.77
+BAL-000578,Baloncesto,Celtics,Joventut,26/06/2022,78-96,Euroliga,3.19,,"2,55"
+BAL-000784,Baloncesto,Joventut,Nuggets,2021/02/10,98-124,Copa del Rey,5.91,,3.09
+BAL-000195,Baloncesto,Warriors,Nuggets,21-06-2021,116-128,NBA,1.43,,6.91
+BAL-000795,Baloncesto,Mavericks,Bucks,2024/06/18,79-125,Euroliga,3.88,,4.17
+BAL-000644,Baloncesto,Bilbao Basket,knicks,2024/07/28,123-102,Copa del Rey,"2,46",,4.87
+BAL-000250,Baloncesto,Bucks,Joventut,2022-10-28,109-86, Copa del Rey ,6.61,,"1,37"
+BAL-000739,Baloncesto,Knicks,Tenerife,08/02/2022,92-90,Liga ACB,4.49,,"6,15"
+BAL-000816,Baloncesto,Celtics,Joventut,09-04-2024,93-113,NBA,3.68,,6.92
+BAL-000271,Baloncesto,real_madrid_cf,Bilbao Basket,2024-03-21,81-95,Copa del Rey,"1,95",,4.1
+BAL-000367,Baloncesto,dreamland_gran_canaria,Barcelona,2022-05-09,80-83,NBA,5.69,,3.91
+BAL-000370,Baloncesto,denver_nuggets,Knicks,09-05-2024,81-84,NBA,n/d,,6.01
+BAL-000017,Baloncesto,Suns,Unicaja,26 de octubre de 2024,118-86,Liga ACB,"2,91",,"5,90"
+BAL-000398,Baloncesto,Mavericks,  Suns ,15 de noviembre de 2022,111-121,Euroliga,6.61,,3.23
+BAL-000742,Baloncesto,Mavericks,Nuggets,15 de enero de 2022,82-88,Euroliga,3.16,,7.02
+BAL-000255,Baloncesto,tenerife,Real Madrid,2021/08/13,78-119,Euroliga,4.0,,3.22
+BAL-000719,Baloncesto,  Real  Madrid ,Joventut,2024/12/28,103-115,Euroliga,4.33,,6.17
+BAL-000434,Baloncesto,Gran Canaria,Bucks,16-07-2021,113-122,Euroliga,7.34,,4.7
+BAL-000542,Baloncesto,Bilbao Basket,Barcelona,2022/12/02,81-108,Euroliga,N/A,,2.73
+BAL-000208,Baloncesto,Real Madrid,Barcelona,11 de octubre de 2022,116-118,Euroliga,6.87,,n/d
+BAL-000771,Baloncesto,Knicks,Bucks,13-03-2024,122-82,Euroliga,5.81,,6.28
+BAL-000260,Baloncesto,Warriors,Lakers,15 de febrero de 2023,89-103,Liga ACB,5.32,,3.36
+BAL-000730,Baloncesto,Baskonia,Bulls,,118-109,Liga ACB,7.48,,2.36
+BAL-000275,Baloncesto,Lakers,Tenerife,29 de diciembre de 2024,120-126,Copa del Rey,4.29,,4.46
+BAL-000073,Baloncesto,Lakers,Wrariors,2024-09-17,,NBA,"3,53",,6.89
+BAL-000229,Baloncesto,Unicaja,Zaragoza,2023/06/29,81-109,NBA,1.57,,6.59
+BAL-000016,Baloncesto,Mavericks,Nuggets,18 de mayo de 2021,83-120,NBA,4.62,,2.37
+BAL-000716,Baloncesto,,Lakesr,23/07/2023,114-121,Liga ACB,3.02,,"3,12"
+BAL-000226,Baloncesto,  Real  Madrid ,Lakers,10-09-2021,125-108,Euroliga,"2,52",,5.55
+BAL-000351,Baloncesto,lakers,Bilbao Basket,23-05-2021,100-92,Copa del Rey,1.81,,1.47
+BAL-000576,Baloncesto,LAKERS,Bilbao Basket,05/07/2024,126-117,Euroliga,5.71,,0.0
+BAL-000199,Baloncesto,Lakers,Real Madrid,01/02/2024,89-123,Copa del Rey,2.02,,5.39
+BAL-000474,Baloncesto,Bulls,Valencia Basket,2021-06-12,121-82,Copa del Rey,5.36,,2.42
+BAL-000427,Baloncesto,Teneirfe,Celtics,04/04/2023,126-120,Euroliga,2.02,,2.99
+BAL-000799,Baloncesto,Valencia Basket,Baskonia,2021-06-18,83-123, Copa del Rey ,3.64,,2.23
+BAL-000246,Baloncesto,valencia_bc,Bucks,18 de marzo de 2022,84-117,Copa del Rey,5.61,,0.0
+BAL-000587,Baloncesto,Unicaja,Gran Canraia,9 de diciembre de 2024,86-83,Copa del Rey,1.83,,4.0
+BAL-000628,Baloncesto,Real Madrid,Baskonia,17-05-2024,119-110,NBA,7.47,,2.43
+BAL-000531,Baloncesto,Tenerife,Bulls,2022-03-11,97-121,Liga ACB,2.52,,3.3
+BAL-000012,Baloncesto,Mavericks,Gran Canaria,22-01-2022,108-127,NBA,7.32,,5.37
+BAL-000810,Baloncesto,Knicks,Bilbao Basket,29-08-2021,117-80,NBA,3.97,,1.78
+BAL-000892,Baloncesto,  Nuggets ,Gran Canaria,2022-10-07,126-84,Euroliga,7.27,,3.38
+BAL-000736,Baloncesto,ny_knicks,bilbao basket,2024-01-22,87-96,Copa del Rey,3.22,,4.97
+BAL-000501,Baloncesto,Unicaja,Celtics,2021-11-05,106-86,Copa del Rey,3.48,,2.92
+BAL-000127,Baloncesto,Mavericks,Bilbao Basket,11 de enero de 2021,121-93,Liga ACB,4.16,,5.13
+BAL-000167,Baloncesto,Zaragoza,Unicaja,24/12/2023,78-91,Euroliga,1.98,,4.71
+BAL-000811,Baloncesto,Nuggets,Joventut,30 de enero de 2021,91-104,Euroliga,4.31,,2.86
+BAL-000646,Baloncesto,  Barcelona ,Zaragoza,2021-11-01,111-110,Euroliga,3.4,,"6,52"
+BAL-000048,Baloncesto,Barcelona,Valencia Basket,2023/11/10,117-108,Euroliga,4.54,,4.23
+BAL-000643,Baloncesto,Heat,joventut_badalona,02-05-2022,104-91,Liga ACB,3.29,,6.04
+BAL-000420,Baloncesto,Basoknia,KNICKS,2023/09/14,,Euroliga,2.49,,4.11
+BAL-000120,Baloncesto,Bucks,Heat,2022-07-20,81-117,Liga ACB,2.13,,3.26
+BAL-000868,Baloncesto,Knciks,  Unicaja ,2022-06-14,101-126,NBA,2.79,,5.45
+BAL-000764,Baloncesto,Warriors,KNICKS,03/04/2023,88-101,Liga ACB,2.23,,6.62
+BAL-000615,Baloncesto,Valencia Basket,bilbao,2 de agosto de 2021,89-82,Euroliga,4.2,,1.65
+BAL-000378,Baloncesto,Baskonia,Nuggets,2024-12-26,83-94,Copa del Rey,3.04,,2.1
+BAL-000218,Baloncesto,Bilbao Basket,casademont_zaragoza,2021-09-06,93-82,Euroliga,3.59,,2.84
+BAL-000264,Baloncesto,Suns,Celtics,N/A,117-128,Euroliga,3.07,,"6,70"
+BAL-000110,Baloncesto,penya,SUNS,29 de julio de 2022,90-105,NBA,7.21,,4.12
+BAL-000409,Baloncesto,Valencia Basket,Gran Canaria,2024/07/03,105-116,Euroliga,"3,18",,-2.15
+BAL-000537,Baloncesto,Barcelona,Warriors,sin fecha,86-81,Copa del Rey,3.73,,-2.95
+BAL-000083,Baloncesto,Real Madrid ,Joventut,20/06/2021,1-1,NBA,1.95,,6.42
+BAL-000884,Baloncesto,Warriors,Bilbao Basket,04-09-2021,122-85,Copa del Rey,3.71,,3.82
+BAL-000343,Baloncesto,baskonia,Tenerife,06-09-2021,123-128,NBA,n/d,,0.0
+BAL-000100,Baloncesto,Baskonia,  Joventut ,1 de enero de 2024,83-106,NBA,5.32,,"1,48"
+BAL-000035,Baloncesto,mavs,Joventut,2 de octubre de 2024,95-100,Copa del Rey,3.32,,3.32
+BAL-000078,Baloncesto,Bucks,Unicaja,2024/07/21,91-93,NBA,6.45,,4.23
+BAL-000591,Baloncesto,Tenerief,  Valencia  Basket ,26 de julio de 2021,95-104,Liga ACB,7.45,,6.44
+BAL-000162,Baloncesto,Bucks,Baskonia,2023-11-02,107-111,NBA,7.09,,5.52
+BAL-000612,Baloncesto,Heat,Joventut,15/01/2021,107-103,Liga ACB,7.39,,2.6
+BAL-000883,Baloncesto,phoenix_suns,Tenerife,1 de diciembre de 2024,124-109,Euroliga,2.44,,3.04
+BAL-000897,Baloncesto,Lakers,Suns,25 de diciembre de 2021,101-93,NBA,210.78,,6.99
+BAL-000860,Baloncesto,Bucks,Celtics,2023/03/12,126-102,NBA,1.63,,6.68
+BAL-000786,Baloncesto,Valencia Basket,Celtics,2024/09/03,, Euroliga ,1.29,,7.06
+BAL-000397,Baloncesto,  Tenerife ,Valencia Basket,2022/11/17,85-78,NBA,2.11,,-
+BAL-000895,Baloncesto,Bulls,milwaukee_bucks,2022-09-02,84-128,Liga ACB,6.54,,"6,88"
+BAL-000606,Baloncesto,Valencia Basket,Unicaja,18/08/2022,102-87,Euroliga,1.79,,4.58
+BAL-000200,Baloncesto,Bucks,Celtics,24-04-2023,109-127,Copa del Rey,"7,24",,2.19
+BAL-000438,Baloncesto,Warriors,Valencia Basket,29/05/2021,81-119,Copa del Rey,-2.64,,4.37
+BAL-000495,Baloncesto,Nuggets,Bucks,2024/04/19,113-125,Copa del Rey,"4,53",,3.58
+BAL-000790,Baloncesto,Nuggets,Warriors,29-06-2024,99-123,Euroliga,4.92,,6.89
+BAL-000479,Baloncesto,barca,Bucks,2022/09/28,93-111,Copa del Rey,4.64,,6.32
+BAL-000558,Baloncesto,Mavericks,Lakers,18 de septiembre de 2023,121-108,NBA,2.68,,1.84
+BAL-000708,Baloncesto,nuggets,Gran Canaria,2023/01/08,87-88,Euroliga,2.82,,6.82
+BAL-000204,Baloncesto,MAVERICKS,Suns,28 de abril de 2023,97-114,Liga ACB,5.27,,6.01
+BAL-000381,Baloncesto,Zaragoza,Lakers,05-02-2022,105-124,Liga ACB,4.87,,3.12
+BAL-000723,Baloncesto,Nuggets,Heat,,81-87,Euroliga,4.65,,1.89
+BAL-000506,Baloncesto,Lakers,Joventut,2023-07-30,120-119,NBA,3.54,,4.32
+BAL-000525,Baloncesto,Baskonia,Zaragoza,25-12-2021,83-104,Liga ACB,6.67,,5.72
+BAL-000667,Baloncesto,dallas_mavericks,Unicaja,30-01-2021,97-118,Liga ACB,6.05,,"1,71"
+BAL-000356,Baloncesto,baskonia_vitoria,celtics,16/03/2021,107-109,Liga ACB,2.1,,4.29
+BAL-000306,Baloncesto,Baskonia,Mavericks,2021-07-30,127-84,Euroliga,N/A,,3.54
+BAL-000188,Baloncesto,Joventut,Tenerife,04-01-2024,91-93,Copa del Rey,5.08,,141.39
+BAL-000155,Baloncesto,baskonia_vitoria ,valencia_basket,28/08/2024,1-1,Euroliga,1.95,,6.31
+BAL-000462,Baloncesto,Gran Canaria,boston_celtics,2021/12/21,87-85,Liga ACB,7.41,,6.32
+BAL-000841,Baloncesto,Joventut,miami_heat,29-05-2022,126-114,NBA,n/d,,204.67
+BAL-000431,Baloncesto,heat,Blibao Basket,2022-09-18,,Liga ACB,"4,48",,7.47
+BAL-000613,Baloncesto,Bulls,Unicaja,22/05/2023,125-94,Liga ACB,2.85,,7.42
+BAL-000864,Baloncesto,Gran Canaria,Zaragoza,02/09/2022,102-99,Copa del Rey,2.84,,2.04
+BAL-000642,Baloncesto,Unicaja,miami_heat,2024/05/02,117-120,Liga ACB,"2,25",,6.38
+BAL-000482,Baloncesto,Laekrs,BUCKS,17/06/2022,104-92,Liga ACB,7.11,,"4,52"
+BAL-000344,Baloncesto,Warriors,Tenerife,2021-07-07,125-108,Euroliga,2.96,,-2.79
+BAL-000394,Baloncesto,Mavericks,Unicaja,08/04/2021,113-100,Liga ACB,3.61,,3.28
+BAL-000056,Baloncesto,Heat,Lakers,2021/05/02,90-92,,4.75,,6.91
+BAL-000232,Baloncesto,Heat,Valencia Basket,2023/10/13,99-106,NBA,2.16,,7.23
+BAL-000452,Baloncesto,Joventut,Zaragoza,2021/09/24,105-122,Copa del Rey,1.64,,"7,04"
+BAL-000053,Baloncesto,Zaragoza,Bulls,2022/09/08,85-119, Copa del Rey ,"5,57",,4.81
+BAL-000282,Baloncesto,LAKERS,Joventut,11-04-2023,88-112,Liga ACB,2.35,,3.05
+BAL-000812,Baloncesto,Heat,Warriors,2024-11-25,107-106,NBA,2.96,,6.45
+BAL-000781,Baloncesto,Celtics,Baskonia,2021-01-22,84-119,Liga ACB,6.6,,7.27
+BAL-000616,Baloncesto,  Barcelona ,Heat,2023-07-20,,NBA,3.07,,2.84
+BAL-000217,Baloncesto,lakers,Celtics,2021/12/22,116-114,Euroliga,3.99,,3.04
+BAL-000098,Baloncesto,Tenerife,Mavericks,2021/05/09,117-106,Copa del Rey,1.47,,2.1
+BAL-000505,Baloncesto,JOVENTUT,Lakers,2024-06-01,92-98,NBA,3.81,,7.18
+BAL-000758,Baloncesto,Celtics,Real Madrid,15/02/2022,114-103,Copa del Rey,3.1,,1.42
+BAL-000647,Baloncesto,Mavericks,  Baskonia ,19 de julio de 2021,119-91,Copa del Rey,5.28,,6.34
+BAL-000777,Baloncesto,Warriors,Real Madrid,2021/09/27,103-79,Copa del Rey,4.77,,1.96
+BAL-000423,Baloncesto,Bilbao Basket,Knicks,08/02/2021,104-103,NBA,2.66,,5.21
+BAL-000541,Baloncesto,Real Madrid,Mavericks,08/03/2022,121-79,NBA,1.59,,7.44
+BAL-000437,Baloncesto,Tenerife,Joventut,2023-03-26,93-80,Copa del Rey,7.07,,1.76
+BAL-000037,Baloncesto,Real Madrid,Lakers,5 de noviembre de 2024,114-99,Copa del Rey,7.2,,"6,12"
+BAL-000842,Baloncesto,Nuggets,Zaragoza,22-03-2024,118-99,Copa del Rey,1.31,,2.67
+BAL-000685,Baloncesto,Gran Canaria,Mavericks,2023/09/10,116-91,Copa del Rey,7.31,,3.13
+BAL-000247,Baloncesto,Baskonia,Bucks,2024-11-01,88-124,Euroliga,4.7,,5.19
+BAL-000797,Baloncesto,Mavericks,Celtics,2021/06/20,110-117,Euroliga,"6,19",,5.19
+BAL-000174,Baloncesto,UNICAJA,Tenerife,2022/05/09,,Copa del Rey,6.09,,"5,65"
+BAL-000704,Baloncesto,,,2024-10-20,101-124,Euroliga,5.75,,1.76
+BAL-000248,Baloncesto,Gran Canaria,nuggets,21 de marzo de 2023,121-128,Copa del Rey,3.62,,2.38
+BAL-000203,Baloncesto,Barcelona,Celitcs,28 de julio de 2023,79-104,Copa del Rey,2.9,,2.13
+BAL-000796,Baloncesto,Baskonia,Unicaja,12 de noviembre de 2023,107-110,Euroliga,1.62,,4.31
+BAL-000160,Baloncesto,nuggets,  Unicaja ,2021-07-23,109-81,Copa del Rey,5.17,,4.14
+BAL-000233,Baloncesto,Mavericks,Gran Canaria,5 de agosto de 2024,80-108,Euroliga,4.43,,7.49
+BAL-000075,Baloncesto,Warriors,Suns,15-05-2021,108-81,Copa del Rey,"5,57",,5.76
+BAL-000823,Baloncesto,Zaragoza,Lakers,01/01/2024,114-107,Liga ACB,3.39,,5.64
+BAL-000442,Baloncesto,Tenerife,Zaragoza,2024-05-17,120-93,Liga ACB,4.0,,-
+BAL-000876,Baloncesto,Suns,Lakers,2022-05-07,86-115,Liga ACB,"5,11",,5.37
+BAL-000269,Baloncesto,Bulls,Barcelona,2023/06/04,81-108,Copa del Rey,1.9,,6.51
+BAL-000050,Baloncesto,Nuggets,  Bilbao  Basket ,06/09/2022,79-87,Euroliga,2.51,,6.06
+BAL-000276,Baloncesto,Unicaja,Bilbao Basket,2022-03-20,112-110,Copa del Rey,6.91,,2.16
+BAL-000032,Baloncesto,Heat,barca_basket,2022/08/01,125-79,Liga ACB,5.59,,3.47
+BAL-000637,Baloncesto,Lakers,Real Madrid,25/03/2023,90-107,Copa del Rey,4.59,,4.64
+BAL-000241,Baloncesto,Bilbao Basket,Suns,2023-10-11,82-128,Liga ACB,5.39,,5.24
+BAL-000192,Baloncesto,Gran Canaria,Warriors,2023-04-21,123-97,Euroliga,"6,44",,4.85
+BAL-000741,Baloncesto,la_lakers,Bilbao Basket,28-03-2021,123-96,NBA,6.99,,"6,35"
+BAL-000202,Baloncesto,Warriors,BULLS,2 de enero de 2021,109-83,Euroliga,2.54,,6.95
+BAL-000490,Baloncesto,  Nuggets ,Bulls,17 de febrero de 2023,93-103,Copa del Rey,4.26,,4.24
+BAL-000295,Baloncesto,,Heat,2023/09/10,95-121,Copa del Rey,1.27,,-2.87
+BAL-000539,Baloncesto,Unicaja,Heat,2022-10-09,99-93,Liga ACB,6.18,,2.66
+BAL-000074,Baloncesto,Lakers,Bulls,27-06-2023,,Euroliga,"4,42",,3.53
+BAL-000604,Baloncesto,Valencia Basket,SUNS,2023/12/06,98-105,Copa del Rey,0.0,,"5,56"
+BAL-000528,Baloncesto,Mavericks,Valecnia Basket,30/05/2023,101-122,NBA,n/d,,"3,48"
+BAL-000313,Baloncesto,Real Mdarid,Tenerife,23/08/2022,80-97,NBA,6.13,,-1.69
+BAL-000631,Baloncesto,Knicks,Bilbao Basket,2021/07/18,118-80,Copa del Rey,6.63,,2.85
+BAL-000054,Baloncesto,Mavericks,Celtics,08/02/2024,93-82,Copa del Rey,7.44,,4.62
+BAL-000099,Baloncesto,Bilbao Basket,  Tenerife ,12 de enero de 2021,85-96,Copa del Rey,2.14,,6.91
+BAL-000898,Baloncesto,Celtics,bulls,13 de julio de 2023,88-99,Liga ACB,7.17,,5.6
+BAL-000084,Baloncesto,joventut,Lakers,2021-06-19,128-80,Liga ACB,7.23,,3.34
+BAL-000524,Baloncesto,Zaragoza,Nuggets,19 de octubre de 2022,87-79,Copa del Rey,"1,79",,2.89
+BAL-000457,Baloncesto,Warriors,Tenerife,2023/09/14,95-100,Copa del Rey,2.59,,4.24
+BAL-000623,Baloncesto,Gran Canaria,Valencia Basket,21-06-2022,,NBA,3.16,,1.87
+BAL-000298,Baloncesto,Unicaja,fc_barcelona,08/11/2021,115-113,Liga ACB,5.04,,2.32
+BAL-000856,Baloncesto,Knicks,mavericks,2021/07/10,108-95,Copa del Rey,1.73,,3.44
+BAL-000680,Baloncesto,  Real  Madrid ,Bilbao Basket,--/--/----,95-88,Euroliga,2.32,,4.5
+BAL-000267,Baloncesto,NUGGETS,Knicks,2023/12/18,112-116,NBA,1.2,,4.29
+BAL-000310,Baloncesto,dallas_mavericks,Suns,2024/03/11,94-122,Liga ACB,2.11,,5.85
+BAL-000536,Baloncesto,Mavericks,Celtics,6 de julio de 2022,126-100,Copa del Rey,5.43,,N/A
+BAL-000135,Baloncesto,penya,Barcelona,28-08-2021,82-98,Euroliga,6.51,,6.86
+BAL-000112,Baloncesto,Ngugets,Unicaja,2023/12/29,118-127,NBA,3.66,,0.0
+BAL-000177,Baloncesto,Suns,unicaja,2021/09/02,90-123,Copa del Rey,1.69,,6.36
+BAL-000361,Baloncesto,Real Madrid,Bulls,22/03/2023,91-92,Copa del Rey,5.34,,1.38
+BAL-000144,Baloncesto,Bucks,Valencia Basket,10-09-2021,80-106,Euroliga,1.71,,0.0
+BAL-000720,Baloncesto,KNICKS,Bucks,07-02-2021,88-96,NBA,2.34,,2.79
+BAL-000257,Baloncesto,Unicaja,Heat,23 de julio de 2022,79-108,Liga ACB,3.44,,1.86
+BAL-000577,Baloncesto,Gran Canaria,Tenreife,29 de noviembre de 2021,96-112,Euroliga,5.71,,3.73
+BAL-000893,Baloncesto,Knikcs,Warriors,30 de junio de 2023,113-85,NBA,6.41,,0.0
+BAL-000280,Baloncesto,  Bulls ,Bucks,09/09/2024,126-91,NBA,3.62,,6.6
+BAL-000735,Baloncesto,Gran Canaria,Knicks,2022-02-10,104-82,Copa del Rey,4.29,,7.07
+BAL-000238,Baloncesto,heat,Lakers,2022/10/09,84-104,Liga ACB,6.26,,-2.56
+BAL-000401,Baloncesto,Barcelona,Knicks,29 de marzo de 2021,111-91,Liga ACB,"6,30",,6.06
+BAL-000676,Baloncesto,Nuggets,UNICAJA,30-09-2022,78-96,Liga ACB,6.36,,5.54
+BAL-000417,Baloncesto,Unicaja,Suns,13-12-2023,112-80,Liga ACB,1.62,,"7,31"
+BAL-000878,Baloncesto,Nuggets,Valencia Basket,09/07/2024,110-111,NBA,3.63,,5.76
+BAL-000714,Baloncesto,Tenerife,Baskonia,2023/01/07,115-113,Copa del Rey,1.47,,6.71
+BAL-000378,Baloncesto,Baskonia ,Nuggets,2024-12-26,1-1,Copa del Rey,1.95,,2.1
+BAL-000581,Baloncesto,milwaukee_bucks,VALENCIA BASKET,2022/03/08,96-128,Euroliga,5.68,,7.18
+BAL-000890,Baloncesto,KNICKS,Bucks,2021-02-23,98-87,Euroliga,0.0,,1.55
+BAL-000293,Baloncesto,Baskonia,BULLS,01-06-2024,84-108,Liga ACB,5.98,,5.51
+BAL-000049,Baloncesto,BUCKS,CELTICS,07-02-2022,108-120,Euroliga,"1,49",,4.5
+BAL-000372,Baloncesto,Baskonia,Lakers,2021-03-08,116-85,Copa del Rey,6.57,,6.02
+BAL-000494,Baloncesto,Real Madrid,Maveircks,2024/07/03,120-79,Liga ACB,7.01,,4.59
+BAL-000131,Baloncesto,Real Madrid,Celtics,03-10-2023,85-117,Liga ACB,4.64,,7.19
+BAL-000433,Baloncesto,Bilbao Baskte,Bulsl,07-06-2022,119-83,Euroliga,3.73,,4.29
+BAL-000835,Baloncesto,Bucks,Bulls,26 de diciembre de 2024,111-123,NBA,2.57,,2.81
+BAL-000058,Baloncesto,Bilbao Basket,Nuggets,2023/01/02,90-113,Liga ACB,5.46,,5.74
+BAL-000508,Baloncesto,Zaragoza,Knicks,07/06/2024,98-103,Copa del Rey,7.3,,4.05
+BAL-000500,Baloncesto,Zaragoza,Celtics,2022/07/26,121-96,Euroliga,6.18,,2.84
+BAL-000013,Baloncesto,Celtics,Suns,29-07-2023,127-88,Copa del Rey,5.61,,1.97
+BAL-000767,Baloncesto,Unicaja,Lakers,2021/05/22,107-111,NBA,1.7,,1.45
+BAL-000142,Baloncesto,Unicaja,Suns,7 de marzo de 2024,110-107,Euroliga,6.48,,2.48
+BAL-000782,Baloncesto,Gran Canaria,Knicks,15 de marzo de 2021,98-100,Copa del Rey,"2,56",,6.55
+BAL-000779,Baloncesto,Bulls,Zaragoza,,99-85,Euroliga,1.94,,6.92
+BAL-000283,Baloncesto,Zaragoza,  Bulls ,2022-10-30,119-93,NBA,4.03,,"3,85"
+BAL-000041,Baloncesto,Lakers,Suns,2024-07-26,104-105,Euroliga,6.31,,"4,60"
+BAL-000180,Baloncesto,zaragoza,gran canaria,29/01/2021,104-105,Copa del Rey,2.05,,4.53
+BAL-000863,Baloncesto,real_madird,Valencia Basket,15 de febrero de 2024,86-106,Copa del Rey,4.48,,5.14
+BAL-000166,Baloncesto,Unicaja,Heat,02/06/2024,88-118,Copa del Rey,3.0,,0.0
+BAL-000352,Baloncesto,Zaragoza,Knicks,2024/07/29,126-98,Euroliga,1.61,,3.7
+BAL-000564,Baloncesto,Lakers,golden_state_warriors,30-03-2022,125-102,Euroliga,1.7,,6.65
+BAL-000254,Baloncesto,Gran Canaria,Unicaja,14 de abril de 2022,120-82,Copa del Rey,6.52,,4.04
+BAL-000761,Baloncesto,Nuggets,Suns,02-03-2022,97-81,Copa del Rey,5.58,,6.91
+BAL-000831,Baloncesto,Bucks,Warriors,2024-02-14,112-80,Copa del Rey,2.31,,"4,61"
+BAL-000652,Baloncesto,Mavericks,Real Madrid,15 de junio de 2024,94-112,NBA,1.71,,1.65
+BAL-000570,Baloncesto,dreamland_gran_canaria,Unicaja,2022-06-08,111-112,NBA,6.78,,2.24
+BAL-000483,Baloncesto,Bulls,Heat,09-05-2022,125-102,Copa del Rey,"1,96",,4.75
+BAL-000064,Baloncesto,Tenerife,Suns,2023/08/03,122-107,Copa del Rey,2.1,,7.21
+BAL-000146,Baloncesto,Bilboa Basket,Suns,02-06-2023,105-102,Liga ACB,4.85,,6.68
+BAL-000599,Baloncesto,Real Madrid,Bilbao Basket,2024/08/08,104-82,Liga ACB,5.62,,3.48
+BAL-000846,Baloncesto,gsw,barca,15 de mayo de 2024,120-90,NBA,1.34,,1.3
+BAL-000888,Baloncesto,Unicaja,Celtisc,2021-07-08,121-107,Liga ACB,1.85,,6.51
+BAL-000655,Baloncesto,KNICKS,Joventut,2024-01-12,127-111,NBA,7.31,,3.38
+BAL-000630,Baloncesto,Tenerife,Lakers,2024/01/07,120-90,Euroliga,1.38,,6.25
+BAL-000745,Baloncesto,Bucks,unicaja_malaga,02/12/2022,95-85,,3.42,,2.44
+BAL-000023,Baloncesto,Bucks,  Unicaja ,31/10/2021,111-80,Liga ACB,3.23,,2.93
+BAL-000201,Baloncesto,Barcelona,Baskonia,--/--/----,114-84,Copa del Rey,1.49,,4.02
+BAL-000432,Baloncesto,LAKERS,Suns,16 de abril de 2022,78-127,Liga ACB,0.0,,4.51
+BAL-000695,Baloncesto,Knicks,Suns,20 de diciembre de 2021,126-125,Euroliga,7.43,,3.27
+BAL-000791,Baloncesto,Barcelona,Mavericks,1 de abril de 2021,118-90,Euroliga,3.08,,3.28
+BAL-000657,Baloncesto,Lakers,Warriros,2024/09/08,114-109,Liga ACB,3.0,,216.88
+BAL-000473,Baloncesto,chicago_bulls,Celtics,2023-06-03,114-103,Copa del Rey,1.24,,1.38
+BAL-000770,Baloncesto,Lakers,Mavericks,07/05/2021,94-115,Copa del Rey,1.64,,1.54
+BAL-000862,Baloncesto,Celtics,Zaragoza,13-11-2023,124-115,Euroliga,2.18,,3.8
+BAL-000305,Baloncesto,Suns,Tenerife,26-11-2022,118-78,Copa del Rey,1.94,,3.17
+BAL-000866,Baloncesto,Heat,Joventut,2024-08-13,119-128,Copa del Rey,2.23,,6.36
+BAL-000291,Baloncesto,Valencia Basket,Jvoentut,2023-05-23,116-81,NBA,1.33,,4.35
+BAL-000349,Baloncesto,Zaragoza,Knicks,27 de agosto de 2021,79-104,Copa del Rey,2.58,,6.6
+BAL-000031,Baloncesto,Bulls,MAVERICKS,17/08/2023,80-100,NBA,6.27,,6.53
+BAL-000340,Baloncesto,Valencia Bsaket,Gran Canaria,04/04/2022,109-104,NBA,"2,54",,4.72
+BAL-000194,Baloncesto,Heat,Valencia Basket,2021-03-16,104-96,Copa del Rey,6.59,,5.21
+BAL-000207,Baloncesto,KNICKS,Tenerife,31/01/2024,101-122,Copa del Rey,0.0,,3.42
+BAL-000451,Baloncesto,denver_nuggets,Joventut,2022/03/15,106-97,Copa del Rey,4.37,,3.74
+BAL-000607,Baloncesto,la_lakers,Valencia Basket,16-02-2022,96-109,Euroliga,3.1,,5.0
+BAL-000861,Baloncesto,Warriors,Gran Canaria,20/09/2022,120-94,NBA,-1.35,,"4,95"
+BAL-000278,Baloncesto,mavs,Tenerife,2021/03/15,89-122,Copa del Rey,2.68,,"6,70"
+BAL-000405,Baloncesto,Lakers,Real Madrid,13/03/2021,78-109,Liga ACB,6.75,,4.85
+BAL-000186,Baloncesto,Celtics,Valencia Basket,2022-06-17,120-79, NBA ,1.82,,7.43
+BAL-000375,Baloncesto,Tenerife,Nuggets,2023/05/21,90-124,Copa del Rey,5.01,,3.92
+BAL-000033,Baloncesto,Zaragoza,  Nuggets ,2024/06/29,80-118,Liga ACB,6.43,,5.11
+BAL-000123,Baloncesto,Bulls,Celtics,11 de enero de 2024,81-118,Liga ACB,1.23,,0.0
+BAL-000660,Baloncesto,Lkaers,Bulls,09/03/2022,99-122,Copa del Rey,5.32,,1.9
+BAL-000530,Baloncesto,Knicks,Valecnia Basket,2024/05/17,94-97,Euroliga,"5,45",,1.68
+BAL-000732,Baloncesto,Unicaja,Bilbao Basket,2021/01/08,101-91, Euroliga ,"3,57",,6.9
+BAL-000468,Baloncesto,casademont_zaragoza,Bucks,2021/03/08,121-83,Euroliga,2.68,,5.12
+BAL-000266,Baloncesto,Real Madrid,SUNS,2022-10-22,107-92,Euroliga,6.47,,6.18
+BAL-000240,Baloncesto,BARCELONA,Real Madird,19/08/2024,125-92,Copa del Rey,2.42,,2.49
+BAL-000339,Baloncesto,Mavericks,casademont_zaragoza,2022/02/11,91-109,Euroliga,2.05,,1.91
+BAL-000847,Baloncesto,Zaragoza,Celtics,24-11-2023,128-96,Copa del Rey,5.64,,5.58
+BAL-000489,Baloncesto,tenerife,Bucks,12/08/2021,106-122,NBA,1.66,,5.49
+BAL-000633,Baloncesto,Valencia Basket,Mavericks,11/02/2024,98-86,Copa del Rey,6.37,,5.23
+BAL-000222,Baloncesto,Suns,Mavericks,2021/08/28,121-100,Euroliga,6.82,,3.41
+BAL-000872,Baloncesto,Mavericks,casademont_zaragoza,2024/12/01,109-103,Euroliga,3.46,,6.72
+BAL-000365,Baloncesto,Gran Canaria,Mavericks,2023/10/30,90-92,NBA,5.01,,-1.57
+BAL-000638,Baloncesto,Knicks,Heat,25 de mayo de 2021,81-126,NBA,7.49,,"1,26"
+BAL-000297,Baloncesto,Celtics,Bucks,2023/04/28,83-101,NBA,1.61,,6.15
+BAL-000770,Baloncesto,Lakers,Mavericks,07/05/2021,94-115,Copa del Rey,1.64,,1.54
+BAL-000025,Baloncesto,NUGGETS,unicaja_malaga,31/03/2023,105-107,NBA,3.92,,5.57
+BAL-000540,Baloncesto,baskonia_vitoria,  Nuggets ,19-09-2021,92-126,NBA,4.95,,2.78
+BAL-000214,Baloncesto,Nuggets,Gran Canaria,17-03-2023,107-86,Liga ACB,2.85,,5.21
+BAL-000839,Baloncesto,CELTICS,Warriors,12-10-2022,79-102,Copa del Rey,7.16,,3.89
+BAL-000137,Baloncesto,Barcelona,lakers,2024/06/28,124-101,NBA,1.97,,7.4
+BAL-000593,Baloncesto,Bucks,Unicaja,29/06/2023,96-89,Copa del Rey,3.36,,3.2

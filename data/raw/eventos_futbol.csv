@@ -1,0 +1,1842 @@
+﻿id_evento,deporte,equipo_local,equipo_visitante,fecha_evento,resultado,competicion,cuota_local,cuota_empate,cuota_visitante
+FUT-001724,Fútbol,Barcelona,Valencia,25 de abril de 2023,0-4,Ligue 1,2.05,4.11,"2,42"
+FUT-000754,Fútbol,Osasuna,elche,28/09/2022,3-1,Bundesliga,"2,07",-2.38,"1,62"
+FUT-001383,Fútbol,Mallorca,Villarreal,2022-08-20,2-1,UEFA Champions League,2.93,3.82,4.01
+FUT-000978,Fútbol,Tottenham,Manchester United,2022-08-03,2-1,Serie A,"2,38",3.45,1.82
+FUT-000922,Fútbol,Valencia,Real Madrid,14 de octubre de 2024,3-0,Ligue 1,2.4,3.2,-
+FUT-000195,Fútbol,Granada,ac_milan,20-11-2021,1-3, Bundesliga ,2.54,3.53,4.6
+FUT-000971,Fútbol,  Athletic  Club ,Arsenal,2024/04/23,0-1,Ligue 1,2.46,3.93,2.9
+FUT-000396,Fútbol,Milan,Mallorca,5 de noviembre de 2021,2-3,Premier League,2.47,"3,32",1.74
+FUT-001590,Fútbol,Celta de Vigo,Valencia,2021/12/28,1-1,Bundesliga,1.42,3.99,"5,13"
+FUT-001189,Fútbol,Milna,Liverpool,2024/07/04,1-4,Bundesliga,3.79,4.02,3.47
+FUT-001199,Fútbol,Juventus,Athletic Club,2021/04/29,4-5,Premier League,2.43,3.17,3.46
+FUT-001718,Fútbol,Celta de Vigo,Athletic Club,2023-11-24,1-1,Serie A,2.11,3.04,5.38
+FUT-000941,Fútbol,Juventus,Borussia Dortmund,,2-3,Bundesliga,3.53,4.05,5.07
+FUT-001472,Fútbol,Manchester City,Sevilla,18-04-2021,2-0,UEFA Champions League,2.25,"3,16",5.84
+FUT-000376,Fútbol,Milan,Atlético de Madrid,22 de marzo de 2023,1-1,Serie A,3.13,3.85,3.31
+FUT-000569,Fútbol,Liverpool,Granaad,4 de marzo de 2023,1-5,La Liga,2.8,n/d,4.32
+FUT-000529,Fútbol,Espanyol,Chelsea,2021/07/12,3-1,Ligue 1,3.47,2.95,3.57
+FUT-000620,Fútbol,Rayo Vallecaon,borussia dortmund,19 de septiembre de 2024,3-1,UEFA Champions League,3.6,3.66,2.56
+FUT-001799,Fútbol,Cádiz,Atlético de Madrid,2024-09-29,4-3,Ligue 1,1.86,"3,95",1.5
+FUT-000823,Fútbol,Tottenham,Osasuna,2024-03-22,2-1,La Liga,1.5,4.19,2.18
+FUT-001153,Fútbol,Manchester United,Milna,2022/03/28,0-2,UEFA Champions League,"3,44",2.93,5.9
+FUT-000564,Fútbol,Milan,CELTA DE VIGO,31/02/2024,3-2,Premier League,2.45,"4,17",3.87
+FUT-000342,Fútbol,Atletico de Madrid,Inter de Milán,23/02/2023,0-4,UEFA Champions League,2.61,3.91,3.73
+FUT-001108,Fútbol,Osasuna,Manchester City,2021-02-26,1-0,Ligue 1,2.62,3.78,4.17
+FUT-000473,Fútbol,SEVILLA,Osasuna,8 de febrero de 2021,1-0,UEFA Champions League,0.0,3.74,4.04
+FUT-000650,Fútbol,Getafe,Elche,25-05-2023,1-2,UEFA Champions League,1.61,3.53,5.98
+FUT-000534,Fútbol,Sevilla,Liverpool,18/02/2024,2-2,UEFA Champions League,3.62,3.08,2.55
+FUT-001276,Fútbol,Alavés,LIVERPOOL,11/04/2024,2-4,UEFA Champions League,2.17,4.05,"5,41"
+FUT-000239,Fútbol,MANCHESTER CITY,Espanyol,05/05/2021,1-0,Ligue 1,3.25,3.21,2.85
+FUT-000946,Fútbol,osasuna,Mallorca,2024/12/23,3-5,Bundesliga,3.56,3.95,3.07
+FUT-000017,Fútbol,Villarreal,PSG,31 de enero de 2024,3-5,Premier League,2.89,3.08,4.47
+FUT-000700,Fútbol,Athletic Club,  Barcelona ,9 de enero de 2021,1-1,UEFA Champions League,-2.55,3.54,2.94
+FUT-001757,Fútbol,Cetla de Vigo,Tottenham,22/09/2022,2-1,Bundesliga,1.88,3.7,0.0
+FUT-001711,Fútbol,Athletic Club,Real Madrdi,10 de septiembre de 2021,1-1,Serie A,2.65,0.0,4.42
+FUT-000356,Fútbol,Atlético de Madrid,Getafe,14/10/2023,2-4,,4.11,3.21,-1.05
+FUT-000390,Fútbol,Granada,Mallorca,2024/05/13,0-3,Bundesliga,n/d,4.03,-
+FUT-000729,Fútbol,Levante,atletico,08/11/2024,0-1,Bundesliga,2.48,3.54,4.81
+FUT-000558,Fútbol,Betis,Milan,10-12-2023,2-1,Premier League,3.23,3.17,4.27
+FUT-001239,Fútbol,elche,Real Sociedad,2021/12/12,5-2,La Liga,1.79,3.19,N/A
+FUT-000328,Fútbol,Mnachester City,Villarreal,29/06/2024,2-0,Premier League,1.96,3.69,2.87
+FUT-000440,Fútbol,Athletic Club,Chelsea,12 de enero de 2021,0-1,Serie A,2.14,3.13,5.31
+FUT-000129,Fútbol,Rayo Vallecano,Borussia Dortmund,14 de julio de 2021,2-1,,2.35,3.53,212.86
+FUT-000465,Fútbol,Osasuna,Betis,2023/09/18,2-0,Serie A,4.06,3.82,"5,85"
+FUT-000144,Fútbol,Arsenal,Villarreal,28/09/2022,2-0, UEFA Champions League ,-2.94,3.46,1.85
+FUT-000469,Fútbol,Elche,CHELSEA,2023/09/15,5-1,Ligue 1,2.54,4.04,3.05
+FUT-001703,Fútbol,Arsenal,Tottenham,17 de junio de 2021,2-1,Serie A,3.05,3.69,5.07
+FUT-000565,Fútbol,Sevlila,LEVANTE,2021-05-17,1-2,Bundesliga,"2,16",3.55,5.75
+FUT-000953,Fútbol,Valencia,Bayern Múnich,2024/12/12,2-2,Premier League,3.45,3.14,3.19
+FUT-001440,Fútbol,Getafe,Chelsea,2023-01-11,1-3,Premier League,2.76,3.37,3.47
+FUT-001376,Fútbol,Celta de Vigo,Granada,17-03-2023,1-1,Bundesliga,3.49,3.53,"3,41"
+FUT-000608,Fútbol,Betis,Rayo Vallecano,01/04/2021,3-1,UEFA Champions League,3.4,3.63,1.52
+FUT-001396,Fútbol,Juventus,Rayo Vallecano,13 de septiembre de 2021,1-1,La Liga,2.52,3.19,"3,21"
+FUT-000787,Fútbol,Manchester United,Bacrelona,2021-08-06,1-5,Serie A,1.74,3.42,"5,68"
+FUT-000928,Fútbol,Manchester City,Real Madrid,26-01-2023,1-1,La Liga,1.58,4.04,4.42
+FUT-000661,Fútbol,atletico_madrid,MANCHESTER UNITED,28-09-2024,0-3,Ligue 1,1.52,3.07,5.13
+FUT-000703,Fútbol,Tottenham,Alavés,31 de marzo de 2022,2-0,Serie A,1.55,3.8,4.13
+FUT-000674,Fútbol,Inter de Milán,Atlético de Madird,21 de noviembre de 2023,0-0,La Liga,2.9,3.12,1.63
+FUT-001608,Fútbol,Granada,Mallorca,2024/09/11,4-2,Premier League,2.55,3.27,3.41
+FUT-001065,Fútbol,SEVILLA,atlético de madrid,20/07/2023,2-0,Ligue 1,1.85,3.45,3.41
+FUT-000359,Fútbol,Chelsea,juve,24/01/2024,3-5,Bundesliga,3.88,3.59,3.2
+FUT-001604,Fútbol,  Villarreal ,  Celta  de Vigo ,2022/12/01,3-0,Serie A,2.18,"3,29",4.43
+FUT-000425,Fútbol,Alvaés,Real Mdarid,2024-12-08,1-3,La Liga,4.1,3.31,3.85
+FUT-000470,Fútbol,REAL MADRID,betis,2021-11-19,2-1,Serie A,2.84,3.29,2.18
+FUT-000730,Fútbol,Alavés,Bayern Múnich,2023-09-02,1-3,UEFA Champions League,1.93,3.0,5.28
+FUT-001377,Fútbol,Real Madrid,Tottenham,16/07/2022,0-1,La Liga,3.21,3.1,3.56
+FUT-001019,Fútbol,Chelsea,Betis,2024/11/02,0-0,,1.46,3.12,3.75
+FUT-000845,Fútbol,  Juventus ,Villarreal,2021/02/17,3-2,Serie A,2.53,2.96,5.38
+FUT-000830,Fútbol,Espanyol,Alavés,13 de febrero de 2023,,Ligue 1,3.6,3.9,4.53
+FUT-001209,Fútbol,Sevilla,Granada,2022-11-20,0-3,Serie A,4.02,4.17,4.9
+FUT-001195,Fútbol,Atlético de Madrid,Liverpolo,2024/02/04,5-4,Bundesliga,3.07,3.76,1.86
+FUT-000417,Fútbol,PSG,Athletic Club,2024/10/20,4-1,Ligue 1,1.58,3.82,1.56
+FUT-001407,Fútbol,Bayern Múnich,Juventus,2022-06-11,0-2,Premier League,"3,18",3.34,3.61
+FUT-001707,Fútbol,Liverpool,Betis,--/--/----,1-2,UEFA Champions League,3.95,3.3,2.62
+FUT-001777,Fútbol,Atlético de Madrid,Arsenal,2023-06-11,2-3,UEFA Champions League,2.34,3.59,3.28
+FUT-001302,Fútbol,Cdáiz,Villarreal,25/11/2023,2-0,UEFA Champions League,2.01,3.27,5.65
+FUT-000862,Fútbol,Liverpolo,  Mallorca ,09-10-2023,0-2,Serie A,2.25,3.9,97.4
+FUT-001058,Fútbol,PSG,Alavés,2022/03/26,1-2,UEFA Champions League,2.58,3.71,4.62
+FUT-001421,Fútbol,Borussia Dortmund,Mallorca,13 de mayo de 2023,1-5, Bundesliga ,4.06,162.57,5.55
+FUT-001713,Fútbol,Chelsea,  Liverpool ,2022/07/15,1-2,Bundesliga,4.05,3.24,3.7
+FUT-001457,Fútbol,Getafe,Barcelona,21 de marzo de 2024,2-1,UEFA Champions League,1.73,3.02,5.76
+FUT-000262,Fútbol,Villarreal,Livrepool,2024-05-04,0-1,Bundesliga,3.75,0.0,4.96
+FUT-000401,Fútbol,Barcelona,real_madird,25-02-2023,2-1,Ligue 1,3.34,3.38,2.08
+FUT-001402,Fútbol,Atlético de Madrid,Sevilla,2021-11-19,2-0,Bundesliga,3.47,3.31,4.28
+FUT-001285,Fútbol,  Liverpool ,Getafe,14-03-2022,0-1,Ligue 1,2.71,3.84,4.78
+FUT-000758,Fútbol,Athletic Club,Elche,2024-04-11,2-0,UEFA Champions League,3.08,3.98,2.91
+FUT-000372,Fútbol,Atlético de Mdarid,Borussia Dortmund,3 de mayo de 2024,0-2,Serie A,1.97,4.05,2.17
+FUT-001485,Fútbol,Inter de Milán,Mallroca,2022/04/07,4-0,,2.46,4.23,3.78
+FUT-001520,Fútbol,Mallorca,Milan,16-10-2024,3-2,Ligue 1,2.79,3.89,3.61
+FUT-001542,Fútbol,Athletic Club,Levante,10 de febrero de 2023,3-3,Bundesliga,"1,95",4.02,2.77
+FUT-001451,Fútbol,Liveprool,Alavés,2023-06-13,2-2,La Liga,1.55,3.77,3.74
+FUT-001250,Fútbol,Juventus,Manchester City,13/12/2022,1-1,UEFA Champions League,1.89,4.24,4.47
+FUT-001404,Fútbol,PSG,Rayo Vallecano,2021-02-22,1-2,Serie A,"3,95",3.27,2.94
+FUT-001447,Fútbol,Mallorca,Bayern Múnich,2023/03/04,1-2,UEFA Champions League,2.52,3.71,"5,56"
+FUT-001615,Fútbol,Valencia,Cádiz,2023/05/17,0-2,Premier League,1.76,3.03,4.84
+FUT-000422,Fútbol,man_city,Athletic Club,30/01/2024,5-3,La Liga,1.45,3.46,1.66
+FUT-001309,Fútbol,Betis,Manchester United,2022/12/10,3-0,Bundesliga,1.65,4.01,0.0
+FUT-000877,Fútbol,Inter de Miáln,Manchester United,01-02-2022,2-0,Ligue 1,1.43,3.9,4.17
+FUT-001327,Fútbol,Inter de Milán,Espanyol,25-03-2021,4-4,La Liga,4.01,4.05,4.06
+FUT-000556,Fútbol,Sevilla,Tottenham,19/03/2023,5-3,Premier League,3.01,3.03,3.44
+FUT-000991,Fútbol,Athletic Club,Granada,08/09/2022,1-2,La Liga,2.58,"4,22",1.5
+FUT-001328,Fútbol,Manchester City,Arsenal,16/11/2023,0-2,UEFA Champions League,3.43,4.04,1.96
+FUT-001034,Fútbol,tottenham,PSG,26 de febrero de 2023,3-4,Ligue 1,4.12,3.13,4.88
+FUT-001673,Fútbol,bvb,Manchester City,3 de diciembre de 2021,5-3,Serie A,3.83,3.16,5.41
+FUT-000279,Fútbol,Alavés,Juventus,20 de febrero de 2021,1-1,Bundesliga,3.3,3.87,2.18
+FUT-001307,Fútbol,Atlético de Madrid,Alavés,28 de marzo de 2024,3-4,Bundesliga,2.82,3.49,4.98
+FUT-001736,Fútbol,Manchester United,Juventus,21-05-2023,0-5,Premier League,2.89,3.69,5.79
+FUT-001544,Fútbol,internazionale,Celta de Vigo,15-07-2022,2-1,Bundesliga,"1,84",3.52,2.91
+FUT-000884,Fútbol,ALAVÉS,Inter de Milán,09-02-2023,2-1,Premier League,"3,46",-,2.99
+FUT-000399,Fútbol,Osasnua,PSG,2023-05-29,3-3,Bundesliga,1.76,3.51,3.43
+FUT-001573,Fútbol,Celta de Vigo,PSG,2021/10/09,,Serie A,4.09,3.02,2.64
+FUT-001234,Fútbol,Milan,Betis,8 de noviembre de 2021,3-2,La Liga,3.05,4.05,"3,79"
+FUT-000108,Fútbol,Levante,Barcelona,11 de abril de 2021,5-2,Ligue 1,N/A,3.69,4.59
+FUT-001086,Fútbol,Manchester City,Manchester United,20/03/2021,5-1,Ligue 1,n/d,3.57,2.75
+FUT-000097,Fútbol,Juventus,Milan,2022-01-22,1-2,UEFA Champions League,2.92,3.54,"2,95"
+FUT-000485,Fútbol,Alavés,juventus,2024/02/02,3-4,Ligue 1,1.68,"3,61",5.04
+FUT-001762,Fútbol,MILAN,Chelsea,2023/12/23,1-3,Ligue 1,"3,82",-2.81,5.82
+FUT-001667,Fútbol,Granada,Levante,2022/09/26,2-3,UEFA Champions League,n/d,4.2,5.07
+FUT-000570,Fútbol,Cádzi,Alavés,2024-10-20,0-4,Ligue 1,3.24,3.02,"3,22"
+FUT-001515,Fútbol,Cádzi,Villarreal,2023/11/09,4-4,La Liga,"1,64",3.83,2.93
+FUT-001357,Fútbol,Celta de Vigo,Betis,2022/03/10,0-1,Ligue 1,"2,48",3.79,1.63
+FUT-000345,Fútbol,Espanyol,Barcelona,2024-03-04,5-3,Ligue 1,2.41,3.66,3.68
+FUT-001159,Fútbol,Valencia,Levatne,19-09-2022,0-0,La Liga,2.19,3.73,1.74
+FUT-001387,Fútbol,Arsenal,Barcelona,09/01/2024,2-5,Bundesliga,4.09,4.12,2.97
+FUT-000634,Fútbol,Villarreal,Espanoyl,2024/04/02,2-3,Serie A,4.09,3.01,4.35
+FUT-001617,Fútbol,Cádiz,Liverpool,24/02/2023,4-0,Premier League,2.95,3.34,2.49
+FUT-000234,Fútbol,BETIS,Liverpool,8 de enero de 2021,0-5,La Liga,159.28,3.08,5.9
+FUT-000546,Fútbol,Real Sociedad,Liverpool,01/02/2024,3-2,Bundesliga,2.6,3.05,5.07
+FUT-000984,Fútbol,Getafe,Chelsea,sin fecha,3-5,Bundesliga,3.28,3.03,3.59
+FUT-000853,Fútbol,Atlético de Madrid,Real Madrid,2021-05-04,3-5,Bundesliga,3.14,3.81,2.25
+FUT-001619,Fútbol,Bayern Múnich,,7 de enero de 2021,1-2,Premier League,3.9,4.18,2.76
+FUT-001111,Fútbol,Sevilla,Cdáiz,2021/08/16,0-0,Bundesliga,1.46,0.0,"5,40"
+FUT-000858,Fútbol,Betis,real_madrid_baloncesto,27-11-2024,2-0,UEFA Champions League,1.43,3.14,4.0
+FUT-000334,Fútbol,Epsanyol,Levante,14 de octubre de 2022,1-1,Bundesliga,3.64,-,4.81
+FUT-000879,Fútbol,Betis,Granada,2024-01-14,2-2,Premier League,3.22,3.4,4.13
+FUT-000073,Fútbol,Juventus ,Barcelona,28 de agosto de 2023,1-1,Ligue 1,1.95,3.33,4.12
+FUT-000798,Fútbol,Real Sociedad,Inter de Milán,2023/10/29,3-2,La Liga,2.11,3.26,1.87
+FUT-000817,Fútbol,internazionale,Athletic Club,26/02/2024,5-3,La Liga,3.11,4.1,1.96
+FUT-000943,Fútbol,Inter de Milán,Granada,2023/08/20,2-1,Premier League,3.1,3.0,2.11
+FUT-001714,Fútbol,Sevilla,Elche,29/07/2023,0-1,Ligue 1,1.57,4.14,1.77
+FUT-001166,Fútbol,,  Borussia  Dortmund ,2023-05-13,2-5,La Liga,2.69,4.18,1.62
+FUT-001230,Fútbol,Inter de Milán,r_madrid,26 de julio de 2021,1-1,Premier League,3.54,"3,90",3.61
+FUT-001298,Fútbol,Betis,Granada,2022-04-08,0-2,Premier League,1.9,3.1,2.92
+FUT-000471,Fútbol,Atheltic Club,Alavés,2024-04-24,1-1,Premier League,1.72,3.85,3.66
+FUT-001352,Fútbol,Juventus,  Borussia  Dortmund ,17 de agosto de 2021,3-0,UEFA Champions League,3.77,"3,96",4.11
+FUT-000092,Fútbol,Bteis,Levante,06-05-2022,2-2,UEFA Champions League,1.74,"4,26",4.24
+FUT-000866,Fútbol,Cdáiz,Mallorca,26 de octubre de 2024,4-0,Ligue 1,4.12,3.85,4.27
+FUT-001388,Fútbol,Levante,Manchester United,26-12-2023,2-3,Premier League,2.98,"4,26",-2.67
+FUT-001600,Fútbol,BETIS,Celta de Vigo,21-05-2022,4-0,UEFA Champions League,2.84,4.28,4.05
+FUT-000139,Fútbol,Athletic Club,Liverpool,2021/04/04,2-1,Premier League,3.3,3.58,4.5
+FUT-001299,Fútbol,Cádiz,Mallorca,31 de marzo de 2024,1-1,Serie A,3.35,3.27,3.7
+FUT-000392,Fútbol,Atlético de Madrid,Mallorca,07/10/2024,1-2,Serie A,3.32,3.79,"3,64"
+FUT-000441,Fútbol,Inter de Milán,Celta de Vigo,17-09-2024,0-4,Serie A,"3,07",3.98,4.31
+FUT-000442,Fútbol,PSG,Liverpool,01/11/2023,0-2,Premier League,2.87,4.24,3.84
+FUT-001412,Fútbol,sevilla,MALLORCA,24/03/2023,5-0,Serie A,3.18,4.07,2.57
+FUT-001214,Fútbol,Elceh,r_madrid,06-08-2023,0-2,La Liga,240.61,3.27,2.3
+FUT-001483,Fútbol,Espanyol,Borussia Dortmund,29 de octubre de 2023,2-1,Premier League,1.8,3.74,1.68
+FUT-000058,Fútbol,Milan,Real Madrid,8 de enero de 2024,5-1,UEFA Champions League,2.49,"4,15",5.26
+FUT-000516,Fútbol,Villarreal,Real Socidead,22/05/2022,1-0,UEFA Champions League,3.23,"4,14",2.89
+FUT-001738,Fútbol,  Levante ,  Chelsea ,2021-09-17,3-1,La Liga,1.65,0.0,5.08
+FUT-000462,Fútbol,Elche,valencia_cf,31/03/2024,3-4,Bundesliga,n/d,"3,78",5.16
+FUT-001735,Fútbol,Osasuna,Cádiz,2024-04-26,3-2,Ligue 1,3.87,3.64,5.55
+FUT-001316,Fútbol,Alaves,Betis,2022-01-04,2-0,Bundesliga,2.25,3.03,3.23
+FUT-001113,Fútbol,REAL SOCIEDAD,PSG,2023/05/10,3-1,Bundesliga,2.76,3.78,2.45
+FUT-001516,Fútbol,Barcelona,Betis,2022/05/01,3-0,La Liga,1.61,3.42,2.19
+FUT-000697,Fútbol,Levatne,Sevilla,02-01-2024,0-1,Serie A,4.08,3.77,2.22
+FUT-000792,Fútbol,Chelsea,Tottenham,2023-06-05,1-3,UEFA Champions League,N/A,3.07,3.71
+FUT-001268,Fútbol,Manchester City,inter de milán,4 de agosto de 2021,3-2,Bundesliga,3.8,4.29,1.87
+FUT-001620,Fútbol,Granada,Borussia Dortmund,17/06/2021,2-2,Bundesliga,2.48,3.2,1.95
+FUT-000509,Fútbol,Elche,Liverpool,25-03-2024,0-0,UEFA Champions League,3.83,4.25,2.4
+FUT-001723,Fútbol,Espanyol,MANCHESTER CITY,12 de abril de 2022,0-1,Bundesliga,2.72,3.24,3.0
+FUT-001566,Fútbol,Real Madrid,Athletic Club,2022-07-08,0-1,La Liga,3.84,3.71,4.01
+FUT-000352,Fútbol,GETAFE,Manchester City,2023-12-14,0-0,Serie A,3.37,3.1,2.0
+FUT-000089,Fútbol,Bayern Múnich,PSG,7 de octubre de 2022,1-4,Serie A,3.68,3.67,3.55
+FUT-000595,Fútbol,Rayo Vallecano,Sevilla,11/11/2024,0-2,Ligue 1,"3,16",4.28,3.68
+FUT-001474,Fútbol,Manchester City,Valencia,21-02-2023,3-1,Premier League,3.0,3.76,1.7
+FUT-000926,Fútbol,Real Sociedad,Osasuna,07/07/2024,,Premier League,2.84,4.04,2.95
+FUT-001269,Fútbol,Valencia,Chelsea,N/A,0-0,La Liga,2.86,3.07,2.39
+FUT-000111,Fútbol,Levante,Manchester City,2023/12/24,3-0,Ligue 1,1.77,3.66,5.87
+FUT-000561,Fútbol,juve,Cleta de Vigo,25/06/2021,2-4,La Liga,2.05,3.86,2.2
+FUT-001190,Fútbol,valencia,  Villarreal ,13 de enero de 2024,0-2,Serie A,1.68,3.6,1.73
+FUT-000018,Fútbol,Elhce,BORUSSIA DORTMUND,2023-03-29,5-4,UEFA Champions League,3.51,3.87,4.71
+FUT-000684,Fútbol,Lievrpool,Levante,30/07/2023,1-5,Ligue 1,1.44,3.84,2.23
+FUT-000081,Fútbol,Juventus,Granada,2021/07/23,4-5,Premier League,2.26,"3,77",4.24
+FUT-000544,Fútbol,Cádiz,atlético de madrid,2021/07/27,3-3, UEFA Champions League ,1.62,3.2,3.84
+FUT-000099,Fútbol,Celta de Vigo,PSG,21/06/2023,5-0,La Liga,4.1,3.36,1.95
+FUT-001293,Fútbol,Sevilal,Valencia,02-04-2021,1-3,Serie A,1.81,3.27,2.28
+FUT-001661,Fútbol,Borussia Dortmund,PSG,16 de abril de 2021,4-4,La Liga,3.62,3.88,2.18
+FUT-000805,Fútbol,celta de vigo,Milan,21-09-2023,2-0,Bundesliga,3.93,3.93,3.5
+FUT-000572,Fútbol,Rayo Vallecano,betis,09-12-2023,2-2,Premier League,1.97,3.09,4.6
+FUT-001564,Fútbol,Arsenal,Valencia,18-10-2021,1-2,Serie A,2.23,2.95,2.04
+FUT-000458,Fútbol,Espanyol,Real Sociedad,2024-09-12,1-0,Serie A,1.94,"3,58",2.98
+FUT-000696,Fútbol,Juventus,  Inter  de Milán ,19/09/2023,1-0,Serie A,3.61,3.14,-2.92
+FUT-001659,Fútbol,PSG,Tottenham,4 de diciembre de 2021,2-1,Serie A,3.78,"3,30","4,25"
+FUT-001362,Fútbol,Real Madrid,Alavés,06/11/2023,3-1,La Liga,"1,49",3.78,5.78
+FUT-001365,Fútbol,Mallorca,  Valencia ,05-04-2024,4-0,Bundesliga,2.25,3.19,2.6
+FUT-001341,Fútbol,bayern_munich,,5 de agosto de 2021,3-1,UEFA Champions League,3.08,3.35,3.13
+FUT-001773,Fútbol,Sevilla,Valencia,2022-08-11,1-0,La Liga,1.74,3.64,4.97
+FUT-000499,Fútbol,Liverpool,Celta de Vigo,14-01-2021,3-0,Ligue 1,1.62,4.24,3.72
+FUT-000950,Fútbol,Mallorca,Borussia Dortmund,23/02/2023,1-1,Ligue 1,3.34,3.6,-2.1
+FUT-000151,Fútbol,Mallorca,Manchester City,2022/12/05,2-2,UEFA Champions League,4.08,3.53,5.15
+FUT-000633,Fútbol,Milan,Villarreal,11 de agosto de 2023,0-3,Ligue 1,4.15,4.28,5.0
+FUT-000599,Fútbol,Real Madrdi,Mallorca,2021/01/13,3-1,La Liga,1.59,3.32,3.97
+FUT-001118,Fútbol,Levante,Inter de Milán,21-12-2021,3-1,Premier League,2.84,3.46,124.5
+FUT-000152,Fútbol,Villarreal,Getafe,16/01/2023,0-2,Serie A,"4,17",3.63,4.24
+FUT-001769,Fútbol,paris_saint_germain,manchester city,2023/12/11,5-0,La Liga,"4,09",4.1,-2.75
+FUT-001725,Fútbol,Valencia,la_real,24 de marzo de 2022,3-5,Serie A,2.64,3.09,4.82
+FUT-000353,Fútbol,Valencia,Arsenal,2021-11-19,3-2,UEFA Champions League,3.04,3.37,2.95
+FUT-001634,Fútbol,BETIS,OSASUNA,2024/03/21,0-0,Serie A,-,4.11,80.24
+FUT-000434,Fútbol,Levante,bvb,14 de febrero de 2022,3-2,Serie A,1.47,3.1,"4,52"
+FUT-000807,Fútbol,Borussia Dortmund,Bayern Múnich,2023/09/26,4-3,Bundesliga,3.07,3.68,2.81
+FUT-000982,Fútbol,Osasuna,Sevilla,24/08/2024,0-5,Serie A,1.9,"2,97",5.91
+FUT-000326,Fútbol,Manchester City,Espanyol,26/10/2023,1-2,UEFA Champions League,2.16,-2.05,3.18
+FUT-001124,Fútbol,Real Madrid,Manchester City,22 de abril de 2022,,Ligue 1,2.0,3.69,2.95
+FUT-000864,Fútbol,athletic club,  Cádiz ,2024/10/29,2-1,Ligue 1,2.94,"3,82",4.05
+FUT-001591,Fútbol,Atlético de Madrid,GRANADA,2023-06-30,1-1,UEFA Champions League,3.31,"4,08",2.53
+FUT-000545,Fútbol,Alavés,Chelsea,18-02-2024,1-2,Bundesliga,2.1,3.78,2.31
+FUT-001315,Fútbol,Espanyol,Arsenal,08-06-2021,1-2,UEFA Champions League,1.4,3.74,"3,29"
+FUT-000203,Fútbol,Cádiz,Athletic Club,19 de enero de 2023,0-0,Premier League,2.44,4.28,"4,01"
+FUT-000230,Fútbol,Juventus,Sevlila,2022/09/24,2-2,UEFA Champions League,2.68,2.98,3.58
+FUT-000550,Fútbol,Bteis,Granada,2024/11/13,0-5,Serie A,2.0,3.34,4.97
+FUT-000949,Fútbol,Real Madrid,Athletic Club,14-06-2021,3-2,Ligue 1,3.97,3.46,4.14
+FUT-000107,Fútbol,  Inter  de Milán ,Granada,2024-03-23,1-1,Serie A,2.75,3.23,4.07
+FUT-000045,Fútbol,ARSENAL ,Borussia Dortmund,08/09/2022,1-1,Ligue 1,1.95,-2.37,5.32
+FUT-000532,Fútbol,Borussia Dortmund,Manchester City,28/03/2021,0-3,Ligue 1,"3,04",3.45,2.59
+FUT-001366,Fútbol,Inter de Milan,Real Sociedad,2021/08/27,2-3,Bundesliga,2.29,3.79,"2,38"
+FUT-000481,Fútbol,Elche,mallorca,08/02/2023,0-3,UEFA Champions League,1.42,3.63,3.84
+FUT-001076,Fútbol,Manchester United,  Juventus ,2024-12-30,3-1,UEFA Champions League,2.41,4.1,219.59
+FUT-000766,Fútbol,Borussia Dortmund,Real Scoiedad,2024-01-27,4-2,UEFA Champions League,2.82,3.39,4.21
+FUT-000673,Fútbol,GETAFE,Osasuna,2022-11-16,3-0,Ligue 1,3.21,3.3,3.46
+FUT-000088,Fútbol,Borussia Dortmund,PSG,26/11/2021,5-1,Serie A,2.54,3.35,"1,97"
+FUT-000613,Fútbol,juve,Sevilla,24 de mayo de 2023,0-1,Bundesliga,"3,29",3.05,1.74
+FUT-001636,Fútbol,Chelsea,Betis,14 de enero de 2024,0-1,UEFA Champions League,3.64,3.85,3.28
+FUT-001380,Fútbol,Milan,Atlético de Madrid,27-05-2024,3-1,Ligue 1,4.09,3.89,2.62
+FUT-000895,Fútbol,Tottenham,Rayo Vallecano,2024/02/02,1-4,La Liga,3.0,4.21,3.18
+FUT-000970,Fútbol,Borussia Dortmund,Alavés,21 de enero de 2022,1-0,UEFA Champions League,1.65,3.02,4.83
+FUT-001167,Fútbol,Betis,Granada,2022/08/24,3-2,La Liga,2.44,3.77,5.55
+FUT-000668,Fútbol,Real Madrid,getafe,,5-2, UEFA Champions League ,n/d,3.3,4.62
+FUT-000649,Fútbol,Villarreal,Betis,16 de agosto de 2021,1-3,UEFA Champions League,3.21,4.02,2.33
+FUT-001639,Fútbol,Athletic Club,Bayern Múnich,2022-03-18,1-1,Bundesliga,1.47,3.58,4.88
+FUT-000194,Fútbol,  Elche ,Rayo Valleacno,17/08/2022,3-1,UEFA Champions League,3.19,3.6,"4,32"
+FUT-001001,Fútbol,Osasnua,Manchester City,25-12-2023,5-1,Ligue 1,2.37,3.94,5.86
+FUT-001760,Fútbol,Chelsea,Osasuna,06/04/2023,1-3,Premier League,3.52,4.11,1.69
+FUT-000930,Fútbol,Elche,REAL SOCIEDAD,2024/11/21,2-5,Premier League,-2.56,-1.03,5.88
+FUT-000383,Fútbol,paris_saint_germain,Juventus,14 de junio de 2022,1-4,UEFA Champions League,3.04,3.39,2.24
+FUT-000905,Fútbol,  Manchester  United ,Alavés,30/10/2022,1-2,Ligue 1,2.53,3.99,3.92
+FUT-000948,Fútbol,Barcelona,Cetla de Vigo,19/09/2024,1-1,Premier League,3.31,3.26,4.21
+FUT-000132,Fútbol,  Athletic  Club ,Bayern Múnihc,13 de agosto de 2022,1-2,Ligue 1,3.5,4.12,4.74
+FUT-001685,Fútbol,Rayo Vallecano,Osasuna,1 de agosto de 2024,1-3,La Liga,2.21,4.3,4.61
+FUT-000771,Fútbol,Barcelnoa,Alavés,02/04/2023,4-5,Ligue 1,1.96,3.88,2.26
+FUT-000916,Fútbol,Real Sociedad,Tottenham,07-01-2024,3-0,Serie A,3.88,3.12,"5,47"
+FUT-000211,Fútbol,Manchester United,  Liverpool ,19/09/2023,3-3,Premier League,-,4.03,2.69
+FUT-000257,Fútbol,Atlético de Madrid,,2021-06-19,1-1,Bundesliga,2.73,3.79,4.66
+FUT-000912,Fútbol,Milan,OSASUNA,19-07-2022,2-4,Premier League,3.04,3.6,4.58
+FUT-000648,Fútbol,Vilalrreal,Sevilla,2024/12/21,5-2,La Liga,3.74,4.23,4.37
+FUT-001385,Fútbol,Rayo Vallecano,Getafe,2022-06-15,1-1,Serie A,2.41,"3,18",5.87
+FUT-000026,Fútbol,Sevilla,osasuna,17/05/2023,1-5,UEFA Champions League,"2,14",4.0,3.55
+FUT-000477,Fútbol,Celta de Vigo,Real Sociedad,29 de agosto de 2021,1-4,La Liga,"3,08",4.13,3.89
+FUT-001647,Fútbol,Athletic Club,Juventus,05-03-2024,3-1,Ligue 1,2.84,"3,83",3.97
+FUT-001528,Fútbol,Inter de Milán,Juventus,11 de octubre de 2022,0-3,,2.48,4.23,5.43
+FUT-000005,Fútbol,Elhce,Atlético de Madrid,11 de julio de 2024,3-2,Ligue 1,4.12,94.37,3.98
+FUT-000466,Fútbol,Atlético de Madrid,Alavés,27 de noviembre de 2023,3-1,Serie A,2.14,3.23,0.0
+FUT-000282,Fútbol,atleti,Athletic Club,15/05/2022,0-1,Ligue 1,n/d,4.02,0.0
+FUT-001322,Fútbol,,  Celta  de Vigo ,12 de junio de 2024,0-4,UEFA Champions League,3.38,"3,26",3.82
+FUT-001168,Fútbol,  Tottenham ,Betis,22 de abril de 2021,1-0,La Liga,3.66,4.12,3.57
+FUT-000644,Fútbol,MANCHESTER CITY,Atlético de Madrid,2024/08/28,0-2, Serie A ,2.39,4.08,4.25
+FUT-000680,Fútbol,Osasuna,ALAVÉS,2023-08-06,0-3,Serie A,2.77,4.29,N/A
+FUT-000728,Fútbol,rayo vallecano,Alavés,2023/10/13,1-3,Serie A,2.28,3.55,3.84
+FUT-001077,Fútbol,Chelsea,Espanyol,16/10/2023,1-2,La Liga,1.61,3.11,"4,33"
+FUT-000669,Fútbol,Betis,Rayo Vallecano,17 de noviembre de 2024,0-1,La Liga,2.66,3.23,2.29
+FUT-001160,Fútbol,  Borussia  Dortmund ,Liveprool,26/10/2023,3-0,UEFA Champions League,2.1,3.39,2.77
+FUT-001477,Fútbol,GRANADA,Rayo Vallecano,2023/04/28,5-2,Bundesliga,3.96,0.0,1.55
+FUT-001294,Fútbol,MALLORCA,bayern múnich,20 de diciembre de 2022,1-3,La Liga,3.75,2.9,2.73
+FUT-000887,Fútbol,Alavés,Elche,2022/06/21,3-1,La Liga,2.95,3.15,1.6
+FUT-001197,Fútbol,Alaévs,Barcelona,16-02-2023,5-0,UEFA Champions League,3.59,"3,17",4.24
+FUT-001254,Fútbol,Atlético de Madrid,Granada,14 de agosto de 2021,2-1,Ligue 1,3.85,3.65,5.01
+FUT-000478,Fútbol,Milan,BETIS,2023-06-03,4-2,Ligue 1,1.4,4.21,4.55
+FUT-001107,Fútbol,Borussia Dortmund,Alavés,8 de julio de 2024,0-3,Serie A,0.0,0.0,5.03
+FUT-001492,Fútbol,Getafe,Chelsea,N/A,5-4,La Liga,2.43,2.93,5.12
+FUT-001505,Fútbol,Espanyol,Athletic Club,20 de febrero de 2023,3-0,Bundesliga,2.65,3.96,2.11
+FUT-001263,Fútbol,Esapnyol,chelsea,10/08/2021,0-1,Bundesliga,2.5,3.42,3.96
+FUT-000733,Fútbol,Arsenal,Mallorca,20/10/2023,1-2,Serie A,4.17,3.07,5.27
+FUT-000100,Fútbol,Inter de Milán,Real Madrid,27-06-2022,3-1,Serie A,3.23,3.12,3.61
+FUT-000901,Fútbol,Granada,Levante,2024-09-04,4-3,La Liga,-,3.47,4.11
+FUT-001067,Fútbol,Rayo Vallecano,Tottenham,8 de junio de 2021,2-0,UEFA Champions League,1.91,3.94,4.02
+FUT-001733,Fútbol,Granada,Borussia Dortmund,07/02/2023,0-0,La Liga,3.92,3.56,1.53
+FUT-001261,Fútbol,Mallorca,  Granada ,24 de julio de 2021,3-1,Serie A,3.48,"3,32",3.57
+FUT-000641,Fútbol,PSG,Bayern Múnich,08-12-2022,3-1,La Liga,2.63,3.79,2.45
+FUT-000323,Fútbol,Sevilla,PSG,12-10-2024,4-0,UEFA Champions League,1.84,3.98,5.52
+FUT-000202,Fútbol,Atlético de Madrid,Tottenham,12/07/2023,0-2,Ligue 1,2.42,3.3,3.24
+FUT-001081,Fútbol,  PSG ,Atlético de Madrid,2023/06/22,1-1,Serie A,239.06,3.77,4.56
+FUT-000977,Fútbol,SEVILLA,Getafe,2021/11/23,4-2,La Liga,2.24,n/d,5.61
+FUT-000286,Fútbol,MANCHESTER CITY,Mallorca,07-05-2024,2-1,Bundesliga,3.82,3.64,4.38
+FUT-000557,Fútbol,real_betis,Manchester United,2023-10-25,0-2,Bundesliga,1.54,-2.64,1.88
+FUT-000583,Fútbol,Levatne,Sevilla,23 de octubre de 2023,3-4,La Liga,2.7,"3,80",1.91
+FUT-001791,Fútbol,SEVILLA,Bayern Múnich,26/07/2023,2-0,Bundesliga,2.96,3.12,4.38
+FUT-000740,Fútbol,Chelsea,PSG,21 de agosto de 2023,3-2,Bundesliga,2.77,3.68,3.93
+FUT-001095,Fútbol,Atlético de Madrid,Rayo Vallecano,19/03/2022,3-0,Serie A,3.35,3.98,4.2
+FUT-000993,Fútbol,Rayo Vallecano,Real Sociedad,17/03/2022,3-0,Premier League,1.5,3.1,5.35
+FUT-001090,Fútbol,rayo vallecano,elche,1 de septiembre de 2022,1-0,Premier League,3.91,3.5,-1.03
+FUT-001174,Fútbol,Elche,Juventus,8 de septiembre de 2024,4-2, Premier League ,2.61,3.79,2.33
+FUT-001772,Fútbol,Athletic Club,Bayern Múnich,2022-12-10,4-4,Premier League,3.3,3.45,4.24
+FUT-001317,Fútbol,Celta de Vigo,Levante,3 de enero de 2022,1-2,Premier League,2.75,3.27,5.8
+FUT-000642,Fútbol,Elche,athletic,2023-12-27,0-1,,2.73,3.57,5.77
+FUT-000952,Fútbol,Cádiz,Rayo Vallecano,04-01-2021,5-1,La Liga,2.26,4.28,5.17
+FUT-000854,Fútbol,Cádiz,Eclhe,12-11-2023,4-1,Serie A,n/d,3.79,4.13
+FUT-001288,Fútbol,Cádiz,Milan,17 de marzo de 2024,1-5,La Liga,3.37,3.28,1.76
+FUT-001560,Fútbol,barca,Granada,07/03/2023,0-3,UEFA Champions League,3.81,3.19,5.76
+FUT-001582,Fútbol,Liverpool,Tottenham,22/06/2024,0-2,Ligue 1,2.36,3.42,2.87
+FUT-001754,Fútbol,Bteis,Valencia,19-12-2023,0-3,La Liga,4.0,4.11,2.64
+FUT-000924,Fútbol,Granada,Juventus,2023-02-07,0-0,Premier League,3.56,3.97,5.68
+FUT-000678,Fútbol,Mallorca,Liverpool,2021/10/07,5-0,La Liga,1.76,3.87,"1,77"
+FUT-000072,Fútbol,Mallorca,Villarreal,28-12-2024,,Bundesliga,2.95,3.24,3.64
+FUT-001466,Fútbol,Inter de Milán,Chelsea,2021-10-17,3-4,Premier League,-,2.99,2.61
+FUT-001116,Fútbol,Mallorca,Barcelona,21-03-2022,2-2,La Liga,3.53,3.2,3.14
+FUT-000780,Fútbol,Borussia Dortmund,celta,30 de julio de 2022,1-1,UEFA Champions League,4.14,3.6,5.88
+FUT-001176,Fútbol,Tottenham,Chelsea,26-07-2023,3-0,La Liga,"2,57",3.49,1.63
+FUT-001589,Fútbol,Athletic Club,PSG,24-05-2023,1-1,La Liga,3.79,2.96,4.21
+FUT-001291,Fútbol,Juventus,sevilla_fc,2021/02/04,1-3,Serie A,2.18,4.09,"4,45"
+FUT-000170,Fútbol,Borussia Dortmund,Real Madrid,09-01-2023,2-1,La Liga,2.57,3.83,1.89
+FUT-000223,Fútbol,spurs,Borussia Dortmudn,2022/10/25,2-0,Premier League,3.27,-3.0,2.13
+FUT-000621,Fútbol,Valencia,PSG,23/09/2022,0-2,Bundesliga,2.31,"3,04",3.5
+FUT-001631,Fútbol,Milan,Borussia Dortmund,2021/05/18,4-1,La Liga,3.66,3.17,4.71
+FUT-000713,Fútbol,Arsenal,  Milan ,02/09/2021,2-3,Serie A,"3,16",3.57,4.62
+FUT-001204,Fútbol,  Espanyol ,Cádiz,2024/06/27,1-2,Bundesliga,1.69,3.39,-2.11
+FUT-000781,Fútbol,Arsenal,Borussia Dortmund,,1-4,Bundesliga,3.12,3.97,2.69
+FUT-001594,Fútbol,  Borussia  Dortmund ,valencia_cf,14/05/2022,0-1,Premier League,4.06,3.4,3.31
+FUT-000555,Fútbol,  Chelsea ,Sevilla,2022-03-29,1-0,Premier League,2.91,3.11,3.76
+FUT-000883,Fútbol,Manchester United,Granada,2022-03-26,1-0, La Liga ,2.67,4.0,1.69
+FUT-001121,Fútbol,Liverpool,,03/06/2022,4-3,Ligue 1,"2,66",124.44,5.81
+FUT-001392,Fútbol,Celta de Vigo ,Elche,2022-02-15,1-1,Ligue 1,1.95,3.65,N/A
+FUT-000074,Fútbol,Liverpool,Borusisa Dortmund,18/04/2022,5-2,La Liga,2.39,3.54,2.88
+FUT-001039,Fútbol,Elche,Betis,30-12-2022,1-2,Premier League,2.31,"2,98",5.17
+FUT-001306,Fútbol,Borussia Dortmund,Tottenham,02/04/2023,2-1,,3.43,3.74,3.67
+FUT-000016,Fútbol,Manchester City,PSG,29-04-2021,0-4,Premier League,3.86,4.06,"2,88"
+FUT-000131,Fútbol,Borussia Dortmund,Real Sociedad,2024-02-25,3-1,Serie A,1.76,2.98,5.8
+FUT-001333,Fútbol,Betis,Cádiz,2021/02/07,1-2,UEFA Champions League,4.13,3.35,"2,50"
+FUT-001690,Fútbol,Liverpool,Barcelona,2023/04/05,1-1,Premier League,-2.55,3.04,3.81
+FUT-001747,Fútbol,Elche,Osasuna,03-10-2023,0-3,Ligue 1,3.08,3.71,3.65
+FUT-000161,Fútbol,Espanyol,GRANADA,2024/03/14,5-3,Bundesliga,3.93,3.17,4.55
+FUT-000410,Fútbol,Real Mardid,Villarreal,2023/11/14,4-3,La Liga,3.27,3.11,1.91
+FUT-000929,Fútbol,Valencia,Rayo Vallecano,11 de marzo de 2024,1-3,Premier League,2.8,"4,29",4.71
+FUT-001109,Fútbol,Villarreal,Chelsea,18 de enero de 2022,0-3,Premier League,4.15,3.79,"5,00"
+FUT-000115,Fútbol,Arsenal,Real Sociedad,2024/06/03,3-1,Premier League,3.13,4.22,2.98
+FUT-001324,Fútbol,Arsenla,Elche,24 de agosto de 2022,2-2,Serie A,"3,55",2.93,2.7
+FUT-001102,Fútbol,Liverpool,Inter de Milán,7 de febrero de 2023,1-3,Premier League,3.37,3.94,1.53
+FUT-000677,Fútbol,PSG,sevilla_fc,2021/10/07,4-0,Bundesliga,4.0,"3,54",3.24
+FUT-000910,Fútbol,Arsenal,Real Madrid,4 de enero de 2024,1-3,Bundesliga,2.55,3.12,2.0
+FUT-001746,Fútbol,Barcelona,celta,17/08/2022,5-1,Serie A,3.28,4.01,3.77
+FUT-000790,Fútbol,Rayo Vallecano,Sevilla,18-05-2024,3-1,Bundesliga,3.63,3.94,3.96
+FUT-001427,Fútbol,Athletic Club,Inter de Milán,25-03-2021,0-4,Bundesliga,3.51,3.91,5.44
+FUT-000118,Fútbol,Bayern Munich,Celta de Vigo,27 de julio de 2022,4-2,La Liga,3.73,3.76,5.73
+FUT-001262,Fútbol,ac_milan,Chelsea,2024/12/10,1-0,Ligue 1,4.11,3.69,3.68
+FUT-001201,Fútbol,Real Madrid,Epsanyol,18 de diciembre de 2022,,Ligue 1,1.75,3.15,1.7
+FUT-000145,Fútbol,Manchester United,ALAVÉS,17 de diciembre de 2022,1-0,Serie A,0.0,3.06,"3,79"
+FUT-000492,Fútbol,Liverpool,  Cádiz ,25 de diciembre de 2021,1-5,Bundesliga,2.67,3.47,1.52
+FUT-000381,Fútbol,Barcelona,Getafe,09/01/2023,1-3,UEFA Champions League,3.74,3.25,3.55
+FUT-000527,Fútbol,Granada,paris_saint_germain,2021-10-27,5-1,La Liga,3.62,3.36,5.3
+FUT-000191,Fútbol,,Alavés,2024-07-24,1-4,Ligue 1,3.91,4.08,2.63
+FUT-001756,Fútbol,Mallocra,  Chelsea ,10/10/2024,3-0,,3.21,3.46,2.59
+FUT-000049,Fútbol,Villarreal,LEVANTE,09/10/2024,2-2,Serie A,2.34,4.05,4.88
+FUT-000008,Fútbol,Valencia,Osasuna,10/11/2024,2-1,Ligue 1,2.69,3.28,5.66
+FUT-000743,Fútbol,Chelsea,Real Sociedad,26-04-2022,2-5,UEFA Champions League,2.55,2.98,2.6
+FUT-000119,Fútbol,Arsenal,Rayo Vallecano,2024/01/21,2-5,,3.8,3.04,4.59
+FUT-000878,Fútbol,Betis,Elhce,01-04-2021,1-1,La Liga,3.14,3.16,2.12
+FUT-001428,Fútbol,Elche,  Athletic  Club ,25 de septiembre de 2023,2-1,Serie A,1.87,3.89,5.39
+FUT-001755,Fútbol,Real Mdarid,Elche,2023-10-18,2-1,Premier League,3.8,3.15,5.77
+FUT-000302,Fútbol,LIVERPOOL,VALENCIA,2022/10/24,3-1,Serie A,4.11,4.05,3.73
+FUT-001114,Fútbol,,Juventus,27-05-2024,3-0,La Liga,1.43,3.15,"4,05"
+FUT-001305,Fútbol,Liverpool,Granada,2024-04-30,1-2,Ligue 1,3.51,3.51,4.27
+FUT-000043,Fútbol,Real Sociedad,  Borussia  Dortmund ,2024-03-26,1-3,Premier League,2.62,4.28,2.02
+FUT-000463,Fútbol,Rayo Vallecano,atletico_madrid,20 de enero de 2023,2-2,Bundesliga,4.2,-,-2.32
+FUT-000983,Fútbol,Borussia Dortmund,Celta de Vigo,9 de noviembre de 2024,2-1,Ligue 1,1.5,0.0,3.7
+FUT-000109,Fútbol,PSG,  Levante ,29/05/2022,3-1,UEFA Champions League,3.65,3.21,2.36
+FUT-001162,Fútbol,Atlético de Madrdi,ac_milan,2021-07-20,5-1,Serie A,3.3,3.44,94.46
+FUT-000332,Fútbol,Cádiz,Villarreal,28-07-2023,0-1,UEFA Champions League,3.77,3.48,5.53
+FUT-001274,Fútbol,Milan,Real Madird,07/12/2024,1-0,Premier League,2.72,4.29,193.23
+FUT-001232,Fútbol,Liverpool,Betis,21-11-2022,1-2,Ligue 1,3.39,3.07,5.54
+FUT-000906,Fútbol,Barcelona,Atlético de Madrid,19/05/2024,5-0,Ligue 1,4.07,3.36,4.33
+FUT-000553,Fútbol,PSG,,2021/04/25,2-1,Serie A,3.45,3.71,1.85
+FUT-001252,Fútbol,Levante,Cádiz,20-06-2022,2-4,UEFA Champions League,3.59,2.99,4.97
+FUT-000268,Fútbol,Osasuna,chelsea,20/07/2022,1-1,Bundesliga,2.15,"3,10",2.25
+FUT-000611,Fútbol,Oassuna,Cádiz,31 de enero de 2024,0-5,Serie A,2.97,"3,04",3.94
+FUT-000340,Fútbol,Sevilla,Alavés,2024-04-07,0-3,Ligue 1,2.44,3.78,4.4
+FUT-001675,Fútbol,CÁDIZ,Mallorca,sin fecha,3-1,Serie A,3.56,3.78,"4,70"
+FUT-001020,Fútbol,Sevilla,Manchester United,19-06-2021,2-2,Bundesliga,1.42,3.57,2.77
+FUT-000358,Fútbol,Manchester United,Juventus,2021-01-03,0-0,La Liga,3.34,3.39,5.04
+FUT-001522,Fútbol,Mallorca,Athletic Club,29 de noviembre de 2021,3-0,Bundesliga,1.92,3.35,5.96
+FUT-000053,Fútbol,real_betis,Inter de Milán,2024/06/08,3-5,UEFA Champions League,3.07,4.23,5.51
+FUT-000959,Fútbol,Borussia Dortmund,Manchester United,24/09/2024,1-4,Bundesliga,4.2,4.04,5.73
+FUT-000104,Fútbol,Borussia Dortumnd,Celta de Vigo,02/06/2024,1-1,Bundesliga,3.31,0.0,2.29
+FUT-001050,Fútbol,Celta de Vigo,Real Madrid,2022/04/08,4-0,UEFA Champions League,2.6,3.11,4.45
+FUT-000965,Fútbol,Atlético de Madrid,Betis,15 de agosto de 2023,2-0,Premier League,3.73,4.29,5.94
+FUT-000127,Fútbol,Villarreal,Manchester City,28-10-2022,2-0,Bundesliga,2.17,3.79,3.97
+FUT-000501,Fútbol,Getafe,Cádiz,13-01-2024,1-3,La Liga,N/A,3.64,"3,40"
+FUT-000769,Fútbol,bayern,Manchester City,2022-11-02,2-4,Serie A,1.77,3.14,4.17
+FUT-000960,Fútbol,chelsea,Sevilla,2023/04/03,5-4,UEFA Champions League,3.66,2.9,5.42
+FUT-001463,Fútbol,celta,Arsenal,01/11/2021,2-4,Bundesliga,3.38,4.13,2.3
+FUT-000351,Fútbol,sevilla_fc,Alavsé,2021/09/25,2-0,Serie A,2.74,3.36,4.26
+FUT-001705,Fútbol,Betis,Osasuna,2024/10/27,3-3,Ligue 1,3.31,3.23,3.34
+FUT-000273,Fútbol,Manchester City,Chelsea,2024/01/23,1-3,Premier League,"2,42",4.2,2.4
+FUT-000590,Fútbol,rayo vallecano,Milan,24 de julio de 2022,2-1,Ligue 1,0.0,2.91,5.47
+FUT-000909,Fútbol,Mallorca,Valencia,2023-07-21,4-1,La Liga,1.98,3.31,3.86
+FUT-000989,Fútbol,athletic,Rayo Vallecano,2024-02-11,5-4,Bundesliga,1.91,"3,74",2.31
+FUT-001246,Fútbol,PSG,Getafe,15/03/2022,3-1, La Liga ,1.96,4.13,5.78
+FUT-001468,Fútbol,Real Sociedad,  Villarreal ,19/03/2023,3-1,Ligue 1,"2,88",3.71,3.89
+FUT-001012,Fútbol,ATLÉTICO DE MADRID,Inter de Miáln,2022-09-04,4-3,Serie A,1.56,0.0,3.57
+FUT-000091,Fútbol,Bayern Múnihc,Sevilla,2022/02/21,1-1,Serie A,"3,52",3.78,4.92
+FUT-000538,Fútbol,Chelsae,Getafe,10/05/2021,4-2,UEFA Champions League,2.42,3.77,2.94
+FUT-000137,Fútbol,Manchester United,Osasuna,18-04-2021,1-2,Premier League,3.58,n/d,233.56
+FUT-001368,Fútbol,Athletic Club,Juventus,02/01/2021,3-0,Serie A,3.66,3.76,3.55
+FUT-000221,Fútbol,PSG,Betis,29-07-2023,4-1,UEFA Champions League,1.94,3.06,2.23
+FUT-000636,Fútbol,Liverpool,Levante,29/02/2024,1-0,Serie A,-2.13,3.95,4.77
+FUT-001776,Fútbol,Villarreal,Eclhe,15-04-2023,5-2,UEFA Champions League,"3,80",0.0,-2.57
+FUT-001149,Fútbol,Celta de Vigo,Real Madrid,2021-12-16,3-1,UEFA Champions League,1.46,4.26,5.47
+FUT-000316,Fútbol,Valencia,Real Madrid,11/07/2024,1-0,UEFA Champions League,1.57,4.01,3.78
+FUT-001037,Fútbol,Espanyol,Levante,2021/04/16,0-0,UEFA Champions League,3.87,4.2,2.72
+FUT-000931,Fútbol,Manchester United,Getafe,18 de noviembre de 2022,2-4,La Liga,2.29,"4,09",3.67
+FUT-000997,Fútbol,  Borussia  Dortmund ,Chlesea,2024/01/29,0-2,Bundesliga,1.62,3.07,1.99
+FUT-001624,Fútbol,Rayo Vallceano,Manchester City,20/08/2023,1-1,La Liga,3.4,4.16,3.21
+FUT-001432,Fútbol,paris_saint_germain,Alavés,23-02-2024,2-2,Ligue 1,1.69,"3,99",4.69
+FUT-000419,Fútbol,Chelsea,Celta de Vigo,18-11-2021,,Ligue 1,"4,17",2.98,"4,40"
+FUT-000647,Fútbol,Bayern Múnich,Real Sociedad,11 de marzo de 2021,2-2,La Liga,2.38,3.92,2.63
+FUT-000065,Fútbol,Athletic Club,Osasuna,2023/02/08,5-0,Bundesliga,1.47,3.34,4.55
+FUT-001740,Fútbol,Getafe,Alavés,01/06/2021,3-1,Premier League,1.54,4.1,3.95
+FUT-001132,Fútbol,Borussia Dortmund,Alavés,11 de enero de 2021,1-0,UEFA Champions League,3.93,"3,42",0.0
+FUT-000714,Fútbol,Barceolna,Elche,01/12/2021,1-0,La Liga,2.3,4.13,2.11
+FUT-000403,Fútbol,Borussia Dortmund,Betis,2023/04/07,1-4,La Liga,2.41,3.16,5.77
+FUT-000343,Fútbol,Borussia Dortmund,Getafe,2024-06-11,,Ligue 1,2.17,3.52,2.17
+FUT-000019,Fútbol,Arsenal,juve,2024/02/09,4-1,Premier League,2.09,2.99,1.59
+FUT-001200,Fútbol,Alavés,Villarreal,2024-03-09,2-1,La Liga,3.49,4.14,5.07
+FUT-000027,Fútbol,PSG,Celta de Vigo,2022-10-05,1-0,La Liga,"1,56",3.93,1.77
+FUT-000393,Fútbol,Granada,Osasuna,2022/06/14,4-4,UEFA Champions League,1.91,3.04,2.08
+FUT-001056,Fútbol,Borussia Dortmund,Cádiz,2023/10/10,0-1,Bundesliga,1.76,3.97,"3,09"
+FUT-001314,Fútbol,Borussia Dortmund,Tottenham,31/05/2024,2-1,Premier League,n/d,4.26,1.62
+FUT-000999,Fútbol,Real Madrid,Real Sociedad,2021/12/26,1-5,Ligue 1,2.46,3.05,5.67
+FUT-000920,Fútbol,Manchester City,Inter de Miáln,2021/10/15,2-0,Bundesliga,2.94,3.24,5.78
+FUT-000806,Fútbol,Barcelona,Juventus,17/01/2021,2-0,La Liga,2.99,4.07,-1.57
+FUT-001641,Fútbol,Barcelona,Alavés,24-02-2022,4-1,Bundesliga,2.52,3.9,3.17
+FUT-000237,Fútbol,Rayo Vallecano,Valencia,2021-04-01,0-0,Bundesliga,3.07,3.88,1.72
+FUT-000951,Fútbol,Granada,Bayern Múnich,2022-12-07,3-4,Premier League,3.83,3.05,4.08
+FUT-000042,Fútbol,Tottenham,Manchester United,2022-06-28,5-0,La Liga,4.12,3.15,5.83
+FUT-001570,Fútbol,Real Madrid,ATLÉTICO DE MADRID,20/04/2022,4-3,UEFA Champions League,0.0,4.23,3.7
+FUT-001476,Fútbol,Arsenal,Tottenham,16/05/2023,0-0,UEFA Champions League,2.09,3.84,5.47
+FUT-000704,Fútbol,Mallorca,Barcelona,2023/03/19,0-3,Premier League,"3,30",4.24,5.89
+FUT-001501,Fútbol,Atlético de Madrid,Real Sociedad,2021-07-04,3-0,Serie A,1.42,"4,11","1,74"
+FUT-001764,Fútbol,Bteis,Inter de Milán,2024/08/01,2-2,La Liga,3.29,"3,38",2.8
+FUT-000052,Fútbol,Aalvés,GETAFE,2021/09/06,3-2,Bundesliga,2.7,"3,68",5.63
+FUT-001572,Fútbol,Celta de Vigo,man_city,13 de diciembre de 2022,3-1,Serie A,1.89,241.09,104.66
+FUT-000519,Fútbol,bvb,Granada,2023/04/25,4-1,Serie A,2.04,3.03,2.89
+FUT-000362,Fútbol,Villarreal,Mnachester United,2021-12-04,2-2,Ligue 1,2.75,2.94,5.74
+FUT-001665,Fútbol,Valencia,Levante,21 de noviembre de 2023,0-1,La Liga,3.79,3.12,4.99
+FUT-000028,Fútbol,Sevilla,Milan,16-01-2022,2-3,La Liga,"1,84",4.25,"1,86"
+FUT-000423,Fútbol,villarreal_cf,Granada,2021/04/22,4-2,Premier League,3.23,3.54,3.03
+FUT-001013,Fútbol,REAL SOCIEDAD,Real Madrid,2022-02-09,1-2,La Liga,2.53,2.91,3.44
+FUT-000206,Fútbol,PSG,Granada,2022/09/23,2-0,UEFA Champions League,"2,33",3.05,-1.45
+FUT-001571,Fútbol,Sevilla,  Levante ,10 de septiembre de 2024,1-2,Serie A,"2,68","3,56",2.24
+FUT-001508,Fútbol,valencia ,  Getafe ,2024/10/01,1-1,Premier League,1.95,3.11,5.97
+FUT-000121,Fútbol,Barcelona,Sevilla,10/02/2024,3-1,Premier League,1.75,3.69,1.81
+FUT-000056,Fútbol,Betis,Celta de Vigo,2024-01-17,1-2,Bundesliga,3.38,2.99,"3,33"
+FUT-000964,Fútbol,Milan,REAL SOCIEDAD,17 de marzo de 2024,3-1,UEFA Champions League,1.95,3.1,"3,84"
+FUT-000996,Fútbol,CÁDIZ,Mallorca,2021-11-11,3-2,Serie A,3.21,3.62,2.24
+FUT-000666,Fútbol,Getafe,Mnachester United,2021/12/04,0-1,Bundesliga,3.52,3.14,3.16
+FUT-001142,Fútbol,  Juventus ,Liverpool,2023/10/26,1-4,Bundesliga,1.64,3.5,"2,18"
+FUT-001184,Fútbol,Elche,Athletic Club,2 de marzo de 2021,0-3,Premier League,2.64,-2.53,"4,34"
+FUT-000102,Fútbol,atletico_madrid,Valencia,21/07/2021,1-2,UEFA Champions League,2.2,3.22,1.91
+FUT-001182,Fútbol,Bracelona,Osasuna,20 de abril de 2022,1-2,UEFA Champions League,2.8,3.85,2.96
+FUT-001642,Fútbol,BETIS,Bayern Múnich,2023-02-06,5-1,La Liga,1.81,3.8,1.96
+FUT-000888,Fútbol,Barcelona,real_betis,7 de mayo de 2022,1-3,Serie A,1.71,4.21,2.87
+FUT-000324,Fútbol,ATHLETIC CLUB,Alaves,sin fecha,3-0,Bundesliga,3.8,n/d,1.71
+FUT-001131,Fútbol,Arsenal,Real Sociedad,2024/11/09,0-0,UEFA Champions League,1.43,3.05,2.95
+FUT-001770,Fútbol,Real Madrid,Geatfe,2023-04-30,1-0,La Liga,3.67,3.72,3.01
+FUT-000624,Fútbol,Levante,Chelsea,2024/10/23,2-1,Serie A,1.98,4.13,2.85
+FUT-000285,Fútbol,Rayo Vallecano,Cádiz,18 de enero de 2022,3-3,Serie A,1.58,3.04,5.42
+FUT-000894,Fútbol,Cádiz,Tottenham,2023/07/15,2-3,Premier League,3.22,3.19,236.18
+FUT-000034,Fútbol,Cadiz,Levante,28-09-2023,2-2,Serie A,1.97,3.79,2.69
+FUT-001169,Fútbol,,Cádiz,14-09-2023,4-2,UEFA Champions League,2.33,"3,04",2.81
+FUT-000691,Fútbol,Juventus,PSG,2022/08/22,2-3,Bundesliga,2.72,3.64,5.21
+FUT-000059,Fútbol,Alaves,PSG,09/04/2023,1-1,UEFA Champions League,1.48,3.37,4.56
+FUT-000541,Fútbol,paris_saint_germain,  Mallorca ,07-12-2024,0-2,Ligue 1,3.74,3.82,3.87
+FUT-000244,Fútbol,Atlético de Madrid,valencia_cf,2022-11-13,1-3,Serie A,3.43,3.68,3.66
+FUT-000148,Fútbol,Manchester City,Celta de Vigo,2022/12/22,2-1,,3.17,"4,01",4.16
+FUT-001742,Fútbol,PSG,Rayo Vallecano,25 de junio de 2023,0-3,La Liga,3.36,"3,03",2.17
+FUT-000651,Fútbol,Manchester City,Elche,2021/05/04,1-0,Serie A,3.58,3.44,3.0
+FUT-000816,Fútbol,Atlético de Madrid,CÁDIZ,2021/04/14,4-3,Bundesliga,3.85,3.75,1.97
+FUT-000679,Fútbol,inter,Bayern Múnich,30 de julio de 2024,1-1,Ligue 1,3.88,3.75,5.05
+FUT-000826,Fútbol,liverpool,Tottenham,16/09/2021,3-4,Ligue 1,1.64,3.65,3.25
+FUT-001768,Fútbol,Rayo Vallecaon,BETIS,7 de junio de 2021,1-1,La Liga,2.03,4.14,5.35
+FUT-000773,Fútbol,Inter de Milán,PSG,2022-08-13,0-2,UEFA Champions League,1.93,-,5.02
+FUT-000645,Fútbol,Manchester United,Cádiz,11/05/2022,1-0,UEFA Champions League,3.23,3.45,"4,98"
+FUT-001506,Fútbol,  Chelsea ,Milan,12/04/2024,1-0,Ligue 1,3.33,0.0,5.69
+FUT-000626,Fútbol,ARSENAL,Sevilla,2021-03-05,0-2,Premier League,-1.5,3.05,2.77
+FUT-001464,Fútbol,Barcelona,Atlético de Madrid,2022-08-20,5-4,La Liga,3.62,3.07,5.7
+FUT-000044,Fútbol,Elche,Atlético de Madrid,5 de octubre de 2024,3-0,Premier League,94.91,3.65,4.74
+FUT-001666,Fútbol,PSG,Alavés,16-07-2023,3-0,Serie A,3.79,3.83,4.63
+FUT-001422,Fútbol,Itner de Milán,Manchester City,2022-10-01,0-4,Premier League,1.4,3.25,4.0
+FUT-001693,Fútbol,Liverpool,Barcelona,08/10/2022,5-4,Bundesliga,3.22,3.48,5.27
+FUT-000785,Fútbol,Liverpool,villarreal,28 de febrero de 2024,1-1,UEFA Champions League,3.74,3.95,5.2
+FUT-000479,Fútbol,Bayern Múnich,Aresnal,20-02-2023,4-2,Serie A,2.6,4.21,3.67
+FUT-000726,Fútbol,Rayo Vallecano,Mallorca,15 de marzo de 2022,5-0,Ligue 1,3.51,2.91,4.76
+FUT-000923,Fútbol,  Rayo  Vallecano ,Juventus,2021-07-30,3-3,Bundesliga,3.67,3.8,4.72
+FUT-001434,Fútbol,Arsenal,Bayern Múnich,2023-08-02,3-2,Ligue 1,1.51,3.81,3.48
+FUT-000245,Fútbol,Real Madrid,Rayo Vallecano,12/05/2022,5-5, UEFA Champions League ,1.73,4.3,3.66
+FUT-000548,Fútbol,bayern,Borussia Dortmund,2024/02/01,,UEFA Champions League,2.07,3.66,0.0
+FUT-000825,Fútbol,Cádiz,Celta de Vigo,2024/08/28,3-1,Bundesliga,1.97,3.66,"5,05"
+FUT-001374,Fútbol,Manchester City,OSASUNA,2022/10/29,1-1,Ligue 1,1.88,3.12,4.48
+FUT-001446,Fútbol,real madrid,Levante,3 de febrero de 2024,1-0,Ligue 1,3.11,4.07,3.37
+FUT-000379,Fútbol,CÁDIZ,Bayern Múnich,20/09/2023,2-0,Ligue 1,2.64,4.18,3.33
+FUT-000011,Fútbol,Elche,Borussia Dortmund,2021-07-06,4-1,La Liga,2.01,4.3,3.79
+FUT-000957,Fútbol,Real Sociedad,Real Madrid,,0-3,Premier League,"1,42",3.72,5.94
+FUT-000395,Fútbol,Elche,LEVANTE,25/06/2024,2-0,La Liga,1.55,3.79,4.11
+FUT-001448,Fútbol,Elche,Arsenal,2022-10-18,3-1,Ligue 1,2.44,4.16,5.72
+FUT-000312,Fútbol,Betis,Esapnyol,2024-11-15,1-0,La Liga,2.95,0.0,4.23
+FUT-001592,Fútbol,Athletic Club,Real Sociedad,14-10-2023,1-0,Serie A,4.14,3.75,1.61
+FUT-001353,Fútbol,Osasuna,Arsenla,18 de julio de 2021,1-1,,3.96,4.01,2.45
+FUT-000251,Fútbol,Bteis,PSG,2 de junio de 2021,1-4,UEFA Champions League,-,4.24,3.86
+FUT-000725,Fútbol,Liverpool,Osasuna,2024/03/30,4-3,La Liga,3.12,152.96,N/A
+FUT-000535,Fútbol,Liverpool,Juventus,2021-03-22,3-0,Bundesliga,2.46,3.91,2.63
+FUT-001384,Fútbol,barcelona,  Betis ,10/01/2023,3-0,Bundesliga,3.6,3.9,0.0
+FUT-000037,Fútbol,celta,Borussia Dortmund,03/01/2023,0-1,Premier League,3.92,4.01,5.37
+FUT-001232,Fútbol,Liverpool ,Betis,21-11-2022,1-1,Ligue 1,1.95,3.07,5.54
+FUT-000400,Fútbol,Chelsea,Real Madrid,2023/12/24,0-0,Premier League,2.44,2.92,2.95
+FUT-001668,Fútbol,mancity,Rayo Vallecano,2021-08-30,1-0,Premier League,1.83,3.01,-1.26
+FUT-001637,Fútbol,Tottenham ,inter de milán,10 de abril de 2023,1-1,Serie A,1.95,-2.72,4.73
+FUT-000346,Fútbol,Manchester City,  Chelsea ,30 de julio de 2022,1-0,La Liga,3.07,2.94,5.15
+FUT-001781,Fútbol,Sevilla,Borussia Dortmund,20/05/2023,2-0,Ligue 1,3.0,3.58,5.31
+FUT-000431,Fútbol,manchester united,Levante,05-09-2022,2-0,UEFA Champions League,2.56,3.88,4.87
+FUT-000852,Fútbol,  Rayo  Vallecano ,celta,11/02/2024,1-5,Bundesliga,3.59,3.65,3.41
+FUT-001654,Fútbol,Alavés,Barcelona,9 de abril de 2023,2-1,La Liga,4.03,3.32,5.88
+FUT-001699,Fútbol,Athletic Club,Real Sociedad,7 de abril de 2024,5-3,La Liga,"2,29",3.07,4.09
+FUT-000749,Fútbol,,Manchester United,07/06/2021,1-2,UEFA Champions League,2.89,3.5,3.06
+FUT-000457,Fútbol,  Valencia ,levante,,3-1,Premier League,1.95,3.71,5.78
+FUT-000962,Fútbol,Milan,Bayern Múnich,21-07-2024,3-0,Serie A,3.19,4.22,2.95
+FUT-000168,Fútbol,Borussia Dortmund,  Athletic  Club ,2024-06-29,3-1,Bundesliga,1.74,3.23,4.38
+FUT-000566,Fútbol,Cádiz,Arsenal,19-02-2023,4-0,Ligue 1,3.83,3.81,2.54
+FUT-001729,Fútbol,Baeyrn Múnich,Manchester United,31/02/2024,0-2,Serie A,2.04,3.71,1.5
+FUT-000832,Fútbol,BAYERN MÚNICH,Villarreal,31/02/2024,0-1,Ligue 1,1.76,3.2,1.85
+FUT-000061,Fútbol,Villarreal,Borussia Dortmund,1 de noviembre de 2022,0-1,Serie A,1.54,3.43,2.45
+FUT-001786,Fútbol,Barcelona,Juventus,01/07/2024,5-2,UEFA Champions League,1.86,3.96,4.68
+FUT-001339,Fútbol,PSG,Espanyol,22 de marzo de 2023,1-2,Premier League,2.46,4.23,2.06
+FUT-001513,Fútbol,Granada,Chelsea,8 de febrero de 2023,1-1,Serie A,2.49,3.87,"2,72"
+FUT-001789,Fútbol,Celta de Vigo,Manchester United,2022-02-03,2-1,Premier League,3.56,4.14,4.06
+FUT-000199,Fútbol,Manchester City,Mallorca,2021-02-17,3-1,La Liga,2.84,3.6,"2,89"
+FUT-000536,Fútbol,JUVENTUS,Levnate,18 de agosto de 2023,2-1,Serie A,2.99,3.66,2.96
+FUT-000892,Fútbol,PSG,Rayo Vallecano,2023-03-06,3-3,UEFA Champions League,3.61,N/A,2.25
+FUT-000744,Fútbol,Granada,Villarreal,30 de octubre de 2022,4-0,La Liga,2.25,3.37,1.59
+FUT-001508,Fútbol,valencia,  Getafe ,2024/10/01,0-1,Premier League,2.5,3.11,5.97
+FUT-000642,Fútbol,Elche,athletic,2023-12-27,0-1,,2.73,3.57,5.77
+FUT-001652,Fútbol,PSG,Athletic Club,19 de agosto de 2023,0-1,Serie A,3.92,3.76,5.91
+FUT-001009,Fútbol,Atlético de Madrid,,2021-06-03,5-2,Serie A,3.87,3.63,2.51
+FUT-000024,Fútbol,Borussia Dortmund,Gteafe,2 de febrero de 2024,1-1,La Liga,3.99,3.52,"5,38"
+FUT-000762,Fútbol,Sevilla,Espanyol,2024/11/04,1-1,La Liga,3.19,3.88,5.56
+FUT-001674,Fútbol,Bayern Mnúich,Villarreal,21-05-2024,2-5,Bundesliga,1.81,4.14,2.58
+FUT-001512,Fútbol,Inter de Milán,villarreal_cf,20 de marzo de 2024,1-0,La Liga,-2.15,4.2,1.55
+FUT-001192,Fútbol,VALENCIA,Espanyol,29 de noviembre de 2024,4-4,La Liga,"2,80",3.46,"1,75"
+FUT-001717,Fútbol,CÁDIZ,Osasuna,27/02/2023,2-1,Premier League,1.77,3.99,4.4
+FUT-000180,Fútbol,Valencia,Tottenham,2024-05-29,1-3,UEFA Champions League,"3,30","4,23",2.14
+FUT-000307,Fútbol,Real Madrid,Rayo Vallecano,2024-11-25,2-0,Serie A,2.03,3.85,1.54
+FUT-000503,Fútbol,REAL MADRID,Rayo Vallecano,2022-06-23,1-0,Premier League,2.41,4.11,2.34
+FUT-000085,Fútbol,granada,Leavnte,11-01-2024,2-1,Bundesliga,2.25,3.46,2.73
+FUT-001618,Fútbol,BARCELONA,Osausna,15/07/2021,0-3,Premier League,4.14,3.28,3.69
+FUT-000150,Fútbol,Chelsae,Inter de Milan,2024/03/16,2-5,UEFA Champions League,"3,47",2.96,5.59
+FUT-000933,Fútbol,Athletic Club,Graanda,2023-10-19,1-1,,2.08,3.01,2.12
+FUT-001684,Fútbol,Real Sociedad,Betis,28-11-2021,5-3,Bundesliga,1.87,3.31,2.66
+FUT-001502,Fútbol,Liverpool,Mallorca,2022/10/09,3-5,Ligue 1,2.26,"2,99",-1.24
+FUT-000250,Fútbol,Manchester United,Elhce,23/12/2022,3-1,Premier League,3.43,3.94,3.57
+FUT-001710,Fútbol,Atlético de Madrid,Valencia,27/08/2024,3-0,Premier League,"2,01",4.24,4.09
+FUT-001205,Fútbol,Cdáiz,villarreal,08-03-2022,1-0, La Liga ,4.13,3.22,4.84
+FUT-001059,Fútbol,Villarreal,Espanyol,2021/10/01,,La Liga,3.78,3.41,3.63
+FUT-001596,Fútbol,Elche,Milan,2022-04-21,0-3,Premier League,1.92,3.48,4.02
+FUT-000802,Fútbol,Tottenham,PSG,14 de octubre de 2024,1-3,Bundesliga,3.13,3.87,5.83
+FUT-001787,Fútbol,Bayern Múnich,Chelsea,16-10-2024,4-2,UEFA Champions League,3.72,"3,80",4.92
+FUT-000835,Fútbol,Inter de Milán,,17-04-2023,0-0,La Liga,2.97,4.19,2.03
+FUT-001320,Fútbol,Sevilla,,26 de octubre de 2023,2-3,Serie A,1.72,4.03,5.59
+FUT-001491,Fútbol,Inter de Milán,,2024-07-28,4-0,UEFA Champions League,2.9,3.4,2.15
+FUT-000770,Fútbol,Mallorca,Villarreal,2022-04-05,1-0,La Liga,3.85,4.22,"5,48"
+FUT-000451,Fútbol,Valencia,Liverpool,16-06-2023,5-0,Bundesliga,3.6,3.32,1.89
+FUT-000039,Fútbol,Getafe,BAYERN MÚNICH,24/05/2022,0-3,Serie A,2.33,4.2,5.11
+FUT-001031,Fútbol,Milan,Mallorca,2024-02-22,2-0,Serie A,1.76,3.49,4.7
+FUT-001695,Fútbol,MANCHESTER UNITED,Athletic Club,2023-05-22,2-0,Serie A,3.74,3.34,2.9
+FUT-001273,Fútbol,Milan,,03/12/2021,1-1,Ligue 1,3.49,4.29,5.68
+FUT-001467,Fútbol,PSG,  Mallorca ,12 de septiembre de 2024,3-0,UEFA Champions League,1.56,"4,28",3.66
+FUT-001106,Fútbol,sevilla_fc,Borussia Dortmund,26-11-2023,0-2,Premier League,4.14,3.14,5.57
+FUT-000801,Fútbol,Elche,Real Sociedad,01/08/2023,2-0,UEFA Champions League,2.51,2.92,4.45
+FUT-001478,Fútbol,Cádiz,,2024/11/26,3-1,Bundesliga,3.08,3.78,3.28
+FUT-000904,Fútbol,Juventus,Barcelona,2024/09/11,1-2,Serie A,1.76,4.22,1.54
+FUT-000664,Fútbol,OSASUNA,valencia_cf,,3-0,Bundesliga,"2,79",4.02,-2.07
+FUT-001373,Fútbol,Granada,Manchester City,08-10-2024,3-1,Premier League,3.32,N/A,2.45
+FUT-000022,Fútbol,milan,Bayern Múnich,2021-04-21,1-0,UEFA Champions League,"2,61",3.49,3.6
+FUT-000023,Fútbol,Real Sociedad,Sevilla,8 de julio de 2023,1-1,,"3,81",3.25,2.36
+FUT-000847,Fútbol,OSASUNA,Levante,2021/12/13,0-1,La Liga,"1,65",3.33,3.33
+FUT-000723,Fútbol,Sevilla,MILAN,11 de septiembre de 2021,0-1,Ligue 1,1.59,3.83,4.9
+FUT-000414,Fútbol,Getafe,Athletic Club,2023-05-14,1-5,UEFA Champions League,2.16,3.44,5.33
+FUT-000384,Fútbol,Villarreal,Levante,30 de marzo de 2022,0-0,UEFA Champions League,3.79,0.0,2.46
+FUT-000086,Fútbol,juve,VILLARREAL,2022/04/14,2-4,UEFA Champions League,"3,46",3.75,1.62
+FUT-001554,Fútbol,ALAVÉS,PSG,03/12/2021,0-2,Bundesliga,3.03,3.42,5.54
+FUT-000934,Fútbol,Mallorca,Celta de Vigo,28 de junio de 2023,1-2,UEFA Champions League,2.07,3.92,5.95
+FUT-000452,Fútbol,Tottenham,Barcelona,2024/01/23,2-2,Serie A,-,3.45,5.09
+FUT-001610,Fútbol,  Getafe ,Athletic Club,22-11-2022,3-4,Premier League,3.19,3.19,5.05
+FUT-000841,Fútbol,Chelsea,Alavés,23-07-2022,4-1,UEFA Champions League,1.53,3.84,3.49
+FUT-000437,Fútbol,Espanyol,Levante,04-11-2024,3-0,Serie A,2.47,3.48,5.05
+FUT-000032,Fútbol,Betis,liverpool,2024-12-11,4-4,Serie A,2.43,3.12,5.25
+FUT-001185,Fútbol,Manchester City,real sociedad,sin fecha,3-1,Bundesliga,4.17,3.7,2.4
+FUT-000428,Fútbol,Athletic Club,Juventus,2021/04/10,2-2,Ligue 1,2.81,4.25,1.52
+FUT-000169,Fútbol,Valencia,Athletic Club,22/10/2021,4-1,Serie A,2.9,3.78,n/d
+FUT-001052,Fútbol,Manchester United,Athletic Club,28/05/2023,1-4,Ligue 1,1.64,"2,96",2.18
+FUT-000325,Fútbol,Celta de Vigo,Getafe,09-05-2023,5-3,Premier League,2.95,4.18,4.83
+FUT-001540,Fútbol,Espanyol,Alavés,2022/07/13,2-1,Serie A,3.71,3.58,2.16
+FUT-000898,Fútbol,Elche,Valencia,21/07/2022,1-0,Premier League,3.76,3.62,4.4
+FUT-001133,Fútbol,Sevilla,Elche,2024-11-09,4-0,Ligue 1,1.53,3.33,"2,69"
+FUT-000304,Fútbol,Inter de Milan,Barcelona,2022-02-19,0-3,,2.64,2.9,5.81
+FUT-001732,Fútbol,Levante,Inter de Milan,2022/02/23,0-1,Serie A,3.13,2.94,4.77
+FUT-000705,Fútbol,PSG,Manchester City,26 de mayo de 2023,2-2,Serie A,1.56,"3,83",3.29
+FUT-000412,Fútbol,Levante,Arsenal,4 de abril de 2021,3-1,La Liga,3.47,3.03,4.91
+FUT-000913,Fútbol,Real Madrid,Celta de Vigo,2024/03/11,2-3,Bundesliga,3.09,3.25,2.98
+FUT-000594,Fútbol,Borussia Dortmund,Valencia,2023-12-11,1-0,Premier League,3.34,3.28,3.87
+FUT-000377,Fútbol,Espanyol,Sevilla,13 de septiembre de 2022,3-4,Serie A,3.91,2.93,5.18
+FUT-000310,Fútbol,Real Madrid,Osasuna,2024-11-07,2-2,Bundesliga,3.16,3.11,3.35
+FUT-000791,Fútbol,,TOTTENHAM,03-03-2022,1-1,Premier League,3.56,3.46,1.59
+FUT-000543,Fútbol,Inter de Milan,Sevilla,30-04-2021,1-3,Ligue 1,3.89,4.05,5.07
+FUT-001585,Fútbol,Atlético de Madrid,PSG,2024-07-16,3-0,La Liga,"2,11","3,03",2.6
+FUT-000603,Fútbol,Manchester United,Liverpool,31 de diciembre de 2023,0-0,Premier League,3.75,3.37,3.19
+FUT-001728,Fútbol,ATLÉTICO DE MADRID,Milan,2023/09/30,3-2,Premier League,3.24,3.87,1.53
+FUT-001051,Fútbol,CHELSEA,Athletic Club,2021/06/06,2-5,Ligue 1,2.03,4.24,2.77
+FUT-001533,Fútbol,PSG,Rayo Vallecano,01-11-2024,1-0, Ligue 1 ,"2,26",3.12,4.34
+FUT-000782,Fútbol,Osasuna,Manchester City,27-07-2024,3-1,Bundesliga,4.06,3.68,5.65
+FUT-001361,Fútbol,Alaves,Celta de Vigo,30 de julio de 2023,1-3,,3.61,3.81,3.1
+FUT-001741,Fútbol,villarreal,Manchester United,01/04/2021,2-0,Bundesliga,"2,13",3.67,n/d
+FUT-000804,Fútbol,Milan,Celta de Vigo,09-09-2022,2-1,Bundesliga,3.15,4.01,2.36
+FUT-000228,Fútbol,Villarreal,Juventus,2023/11/02,2-1,Premier League,3.97,3.06,N/A
+FUT-000786,Fútbol,Rayo Vallecano,Real Madird,18 de octubre de 2024,2-2,La Liga,2.57,3.01,4.96
+FUT-000497,Fútbol,Manchester United,Valencia,10-01-2022,2-0,UEFA Champions League,2.28,n/d,4.08
+FUT-000768,Fútbol,madrid,Tottenham,22 de agosto de 2024,1-1,Premier League,3.01,3.06,2.62
+FUT-000238,Fútbol,Juventus,alavés,25/04/2022,2-3,UEFA Champions League,-2.78,3.1,5.97
+FUT-000630,Fútbol,Betis,Bayern Múnich,2023-07-20,4-4,Ligue 1,3.35,4.2,4.3
+FUT-000998,Fútbol,Valencia,Manchester United,8 de abril de 2022,2-1,Serie A,2.33,3.28,5.41
+FUT-000918,Fútbol,Manchester City,Bayern Múnich,23-11-2024,,UEFA Champions League,2.82,"3,55",1.83
+FUT-001221,Fútbol,Celta de Vigo,Barcelona,2023-08-22,1-3,Serie A,"2,34",3.47,4.43
+FUT-001576,Fútbol,bayern_munich,Athletic Club,N/A,,UEFA Champions League,"2,85","3,71",2.65
+FUT-000979,Fútbol,Mallorca,Tottenham,24 de diciembre de 2024,0-1,Serie A,3.62,4.11,"1,74"
+FUT-000653,Fútbol,celta,Borussia Dortmund,30-05-2021,1-2,La Liga,3.96,3.9,1.96
+FUT-000987,Fútbol,Borussia Dortmund,Granada,14-01-2022,2-0,Bundesliga,-2.8,4.17,5.08
+FUT-000029,Fútbol,Valencia,Espanylo,2021-06-17,1-4,Bundesliga,3.0,3.71,-2.68
+FUT-000643,Fútbol,Chelsea,Milan,22-02-2023,,UEFA Champions League,n/d,3.3,5.09
+FUT-000955,Fútbol,Getafe,Mallorca,27 de julio de 2024,1-4,Premier League,2.54,3.78,4.31
+FUT-000359,Fútbol,Chelsea,juve,24/01/2024,3-5,Bundesliga,3.88,3.59,3.2
+FUT-001548,Fútbol,SEVILLA,Betis,2022/04/27,2-4,La Liga,1.79,3.04,"2,24"
+FUT-001378,Fútbol,Mallorac,Rayo Vallecano,23 de febrero de 2023,3-1,Serie A,3.73,2.93,3.42
+FUT-001390,Fútbol,Juventus,  Celta  de Vigo ,19/11/2024,2-0,UEFA Champions League,3.21,3.38,3.87
+FUT-000609,Fútbol,VILLARREAL,Manchester United,28 de marzo de 2024,2-0,Serie A,2.86,3.82,2.91
+FUT-000753,Fútbol,,Manchester City,2022-08-11,4-4,UEFA Champions League,3.17,4.08,2.7
+FUT-000432,Fútbol,Manchester City,Rayo Vallecano,25/12/2024,1-2,UEFA Champions League,2.21,"3,38",4.53
+FUT-000156,Fútbol,Chelsea,MANCHESTER UNITED,15-12-2023,3-2,La Liga,3.72,3.93,4.58
+FUT-001602,Fútbol,BARCELONA,Mallorca,2021/09/18,3-4,Bundesliga,2.49,n/d,"5,40"
+FUT-001071,Fútbol,Cádiz,Villarreal,2022/10/07,5-2,La Liga,2.98,"4,01",1.71
+FUT-001011,Fútbol,Athletic Club,Levnate,2022-03-22,1-1,Serie A,2.0,3.93,4.06
+FUT-000947,Fútbol,Arsenal,Sevilla,2023-01-11,2-4,UEFA Champions League,3.46,3.24,1.66
+FUT-000865,Fútbol,getafe,Valencai,08-12-2023,2-3,UEFA Champions League,-2.9,4.21,5.35
+FUT-001783,Fútbol,Real Madrid,Juventus,2023-12-19,3-1,Premier League,2.06,4.11,5.61
+FUT-000189,Fútbol,  Bayern  Múnich ,Valencia,2021-09-20,0-1,Ligue 1,1.61,3.55,3.83
+FUT-000082,Fútbol,Rayo Vallecano,Elche,12/07/2023,3-0,UEFA Champions League,1.89,230.49,1.51
+FUT-001069,Fútbol,Mallorca,Cádiz,2022-08-01,0-0,Premier League,3.09,4.09,1.63
+FUT-000184,Fútbol,Elche,JUVENTUS,2021/10/05,1-2,La Liga,3.34,4.3,2.4
+FUT-000472,Fútbol,Bayern Múnich,Barcelona,18-03-2024,1-0,Premier League,3.06,3.09,0.0
+FUT-000368,Fútbol,Cádiz,Sevilla,28 de abril de 2023,0-2,Ligue 1,1.67,3.84,5.14
+FUT-001765,Fútbol,Levante,Espanyol,14 de diciembre de 2023,1-0,Serie A,4.12,4.05,"2,37"
+FUT-001752,Fútbol,CHELSEA,Atlético de Madrid,18 de mayo de 2024,2-0,Ligue 1,"2,72",3.47,0.0
+FUT-001507,Fútbol,Getafe,Juventus,24-06-2021,4-5,Serie A,4.05,"3,69",5.49
+FUT-000981,Fútbol,real_madrid_baloncesto,Arsenal,2023-05-25,3-2,UEFA Champions League,3.3,4.28,2.16
+FUT-001662,Fútbol,Milan,Getafe,4 de diciembre de 2024,0-1,Serie A,3.76,3.85,"5,63"
+FUT-000988,Fútbol,Barcelona,TOTTENHAM,2024-04-12,2-2,Ligue 1,"3,67",3.58,n/d
+FUT-000523,Fútbol,ELCHE,villarreal_cf,03-11-2024,2-1,Serie A,3.54,4.17,5.13
+FUT-000659,Fútbol,la_real,Liverpool,21 de febrero de 2021,2-4,UEFA Champions League,n/d,3.17,1.66
+FUT-000447,Fútbol,Real Madrid,Valencia,2022-02-26,1-2, Ligue 1 ,2.0,3.86,5.26
+FUT-000201,Fútbol,Milan,Levante,06/04/2023,2-3,Serie A,2.61,4.14,4.77
+FUT-001687,Fútbol,Athletic Club,Juventus,2023-09-13,1-2,UEFA Champions League,3.74,3.65,N/A
+FUT-000851,Fútbol,Cádiz,real sociedad,21-06-2021,1-2,UEFA Champions League,3.6,"3,33",3.33
+FUT-000051,Fútbol,Mallorca,Chelsea,7 de agosto de 2021,2-1,Bundesliga,3.24,2.91,4.88
+FUT-001032,Fútbol,ARSENAL,Juevntus,29/10/2023,2-0,La Liga,2.62,3.58,3.86
+FUT-000181,Fútbol,juventus,  Atlético  de Madrid ,8 de marzo de 2021,0-1,Ligue 1,3.21,3.41,5.77
+FUT-001549,Fútbol,Asrenal,Liverpool,11/12/2023,1-1,Bundesliga,3.5,3.59,3.95
+FUT-001625,Fútbol,Espanyol,Valencia,2023/10/03,2-3,Bundesliga,2.49,3.38,3.21
+FUT-000494,Fútbol,Elche,Juventus,2023/07/29,5-2,UEFA Champions League,3.56,3.96,5.83
+FUT-000938,Fútbol,Cleta de Vigo,Rayo Vallecnao,2023-11-06,0-0,La Liga,2.94,4.01,2.42
+FUT-000077,Fútbol,Atlético de Madrid,Sevilla,26/01/2021,2-2,Ligue 1,1.75,4.12,3.71
+FUT-000902,Fútbol,Milan,Celta de Vigo,17/04/2024,4-1,Ligue 1,3.43,"3,19",2.55
+FUT-001332,Fútbol,ATLÉTICO DE MADRID,Tottenham,29/04/2023,4-2,UEFA Champions League,2.16,3.47,1.58
+FUT-000263,Fútbol,Manchesetr City,BARCELONA,08-02-2023,2-3,Bundesliga,2.66,3.22,3.99
+FUT-000283,Fútbol,Getafe,Osasuna,17/01/2022,1-1,UEFA Champions League,120.91,4.02,4.33
+FUT-000135,Fútbol,Barceolna,Cádiz,7 de enero de 2022,0-1,Premier League,3.53,4.19,3.08
+FUT-000482,Fútbol,Rayo Vallecano,Manchester City,2024-01-03,1-0,Bundesliga,2.59,3.72,"2,68"
+FUT-000138,Fútbol,  Osasuna ,Sevilla,2022/07/14,3-1,Premier League,3.25,3.58,3.49
+FUT-001691,Fútbol,,Mallorca,2022-04-10,2-1,UEFA Champions League,3.04,3.88,5.89
+FUT-000699,Fútbol,Rayo Vallecano,atletico_madrid,29/12/2023,3-5,Serie A,"1,81",3.53,5.89
+FUT-000459,Fútbol,  Celta  de Vigo ,Arsenal,29 de diciembre de 2024,3-5,UEFA Champions League,1.87,3.34,5.04
+FUT-000426,Fútbol,,Osasuna,2022-02-06,2-3,Premier League,3.48,3.47,2.64
+FUT-000289,Fútbol,Betis,Chelsea,21-12-2021,2-1,Ligue 1,2.9,4.19,5.69
+FUT-000068,Fútbol,Real Sociedad,BORUSSIA DORTMUND,05/12/2023,5-2,UEFA Champions League,3.72,3.89,3.46
+FUT-001292,Fútbol,Manchester City,Osasuna,6 de abril de 2023,4-2,Bundesliga,4.04,3.62,5.73
+FUT-000727,Fútbol,Milan,Arsenla,2023-02-17,3-0,Bundesliga,3.29,0.0,5.26
+FUT-000078,Fútbol,Levante,Milan,2021-08-22,2-1,La Liga,4.1,3.25,5.38
+FUT-000113,Fútbol,inter,Valencia,16 de febrero de 2024,0-5,Serie A,3.81,3.91,5.91
+FUT-001504,Fútbol,bayern_munich,athletic club,30/07/2022,2-2,UEFA Champions League,1.84,3.67,3.61
+FUT-000857,Fútbol,juve,Cádiz,2021-02-02,1-5,UEFA Champions League,-,3.54,-2.31
+FUT-001208,Fútbol,PSG,Bareclona,02/06/2023,4-1,Ligue 1,1.52,3.19,2.33
+FUT-001137,Fútbol,Rayo Vallecano,Valencia,2023-02-28,0-1,Premier League,1.99,3.84,3.61
+FUT-000040,Fútbol,osasuna,Real Sociedad,18-12-2022,1-0,Serie A,2.72,3.18,5.63
+FUT-000389,Fútbol,Levante,Granada,22 de julio de 2022,3-1,Serie A,2.34,3.29,2.96
+FUT-000737,Fútbol,PSG,Inter de Milán,13-01-2024,1-2,Ligue 1,"2,77",3.27,3.05
+FUT-001152,Fútbol,PSG,Lievrpool,2022-12-24,5-1,Serie A,2.76,3.41,202.53
+FUT-000718,Fútbol,bayern múnich,Manchester United,19/02/2024,5-0,Ligue 1,"2,01",3.6,5.24
+FUT-001021,Fútbol,Espanyol,celta de vigo,06-12-2024,3-0,Premier League,2.19,3.06,"2,69"
+FUT-001689,Fútbol,Barceloan,Villarreal,2022/02/02,5-0,Bundesliga,N/A,3.63,4.6
+FUT-001551,Fútbol,Espanyol,Sevilla,2021/03/28,2-2,La Liga,1.55,4.08,2.51
+FUT-000600,Fútbol,Manchester United,Tottenham,24 de noviembre de 2022,3-2,UEFA Champions League,1.48,3.15,194.84
+FUT-000794,Fútbol,cádiz,Borussia Dortmund,10 de julio de 2021,0-1,La Liga,2.43,3.16,4.34
+FUT-000917,Fútbol,Valencia,Rayo Vallecano,04/08/2021,4-1,Ligue 1,3.53,3.07,3.16
+FUT-001272,Fútbol,Osasuna,Celta de Vigo,2024/05/23,1-2,Serie A,3.65,4.23,3.17
+FUT-000837,Fútbol,PSG,Barcelona,04-08-2022,3-0,Premier League,3.05,2.97,5.52
+FUT-000033,Fútbol,Real Madrid,Granada,08-02-2024,5-0,Premier League,"3,86",3.27,"5,50"
+FUT-001264,Fútbol,Alaévs,Barcelona,12 de noviembre de 2022,1-1,Premier League,2.44,3.69,4.39
+FUT-001400,Fútbol,Granada,Alavés,2022/07/17,5-0,UEFA Champions League,3.2,"3,45",3.62
+FUT-001115,Fútbol,Athletic Club,Manchester United,2022-06-06,5-1,La Liga,"3,12",3.67,2.21
+FUT-001375,Fútbol,Milan,Bayern Múnich,2022-09-14,3-1,Serie A,4.01,3.56,5.35
+FUT-000002,Fútbol,Borussia Dortmund,atletico,23/08/2024,0-0,UEFA Champions League,2.81,2.94,2.39
+FUT-000460,Fútbol,Borussia Dortmund,Cádiz,05-01-2023,4-0,Serie A,3.45,N/A,3.58
+FUT-001709,Fútbol,Betis,Getafe,2022/04/18,3-2,Premier League,4.11,3.25,4.7
+FUT-001679,Fútbol,Inter de Milán,Alavés,21-03-2021,5-3,Premier League,2.02,3.27,5.51
+FUT-000394,Fútbol,Getafe,Manchester United,10/11/2022,2-1,Serie A,-,4.12,3.39
+FUT-000448,Fútbol,Borussia Dortmund,Valencia,22-04-2021,3-0,Premier League,2.69,3.36,1.89
+FUT-001637,Fútbol,Tottenham,inter de milán,10 de abril de 2023,5-4,Serie A,2.39,-2.72,4.73
+FUT-000187,Fútbol,Getafe,  Arsenal ,23/02/2021,2-0,Serie A,1.96,3.09,5.06
+FUT-000870,Fútbol,Alavés,Borussia Dortmund,N/A,5-4,La Liga,1.95,3.36,1.78
+FUT-001601,Fútbol,bayern,  Arsenal ,19 de octubre de 2022,5-3,Bundesliga,2.54,3.95,1.69
+FUT-001158,Fútbol,Celta de Vigo,Inter de Milán,25/09/2023,3-2,Serie A,2.21,3.68,2.23
+FUT-001518,Fútbol,Inter de Milán,Manchester United,2021/06/16,3-0,Premier League,1.74,3.89,2.4
+FUT-000382,Fútbol,Mallorca,Cádiz,11-05-2022,1-1,Serie A,2.51,4.19,0.0
+FUT-000364,Fútbol,Levante,Granada,2023-01-09,1-0,La Liga,"3,00",4.08,"2,19"
+FUT-000712,Fútbol,Levante,Bayern Múnich,07/10/2023,1-4,La Liga,3.21,193.59,4.94
+FUT-000248,Fútbol,Arsenal,Manchester City,11-04-2024,1-2,Ligue 1,2.02,3.1,2.67
+FUT-001398,Fútbol,Mallorca,Rayo Vallceano,25-07-2023,5-3,La Liga,2.41,3.26,2.0
+FUT-000293,Fútbol,Levante,Oassuna,18 de marzo de 2024,3-2,La Liga,3.56,3.59,3.8
+FUT-001179,Fútbol,Chelsea,Valencia,14 de octubre de 2021,1-0,Serie A,3.24,3.69,3.57
+FUT-001658,Fútbol,Tottenham,Borussia Dortmund,28/04/2022,0-1,Bundesliga,1.49,"4,21",2.03
+FUT-001025,Fútbol,bvb,Milan,20-12-2022,0-1,UEFA Champions League,1.54,3.05,3.14
+FUT-000719,Fútbol,Athletic Club,Bayern Múnich,01-10-2022,2-0,UEFA Champions League,3.69,4.19,3.66
+FUT-001379,Fútbol,Mallorca,Rayo Valleacno,10 de septiembre de 2023,2-1,UEFA Champions League,2.17,3.0,2.22
+FUT-000173,Fútbol,Manchester United,Getafe,2021-10-04,4-2,La Liga,4.15,3.57,2.32
+FUT-000247,Fútbol,Elche,Arsenal,18 de octubre de 2022,2-1,Premier League,1.68,4.27,"3,61"
+FUT-001117,Fútbol,Manchester City,BETIS,2021-07-08,1-2,Serie A,4.03,3.27,3.67
+FUT-000579,Fútbol,PSG,Manchester City,19 de febrero de 2023,4-4,UEFA Champions League,2.6,"3,99",-1.18
+FUT-000057,Fútbol,Bayern Múnich,Sevilla,2024/03/25,1-1,Bundesliga,3.93,3.72,4.63
+FUT-000464,Fútbol,Alavés,Levanet,2022-05-05,0-2,Ligue 1,1.65,3.41,1.55
+FUT-000371,Fútbol,CELTA DE VIGO,Athletic Club,30 de enero de 2022,5-1,Premier League,4.06,3.13,2.45
+FUT-000461,Fútbol,PSG,Real Sociedad,9 de enero de 2024,1-2,Premier League,3.76,4.1,2.13
+FUT-000940,Fútbol,Juventus,Mallorca,10-12-2021,1-3,Bundesliga,1.62,4.26,3.29
+FUT-000891,Fútbol,Atlético de Madrid,Mallorca,28 de julio de 2022,4-1,Premier League,1.82,3.25,4.33
+FUT-000867,Fútbol,Inetr de Milán,Real Madrid,2023/06/05,5-2,Bundesliga,4.04,2.97,5.72
+FUT-001048,Fútbol,Mallorca,Betis,2021/11/13,2-2,Premier League,2.64,3.13,2.99
+FUT-000875,Fútbol,Sevilla,Levante,13-09-2024,4-1,Ligue 1,3.13,n/d,5.39
+FUT-001739,Fútbol,Alavés,athletic club,19/04/2021,2-1,Ligue 1,N/A,3.9,5.18
+FUT-001229,Fútbol,mancity,Athletic Club,10-02-2022,0-1,Premier League,N/A,3.71,4.35
+FUT-001210,Fútbol,Rayo Vallecano,  Barcelona ,2021-04-27,1-3,,2.62,3.5,4.78
+FUT-001170,Fútbol,Manchester United,sevilla_fc,24-11-2023,0-2,Premier League,2.83,3.9,4.66
+FUT-000112,Fútbol,Cádiz,Osasuna,25/11/2022,1-3,La Liga,2.75,4.03,4.86
+FUT-000164,Fútbol,Villarreal,Osasuna,31/03/2022,1-4,Bundesliga,1.81,3.51,5.76
+FUT-001510,Fútbol,Bayern Múnich,  Osasuna ,18 de febrero de 2021,1-1,Bundesliga,2.84,"4,27",5.57
+FUT-000777,Fútbol,Borussia Dortmund,Elche,27-12-2022,0-2,Ligue 1,n/d,4.2,3.62
+FUT-001498,Fútbol,Osasuna,Chelsea,2024/03/08,5-1,UEFA Champions League,4.04,2.93,2.43
+FUT-000764,Fútbol,granada,Rayo Vallecano,2024/08/12,4-0,Bundesliga,2.63,-1.08,N/A
+FUT-000489,Fútbol,Levante,Mallorca,15-03-2021,0-2,Serie A,2.84,3.22,2.26
+FUT-001015,Fútbol,Granada,Arsenal,19 de junio de 2023,2-0,Premier League,3.67,3.05,3.47
+FUT-001278,Fútbol,Celta de Vigo,Real Sociedad,17-04-2024,3-1,UEFA Champions League,2.14,3.04,5.09
+FUT-000839,Fútbol,  Juventus ,Manchester United,2023/10/31,3-1,UEFA Champions League,3.42,3.75,"4,93"
+FUT-001251,Fútbol,TOTTENHAM,betis,26/04/2022,3-1,La Liga,3.65,3.58,3.35
+FUT-000436,Fútbol,Liverpolo,Juventus,24-02-2024,0-3,Bundesliga,3.47,4.11,4.84
+FUT-001223,Fútbol,Liverpool ,Rayo Vallecaon,22-08-2024,1-1,La Liga,1.95,3.11,4.93
+FUT-000249,Fútbol,Bayern Múncih,Levante,02/09/2024,0-1,UEFA Champions League,2.46,4.07,3.75
+FUT-001127,Fútbol,Athletic Club,Juventus,2024/08/11,1-1,Ligue 1,2.47,3.71,2.78
+FUT-001470,Fútbol,Villarreal,PSG,12/08/2022,0-0,UEFA Champions League,-2.6,3.75,2.88
+FUT-001044,Fútbol,Granada,Osasuna,2023-05-24,4-3,Premier League,3.32,3.16,"2,15"
+FUT-001083,Fútbol,Sevilla,Espanyol,13-03-2024,3-2,Bundesliga,1.83,0.0,3.19
+FUT-000571,Fútbol,alavés,  Bayern  Múnich ,16/01/2024,1-0,Premier League,4.12,"4,17","2,98"
+FUT-000732,Fútbol,Athletic Club,Celta de Vigo,12/12/2021,1-2,La Liga,4.14,3.94,5.52
+FUT-000140,Fútbol,TOTTENHAM,Sevilla,2022/11/03,0-1,La Liga,1.99,3.09,2.65
+FUT-001207,Fútbol,Atlético de Madrid,cádiz,2024-06-02,1-1,Bundesliga,3.72,3.02,2.76
+FUT-001655,Fútbol,Granada,Elche,25 de mayo de 2022,0-0,Bundesliga,2.03,4.0,-
+FUT-000927,Fútbol,Rayo Vallecano,Tottenham,4 de abril de 2023,5-0,UEFA Champions League,2.0,3.4,2.28
+FUT-001614,Fútbol,Real Sociedad,Milan,22-04-2021,2-1,La Liga,"1,79",3.07,4.92
+FUT-000985,Fútbol,Cádiz,Juventus,10 de noviembre de 2023,1-0,Premier League,1.63,3.58,4.51
+FUT-000512,Fútbol,Tottenham,Valencia,24/05/2024,0-1,UEFA Champions League,2.28,3.81,4.7
+FUT-001530,Fútbol,Real Sociedad,Barceloan,2022/09/14,1-0,Ligue 1,2.34,2.93,3.27
+FUT-000695,Fútbol,Manchester United,Bayern Múnich,2023-12-22,2-2,,3.6,3.58,4.5
+FUT-000528,Fútbol,Cáidz ,spurs,2021-01-26,1-1,La Liga,1.95,4.08,5.18
+FUT-001157,Fútbol,Manchester United,ATHLETIC CLUB,18-01-2021,2-1,Bundesliga,4.11,4.01,2.8
+FUT-000116,Fútbol,valencia,INTER DE MILÁN,2022/09/16,4-1,Bundesliga,232.95,3.1,-
+FUT-001438,Fútbol,Manchester City,Tottenham,2022/12/22,3-3,Ligue 1,1.88,3.6,1.9
+FUT-001489,Fútbol,Chelsea,Athletic Club,3 de septiembre de 2023,4-3,Ligue 1,1.5,3.66,1.59
+FUT-001743,Fútbol,Borussia Dortmund,  Villarreal ,2021/03/03,3-1,La Liga,1.86,3.29,"5,31"
+FUT-000606,Fútbol,Athletic Club,Arsenal,16-09-2023,3-3,Ligue 1,3.96,3.52,1.61
+FUT-001759,Fútbol,Rayo Vallecano,real sociedad,21/08/2022,1-3,UEFA Champions League,1.63,4.12,132.44
+FUT-001144,Fútbol,  Mallorca ,  Tottenham ,2021/04/13,1-1,UEFA Champions League,3.1,3.63,1.99
+FUT-000811,Fútbol,Inter de Milán,Betis,29/08/2024,4-2,UEFA Champions League,2.49,3.48,N/A
+FUT-001382,Fútbol,Betsi,  Valencia ,05-09-2022,1-3,Ligue 1,2.56,3.11,2.18
+FUT-000868,Fútbol,Cádiz,Athletic Club,05-04-2022,3-1,La Liga,2.41,3.96,5.48
+FUT-000707,Fútbol,Juventus,Bayern Múnich,2023/04/29,3-1,Premier League,3.66,"4,26","3,41"
+FUT-001696,Fútbol,Atlético de Madrid,Real Sociedad,2023/02/17,0-1,Premier League,4.1,3.09,2.66
+FUT-001146,Fútbol,Alavés,Tottenham,2022-02-26,1-0,Premier League,3.45,4.13,2.71
+FUT-001154,Fútbol,Celta de Vigo,Liverpool,2021/07/02,2-1,Premier League,3.47,4.26,3.12
+FUT-001677,Fútbol,Cádiz,Tottenham,22/03/2021,4-5,Bundesliga,3.11,3.76,3.46
+FUT-000592,Fútbol,Granada,Manchester United,2024/06/05,5-0,UEFA Champions League,2.57,3.15,215.63
+FUT-001730,Fútbol,Liverpool,Juventus,28/09/2024,2-0,Serie A,3.47,4.27,4.07
+FUT-000767,Fútbol,Manchester City,Inter de Milán,2024-08-05,3-3,Premier League,3.2,3.16,3.5
+FUT-000225,Fútbol,Elche,Aresnal,2023/10/27,3-0,UEFA Champions League,1.73,3.33,3.32
+FUT-001183,Fútbol,ESPANYOL,Real Sociedad,12/05/2021,4-0,La Liga,3.9,3.96,3.39
+FUT-001017,Fútbol,Betis,Tottenham,2024-09-24,2-1,Serie A,1.49,3.83,5.77
+FUT-001022,Fútbol,Borussia Dortmund,Mallorca,22-01-2022,2-3,Ligue 1,1.69,3.92,4.25
+FUT-001442,Fútbol,Getafe,Tottenham,20/09/2024,2-0,Bundesliga,1.66,3.9,5.62
+FUT-001607,Fútbol,Cdáiz,Levante,27 de enero de 2022,2-1,Serie A,4.0,"3,35",2.58
+FUT-001436,Fútbol,BARCELONA,Manchester United,4 de junio de 2022,0-4,Serie A,3.65,3.92,"5,32"
+FUT-000295,Fútbol,espanyol,Granada,2021/08/29,4-0,Premier League,2.14,4.11,1.89
+FUT-000722,Fútbol,Borussia Dortmund,Athletic Club,13 de septiembre de 2024,0-3,Ligue 1,3.52,2.96,1.99
+FUT-001543,Fútbol,Real Madrid,Granada,11 de junio de 2021,1-0,Serie A,1.47,3.81,4.93
+FUT-001698,Fútbol,Barceolna,Lveante,25 de julio de 2021,1-2,Serie A,3.83,4.2,4.21
+FUT-001524,Fútbol,Elche,Levante,23 de junio de 2024,3-0,Bundesliga,1.58,3.38,4.8
+FUT-001085,Fútbol,villarreal_cf,Getafe,5 de noviembre de 2022,3-4,La Liga,3.98,3.98,"2,40"
+FUT-000604,Fútbol,CHELSEA,GETAFE,2021-03-06,2-3,Serie A,3.5,3.89,2.92
+FUT-001495,Fútbol,Tottenham,Bteis,12-09-2024,3-0,Ligue 1,2.01,3.17,2.38
+FUT-001258,Fútbol,Barcelona,Real Sociedad,17 de julio de 2024,2-3,UEFA Champions League,1.52,3.3,1.61
+FUT-001484,Fútbol,Rayo Vallecano,Manchester City,2021-12-26,0-0,Serie A,"1,83",-1.38,2.63
+FUT-000658,Fútbol,Inter de Milán,Levante,26 de noviembre de 2024,2-0,Bundesliga,1.51,3.44,2.36
+FUT-000640,Fútbol,Espanyol,paris_saint_germain,04/05/2024,1-2,Premier League,1.49,4.28,5.85
+FUT-000522,Fútbol,Mallorca,bayern,14-02-2023,4-1,Premier League,2.1,3.9,4.41
+FUT-001734,Fútbol,Getafe,Bayern Múnich,2022/04/15,0-3,UEFA Champions League,1.99,195.22,1.99
+FUT-001788,Fútbol,Inter de Milán,Villarreal,10/03/2024,,Premier League,2.9,3.41,3.23
+FUT-001164,Fútbol,Betis,Bayern Múnich,23-01-2024,2-1,Premier League,1.64,3.69,4.33
+FUT-000779,Fútbol,Getafe,Elche,2024/12/25,1-1,Ligue 1,2.35,3.56,1.9
+FUT-000833,Fútbol,Ttotenham,Elche,04-05-2023,2-2,Premier League,4.19,N/A,5.77
+FUT-000582,Fútbol,  Chelsea ,Sevilla,07/12/2021,1-1,Bundesliga,3.88,3.98,2.79
+FUT-000793,Fútbol,Granada,Betis,6 de marzo de 2023,1-0,Bundesliga,2.43,"3,18",3.5
+FUT-000456,Fútbol,Athletic Club,GETAFE,30/01/2024,3-2,Bundesliga,"1,55",3.95,5.96
+FUT-001343,Fútbol,Tottenham,Levante,21/07/2021,0-3,Bundesliga,3.54,3.82,4.58
+FUT-001523,Fútbol,Levante,Bayern Múnich,23-12-2023,2-1,La Liga,2.59,4.05,4.81
+FUT-000046,Fútbol,Garnada,Bayern Múnich,2023-02-16,1-2,UEFA Champions League,"2,95",3.17,4.49
+FUT-000655,Fútbol,Celta de Vigo,Manchester United,13 de junio de 2023,4-2,Bundesliga,2.84,4.22,3.71
+FUT-000235,Fútbol,granada,Inter de Milán,10 de diciembre de 2022,3-2,Premier League,2.89,4.05,"2,61"
+FUT-001068,Fútbol,Inter de Milán,Milan,2024-08-17,1-2,Bundesliga,3.72,0.0,5.12
+FUT-001335,Fútbol,Manchester United,Chelsea,07/11/2021,2-2,Bundesliga,2.36,3.35,5.2
+FUT-000591,Fútbol,Rayo Vallecano,Sevilla,2024/03/29,1-0,Ligue 1,2.38,3.1,1.65
+FUT-000656,Fútbol,Valencia,Alavés,2023-01-06,0-5,Serie A,3.69,3.57,4.05
+FUT-000863,Fútbol,Atlético de Madrid,Cádiz,31/07/2024,2-2,Bundesliga,"3,10",2.91,5.93
+FUT-000513,Fútbol,Tottenham,Cádiz,2023/07/12,4-3,Bundesliga,4.03,3.95,"3,84"
+FUT-000585,Fútbol,Villarreal,Elche,,1-2,La Liga,3.39,3.13,4.8
+FUT-000158,Fútbol,Betis,Celta de Vigo,2023-12-15,0-3,La Liga,1.68,3.98,5.26
+FUT-000020,Fútbol,alavés,Real Madrid,26/05/2021,0-2,Ligue 1,2.04,4.17,5.37
+FUT-001003,Fútbol,Cádiz,Sevlila,2023/05/07,4-2,,"2,44",3.99,0.0
+FUT-000961,Fútbol,Betis,Barcelona,2023/01/25,2-3,Bundesliga,2.18,3.88,"5,17"
+FUT-000654,Fútbol,Elche,Juventus,11-03-2023,0-1,Serie A,3.23,2.9,1.67
+FUT-000577,Fútbol,Arsenal,getafe,31 de enero de 2021,4-1, Serie A ,1.79,0.0,1.65
+FUT-001471,Fútbol,Sevilla,atletico,22-12-2021,1-0,UEFA Champions League,3.9,3.95,4.07
+FUT-001774,Fútbol,Levante,  Alavés ,15 de abril de 2023,1-2,Premier League,2.36,2.94,2.13
+FUT-000093,Fútbol,Osasuna,Granada,4 de agosto de 2023,2-2,La Liga,1.66,4.29,5.61
+FUT-001775,Fútbol,,Rayo Vallecano,7 de mayo de 2023,2-2,La Liga,1.61,3.53,3.01
+FUT-000939,Fútbol,Borussia Dortmund,Inter de Milan,08-08-2022,1-2,Ligue 1,2.09,3.15,2.62
+FUT-001370,Fútbol,Espanyol,MANCHESTER UNITED,9 de enero de 2022,1-2,Bundesliga,2.26,3.52,5.9
+FUT-001103,Fútbol,Levante,Cdáiz,10-05-2022,4-1,La Liga,3.75,4.01,3.37
+FUT-000468,Fútbol,Cádiz,Eclhe,2021-06-09,2-2,Ligue 1,2.45,3.43,4.14
+FUT-001567,Fútbol,Milan,Valencia,2023/10/16,3-0,Bundesliga,"1,58",0.0,1.63
+FUT-000219,Fútbol,Alavés,Atlético de Madrid,25/03/2023,4-0,Bundesliga,3.87,3.15,5.64
+FUT-001680,Fútbol,Elche,Tottenham,25/03/2023,1-2,La Liga,1.51,123.4,3.52
+FUT-001389,Fútbol,Villarreal,Inter de Milán,22/07/2022,2-5,Bundesliga,3.51,3.97,3.44
+FUT-000050,Fútbol,Alavés ,Mallorca,2023/07/22,1-1,Bundesliga,1.95,"3,76","4,96"
+FUT-001257,Fútbol,Alavés,Levante,2021/01/28,3-4,La Liga,2.33,3.2,4.8
+FUT-000455,Fútbol,Liverpool,Rayo Vallecano,02-06-2022,1-2,Premier League,2.84,3.13,2.49
+FUT-000281,Fútbol,Itner de Milán,Rayo Vallecano,2021/05/18,2-1,Serie A,n/d,3.91,"3,54"
+FUT-001456,Fútbol,,ATHLETIC CLUB,2022/02/03,3-0,Premier League,1.58,3.48,2.23
+FUT-001748,Fútbol,Valencia,Celta de Vigo,19-08-2023,1-3,La Liga,2.8,4.0,2.91
+FUT-001042,Fútbol,Tottenham,CELTA DE VIGO,13/10/2023,2-2,Premier League,2.61,3.11,3.66
+FUT-000942,Fútbol,Borussia Dortmund,Villarreal,2022/06/11,3-4,Bundesliga,3.07,3.11,4.77
+FUT-000165,Fútbol,Liverpool,BARCELONA,05/04/2022,1-1,La Liga,2.45,3.44,1.87
+FUT-000667,Fútbol,Espanyol,atleti,25/09/2023,0-3,La Liga,3.17,3.43,2.21
+FUT-000096,Fútbol,manchester_utd,Cádiz,30/09/2023,4-1,Premier League,2.24,"3,72",6.0
+FUT-000720,Fútbol,Arsenal,Betis,24-12-2024,3-4,Serie A,3.07,3.97,3.04
+FUT-000186,Fútbol,Livrepool,Valencia,2024-12-05,2-1,UEFA Champions League,2.24,3.12,4.69
+FUT-000518,Fútbol,Inter de Milán,Cádiz,25-07-2023,2-0,UEFA Champions League,"4,06",3.66,4.16
+FUT-001286,Fútbol,Mallorca,chelsea,04/02/2022,1-4,La Liga,4.19,3.17,3.12
+FUT-000487,Fútbol,Villarreal,Valencia,2023/04/01,1-1,Ligue 1,3.11,3.91,5.69
+FUT-001497,Fútbol,Real Sociedad,Juventus,21-03-2022,1-3,Serie A,3.57,-,1.73
+FUT-001581,Fútbol,  Barcelona ,Levante,01-09-2021,0-0,Bundesliga,3.57,3.0,-1.82
+FUT-000778,Fútbol,,Real Madrid,2024/02/20,1-2,La Liga,2.25,"3,45",3.17
+FUT-000808,Fútbol,PSG,Alavés,20/08/2024,,Bundesliga,2.58,3.34,1.79
+FUT-000405,Fútbol,Elche,Sevilla,26 de agosto de 2021,2-0,Bundesliga,1.7,4.07,1.72
+FUT-000367,Fútbol,Chelsea,Getafe,24-06-2022,1-1,Premier League,1.92,2.96,3.48
+FUT-001702,Fútbol,Cádiz,sevilla_fc,2021-03-29,0-0,Bundesliga,4.05,2.91,5.51
+FUT-000765,Fútbol,Atlético de Madrid,Cádiz,13-11-2022,4-3,UEFA Champions League,"4,03",3.56,3.36
+FUT-000524,Fútbol,Lveante,Cádiz,19-06-2024,1-3,Bundesliga,1.91,3.31,4.37
+FUT-000128,Fútbol,Levante,Inter de Milán,04/02/2024,2-1,UEFA Champions League,3.62,3.06,4.45
+FUT-000715,Fútbol,Cádiz,Arsenal,7 de junio de 2021,1-4,Ligue 1,2.4,3.31,3.88
+FUT-001706,Fútbol,Cádiz,Mallorca,17/12/2023,2-1,Serie A,"2,60",3.76,3.25
+FUT-000120,Fútbol,Lievrpool,SEVILLA,2024-09-19,1-0,Premier League,1.74,4.09,3.55
+FUT-001347,Fútbol,Manchester City,Betis,2024/05/20,1-4,Bundesliga,1.98,3.55,2.6
+FUT-000968,Fútbol,Elche,milan,05-10-2023,5-2,La Liga,"3,26",4.19,4.35
+FUT-000812,Fútbol,Aresnal,Milan,28/09/2024,3-3,Bundesliga,3.14,"3,30",4.87
+FUT-000120,Fútbol,Lievrpool,SEVILLA,2024-09-19,1-0,Premier League,1.74,4.09,3.55
+FUT-001055,Fútbol,Celta de Vigo,manchester city,20 de agosto de 2021,0-1,Ligue 1,3.63,4.27,5.17
+FUT-001023,Fútbol,Celta de Vigo,Alavés,06-02-2021,0-1,Ligue 1,2.17,3.17,"2,16"
+FUT-001443,Fútbol,Eclhe,Celta de Vigo,2022-08-25,3-2,Ligue 1,2.51,4.19,139.05
+FUT-000738,Fútbol,Barcelona,  Atlético  de Madrid ,2023/06/26,5-4,Bundesliga,1.73,3.53,5.34
+FUT-000162,Fútbol,Inter de Milán,Lveante,2024-05-23,3-2,Premier League,2.57,3.13,2.4
+FUT-000446,Fútbol,Juventus,PSG,2021/12/09,0-4,Ligue 1,1.94,3.62,5.77
+FUT-000276,Fútbol,Milan,Tottenham,7 de enero de 2023,2-4,UEFA Champions League,3.83,3.49,1.67
+FUT-001648,Fútbol,VALENCIA,celta,2022-07-02,5-1,Premier League,3.25,3.52,4.75
+FUT-001469,Fútbol,Mallorca,Levante,11 de junio de 2023,1-1,Bundesliga,1.95,4.22,110.74
+FUT-001329,Fútbol,Villarreal,Manchester United,2022-06-11,5-3,UEFA Champions League,"2,58",2.93,5.78
+FUT-000846,Fútbol,Borussia Dortmund,Getafe,23-07-2021,1-3,Ligue 1,2.29,3.26,2.02
+FUT-001766,Fútbol,,athletic,2024/05/13,1-1,Bundesliga,"1,80",3.04,1.93
+FUT-000001,Fútbol,  Athletic  Club ,fc_barcelona,2024/01/22,3-1,La Liga,1.79,3.04,4.83
+FUT-000303,Fútbol,Manchester United,Betis,23/07/2021,2-1,UEFA Champions League,2.36,3.86,1.72
+FUT-000578,Fútbol,Bayern Múnich,Alavés,19-06-2023,3-5,Ligue 1,3.52,2.99,5.67
+FUT-000038,Fútbol,Espanyol,Real Sociedad,30-04-2022,1-2,Premier League,3.85,"4,26",4.87
+FUT-000533,Fútbol,Milan,Celta de Vigo,4 de julio de 2024,1-0,La Liga,1.84,"3,03",4.28
+FUT-001758,Fútbol,Granada,,2023-12-19,0-4,Bundesliga,3.52,3.08,4.75
+FUT-000976,Fútbol,Chelsea,Sevilla,6 de abril de 2022,5-1,UEFA Champions League,3.72,3.19,4.8
+FUT-000319,Fútbol,Borussia Dortumnd,ESPANYOL,26 de septiembre de 2022,0-0,UEFA Champions League,2.62,3.53,4.24
+FUT-001424,Fútbol,Osasuna,Bayern Múnich,2022/07/20,1-0,Premier League,3.74,3.0,"5,84"
+FUT-000562,Fútbol,Sevilla,Espanyol,2024-11-21,5-4,La Liga,"3,83","4,05",1.56
+FUT-000076,Fútbol,Levante,REAL SOCIEDAD,17-09-2021,4-1,Serie A,2.41,3.32,4.69
+FUT-001785,Fútbol,BARCELONA,Sevilla,2024/03/21,2-5,Premier League,3.03,2.99,2.8
+FUT-000050,Fútbol,Alavés,Mallorca,2023/07/22,0-0,Bundesliga,4.16,"3,76","4,96"
+FUT-001493,Fútbol,Inter de Milán,Bayern Munich,24/12/2022,3-2,Premier League,2.04,3.46,5.28
+FUT-001323,Fútbol,inter,Borussia Dortmund,2024-05-12,0-1, UEFA Champions League ,1.74,3.59,3.15
+FUT-001721,Fútbol,  Manchester  United ,Real Madird,2024/11/26,2-0,Serie A,3.45,3.91,3.41
+FUT-001027,Fútbol,ac_milan,Cádiz,16/09/2022,4-0,La Liga,1.92,4.23,3.14
+FUT-000167,Fútbol,Betis,Milan,29/01/2024,2-0,UEFA Champions League,"1,62",3.26,5.26
+FUT-000406,Fútbol,Juventus,Chelsea,20 de enero de 2021,,Serie A,3.37,3.19,4.59
+FUT-001319,Fútbol,Manchester City,Betis,2023-04-03,2-1, Bundesliga ,2.67,3.58,"5,82"
+FUT-001511,Fútbol,Manchester City,Osasuna,24 de marzo de 2021,0-1,Serie A,2.26,3.53,"3,45"
+FUT-001731,Fútbol,Mallorca,Getafe,09/02/2022,4-1,Premier League,1.53,3.15,"5,22"
+FUT-001241,Fútbol,juventus,Betis,30-06-2023,4-1,Bundesliga,1.71,3.89,5.3
+FUT-001223,Fútbol,Liverpool,Rayo Vallecaon,22-08-2024,1-2,La Liga,n/d,3.11,4.93
+FUT-001531,Fútbol,Cáidz,Alavés,26/09/2023,1-2,UEFA Champions League,2.8,3.51,"5,33"
+FUT-001587,Fútbol,rayo vallecano,Bayern Múinch,2023/11/03,0-2,Bundesliga,3.06,3.85,1.63
+FUT-001444,Fútbol,Villarreal,Manchester City,2022/07/15,5-1,La Liga,1.51,3.67,4.5
+FUT-001355,Fútbol,juve,Elche,2022/03/29,2-2,Serie A,3.53,3.11,2.8
+FUT-001461,Fútbol,Arsenal,Real Sociedad,26-02-2021,1-5,Ligue 1,2.88,2.91,3.23
+FUT-001535,Fútbol,Milan,Valencia,03-10-2022,0-1,UEFA Champions League,2.09,4.22,4.6
+FUT-001550,Fútbol,Tottenham,  Celta  de Vigo ,2022/06/19,2-0,Premier League,1.98,3.12,4.93
+FUT-001715,Fútbol,LEVANTE,Rayo Vallecano,29 de enero de 2021,1-4,Bundesliga,1.79,3.29,3.42
+FUT-001112,Fútbol,Athletic Club,la_real,02-03-2022,0-1,Bundesliga,102.49,3.01,"5,30"
+FUT-000366,Fútbol,Levatne,villarreal_cf,2022-06-27,2-0,La Liga,3.6,3.56,"5,53"
+FUT-000146,Fútbol,Cetla de Vigo,Espanyol,2021-06-04,0-1,Premier League,1.89,3.11,4.92
+FUT-000265,Fútbol,Celta de Vigo,Chelsea,07-07-2022,1-0,La Liga,"1,41",3.33,"3,12"
+FUT-000616,Fútbol,Inter de Milán,Milan,2023-03-14,,Premier League,3.81,N/A,"5,61"
+FUT-000094,Fútbol,celta,PSG,2023-08-26,5-1,Premier League,3.38,3.48,3.67
+FUT-001248,Fútbol,Espanyol,Liverpool,2022-08-22,2-2,UEFA Champions League,1.9,3.32,2.54
+FUT-000973,Fútbol,Alavés,Real Sociedad,2022/03/25,1-2,Bundesliga,2.69,3.1,5.74
+FUT-001391,Fútbol,dortmund,barca,2022-10-23,1-1,Bundesliga,3.15,3.45,"1,54"
+FUT-001145,Fútbol,  Espanyol ,Athletic Club,26/07/2021,1-0,Serie A,-2.25,3.27,N/A
+FUT-000735,Fútbol,Real Sociedad,Athletic Club,19/04/2021,1-1,La Liga,3.16,3.09,N/A
+FUT-001547,Fútbol,Tottenham,Getafe,10/03/2024,1-3,La Liga,1.5,3.3,4.05
+FUT-000741,Fútbol,Osasuna,Sevilla,,1-1,Serie A,4.12,3.76,"3,09"
+FUT-001744,Fútbol,Real Madrid,Barcelona,04/12/2021,3-2,UEFA Champions League,164.41,3.91,1.88
+FUT-001177,Fútbol,Cheslea,Real Madrid,28-12-2022,2-0,Premier League,3.22,3.82,3.5
+FUT-001270,Fútbol,Borussia Dortmund,  PSG ,,1-3,La Liga,2.76,3.95,245.48
+FUT-000945,Fútbol,Arsenal,Chelsea,2021/09/12,2-2,Bundesliga,3.05,3.47,1.67
+FUT-001381,Fútbol,Chelsea,Sevilla,16/08/2021,0-2,Bundesliga,2.17,3.42,95.54
+FUT-001481,Fútbol,  Real  Sociedad ,Athletic Club,2022/02/16,1-4,Premier League,1.97,3.02,"5,31"
+FUT-001336,Fútbol,PSG,Rayo Vallecano,16-03-2024,2-0,La Liga,2.49,3.46,4.47
+FUT-000348,Fútbol,Sevilla,  Alavés ,2021-12-22,2-5,Premier League,2.49,4.21,5.96
+FUT-001217,Fútbol,PSG,Betis,2024/09/02,1-0,La Liga,3.84,3.82,2.55
+FUT-000870,Fútbol,Alavés,Borussia Dortmund,N/A,5-4,La Liga,1.95,3.36,1.78
+FUT-000333,Fútbol,  Villarreal ,Real Sociedad,2024-09-18,2-2,Premier League,2.5,3.73,n/d
+FUT-001635,Fútbol,Inter de Milán,Espanyol,2021-03-28,2-2,La Liga,3.4,3.13,4.23
+FUT-001072,Fútbol,,Real Madrid,2023/03/12,5-3,UEFA Champions League,4.08,3.6,2.92
+FUT-000075,Fútbol,Mallorca,MANCHESTER CITY,2023-09-19,0-2,Serie A,3.53,3.16,2.47
+FUT-000629,Fútbol,Betis,  Real  Madrid ,6 de octubre de 2021,0-0,La Liga,3.42,3.58,3.47
+FUT-000259,Fútbol,Milna,Cádiz,09/03/2021,0-0,Premier League,3.99,4.16,4.04
+FUT-001420,Fútbol,Real Sociedad,Osasuna,2024-01-13,2-3,Ligue 1,2.03,4.2,4.72
+FUT-001311,Fútbol,Rayo Vallecano,Borussia Dortmund,05/09/2023,0-1,Premier League,3.32,4.08,3.18
+FUT-001616,Fútbol,ATLÉTICO DE MADRID,Sevilla,2022/04/18,0-1,Premier League,3.15,"3,29",3.43
+FUT-000069,Fútbol,  Cádiz ,Milan,27 de junio de 2021,,Serie A,3.06,3.35,2.6
+FUT-001454,Fútbol,Borussia Dortmund,Betis,08/11/2022,5-0,Premier League,2.67,3.65,"4,54"
+FUT-000197,Fútbol,Betis,Arsenal,16/10/2021,2-0,La Liga,2.08,3.07,3.52
+FUT-000803,Fútbol,Granada,Villareral,24-02-2021,0-0,Premier League,1.71,2.92,5.87
+FUT-001393,Fútbol,Liverpool,Celta de Vigo,22-03-2021,1-0,Premier League,2.26,"3,04",3.9
+FUT-000327,Fútbol,Sevilla,GETAFE,2 de agosto de 2022,1-2,Serie A,"1,53",3.46,5.45
+FUT-001139,Fútbol,Inter de Milan,Celta de Vigo,2023-07-16,4-0,Ligue 1,1.76,"4,18",3.24
+FUT-000994,Fútbol,Rayo Vallecano,Liverpool,23/08/2024,1-2,Premier League,2.58,3.67,2.67
+FUT-000388,Fútbol,Tottenham,Real Sociedad,2024/05/01,0-5,Ligue 1,4.11,4.08,4.03
+FUT-001302,Fútbol,Cdáiz,Villarreal,25/11/2023,2-0,UEFA Champions League,2.01,3.27,5.65
+FUT-000016,Fútbol,Manchester City,PSG,29-04-2021,0-4,Premier League,3.86,4.06,"2,88"
+FUT-000331,Fútbol,CHELSEA,Granada,19 de octubre de 2021,0-2,UEFA Champions League,2.07,-2.9,1.77
+FUT-000859,Fútbol,PSG,Tottenham,2024-10-07,2-3,Bundesliga,3.22,3.01,"1,64"
+FUT-000750,Fútbol,Granada,dortmund,7 de octubre de 2024,3-1,Ligue 1,2.56,3.25,3.82
+FUT-000739,Fútbol,Atlético de Madrid,getafe,03/10/2021,2-3,Serie A,2.25,3.89,3.71
+FUT-001331,Fútbol,Sevilla,Arsenal,16 de enero de 2022,2-0,Serie A,"4,02",3.28,4.6
+FUT-000299,Fútbol,Bteis,Espanyol,2021-10-19,0-1,Ligue 1,2.09,4.08,3.27
+FUT-001701,Fútbol,Granada,,2024-09-09,4-3,Serie A,0.0,4.19,3.39
+FUT-001790,Fútbol,Mallorca,Real Sociedad,2023/05/31,1-3,Bundesliga,n/d,3.31,2.14
+FUT-000881,Fútbol,Sevilla,Espanyol,15-02-2022,2-3,UEFA Champions League,"3,80",0.0,2.38
+FUT-000216,Fútbol,Real Sociedad,espanyol,27-04-2023,1-2,Serie A,2.89,3.79,1.74
+FUT-000163,Fútbol,Elche,Sevilla,2021-09-13,2-4,Serie A,2.95,3.04,5.31
+FUT-000459,Fútbol,  Celta  de Vigo  ,Arsenal,29 de diciembre de 2024,1-1,UEFA Champions League,1.95,3.34,5.04
+FUT-001761,Fútbol,Arsenal,Manchester United,1 de octubre de 2024,2-0,La Liga,1.94,4.11,4.78
+FUT-000313,Fútbol,Granada,Rayo Vallecano,2022-05-06,2-2,Bundesliga,3.49,3.31,1.75
+FUT-000690,Fútbol,Rayo Vlalecano,Alavés,03/02/2023,1-4,Serie A,2.81,-2.38,"1,75"
+FUT-000439,Fútbol,arsenal,Mallorca,2022/01/18,3-5,,2.22,3.15,4.57
+FUT-000551,Fútbol,Celat de Vigo,Real Sociedad,23/04/2022,0-1,Serie A,1.79,3.41,4.12
+FUT-001460,Fútbol,Manchester United,Juvenuts,2021-05-02,3-2,UEFA Champions League,1.46,3.75,5.92
+FUT-001405,Fútbol,Barcelona,Milan,2024-05-10,0-4,UEFA Champions League,3.96,2.97,3.2
+FUT-000218,Fútbol,Milan,Mallorca,28 de agosto de 2024,3-1,Ligue 1,-1.73,2.98,4.96
+FUT-000232,Fútbol,Sevilla,Valencia,06/08/2024,5-1,UEFA Champions League,2.2,3.15,2.11
+FUT-000317,Fútbol,Bayern Múnich,Borussia Dortmund,27-09-2022,3-0,La Liga,2.9,3.76,2.75
+FUT-000869,Fútbol,Cádiz,Bayern Múnich,2021/02/21,2-1,UEFA Champions League,2.5,3.37,5.46
+FUT-000751,Fútbol,Getafe,Bacrelona,16-08-2023,2-2,Serie A,1.92,3.6,4.47
+FUT-001716,Fútbol,Valencia,INTER DE MILÁN,04-09-2023,1-2,Bundesliga,2.66,3.86,2.74
+FUT-001798,Fútbol,  Manchester  United ,  Athletic  Club ,2022/09/29,,Ligue 1,2.15,"3,66",2.58
+FUT-000963,Fútbol,  Atlético  de Madrid ,Manchester City,2022/12/15,3-1,Bundesliga,2.76,0.0,5.07
+FUT-001704,Fútbol,Osasuna,Getafe,2022-03-24,2-2,UEFA Champions League,3.83,3.78,115.65
+FUT-001340,Fútbol,Rayo Vallecano,  Athletic  Club ,2023/04/02,2-0,Ligue 1,1.85,3.99,4.81
+FUT-000618,Fútbol,Liverpool,betis,26/05/2021,2-1,Serie A,3.4,3.05,4.0
+FUT-000662,Fútbol,Inter de Milán,Celta de Vigo,9 de febrero de 2021,3-1,Bundesliga,1.6,-,3.7
+FUT-001029,Fútbol,Arsneal,espanyol,17-05-2024,2-0,,2.48,4.14,2.09
+FUT-001203,Fútbol,PSG,Liverpool,04/02/2024,4-3,Serie A,2.64,3.32,3.15
+FUT-001417,Fútbol,Athletic Club,  Levante ,31-10-2023,0-1,Premier League,2.67,3.67,5.73
+FUT-000607,Fútbol,CELTA DE VIGO,Mallorca,21 de julio de 2021,1-1,Ligue 1,3.85,-1.45,2.97
+FUT-000114,Fútbol,Villarreal,Tottenham,12/04/2024,0-2,Bundesliga,2.67,3.84,4.53
+FUT-000047,Fútbol,getafe,Granada,27 de mayo de 2024,1-3,UEFA Champions League,2.25,3.19,5.04
+FUT-001441,Fútbol,Osasuna,Manchester City,2022-08-30,0-0,Ligue 1,2.27,3.61,"4,39"
+FUT-000612,Fútbol,Cádiz,Celta de Vigo,25-11-2022,5-3,Ligue 1,3.01,3.14,2.9
+FUT-000890,Fútbol,CELTA DE VIGO,Betis,,3-0,Premier League,2.46,3.42,"4,20"
+FUT-000309,Fútbol,Aresnal,Garnada,20 de octubre de 2021,0-3,La Liga,3.51,3.09,5.97
+FUT-001453,Fútbol,Liverpool,Valencia,09/05/2024,5-1,Bundesliga,2.11,4.16,1.62
+FUT-001465,Fútbol,Liverpool,GETAFE,09-06-2024,2-0,Serie A,1.68,"3,17",2.2
+FUT-000827,Fútbol,Lveante,Rayo Vallecano,27 de febrero de 2021,0-2,Ligue 1,2.86,3.96,2.22
+FUT-000994,Fútbol,Rayo Vallecano,Liverpool,23/08/2024,1-2,Premier League,2.58,3.67,2.67
+FUT-000178,Fútbol,Lveante,Manchester City,2021/12/08,0-1,UEFA Champions League,2.23,3.52,4.73
+FUT-001640,Fútbol,Celta de Vigo,juve,31/02/2024,4-3,Premier League,3.5,3.81,2.86
+FUT-000386,Fútbol,Betis,Getafe,2024/12/23,2-0,UEFA Champions League,2.11,4.03,2.87
+FUT-000774,Fútbol,PSG,Chelsea,2024-10-18,0-3,Premier League,3.08,4.29,"2,77"
+FUT-000880,Fútbol,Celta de Vigo,Mialn,21/10/2024,,Premier League,"2,43",2.91,4.14
+FUT-000638,Fútbol,PSG,Villarreal,2022-07-18,0-0,Serie A,3.59,"3,25",0.0
+FUT-001043,Fútbol,internazionale,Getafe,1 de agosto de 2022,3-0,La Liga,3.0,4.22,"2,31"
+FUT-000090,Fútbol,Manchester City,Athletic Club,2024-01-17,5-1,Bundesliga,2.84,4.28,4.46
+FUT-000361,Fútbol,Barcelona,MANCHESTER CITY,03-06-2021,1-0,Ligue 1,2.36,4.14,"2,22"
+FUT-000212,Fútbol,Espanyol,Cádiz,2022-03-01,2-1,UEFA Champions League,4.12,3.32,2.8
+FUT-001473,Fútbol,borussia dortmund,GETAFE,2022-01-16,2-2,Premier League,1.53,"3,20",3.56
+FUT-000079,Fútbol,Tottenham,PSG,--/--/----,0-2,La Liga,0.0,3.11,4.03
+FUT-000130,Fútbol,Borussia Dortmund,mancity,24-06-2021,3-1,La Liga,1.83,4.19,1.8
+FUT-000992,Fútbol,Levante,Juventus,26-05-2024,0-1,Ligue 1,2.28,4.18,5.99
+FUT-000760,Fútbol,Sevilla,PSG,20 de mayo de 2022,2-2,Serie A,"1,72",3.66,"3,64"
+FUT-001249,Fútbol,PSG,Tottenham,12/08/2022,2-2,Bundesliga,"2,23",3.21,5.83
+FUT-000154,Fútbol,Real Sociedad,Chelsea,14/11/2022,1-2,La Liga,3.24,4.17,5.43
+FUT-001136,Fútbol,Milan,Alavés,12-05-2022,0-3,UEFA Champions League,"3,39",3.39,5.26
+FUT-000004,Fútbol,Cáidz,Celat de Vigo,06-12-2022,1-3,Ligue 1,1.69,3.43,"3,12"
+FUT-000035,Fútbol,Sevilla,Villarreal,2022/06/21,2-3,Premier League,"1,52",3.37,2.09
+FUT-001579,Fútbol,Celat de Vigo,Mallorca,28-05-2021,3-4, UEFA Champions League ,4.11,4.02,3.73
+FUT-000525,Fútbol,Cáidz,PSG,2021/07/29,1-0,Serie A,1.54,3.65,2.34
+FUT-001521,Fútbol,Sevilla,Juvetnus,16-01-2024,1-0,Ligue 1,"1,89",3.18,2.15
+FUT-001771,Fútbol,  Betis ,Real Madrid,2022/08/04,1-1,Ligue 1,2.72,3.88,2.69
+FUT-001594,Fútbol,  Borussia  Dortmund ,valencia_cf,14/05/2022,0-1,Premier League,4.06,3.4,3.31
+FUT-000614,Fútbol,Getaef,Juventus,29/12/2023,2-1,La Liga,3.69,3.9,0.0
+FUT-000372,Fútbol,Atlético de Mdarid,Borussia Dortmund,3 de mayo de 2024,0-2,Serie A,1.97,4.05,2.17
+FUT-000706,Fútbol,Chelsea,Arsenal,2022-03-18,0-1,UEFA Champions League,2.26,-2.11,"4,02"
+FUT-001218,Fútbol,Getafe,Jvuentus,15-06-2022,2-0,Serie A,3.41,"2,99",4.72
+FUT-000198,Fútbol,Sevilla,Levatne,2022-11-02,5-3,Ligue 1,2.57,4.25,5.56
+FUT-001350,Fútbol,  Bayern  Múnich ,Elceh,18-02-2021,4-2,Bundesliga,N/A,3.75,5.95
+FUT-001459,Fútbol,Borussia Dortmund,,20/07/2024,2-0,La Liga,2.52,"3,22",5.94
+FUT-001312,Fútbol,Liverpool,Real Sociedad,2023/08/08,2-2,UEFA Champions League,3.36,4.18,4.51
+FUT-001192,Fútbol,VALENCIA,Espanyol,29 de noviembre de 2024,4-4,La Liga,"2,80",3.46,"1,75"
+FUT-000507,Fútbol,  Betis ,Manchester City,15/11/2024,3-1,Premier League,2.97,3.69,-2.13
+FUT-000575,Fútbol,Cádiz,Celta de Vigo,2022/07/01,3-0,Ligue 1,1.92,3.97,4.25
+FUT-000746,Fútbol,Chelsea,Manchester City,27 de octubre de 2023,2-3,UEFA Champions League,1.68,"3,85",3.01
+FUT-000209,Fútbol,Athletic Club,Mallorca,06-06-2024,0-1,Bundesliga,1.82,3.87,"3,35"
+FUT-000176,Fútbol,Cádiz,Athletic Club,2022/11/26,3-1,Premier League,2.52,3.52,5.8
+FUT-001426,Fútbol,Real Madrid,Athletic Club,2023-06-17,2-2,Serie A,3.56,3.74,2.54
+FUT-001105,Fútbol,Manchester United,OSASUNA,12 de agosto de 2024,5-5,Bundesliga,2.08,4.26,-
+FUT-000821,Fútbol,Espanyol,celta,19 de abril de 2023,3-2,Bundesliga,3.6,3.09,3.43
+FUT-001556,Fútbol,osasuna,Mallorca,25/08/2024,3-1,Serie A,1.95,"4,16",3.27
+FUT-001283,Fútbol,Liverpool,Garnada,07-12-2021,4-1,UEFA Champions League,1.62,3.75,2.46
+FUT-000269,Fútbol,Granada,,16-06-2024,3-1,Premier League,"4,04",3.91,3.73
+FUT-001651,Fútbol,Valenica,Osasuna,2021/12/06,4-1,UEFA Champions League,2.75,2.99,3.61
+FUT-000573,Fútbol,  Borussia  Dortmund ,Celta de Vigo,31/08/2021,2-2,Premier League,1.84,2.99,3.9
+FUT-001526,Fútbol,Valenica,Elche,7 de septiembre de 2022,3-1,Bundesliga,2.4,4.04,3.17
+FUT-000274,Fútbol,Barcelona,Inter de Milán,18/04/2023,5-0,UEFA Champions League,-1.61,4.06,1.81
+FUT-000347,Fútbol,Milan,Liverpool,30/06/2022,3-5,Ligue 1,4.13,3.04,4.46
+FUT-000689,Fútbol,  Rayo  Vallecano ,Betis,2024-04-03,5-1,UEFA Champions League,1.72,3.57,-2.05
+FUT-001782,Fútbol,Celta de Vigo,Rayo Vallecano,2022-09-15,5-3,Ligue 1,n/d,4.25,2.02
+FUT-000021,Fútbol,Espanyol,  Cádiz ,2023-08-27,3-0, Premier League ,1.77,4.21,4.07
+FUT-001047,Fútbol,Celta de Vigo,Real Mardid,2024-12-19,3-0,La Liga,3.62,3.66,5.18
+FUT-001726,Fútbol,Real Sociedad,Atlético de Madrid,11 de julio de 2023,1-4,Premier League,2.55,4.29,4.39
+FUT-000819,Fútbol,PSG,Real Sociedad,2023-05-02,0-1,La Liga,3.69,3.07,2.41
+FUT-000270,Fútbol,INTER DE MILÁN,Real Sociedad,2022/11/06,0-0,Bundesliga,2.51,4.08,148.25
+FUT-000117,Fútbol,Athletic Club,Real Sociedad,2024/11/27,1-2,Ligue 1,2.49,3.42,5.77
+FUT-000907,Fútbol,Tottneham,Chelsea,12-03-2024,1-1,,2.9,3.16,1.99
+FUT-000537,Fútbol,Osasuna,Valencia,30-07-2024,2-1,Ligue 1,3.69,3.66,3.54
+FUT-001598,Fútbol,Cádiz,Real Madrid,2022-03-14,1-3,Premier League,2.29,3.24,3.66
+FUT-001008,Fútbol,Mallorca,REAL MADRID,18 de diciembre de 2023,3-2,UEFA Champions League,"3,50",3.24,4.83
+FUT-000210,Fútbol,Sevilla,Betis,2021/12/21,2-2,Bundesliga,4.19,"3,57","3,20"
+FUT-001403,Fútbol,Getafe,Celta de Vigo,29/11/2021,3-3,La Liga,1.91,4.13,1.99
+FUT-001143,Fútbol,man_united,sevilla_fc,2022/02/02,2-1,Serie A,1.54,3.44,"5,68"
+FUT-001188,Fútbol,Manchester United,Getafe,01/03/2022,3-5,Ligue 1,3.44,3.64,2.36
+FUT-000915,Fútbol,Tottenham,Getafe,2024/09/11,1-0,Premier League,3.13,3.5,3.23
+FUT-000921,Fútbol,Cádiz,Osasnua,12-03-2023,1-0,Premier League,1.68,3.31,3.91
+FUT-001363,Fútbol,Cdáiz,Villarreal,2022-01-10,,UEFA Champions League,2.99,3.25,2.65
+FUT-001367,Fútbol,Villarreal,Milna,2024/04/06,1-2, Bundesliga ,2.0,3.58,4.06
+FUT-000339,Fútbol,Tottenham,Juventus,6 de septiembre de 2021,2-2,La Liga,1.67,3.04,5.07
+FUT-000149,Fútbol,Valencia,Granada,2021/07/04,2-0,Ligue 1,2.43,3.3,4.4
+FUT-001033,Fútbol,Osasuna,Cádiz,2024-11-21,3-0,Premier League,-2.22,3.69,5.07
+FUT-000174,Fútbol,Inter de Milán,Atlético de Madrid,2023/11/22,1-0,Bundesliga,1.96,2.96,5.7
+FUT-000327,Fútbol,Sevilla,GETAFE,2 de agosto de 2022,1-2,Serie A,"1,53",3.46,5.45
+FUT-000588,Fútbol,SEVILLA,Bayern Múnich,2021/09/27,1-3,Premier League,4.09,3.3,2.31
+FUT-000373,Fútbol,Manchester City,valencia_cf,26/01/2021,0-2,UEFA Champions League,"2,95","4,10",3.84
+FUT-001575,Fútbol,Manchester United,Osasuna,2023-03-23,4-2,La Liga,4.14,4.01,5.21
+FUT-001694,Fútbol,Villarrela,Betis,10-10-2023,4-2,Ligue 1,2.97,3.06,2.11
+FUT-001091,Fútbol,Mallorca,Liverpool,2023/06/14,5-1,Serie A,2.9,4.0,5.85
+FUT-001458,Fútbol,  Chelsea ,Bayern Múnich,30-12-2021,1-1,UEFA Champions League,3.77,3.16,2.9
+FUT-001670,Fútbol,Milan,bvb,12/09/2022,1-4,UEFA Champions League,3.27,3.84,4.78
+FUT-000226,Fútbol,GRANADA,Athletic Club,07-09-2023,2-4,Premier League,2.43,3.21,5.81
+FUT-000444,Fútbol,Milan,Real Madrid,15-05-2022,0-1,La Liga,2.07,3.8,5.63
+FUT-000956,Fútbol,villarreal,Levante,21/09/2023,0-0,UEFA Champions League,1.58,2.94,2.56
+FUT-000246,Fútbol,Rayo Vallecano,Tottenham,2023-01-06,4-2,Serie A,3.57,-,3.9
+FUT-000277,Fútbol,villarreal_cf,Real Sociedad,14-08-2024,3-2,UEFA Champions League,0.0,3.81,1.7
+FUT-000041,Fútbol,  Alavés ,Barcelona,21/12/2022,3-1, UEFA Champions League ,2.18,"3,00","4,98"
+FUT-001681,Fútbol,dortmund,Sevilla,2023/05/04,5-3,La Liga,148.06,4.04,3.96
+FUT-001129,Fútbol,BARCELONA,Valencia,10/12/2022,2-3,Bundesliga,2.56,3.32,2.93
+FUT-001686,Fútbol,Valencia,Celta de Vigo,2022-07-08,4-3,Premier League,"1,41",3.24,5.0
+FUT-000430,Fútbol,Chelsea,Manchester City,,2-1,Bundesliga,4.14,4.18,4.93
+FUT-000467,Fútbol,Chelsea,Milan,2023/12/04,4-4,UEFA Champions League,1.51,"3,81",1.96
+FUT-000424,Fútbol,inter de milán,Manchester United,22-08-2021,2-2,La Liga,2.72,-,"4,72"
+FUT-001795,Fútbol,Manchester United,Barcleona,17 de octubre de 2024,2-3,Premier League,1.81,3.73,3.11
+FUT-001187,Fútbol,Barcleona,Real Sociedad,25-01-2024,1-3,La Liga,3.9,3.4,3.34
+FUT-001612,Fútbol,Valencia,  Elche ,31/02/2024,0-1,Bundesliga,2.94,3.45,1.8
+FUT-000559,Fútbol,Espanyol,Valencia,28 de abril de 2023,1-1,Bundesliga,3.32,3.71,2.01
+FUT-001282,Fútbol,Milan,Manchester City,17/12/2024,1-3,Bundesliga,-1.83,3.45,4.98
+FUT-001425,Fútbol,Tottenham,Athletic Club,19-07-2022,3-2,Serie A,3.28,-2.19,2.14
+FUT-000256,Fútbol,Tottenham,Villarreal,01-11-2024,1-1,La Liga,2.98,4.29,2.52
+FUT-000355,Fútbol,Getafe,Chelsea,19-03-2024,1-2,Bundesliga,1.76,3.92,5.77
+FUT-001066,Fútbol,ELCHE,Granada,14/09/2021,3-1,UEFA Champions League,1.84,4.26,3.85
+FUT-001075,Fútbol,Alavés,Rayo Vallecano,24-11-2023,3-2,UEFA Champions League,3.55,3.13,5.84
+FUT-000136,Fútbol,Tottenham,Valencia,10-05-2023,0-2,Bundesliga,1.49,3.94,2.47
+FUT-001745,Fútbol,Villarreal,Mallorca,28/04/2021,2-3,UEFA Champions League,2.63,4.15,4.41
+FUT-001163,Fútbol,Grnaada,Getafe,13 de febrero de 2022,2-2,Serie A,2.3,3.71,4.57
+FUT-001259,Fútbol,Epsanyol,Atletico de Madrid,07/07/2022,1-0,La Liga,3.6,3.82,2.09
+FUT-000125,Fútbol,Real Sociedad,Juventus,2023/12/04,2-4,Serie A,1.52,4.0,5.4
+FUT-000687,Fútbol,Rayo Vallecano,Villarreal,2023-01-16,2-1,La Liga,4.01,3.62,5.6
+FUT-001244,Fútbol,Manchester City,Atlético de Madrid,2024/09/15,2-4,UEFA Champions League,3.62,3.34,5.29
+FUT-001123,Fútbol,  Manchester  City ,Borussia Dotrmund,6 de octubre de 2022,3-1,La Liga,1.6,3.82,3.17
+FUT-000321,Fútbol,elche,Osasuna,02/03/2021,1-3,Serie A,3.85,3.93,2.03
+FUT-000166,Fútbol,MANCHESTER CITY,Real Sociedad,2023/08/26,4-2,UEFA Champions League,3.62,3.09,2.79
+FUT-001006,Fútbol,Valencai,ESPANYOL,7 de octubre de 2023,5-0,La Liga,0.0,3.94,n/d
+FUT-001778,Fútbol,Atlético de Madrid,Real Soceidad,2022-01-31,0-0,La Liga,3.58,2.93,1.69
+FUT-001672,Fútbol,Getafe,PSG,1 de noviembre de 2022,2-5,UEFA Champions League,3.59,4.11,3.52
+FUT-001277,Fútbol,  Granada ,ARSENAL,2021/06/08,2-1,Ligue 1,2.11,3.66,4.47
+FUT-000876,Fútbol,Real Madrid,Inter de Milán,2024-10-15,1-3,La Liga,3.86,3.77,3.03
+FUT-001538,Fútbol,  Celta  de Vigo ,Manchester City,29/06/2022,0-1,La Liga,3.09,4.15,5.81
+FUT-001386,Fútbol,barca_basket,Betis,2023/12/19,0-1,La Liga,2.51,3.58,1.72
+FUT-001313,Fútbol,Espanyol,Real Sociedad,2022/08/03,1-1,UEFA Champions League,4.02,3.46,2.97
+FUT-000048,Fútbol,Manchester City,Itner de Milán,14/12/2021,2-2,UEFA Champions League,2.83,4.01,5.82
+FUT-001429,Fútbol,Alavés,Real Sociedad,23/09/2024,0-3,Bundesliga,4.09,4.11,2.59
+FUT-000724,Fútbol,Rayo Vallecano,Mallorca,2024/04/02,1-1,Serie A,1.65,4.08,5.74
+FUT-000305,Fútbol,Betis,Granada,01/02/2023,0-4,UEFA Champions League,2.17,3.82,"2,63"
+FUT-001676,Fútbol,Manchester United,Real Madrid,2024-10-25,0-3,UEFA Champions League,4.11,3.18,2.17
+FUT-000797,Fútbol,Espanyol,dortmund,21-05-2023,1-0,Bundesliga,1.61,2.96,1.98
+FUT-001580,Fútbol,Granada,Espanyol,27/01/2022,3-1,La Liga,"1,99",3.79,5.78
+FUT-000315,Fútbol,Betis,Chelsea,30/05/2021,4-2,La Liga,2.42,3.86,4.93
+FUT-000683,Fútbol,Milan,Real Soceidad,23/03/2022,2-1,Premier League,2.96,2.92,4.79
+FUT-001629,Fútbol,ELCHE,  Juventus ,2023/04/19,0-0,Serie A,2.62,4.12,2.34
+FUT-001414,Fútbol,internazionale,Elche,22-11-2022,2-0,Premier League,2.18,3.98,0.0
+FUT-000526,Fútbol,Cádiz,,02-12-2022,3-2,Bundesliga,2.05,3.11,3.72
+FUT-000365,Fútbol,Borussia Dortmund,Villarreal,2021-12-16,1-2,UEFA Champions League,3.08,3.18,1.62
+FUT-000306,Fútbol,Osasuna,,2024-12-12,1-1,La Liga,3.36,"3,23",4.45
+FUT-001073,Fútbol,Liverpool,real_betis,04/11/2021,3-0,La Liga,2.54,3.94,1.95
+FUT-001663,Fútbol,Villarreal,Atlético de Madrid,22-03-2021,1-1,Ligue 1,1.68,4.29,1.87
+FUT-000483,Fútbol,Arsenal,Cádiz,2022/01/02,5-1,Serie A,1.97,3.67,4.01
+FUT-001344,Fútbol,Bayern Múnich,Mallorca,12 de mayo de 2024,2-2,Ligue 1,1.79,3.77,6.0
+FUT-001018,Fútbol,Atlhetic Club,Bayern Múnich,30 de marzo de 2023,2-1,Ligue 1,3.31,3.08,4.88
+FUT-001079,Fútbol,Inter de Milán,MANCHESTER CITY,26 de mayo de 2021,1-1,Premier League,-,3.71,3.09
+FUT-000398,Fútbol,PSG,Manchester United,12 de diciembre de 2021,2-0,Ligue 1,3.18,2.91,2.73
+FUT-001128,Fútbol,Real Madrid,Inter de Milán,22/03/2021,1-3,Serie A,2.53,4.15,5.63
+FUT-000772,Fútbol,Borussia Dortmund,Elceh,13/12/2023,0-5,Bundesliga,1.88,3.69,1.56
+FUT-000748,Fútbol,Rayo Vlalecano,levante,08/07/2021,1-1,UEFA Champions League,3.01,"4,03",4.31
+FUT-001708,Fútbol,Bayern Múnich,Elceh,,2-1,UEFA Champions League,4.14,3.47,2.36
+FUT-000631,Fútbol,Borussia Dortmund,Juventus,30/04/2022,1-1,UEFA Champions League,2.59,0.0,3.74
+FUT-001060,Fútbol,Sevilla,Liverpool,04/02/2024,1-3,Bundesliga,3.58,3.1,3.57
+FUT-000010,Fútbol,Rayo Vallecano,Manchseter City,2021/10/13,1-1,Premier League,3.88,3.8,"2,14"
+FUT-001226,Fútbol,Espanyol,Arsenal,2023-04-20,1-1,Serie A,4.12,3.87,3.5
+FUT-000914,Fútbol,Inter de Milán,Atlético de Madird,28-12-2024,3-1,Serie A,3.87,3.54,4.65
+FUT-000800,Fútbol,Inter de Milán,Juventus,15-01-2022,2-1,La Liga,4.11,4.12,2.34
+FUT-001054,Fútbol,Cáidz,PSG,2021/01/05,3-4, Premier League ,"3,67",3.9,1.84
+FUT-000681,Fútbol,Real Madrid,Borussia Dortmund,2024-04-26,3-1,,"2,32","3,71",5.51
+FUT-000179,Fútbol,juve,Liverpool,2024/08/02,2-2,La Liga,3.95,"3,76",3.46
+FUT-001057,Fútbol,Milan,BAYERN MÚNICH,24 de febrero de 2023,2-2,Bundesliga,"1,79",4.22,5.65
+FUT-000264,Fútbol,Gteafe,Chelsea,12-11-2021,0-2,Bundesliga,3.63,3.9,0.0
+FUT-001225,Fútbol,Sevilla,Milan,2022-05-15,2-2,Serie A,2.29,3.17,"4,09"
+FUT-001611,Fútbol,PSG,Arsenal,27/10/2021,1-1, Serie A ,2.16,0.0,212.57
+FUT-000391,Fútbol,man_city,Betis,2023-03-07,3-2,UEFA Champions League,4.19,"3,26",3.38
+FUT-001416,Fútbol,Elceh,Valencia,2023-07-26,3-1,La Liga,1.47,3.66,1.93
+FUT-000490,Fútbol,Espnayol,madrid,11 de abril de 2023,5-0,Ligue 1,2.17,3.46,197.35
+FUT-000407,Fútbol,Bayern Múnich,Real Sociedad,03/08/2021,3-1,Ligue 1,3.1,3.09,5.24
+FUT-000271,Fútbol,  Manchester  United ,Borussia Dortmund,24/11/2024,3-3,Premier League,n/d,3.09,2.94
+FUT-000710,Fútbol,Getafe,Chelsea,2023/10/09,1-1,Ligue 1,3.7,3.32,4.13
+FUT-000294,Fútbol,Cadiz,Arsenal,2023-05-21,2-3,La Liga,3.53,"3,52",2.48
+FUT-001555,Fútbol,Rayo Vallecano,,13-11-2023,2-4,Bundesliga,"3,48",3.29,4.0
+FUT-000795,Fútbol,Manchester United,Inter de Milán,18-08-2024,3-2,Ligue 1,3.4,4.2,3.87
+FUT-001220,Fútbol,Valencia,Espanyol,24-05-2023,1-2,Serie A,3.72,"3,85",1.82
+FUT-000834,Fútbol,Celta de Vigo,Betis,23/11/2024,2-1,Premier League,4.11,3.62,3.88
+FUT-001770,Fútbol,Real Madrid ,Geatfe,2023-04-30,1-1,La Liga,1.95,3.72,3.01
+FUT-001084,Fútbol,Valencia,Alavés,11/08/2023,1-1,La Liga,1.66,3.55,4.39
+FUT-001593,Fútbol,Borussia Dortmund,Barcelona,2021-03-10,3-4,Serie A,"2,43",3.66,3.38
+FUT-000701,Fútbol,Manchester United,Levante,29/10/2021,2-1,Ligue 1,"4,04",4.27,4.08
+FUT-000183,Fútbol,Cádiz,Espanyol,sin fecha,5-0,Serie A,1.92,"3,62",-2.92
+FUT-000314,Fútbol,Chelsea,Athletic Club,10-01-2023,1-2,Serie A,1.6,4.14,"1,55"
+FUT-000416,Fútbol,Juventus,Gteafe,2021/09/25,2-3,Bundesliga,3.11,4.11,5.46
+FUT-001628,Fútbol,Sevilla,Alavés,2021-06-12,0-4,Ligue 1,1.66,3.87,1.73
+FUT-001053,Fútbol,Manchester United,Getafe,15/12/2022,3-0, La Liga ,3.27,3.32,5.18
+FUT-001233,Fútbol,Real Sociedad,Atlético de Madrid,12/06/2023,0-4,Serie A,4.06,"4,17",4.34
+FUT-001002,Fútbol,Tottenham,Milan,2021/10/20,2-1,Bundesliga,3.32,101.83,4.46
+FUT-001193,Fútbol,Milan,Elhce,2021/05/02,2-0,Premier League,"2,58",3.18,5.5
+FUT-000676,Fútbol,athletic,Manchester City,2021/05/31,1-1,Bundesliga,2.56,"3,18",5.51
+FUT-000619,Fútbol,Inter de Milán,Tottenham,16-05-2021,2-1,Serie A,2.08,3.12,3.67
+FUT-000204,Fútbol,Mallorca,Totetnham,2023/07/25,2-0,Premier League,1.78,3.37,3.63
+FUT-000596,Fútbol,Levante,bvb,2021-09-23,2-1,Ligue 1,2.87,"4,29",3.09
+FUT-000385,Fútbol,Alavés,Rayo Vallecano,19-01-2021,1-1,Bundesliga,1.46,n/d,4.95
+FUT-000637,Fútbol,sevilla_fc,  Milan ,2021/02/25,2-2,Serie A,3.24,0.0,"4,82"
+FUT-000784,Fútbol,PSG,Atlético de Madrid,31-10-2021,2-5,La Liga,2.97,3.54,2.01
+FUT-001488,Fútbol,Osasuna,Manchester City,27/02/2024,1-0,La Liga,1.69,3.23,3.22
+FUT-001161,Fútbol,celta,villarreal_cf,2022/08/19,3-0,Premier League,3.45,3.5,5.63
+FUT-001125,Fútbol,Valencia,Chelsea,2024-10-06,1-0,La Liga,102.19,n/d,4.72
+FUT-001097,Fútbol,Athletic Club,PSG,08-12-2023,2-1,Serie A,"2,55",3.39,3.94
+FUT-000625,Fútbol,Borussia Dortmund,liverpool,2022-08-26,5-2,La Liga,"3,11",3.61,5.31
+FUT-001321,Fútbol,Milan,Manchester United,25/02/2023,4-5,UEFA Champions League,1.71,3.15,3.41
+FUT-001622,Fútbol,paris_saint_germain,Borussia Dortmund,2023-06-25,3-2,Ligue 1,2.3,3.6,4.27
+FUT-001088,Fútbol,Borussia Dortmund,ac_milan,01-06-2022,1-0,UEFA Champions League,1.46,3.96,3.4
+FUT-000761,Fútbol,Celta de Vigo,Arsenal,13 de marzo de 2021,2-1,UEFA Champions League,"2,26",3.8,5.57
+FUT-001630,Fútbol,Osasuna,Valencia,27-12-2021,1-0,Serie A,1.55,3.82,5.03
+FUT-000110,Fútbol,Betis,Real Sociedad,2021/09/27,4-2,La Liga,2.27,3.52,4.11
+FUT-000124,Fútbol,barcellona,Gteafe,2023/07/08,1-0,Serie A,2.58,3.06,1.79
+FUT-000357,Fútbol,MANCHESTER UNITED,Valencia,22 de diciembre de 2024,1-5, UEFA Champions League ,1.87,4.14,1.9
+FUT-000231,Fútbol,Barcelona,Tottenham,5 de diciembre de 2024,1-0,La Liga,2.01,105.36,3.41
+FUT-001796,Fútbol,Borussia Dortmund,Cádiz,2022-03-20,0-2,La Liga,3.0,3.38,"4,34"
+FUT-001063,Fútbol,Celta de Vigo,Arsenal,09-01-2022,0-1,Bundesliga,1.43,4.06,93.63
+FUT-001369,Fútbol,bayern_munich,Cádiz,6 de septiembre de 2022,,Serie A,2.82,3.62,5.78
+FUT-000338,Fútbol,,Espanyol,23-12-2021,5-1,La Liga,N/A,3.32,"5,19"
+FUT-001224,Fútbol,Valencia,Alavés,6 de septiembre de 2021,2-5,Ligue 1,3.16,n/d,3.93
+FUT-001565,Fútbol,internazionale,Rayo Vallecano,03-09-2023,0-2,Premier League,4.07,4.01,-2.42
+FUT-000084,Fútbol,Mallorca,Borussia Dortmund,03/05/2021,0-1,Premier League,"1,82",3.27,2.14
+FUT-001247,Fútbol,Borussia Dortmund,valencia_cf,10 de junio de 2024,2-2,Bundesliga,3.39,"2,95",4.6
+FUT-001749,Fútbol,Borussia Dortmund,Inter de Miáln,9 de diciembre de 2022,0-2,UEFA Champions League,1.41,0.0,2.61
+FUT-000443,Fútbol,Bayern Múnich,Tottenham,24/03/2022,0-1,Ligue 1,2.0,3.36,3.12
+FUT-001284,Fútbol,cádiz,Celta de Vigo,2024-02-17,4-2,Bundesliga,2.77,N/A,4.58
+FUT-000843,Fútbol,VILLARREAL,Malolrca,2 de septiembre de 2023,5-2,Ligue 1,196.4,4.24,3.85
+FUT-000708,Fútbol,Villarreal,Celta de Vigo,24-04-2024,1-1,Bundesliga,3.83,4.28,1.8
+FUT-001255,Fútbol,Manchester United,Betis,2024-12-14,2-0,Serie A,3.42,4.02,1.91
+FUT-001558,Fútbol,Chelesa,Real Sociedda,2024/11/13,3-4,UEFA Champions League,1.96,3.7,4.86
+FUT-001030,Fútbol,Atlético de Madrid,Mallorca,2022/09/10,1-1,UEFA Champions League,1.68,4.22,"4,29"
+FUT-001537,Fútbol,Alavés,Espanyol,2021-07-15,3-1,Bundesliga,2.98,4.15,2.91
+FUT-001074,Fútbol,Chelsea,Milan,05/07/2024,2-3,La Liga,2.21,3.11,3.58
+FUT-000757,Fútbol,valencia_cf,Bayern Múnich,15-10-2021,4-2,,3.88,3.46,5.28
+FUT-001290,Fútbol,Barcelona,,02/09/2021,3-0,La Liga,3.78,3.02,5.25
+FUT-000253,Fútbol,Arsenal,Sevilla,2021-01-14,2-2,Ligue 1,"3,13",3.58,"3,70"
+FUT-001049,Fútbol,Sevilla,Cádiz,N/A,2-0,Bundesliga,3.71,3.04,2.84
+FUT-000717,Fútbol,Cádiz,Arsenal,03-02-2023,0-2,Bundesliga,-1.36,2.92,3.83
+FUT-001165,Fútbol,Chelsea,  Borussia  Dortmund ,03-01-2023,0-2,Bundesliga,"3,34",3.61,4.58
+FUT-000517,Fútbol,Levante,Juventus,29/10/2022,2-0,Bundesliga,3.75,2.94,4.49
+FUT-000752,Fútbol,dortmund,Seivlla,2022/09/07,2-1,Bundesliga,1.81,3.11,4.58
+FUT-001509,Fútbol,Manchester City,Levante,02/02/2021,3-4,Ligue 1,1.63,"3,74",5.1
+FUT-000511,Fútbol,Levante,Inter de Milán,2024-07-16,2-0,Ligue 1,1.87,"4,03",3.02
+FUT-000255,Fútbol,Borussia Dortmund,Getafe,27-12-2022,0-0,Serie A,1.82,"3,17",3.87
+FUT-001669,Fútbol,Real Sociedad,juve,05/05/2022,0-2,UEFA Champions League,2.19,3.37,2.94
+FUT-000639,Fútbol,r_madrid,Athletic Club,26-12-2021,2-4,Serie A,3.47,3.82,3.16
+FUT-000254,Fútbol,Bayern Múnich,REAL MADRID,30-11-2024,0-2,UEFA Champions League,2.9,3.3,-1.58
+FUT-000064,Fútbol,Celta de Vigo,Espanyol,26/01/2023,0-2,Premier League,"2,98",3.21,4.65
+FUT-000172,Fútbol,Liverpool,Espanyol,1 de abril de 2021,,Serie A,3.56,N/A,147.25
+FUT-001479,Fútbol,Betis,Aalvés,05-01-2024,0-0,Serie A,1.84,4.01,1.8
+FUT-001062,Fútbol,Bareclona,Borussia Dortmund,2021/11/20,1-2,La Liga,3.26,3.0,5.27
+FUT-000060,Fútbol,Osasuna,Inter de Milán,2024/09/19,4-5,La Liga,2.9,4.17,4.16
+FUT-001301,Fútbol,RAYO VALLECANO,Borussia Dortmund,29/10/2023,1-3,Ligue 1,3.63,3.19,4.65
+FUT-000671,Fútbol,Mallorca,Athletic Club,2023-11-06,5-5,Premier League,3.13,4.11,5.94
+FUT-000602,Fútbol,Bayern Múnich,Sevilla,3 de marzo de 2022,4-1,Ligue 1,3.43,3.34,3.91
+FUT-000814,Fútbol,Rayo Vallecano,Sevilla,29 de octubre de 2023,5-1,La Liga,2.13,3.85,2.29
+FUT-000224,Fútbol,Real Madrid,Elche,19/03/2024,1-1,La Liga,2.15,3.36,"4,12"
+FUT-000073,Fútbol,Juventus,Barcelona,28 de agosto de 2023,0-1,Ligue 1,3.34,3.33,4.12
+FUT-000576,Fútbol,Alavés,Barcelona,2024-12-29,1-2,UEFA Champions League,"2,73",3.6,4.22
+FUT-000217,Fútbol,ac_milan,REAL SOCIEDAD,30/08/2024,3-0,Bundesliga,4.1,4.27,2.21
+FUT-000855,Fútbol,Atlético de Madrid,Osasuna,2021-10-14,3-2,UEFA Champions League,-,3.45,2.05
+FUT-000652,Fútbol,Elhce,Getafe,2023/10/05,2-1,La Liga,4.0,3.75,2.3
+FUT-001297,Fútbol,Inter de Milán,VILLARREAL,27 de enero de 2022,4-4,UEFA Champions League,n/d,3.85,5.74
+FUT-000539,Fútbol,Chelsea,mallorca,5 de agosto de 2024,2-1,Serie A,2.94,3.76,"2,95"
+FUT-001266,Fútbol,Milan,Alavés,16/03/2021,0-1,Serie A,2.55,3.94,5.25
+FUT-000062,Fútbol,Chelsea,Cádiz,10/01/2024,3-3,La Liga,2.11,3.01,1.59
+FUT-000755,Fútbol,PSG,Borussia Dortmund,2022/07/23,2-4,UEFA Champions League,1.97,3.28,1.63
+FUT-000445,Fútbol,Manchester City,Chelsea,2023-11-25,4-4,Serie A,2.48,3.66,2.77
+FUT-000759,Fútbol,Chelsea,,2023/04/17,5-0,Serie A,1.7,3.2,2.74
+FUT-001296,Fútbol,Villarreal,Getafe,30 de julio de 2024,1-2,Serie A,1.46,3.14,1.55
+FUT-001653,Fútbol,Manchester United,,01-05-2024,2-2,Premier League,3.74,3.73,4.57
+FUT-000030,Fútbol,Manchester City,Elche,07-09-2022,1-2,Bundesliga,2.07,3.45,4.52
+FUT-001449,Fútbol,  Liverpool ,Valecnia,08/01/2024,5-0,Ligue 1,3.81,4.28,2.61
+FUT-000375,Fútbol,Real Sociedad,Levante,2024-03-17,4-4,Ligue 1,3.86,3.27,4.45
+FUT-001215,Fútbol,juventus,Real Madrid,30/04/2021,2-5,Ligue 1,2.74,4.08,2.48
+FUT-000745,Fútbol,inter,bvb,11-10-2022,2-4,Bundesliga,"2,15",3.87,4.15
+FUT-000836,Fútbol,Athletic Club,Arsenal,2022/09/14,2-0,Serie A,"1,83",3.42,5.96
+FUT-001626,Fútbol,Juventus,Borussia Dortmund,08/09/2023,0-1,Premier League,2.04,3.41,5.99
+FUT-001087,Fútbol,celta,Milan,08/05/2021,0-0,Serie A,2.99,4.28,4.98
+FUT-000291,Fútbol,Betis,Mallorca,2023-05-02,3-5,UEFA Champions League,2.82,3.59,"4,58"
+FUT-000279,Fútbol,Alavés,Juventus,20 de febrero de 2021,1-1,Bundesliga,3.3,3.87,2.18
+FUT-000427,Fútbol,Athletic Club,Tottenham,06-04-2021,1-3,UEFA Champions League,1.93,3.37,4.91
+FUT-000298,Fútbol,Real Sociedad,Betsi,17 de septiembre de 2021,5-3,,3.97,4.29,5.4
+FUT-001256,Fútbol,Liverpool,valencia_cf,2024/01/03,2-2,,2.41,3.18,"2,21"
+FUT-000601,Fútbol,Milan,Atlético de Madrid,18-11-2022,2-1,Bundesliga,3.16,4.15,3.92
+FUT-001692,Fútbol,PSG,INTER DE MILÁN,2021/01/08,1-2,Ligue 1,"1,96",2.96,"3,54"
+FUT-001360,Fútbol,Osasuna,Milan,26/09/2022,1-4,Premier League,1.44,4.23,"3,04"
+FUT-000006,Fútbol,Arsenla,Mallorca,2022/04/22,3-0,La Liga,2.04,3.31,1.86
+FUT-001259,Fútbol,Epsanyol,Atletico de Madrid,07/07/2022,1-0,La Liga,3.6,3.82,2.09
+FUT-000106,Fútbol,Levante,Osasuna,2024-11-14,0-4, Serie A ,4.17,"3,32",5.83
+FUT-001046,Fútbol,Barcelona,Ahtletic Club,21/06/2021,4-3,Serie A,3.2,2.96,2.62
+FUT-000496,Fútbol,Manchester City,Bayern Múnich,10-07-2021,5-2,Bundesliga,1.43,4.07,2.62
+FUT-000515,Fútbol,Osasuna,Tottenham,25 de marzo de 2023,0-0,Ligue 1,3.86,240.38,1.62
+FUT-001101,Fútbol,Atlético de Madrid,LEVANTE,20/08/2023,4-0,La Liga,3.58,3.67,"2,02"
+FUT-000475,Fútbol,celta,Getafe,2024/05/06,2-2,Ligue 1,1.87,3.86,N/A
+FUT-001026,Fútbol,Bayern Múnich,Espanyol,11/03/2022,1-0,Serie A,1.51,2.97,4.85
+FUT-001487,Fútbol,Osasuna,Celta de Vigo,2021/02/05,2-1,Ligue 1,0.0,2.99,3.83
+FUT-001173,Fútbol,Barcelona,JUVENTUS,2022/04/27,1-4,Ligue 1,2.24,3.58,2.33
+FUT-000815,Fútbol,Valencia,Manchester United,28/11/2022,2-2,Serie A,1.74,3.21,2.66
+FUT-001342,Fútbol,man_city,Ttotenham,18 de noviembre de 2021,1-1,Premier League,3.52,3.3,5.66
+FUT-001406,Fútbol,Osasuna,  Real  Sociedad ,2023/09/02,0-4,Bundesliga,"1,66",4.28,2.01
+FUT-001700,Fútbol,Alavés,sevilla_fc,30 de diciembre de 2024,1-3,Ligue 1,2.94,3.66,5.37
+FUT-001720,Fútbol,Geatfe,PSG,09/02/2024,5-0,Bundesliga,4.08,N/A,4.6
+FUT-000813,Fútbol,Betis,Getaef,2022-09-14,1-2,Premier League,1.68,3.48,5.97
+FUT-000411,Fútbol,Real Sociedad,Elche,24/12/2021,2-1,La Liga,4.14,3.27,"1,73"
+FUT-000272,Fútbol,Milan,Manchester City,2024-03-25,1-1,Premier League,2.29,3.93,4.35
+FUT-000540,Fútbol,Athletic Club,Real Sociedad,18 de febrero de 2022,2-0,La Liga,3.74,"3,08",5.43
+FUT-000660,Fútbol,Espanyol,PSG,2023-07-10,1-3,La Liga,3.2,3.6,5.84
+FUT-000721,Fútbol,Barcelona,  Athletic  Club ,2021-09-24,1-3,La Liga,1.8,3.22,2.06
+FUT-000716,Fútbol,Mallorac,Getafe,2024/11/03,3-2,Serie A,1.87,3.35,2.92
+FUT-000484,Fútbol,  Milan ,Elche,12-09-2024,5-2,La Liga,3.57,3.46,2.12
+FUT-001423,Fútbol,Valencia,Sevilla,12/05/2022,3-0,Bundesliga,2.75,3.12,5.87
+FUT-001445,Fútbol,PSG,Alaves,19/03/2022,4-5,Premier League,"2,09",3.22,4.42
+FUT-000126,Fútbol,Inter de Miáln,Barcelona,2023-06-28,0-1,La Liga,2.52,3.86,0.0
+FUT-001172,Fútbol,Mallorca,Athletic Club,01/08/2021,0-0,Bundesliga,3.86,3.63,2.61
+FUT-001603,Fútbol,Bayern Múnich,Osasuna,05-05-2023,1-2,La Liga,2.79,0.0,4.2
+FUT-000648,Fútbol,Vilalrreal ,Sevilla,2024/12/21,1-1,La Liga,1.95,4.23,4.37
+FUT-001586,Fútbol,Inter de Milán,Chelsea,2024/12/12,3-1,Bundesliga,4.16,2.95,"2,89"
+FUT-001180,Fútbol,Granada,Tottenham,2022-01-05,0-3,Ligue 1,2.75,"4,25",4.23
+FUT-000873,Fútbol,Juventus,,04/10/2022,2-2,UEFA Champions League,1.64,"2,98",1.65
+FUT-001289,Fútbol,Milan,Inter de Milán,20-03-2021,2-1,Serie A,3.85,3.95,5.13
+FUT-000036,Fútbol,Juventus,Borussia Dortmund,2021-03-15,2-0,Serie A,"4,05",3.87,2.17
+FUT-000820,Fútbol,Espanyol,Milan,09-01-2023,,UEFA Champions League,"1,64",3.42,4.9
+FUT-001569,Fútbol,Levante,milan,13/11/2024,1-1,Bundesliga,3.28,4.25,2.35
+FUT-001141,Fútbol,Celta de Vigo,  Inter  de Milán ,28/02/2021,4-3,Bundesliga,2.07,4.15,"2,34"
+FUT-001155,Fútbol,Chelsea,Real Sociedad,2023/12/16,5-4,Premier League,"3,30",4.16,3.52
+FUT-001300,Fútbol,Liverpool,Juventus,15 de noviembre de 2021,4-2,Ligue 1,1.88,4.23,0.0
+FUT-001271,Fútbol,Levnate,Athletic Club,13/06/2024,2-1,Serie A,3.98,3.85,-2.85
+FUT-000007,Fútbol,Chelsea,Cádiz,08/12/2024,2-3,UEFA Champions League,N/A,3.4,4.52
+FUT-000196,Fútbol,BAYERN MÚNICH,Milan,2022-12-09,2-1,Bundesliga,1.8,4.11,"2,94"
+FUT-000067,Fútbol,Athletic Club,ATLÉTICO DE MADRID,2023/05/11,1-1,Bundesliga,0.0,3.61,3.04
+FUT-000420,Fútbol,Milan,PSG,sin fecha,4-0, Ligue 1 ,2.78,3.24,"5,87"
+FUT-001539,Fútbol,Juventus,Chelsea,2021-05-01,3-3,Bundesliga,2.17,3.1,5.31
+FUT-001348,Fútbol,Espanyol,Getafe,2021/11/23,,Premier League,"1,71",3.75,2.99
+FUT-000280,Fútbol,Real Sociedad,Levante,2022-10-01,1-5,Serie A,1.72,0.0,2.14
+FUT-000404,Fútbol,Alavsé,Betis,2021/03/18,1-0,Bundesliga,2.81,"3,07",4.7
+FUT-000288,Fútbol,Villarreal,Betis,7 de marzo de 2023,1-1,Bundesliga,1.73,3.42,2.14
+FUT-000429,Fútbol,BORUSSIA DORTMUND,Milan,20-09-2021,5-3,La Liga,3.95,3.87,"2,28"
+FUT-001309,Fútbol,Betis,Manchester United,2022/12/10,3-0,Bundesliga,1.65,4.01,0.0
+FUT-000350,Fútbol,Celta de Vigo,Mallorca,2021/03/19,4-3, La Liga ,4.12,3.66,2.29
+FUT-000586,Fútbol,Juventus,Arsenal,2021-11-24,0-2,Bundesliga,3.44,4.27,"4,25"
+FUT-000468,Fútbol,Cádiz,Eclhe,2021-06-09,2-2,Ligue 1,2.45,3.43,4.14
+FUT-000054,Fútbol,Borussia Dortmund,Juventus,29-07-2024,4-3,Serie A,2.73,3.26,2.61
+FUT-000580,Fútbol,Manchester City,Tottenham,20-03-2021,2-3,Ligue 1,3.06,"3,64",5.44
+FUT-000872,Fútbol,Milan,Espanyol,30 de mayo de 2021,5-3,Ligue 1,3.7,-2.91,2.57
+FUT-000083,Fútbol,Milan,Levante,24-04-2022,0-1,Serie A,2.19,4.1,1.82
+FUT-001245,Fútbol,Atlético de Madrid,Real Madrid,21/08/2023,1-2,Premier League,3.84,3.21,2.38
+FUT-000147,Fútbol,PSG ,Inter de Milán,2024-07-25,1-1,Ligue 1,1.95,4.19,4.04
+FUT-000243,Fútbol,Villarreal,Juventus,2024-10-11,4-0,Ligue 1,3.43,3.17,2.71
+FUT-000171,Fútbol,Barcelnoa,Chelsea,02/01/2023,4-0,La Liga,-,3.42,4.86
+FUT-001138,Fútbol,PSG,Real Sociedad,1 de octubre de 2022,1-3,UEFA Champions League,3.53,3.62,2.91
+FUT-000545,Fútbol,Alavés,Chelsea,18-02-2024,1-2,Bundesliga,2.1,3.78,2.31
+FUT-000886,Fútbol,JUVENTUS,Mallorca,2022/08/05,2-4,Premier League,2.41,4.27,2.4
+FUT-001519,Fútbol,Villareral,Real Madrid,2024/07/04,2-2,Ligue 1,1.99,n/d,3.24
+FUT-000567,Fútbol,Real Sociedad,Manchester City,23-02-2024,2-2,UEFA Champions League,1.65,3.18,5.85
+FUT-000296,Fútbol,Rayo Vallecano,Liverpool,2022-02-28,4-2,La Liga,2.6,3.76,5.03
+FUT-001372,Fútbol,REAL SOCIEDAD,Juventus,2022/04/20,1-2,Premier League,3.7,3.17,1.99
+FUT-000542,Fútbol,Elceh,sevilla_fc,04/10/2023,1-2,La Liga,1.6,4.2,2.44
+FUT-000408,Fútbol,Athletic Club,Lveante,08/12/2023,0-0,Premier League,1.96,3.18,2.68
+FUT-000095,Fútbol,Inter de Milán,Celta de Vigo,2022/07/20,1-4,Bundesliga,"2,82",4.13,5.39
+FUT-000330,Fútbol,Real Madrid,Bayern Múnich,18/11/2022,0-2,La Liga,3.18,3.87,1.54
+FUT-000185,Fútbol,Juventus,  Getafe ,2022-10-17,4-1,UEFA Champions League,-,3.85,5.3
+FUT-001260,Fútbol,Valencia,,2024-04-19,0-3,Bundesliga,2.92,4.19,1.93
+FUT-001455,Fútbol,bayern,Celta de Vigo,19-04-2021,3-5,UEFA Champions League,3.04,4.11,"5,87"
+FUT-000840,Fútbol,Inter de Milán,Juventus,01-07-2024,3-0,Bundesliga,3.44,3.03,4.31
+FUT-000413,Fútbol,Betis,Osasnua,03/02/2023,1-4,Serie A,4.07,3.28,4.8
+FUT-001643,Fútbol,Liverpool,Inetr de Milán,16 de noviembre de 2023,4-4,Ligue 1,3.84,238.41,2.82
+FUT-000488,Fútbol,Levante,Sevilla,2024/09/07,5-3,Ligue 1,3.19,3.51,"2,41"
+FUT-001496,Fútbol,Asrenal,inter,2021/10/17,2-3,Bundesliga,"2,54",3.8,2.46
+FUT-000071,Fútbol,PSG,rayo vallecano,2024/02/13,1-1,La Liga,2.18,3.73,5.46
+FUT-001202,Fútbol,Espanyol,Levante,2024/01/19,0-1,Premier League,3.24,"3,82",1.84
+FUT-001627,Fútbol,Osasuna,Alvaés,21/02/2023,4-2,Serie A,3.08,4.03,5.31
+FUT-000972,Fútbol,Mallorca,Chelsae,01-12-2023,5-1,UEFA Champions League,2.42,3.85,5.08
+FUT-001557,Fútbol,Juventus,barcelona,19 de agosto de 2021,2-5,La Liga,3.28,3.98,2.42
+FUT-000861,Fútbol,Athletic Club,Inter de Milán,2024/10/25,1-0,UEFA Champions League,1.43,3.94,4.91
+FUT-001219,Fútbol,BARCELONA,Liverpool,20/08/2021,2-0,Ligue 1,2.06,"3,05",3.78
+FUT-001186,Fútbol,Juventsu,Levante,2021/06/26,1-3,Ligue 1,2.62,3.64,5.06
+FUT-000889,Fútbol,Arsenal,Osasuna,2021/05/14,5-5,La Liga,"4,19",4.13,5.45
+FUT-001409,Fútbol,betis,Alavés,2023-04-08,2-3,Serie A,1.8,3.82,4.84
+FUT-000182,Fútbol,Celta de Vigo,Juventus,2023-03-27,5-1,Serie A,3.54,3.7,3.88
+FUT-000944,Fútbol,celta,Mallorca,02/05/2023,0-3,Bundesliga,3.45,3.42,3.32
+FUT-000789,Fútbol,Real Madrid,MANCHESTER UNITED,11/03/2024,5-2,Premier League,4.06,3.35,4.79
+FUT-001295,Fútbol,man_united,Intre de Milán,2021-07-05,2-2,Premier League,2.99,3.55,2.02
+FUT-001045,Fútbol,Inter de Milán,Tottenham,13/02/2023,0-2,Bundesliga,3.43,4.03,4.21
+FUT-001325,Fútbol,Bayern Múnich,Barcelona,2023-12-25,2-1,UEFA Champions League,1.5,3.06,4.79
+FUT-001035,Fútbol,Cheslea,Tottenham,19 de enero de 2021,2-0,Ligue 1,1.41,3.7,4.16
+FUT-000147,Fútbol,PSG,Inter de Milán,2024-07-25,3-3,Ligue 1,2.66,4.19,4.04
+FUT-000838,Fútbol,  Getafe ,PSG,27 de septiembre de 2022,0-2,Ligue 1,1.59,2.96,3.67
+FUT-000936,Fútbol,Barcelnoa,Alavés,23/09/2024,4-1,Premier League,"2,08",3.66,5.58
+FUT-000337,Fútbol,VILLARREAL,Osasuna,2022-11-03,3-1,Premier League,0.0,3.74,2.47
+FUT-001574,Fútbol,,Inter de Milán,04-07-2024,2-2,Premier League,3.3,4.15,3.05
+FUT-001552,Fútbol,alavés,CELTA DE VIGO,22/03/2023,5-0,La Liga,2.29,3.44,4.35
+FUT-001712,Fútbol,MANCHESTER CITY,Bayern Múnich,2021/10/26,1-2,Premier League,2.17,3.83,5.36
+FUT-001410,Fútbol,Real Sociedad,Espanyol,30 de septiembre de 2024,1-0,Ligue 1,3.25,3.36,5.88
+FUT-000897,Fútbol,Juventus,Inter de Milán,2023-06-24,2-1,Premier League,2.79,3.28,1.61
+FUT-000013,Fútbol,Elche,Real Madird,28/11/2022,3-0,La Liga,"3,88",3.95,4.96
+FUT-001099,Fútbol,BORUSSIA DORTMUND,LEVANTE,2021-08-01,3-4,La Liga,3.94,3.04,1.89
+FUT-000818,Fútbol,Real Sociedad,Osasuna,24-06-2023,2-4,Ligue 1,N/A,0.0,2.81
+FUT-001196,Fútbol,Betis,Cádiz,2023/09/06,3-0,Serie A,2.79,3.22,3.08
+FUT-001371,Fútbol,Real Madrid,  Manchester  City ,10-10-2024,4-2,Serie A,2.79,3.15,4.92
+FUT-001337,Fútbol,PSG,Liverpool,14-07-2023,0-3,UEFA Champions League,2.88,3.33,4.88
+FUT-001727,Fútbol,Villarreal,Manchester United,12-07-2024,5-2,Premier League,1.66,3.25,4.19
+FUT-001751,Fútbol,CELTA DE VIGO,Cádiz,2021-12-15,2-5,Ligue 1,0.0,2.97,2.9
+FUT-000213,Fútbol,PSG,Manchseter City,20/03/2024,2-2,UEFA Champions League,4.02,3.91,2.8
+FUT-000055,Fútbol,PSG,Espanyol,2024/01/12,1-0,La Liga,"2,20",3.28,2.94
+FUT-000702,Fútbol,Juventus,Manchester Unietd,2022-09-23,3-3,La Liga,3.92,3.1,3.98
+FUT-000860,Fútbol,Athletic Club,Liverpool,28/11/2024,5-1,La Liga,3.08,3.44,"5,28"
+FUT-000850,Fútbol,Athleitc Club,  Cádiz ,2022-04-24,0-1,La Liga,2.54,"3,58",3.33
+FUT-000476,Fútbol,Valencia,ALAVÉS,2024-11-02,1-0,Bundesliga,1.45,3.63,"5,59"
+FUT-001408,Fútbol,MANCHESTER CITY,ARSENAL,15/03/2024,5-2,Premier League,1.67,3.59,5.24
+FUT-000292,Fútbol,Juventus,PSG,06/04/2022,1-2,Ligue 1,3.63,3.21,1.65
+FUT-001609,Fútbol,Betis,Levante,06-08-2023,1-2,Ligue 1,3.4,3.67,2.42
+FUT-000015,Fútbol,Real Sociedad,Granada,23-12-2023,4-2,La Liga,1.96,-2.93,2.23
+FUT-000520,Fútbol,Celta de Vigo,  Granada ,01-01-2024,0-2,La Liga,3.52,"3,09",2.79
+FUT-001198,Fútbol,Barcelona,Milan,2021-10-10,0-3,La Liga,3.35,3.5,3.42
+FUT-000709,Fútbol,Villarreal,Real Madrid,08-10-2021,1-4,Premier League,"2,56",3.68,"4,70"
+FUT-001078,Fútbol,Real Madird,Cleta de Vigo,19-10-2023,3-1,La Liga,3.83,4.02,5.53
+FUT-001094,Fútbol,Elche,  Real  Madrid ,30-03-2024,5-4,La Liga,3.8,N/A,"4,38"
+FUT-001126,Fútbol,Bayern Múnich,bvb,17 de julio de 2022,1-1,Bundesliga,1.95,4.02,"3,74"
+FUT-000380,Fútbol,Arsneal,Sevilla,2023-12-10,2-0,Ligue 1,2.27,3.61,-
+FUT-001119,Fútbol,Cádiz,Tottenham,27/09/2023,0-3,Bundesliga,3.05,3.13,2.43
+FUT-000261,Fútbol,  Osasuna ,Espanyol,2021-10-14,2-3,UEFA Champions League,3.3,3.66,3.23
+FUT-000193,Fútbol,,man_united,6 de agosto de 2024,4-2,Ligue 1,3.71,2.94,1.7
+FUT-001358,Fútbol,Granada,  Celta  de Vigo ,12-04-2023,2-1,Bundesliga,3.42,3.94,5.98
+FUT-001646,Fútbol,Barcelona,Juventus,2021-04-15,1-3,Ligue 1,2.69,3.77,2.78
+FUT-000318,Fútbol,Rayo Valelcano,Celta de Vigo,2021-05-16,2-1,Serie A,3.18,4.07,4.56
+FUT-001527,Fútbol,Manchester City,Mallorca,2022/10/27,1-0,Bundesliga,"3,33",n/d,5.46
+FUT-000066,Fútbol,Mallorca,Valencia,2024/11/02,2-3,Ligue 1,2.08,3.88,2.86
+FUT-001411,Fútbol,Cádiz,Betis,,1-1,UEFA Champions League,1.81,3.93,5.33
+FUT-001228,Fútbol,Betis,Espanyol,2022/08/11,3-1,Serie A,3.04,3.09,2.67
+FUT-001093,Fútbol,Manchester City,Real Madrid,2024-10-12,0-1, Bundesliga ,1.81,4.11,2.01
+FUT-000776,Fútbol,Inter de Milán,Villarreal,2024/12/31,0-0,Bundesliga,2.31,3.87,4.59
+FUT-001211,Fútbol,Chelsea,Levante,2023-11-29,4-4,Serie A,2.7,3.7,"4,06"
+FUT-001151,Fútbol,Levante,  Alavés ,19/11/2022,2-0,Bundesliga,1.81,3.03,2.87
+FUT-001216,Fútbol,Villarreal,Cádiz,20/07/2022,4-2,Serie A,4.07,3.52,2.66
+FUT-000155,Fútbol,Celta de Vigo,Liverpool,23 de junio de 2021,1-2,Serie A,3.25,3.08,4.69
+FUT-001494,Fútbol,Tottenham,bayern_munich,23-11-2022,4-1,Serie A,2.67,4.23,3.59
+FUT-000549,Fútbol,Elche,Arsenal,5 de mayo de 2024,5-1,La Liga,2.51,3.92,99.21
+FUT-000919,Fútbol,Inter de Milan,Chelsea,2024/12/23,1-1,Premier League,1.94,2.95,"2,63"
+FUT-000831,Fútbol,espanyol,Real Sociedad,28-12-2024,1-2,Bundesliga,3.7,202.26,1.94
+FUT-001584,Fútbol,REAL SOCIEDAD,Borussia Dortmund,25 de febrero de 2021,3-2,Bundesliga,2.38,4.26,3.71
+FUT-000688,Fútbol,Athletic Club,Chelesa,2021/05/18,1-2,Ligue 1,2.42,3.15,-2.92
+FUT-000243,Fútbol,Villarreal,Juventus,2024-10-11,4-0,Ligue 1,3.43,3.17,2.71
+FUT-000899,Fútbol,  Real  Sociedad ,Athletic Club,12-09-2022,0-0,UEFA Champions League,1.96,-2.63,2.98
+FUT-000123,Fútbol,Elche,Getafe,20/04/2024,0-3,Serie A,1.77,3.4,5.05
+FUT-001657,Fútbol,ESPANYOL,Oassuna,27-04-2021,2-4, Bundesliga ,3.26,3.98,"5,67"
+FUT-001227,Fútbol,Villrareal,Liverpool,08/05/2023,2-0,Premier League,2.41,3.58,2.54
+FUT-000783,Fútbol,Sevilla,Mallorca,13 de junio de 2023,0-1,La Liga,1.5,3.26,4.68
+FUT-001253,Fútbol,Manchester City,Bayern Múnich,2022/03/25,1-1,Serie A,2.52,4.18,2.71
+FUT-001040,Fútbol,Cádiz,Getafe,09/04/2024,1-0,La Liga,3.24,4.12,5.73
+FUT-000397,Fútbol,Mallocra,Manchester United,05/01/2022,1-2,La Liga,3.94,3.54,2.92
+FUT-001089,Fútbol,Getafe,Villarreal,10/05/2023,0-1,Ligue 1,1.63,4.12,3.53
+FUT-000932,Fútbol,Juventus,Chelsea,2021/02/13,2-3,Ligue 1,2.81,3.89,1.56
+FUT-000453,Fútbol,Celta de Vigo,Granada,23/01/2021,3-4,Ligue 1,3.63,3.92,3.18
+FUT-000646,Fútbol,Mallorca,Manchester United,20/05/2021,3-5,La Liga,2.28,2.91,1.54
+FUT-001561,Fútbol,Manchester City,Inter de Milán,2022/08/08,5-2,UEFA Champions League,1.86,3.59,4.02
+FUT-000731,Fútbol,Arsenal,Getafe,2024-10-17,0-2,La Liga,-2.7,3.45,3.85
+FUT-000045,Fútbol,ARSENAL,Borussia Dortmund,08/09/2022,0-2,Ligue 1,2.32,-2.37,5.32
+FUT-000363,Fútbol,Borussia Dortmund,Osasnua,2024/01/12,0-1,Serie A,4.13,"3,47",3.99
+FUT-000308,Fútbol,Athletic Club,bvb,31-07-2021,3-1,Serie A,2.04,N/A,n/d
+FUT-000087,Fútbol,Barcelona,Cáidz,24/07/2022,2-3,Premier League,1.89,3.63,3.49
+FUT-001005,Fútbol,Alavés,Granada,23/07/2024,2-0,La Liga,2.26,3.98,5.3
+FUT-001349,Fútbol,Inter de Milán,VALENCIA,01-03-2023,0-0,La Liga,3.3,4.11,-2.87
+FUT-001475,Fútbol,ATHLETIC CLUB,Levante,10-03-2023,0-1,Premier League,3.68,4.06,5.93
+FUT-000409,Fútbol,Lvierpool,Bayern Múnich,09/11/2022,1-0,Premier League,2.79,3.19,-1.76
+FUT-001243,Fútbol,Alavés,VALENCIA,2021/06/01,1-2,UEFA Champions League,2.17,-,3.81
+FUT-000574,Fútbol,manchester city,  Celta  de Vigo ,2023/06/27,3-3,UEFA Champions League,3.86,3.48,3.35
+FUT-001737,Fútbol,  Juventus ,Cádiz,06-02-2022,1-2,Bundesliga,3.99,4.02,5.26
+FUT-000141,Fútbol,Real Madrid,PSG,30 de septiembre de 2024,3-0,Serie A,2.46,3.89,3.75
+FUT-000954,Fútbol,Mallorca,PSG,2021/05/01,1-4,UEFA Champions League,-,4.04,2.34
+FUT-001532,Fútbol,Sevilla,Liverpool,27 de abril de 2022,5-0,Ligue 1,2.31,3.57,89.98
+FUT-000378,Fútbol,Cádiz,PSG,27 de junio de 2023,4-2,Serie A,4.12,3.22,2.85
+FUT-000498,Fútbol,Mallorca ,PSG,27-05-2022,1-1,Ligue 1,1.95,3.27,2.53
+FUT-001401,Fútbol,manchester city,ATLÉTICO DE MADRID,24/11/2024,0-1,Bundesliga,2.98,3.08,2.2
+FUT-000849,Fútbol,Cheslea,ATHLETIC CLUB,31/10/2023,0-1,Bundesliga,-,3.23,-1.83
+FUT-000370,Fútbol,Espanyol,Milan,2023/11/25,1-1,Ligue 1,3.79,2.95,4.07
+FUT-000311,Fútbol,RAYO VALLECANO,Villarreal,30/05/2023,4-0,Serie A,1.74,3.92,3.08
+FUT-001140,Fútbol,  Mallorca ,Tottenahm,2024/08/20,1-1, La Liga ,1.86,3.33,-1.82
+FUT-001130,Fútbol,Villarreal,Manchester City,05-08-2024,2-0,La Liga,2.24,4.28,3.72
+FUT-001671,Fútbol,Rayo Vallecano,Milan,2022-06-01,2-1,Bundesliga,2.49,3.38,1.72
+FUT-001792,Fútbol,Barcelona,Juventus,27/05/2024,1-0,Premier League,2.97,4.29,2.53
+FUT-001238,Fútbol,Cádiz,Manchester City,13/12/2021,0-1,Serie A,1.73,3.28,3.48
+FUT-001722,Fútbol,Mallorca,Tottenham,3 de julio de 2024,3-5,Premier League,2.98,3.4,3.21
+FUT-001793,Fútbol,Manchester City,Arsenal,05-02-2021,2-4,Serie A,2.86,3.82,4.03
+FUT-001279,Fútbol,Chelsea,manchester united,15/06/2024,2-3,UEFA Champions League,3.09,4.25,4.82
+FUT-001364,Fútbol,Esapnyol,Alavés,7 de julio de 2021,3-1,UEFA Champions League,1.51,3.75,"3,98"
+FUT-000329,Fútbol,INTER DE MILÁN,Arsneal,2022/05/18,2-1,Premier League,"3,56",3.17,5.55
+FUT-000842,Fútbol,Villarreal,Osasuna,11/09/2021,3-2,UEFA Champions League,3.63,3.89,4.02
+FUT-000450,Fútbol,Barcelona,Chelsea,2024-04-14,3-2,La Liga,3.2,3.77,4.9
+FUT-001240,Fútbol,Atlético de Madrid,Malolrca,15-03-2024,0-3,Bundesliga,1.47,3.18,5.74
+FUT-000418,Fútbol,Alavés,MANCHESTER UNITED,14-09-2023,2-2,Serie A,3.13,3.51,4.77
+FUT-000208,Fútbol,Milan,Osasuna,12 de mayo de 2022,2-2,La Liga,3.57,3.43,5.2
+FUT-000335,Fútbol,Cáidz,Alavés,2021-12-03,0-0,Bundesliga,N/A,3.72,2.2
+FUT-000103,Fútbol,REAL SOCIEDAD,Juventus,05-01-2023,1-1,Serie A,1.48,3.35,1.75
+FUT-001525,Fútbol,Villarreal,Juventus,2023/01/11,0-3,UEFA Champions League,1.65,3.72,5.62
+FUT-000438,Fútbol,Sevlila,Real Madrid,7 de abril de 2022,3-0,UEFA Champions League,3.83,N/A,"3,49"
+FUT-000810,Fútbol,Mallroca,Milan,2024/05/18,1-1,UEFA Champions League,215.43,4.17,-1.22
+FUT-001541,Fútbol,PSG,Manchester City,8 de mayo de 2024,2-2,Ligue 1,3.71,3.8,5.81
+FUT-000587,Fútbol,Chelsea,atletico,2021-10-24,3-4,Premier League,2.98,3.82,2.18
+FUT-001656,Fútbol,Celta de Vigo,Real Sociedad,2022/09/05,3-2,La Liga,2.56,3.46,4.05
+FUT-001439,Fútbol,Alavés,Manchester City,16-10-2023,4-0,UEFA Champions League,3.42,3.8,2.91
+FUT-001697,Fútbol,Cádiz,Manchester Unitde,7 de septiembre de 2022,4-5,Bundesliga,4.13,3.41,3.74
+FUT-001514,Fútbol,Arsenal,dortmund,29-09-2023,1-1,Serie A,4.04,3.91,3.99
+FUT-000159,Fútbol,MANCHESTER UNITED,Betis,06-12-2021,2-0,UEFA Champions League,1.91,3.87,4.31
+FUT-001529,Fútbol,Celta de Vigo,Tottenham,2022/01/12,1-1,Premier League,3.69,4.17,0.0
+FUT-001135,Fútbol,Bayern Múnich,Juventus,N/A,3-2, Serie A ,2.07,3.57,3.71
+FUT-001334,Fútbol,man_city,Alavsé,2024/07/24,0-1,Ligue 1,3.39,4.06,4.15
+FUT-000322,Fútbol,Borussia Dortmund,  Cádiz ,13-11-2023,2-1,Serie A,"4,13",3.78,3.73
+FUT-001638,Fútbol,BAYERN MÚNICH,Osasuna,23-01-2023,2-1,Serie A,3.65,3.19,4.2
+FUT-000969,Fútbol,manchester united,  Alavés ,2023-02-21,,UEFA Champions League,"3,08",3.8,3.2
+FUT-001326,Fútbol,Tottenham,Espanyol,17/07/2022,1-2,Serie A,1.75,3.1,3.72
+FUT-000233,Fútbol,Bayern Mnúich,Arsenal,2024-10-30,5-1,UEFA Champions League,3.83,4.17,3.19
+FUT-001633,Fútbol,Espanylo,real madrid,2021/04/27,1-0,Bundesliga,2.16,4.04,"3,75"
+FUT-000632,Fútbol,Cádiz,bayern_munich,25/01/2023,5-2,La Liga,1.49,2.95,3.67
+FUT-000134,Fútbol,Arsenal,  Athletic  Club ,27 de junio de 2024,3-2,Ligue 1,3.66,4.08,5.89
+FUT-001134,Fútbol,Chelsea,Cádzi,2021/10/31,3-4,Ligue 1,3.03,3.07,2.94
+FUT-001061,Fútbol,Espanyol,Rayo Vallceano,2023-02-13,4-0, UEFA Champions League ,1.79,142.28,4.67
+FUT-001649,Fútbol,Celta de Vigo,Mallorca,30/09/2021,0-1,Premier League,2.5,2.96,2.86
+FUT-000229,Fútbol,Celta de Vigo,Osasuna,6 de julio de 2021,1-2,Ligue 1,1.73,3.19,4.12
+FUT-000175,Fútbol,Milan,Elche,04/09/2024,0-2,Serie A,2.2,4.11,1.72
+FUT-001430,Fútbol,Borussia Dortmund,Bayern Munich,2022-05-31,0-0,UEFA Champions League,3.56,4.08,4.8
+FUT-000903,Fútbol,Inter de Milán,Manchester United,06-03-2022,3-1,Bundesliga,1.93,3.98,4.64
+FUT-001767,Fútbol,Inter de Milán,athletic_bilbao,2022/02/10,2-2,Bundesliga,1.96,3.73,4.34
+FUT-000554,Fútbol,Liverpool,Borussia Dortmund,2024/05/18,1-3,La Liga,3.84,3.22,4.44
+FUT-000822,Fútbol,Arsenla,Barcelona,24 de noviembre de 2022,2-3,Serie A,3.41,3.62,N/A
+FUT-001038,Fútbol,Espanyol,Rayo Vallecano,20/06/2021,2-0,UEFA Champions League,2.37,3.75,3.16
+FUT-001236,Fútbol,Granada,PSG,24-05-2023,1-2,Serie A,3.91,3.71,5.3
+FUT-000530,Fútbol,Rayo Valleacno,MILAN,31/01/2024,1-5,Ligue 1,4.02,3.12,4.78
+FUT-000547,Fútbol,Manchester United,Osasuna,27-10-2022,2-2,Serie A,4.01,4.16,3.98
+FUT-000098,Fútbol,Espanyol,Chelsea,2023-02-20,1-3,Bundesliga,0.0,3.94,4.67
+FUT-000584,Fútbol,getafe,real_betis,18/02/2022,1-1,Bundesliga,1.47,3.54,5.53
+FUT-001599,Fútbol,ac_milan,RAYO VALLECANO,2021/10/27,0-1,UEFA Champions League,3.17,3.66,5.12
+FUT-001578,Fútbol,Tottenham,Alavés,11-08-2024,2-3,Bundesliga,3.33,4.28,2.52
+FUT-000589,Fútbol,Real Madrid,,08-10-2023,0-1,Premier League,2.8,4.03,4.24
+FUT-001517,Fútbol,Valencia,Real Madrid,8 de abril de 2024,3-3,UEFA Champions League,2.36,4.17,1.82
+FUT-001797,Fútbol,Mialn,Borussia Dortmund,05-10-2022,0-3,Ligue 1,0.0,3.97,5.13
+FUT-001664,Fútbol,real_madrid_cf,Mallorca,2022/08/20,3-4,Ligue 1,3.71,3.59,2.7
+FUT-000354,Fútbol,Borussia Dortmund,PSG,2023/01/01,2-0,Premier League,4.11,3.87,5.68
+FUT-001351,Fútbol,Milan,Sevilla,14-11-2023,1-1,UEFA Champions League,3.7,0.0,"3,14"
+FUT-001583,Fútbol,Milan,Atlético de Madrid,28/08/2023,3-5,Bundesliga,2.8,3.39,2.65
+FUT-000617,Fútbol,man_united,Manchester City,2021-12-16,2-0,Serie A,2.73,"3,39",3.58
+FUT-001267,Fútbol,Bayern Múnich,Real Madrid,2024-08-28,1-0,Premier League,2.97,"3,58",3.75
+FUT-001435,Fútbol,atleti,Tottenham,2024-03-07,3-2,Premier League,3.58,"3,84",1.62
+FUT-000480,Fútbol,Real Sociedad,Borussia Dortmund,2024/01/19,0-1,Bundesliga,2.05,4.1,2.77
+FUT-000336,Fútbol,Inter de Milán,Manchester City,27-06-2022,1-2,La Liga,4.1,3.19,2.89
+FUT-000966,Fútbol,Juventus,Athletic Club,04/12/2024,2-2,La Liga,2.08,3.14,5.75
+FUT-001237,Fútbol,Manchester City,Chelsea,2022-03-08,1-0,Bundesliga,1.8,4.04,4.81
+FUT-001500,Fútbol,bayern múnich,Manchester City,08-06-2024,2-3,Ligue 1,1.77,4.2,2.92
+FUT-000449,Fútbol,Elche,Valencia,06/06/2023,2-1,Serie A,2.12,3.44,4.34
+FUT-000510,Fútbol,Getafe,Levante,20 de febrero de 2023,,Ligue 1,2.76,3.93,5.5
+FUT-000796,Fútbol,villarreal,Levante,02/11/2024,,Serie A,3.64,-,5.93
+FUT-000258,Fútbol,Borussia Dortmund,Macnhester United,9 de marzo de 2022,2-3,UEFA Champions League,1.67,3.64,"1,69"
+FUT-001683,Fútbol,  Manchester  United ,Getafe,2023/09/10,2-0,La Liga,3.32,3.01,4.41
+FUT-001425,Fútbol,Tottenham,Athletic Club,19-07-2022,3-2,Serie A,3.28,-2.19,2.14
+FUT-001265,Fútbol,Villarreal,Real Sociedad,06-04-2023,2-0,Ligue 1,4.04,3.73,1.88
+FUT-001753,Fútbol,Inter de Milán,Liverpool,13 de diciembre de 2023,3-0,Premier League,3.15,3.79,5.72
+FUT-000521,Fútbol,PSG,Milan,2024-01-28,1-3,Serie A,3.63,3.74,5.09
+FUT-001231,Fútbol,ATLÉTICO DE MADRID,Borussia Dortmund,6 de marzo de 2023,0-0,Bundesliga,1.6,3.62,3.88
+FUT-000160,Fútbol,Juventus,Atlético de Madrid,09/07/2023,1-2,Premier League,"2,07",3.52,2.78
+FUT-000157,Fútbol,Borussia Dortmund,ARSENAL,29/01/2022,0-1,Premier League,4.06,-,4.95
+FUT-001007,Fútbol,Borussia Dortmund,betis,11 de abril de 2023,2-2,La Liga,4.19,4.14,4.64
+FUT-000143,Fútbol,Tottenham,Bayern Múnich,2023-08-01,1-1,UEFA Champions League,4.11,3.14,5.76
+FUT-001503,Fútbol,  Juventus ,Milan,,1-0,Premier League,2.25,4.02,2.22
+FUT-001688,Fútbol,Cdáiz,Villarreal,28-05-2022,1-0,UEFA Champions League,1.89,4.03,3.95
+FUT-000177,Fútbol,PSG,Arsenal,18 de mayo de 2024,5-2,Premier League,3.64,3.92,1.86
+FUT-000775,Fútbol,Bayern Múnich,Getafe,24 de mayo de 2022,1-0,Serie A,2.21,3.27,4.28
+FUT-000756,Fútbol,Getafe,Atletico de Madrid,17/05/2024,5-1,Serie A,1.46,n/d,1.88
+FUT-000935,Fútbol,Manchseter United,betis,20-08-2024,1-2,Serie A,3.53,3.63,5.9
+FUT-000799,Fútbol,Athletic Club,Inter de Milán,2022-09-02,1-0,Serie A,"2,50",3.02,5.45
+FUT-000214,Fútbol,Chelsea,Tottenham,11 de junio de 2021,3-5,Serie A,3.65,3.31,2.79
+FUT-000882,Fútbol,,Valencia,2022-11-10,1-2, Ligue 1 ,3.35,4.27,4.2
+FUT-001397,Fútbol,Getafe,Athletic Club,2022-10-11,1-0,Bundesliga,4.03,3.94,"3,11"
+FUT-001280,Fútbol,Milan,RAYO VALLECANO,28 de octubre de 2021,1-3,Premier League,4.17,3.03,"5,12"
+FUT-000705,Fútbol,PSG,Manchester City,26 de mayo de 2023,2-2,Serie A,1.56,"3,83",3.29
+FUT-000222,Fútbol,Elche,Getafe,2024-06-05,0-1,UEFA Champions League,2.23,3.84,2.37
+FUT-001613,Fútbol,Inter de Milán,Cádiz,2023-09-30,2-1,Ligue 1,2.14,4.27,4.33
+FUT-001345,Fútbol,Bayern Múnich,Barcelona,2023/01/29,1-1,La Liga,2.99,3.56,1.91
+FUT-000290,Fútbol,Ossauna,PSG,20 de enero de 2021,1-0,Bundesliga,3.76,3.77,5.39
+FUT-000101,Fútbol,Tottenham,Villarreal,2023-09-27,4-3,Ligue 1,3.81,3.43,2.92
+FUT-001122,Fútbol,Bayern Múnich,Levante,23-08-2021,2-4,Premier League,4.06,3.64,3.29
+FUT-001462,Fútbol,Arsenal,Valencia,2022/12/09,5-0,La Liga,234.85,3.15,2.48
+FUT-000986,Fútbol,  Barcelona ,Milan,13-08-2024,1-3,UEFA Champions League,3.62,3.15,3.68
+FUT-000747,Fútbol,Manchester United,Osasuna,4 de junio de 2021,2-1,Ligue 1,2.62,3.6,"5,31"
+FUT-000188,Fútbol,Aresnal,Inter de Milán,8 de septiembre de 2023,3-2,Ligue 1,3.11,3.02,"2,89"
+FUT-000369,Fútbol,  Alavés ,Sevilla,2023-08-31,4-3,Ligue 1,2.57,3.65,5.4
+FUT-001156,Fútbol,Elche,Liverpool,26-03-2021,4-1,Ligue 1,2.57,0.0,0.0
+FUT-001010,Fútbol,betis,LIVERPOOL,2024-10-22,5-1,Premier League,2.46,3.42,2.01
+FUT-001437,Fútbol,Livrepool,Espanyol,2021-11-25,1-3,Premier League,2.31,-2.75,-2.7
+FUT-001356,Fútbol,Arsenal,Levante,10/10/2024,1-2,Serie A,2.99,3.33,4.71
+FUT-001577,Fútbol,Osasuna,Alavés,04/02/2023,3-3,Ligue 1,2.77,3.36,5.26
+FUT-001392,Fútbol,Celta de Vigo,Elche,2022-02-15,4-2,Ligue 1,3.55,3.65,N/A
+FUT-000014,Fútbol,LEVANTE,Borussia Dortmund,2022/01/01,0-0,Ligue 1,3.42,N/A,"5,87"
+FUT-001275,Fútbol,Mallorca,Real Sociedad,2022-12-19,2-1,UEFA Champions League,1.57,3.56,2.2
+FUT-001235,Fútbol,Arsenal,Inter de Milán,18-07-2021,1-1,Premier League,2.82,3.72,5.75
+FUT-001433,Fútbol,Chelsea,Atlético de Madrid,2021/08/29,2-2,Premier League,"3,62",4.24,4.09
+FUT-001004,Fútbol,Inter de Milán,Getafe,03-12-2023,2-1,UEFA Champions League,2.71,"3,30","5,79"
+FUT-000675,Fútbol,Valencia,Espanyol,2022-10-30,3-2,Premier League,149.69,3.18,4.55
+FUT-001064,Fútbol,Betis,Granada,16 de agosto de 2021,2-2,Premier League,2.64,3.8,"1,56"
+FUT-001036,Fútbol,inter de milán,Elche,4 de abril de 2021,1-1,Ligue 1,3.38,3.67,2.27
+FUT-000672,Fútbol,Inter de Milán,Rayo Vallecano,30/08/2023,1-0,Bundesliga,3.63,"3,86",5.86
+FUT-001595,Fútbol,,barca,4 de febrero de 2023,1-2, Ligue 1 ,3.26,"3,52",5.98
+FUT-001415,Fútbol,Elhce,Manchester United,2022/12/03,3-1,Ligue 1,"2,94",3.83,4.51
+FUT-000974,Fútbol,inter,Celta de Vigo,2024-05-11,2-0,Serie A,3.26,4.02,"4,66"
+FUT-000267,Fútbol,Villarrael,Manchester City,2024-02-20,4-0,Premier League,2.56,3.99,4.76
+FUT-001098,Fútbol,Athletic Club,Getafe,2022/08/07,2-1,UEFA Champions League,2.95,3.13,3.46
+FUT-000284,Fútbol,,Tottenham,2024/12/14,0-2,Premier League,"1,95",3.73,3.25
+FUT-001678,Fútbol,Levante,Inter de Milán,30 de agosto de 2023,0-1,Bundesliga,"2,54",3.78,5.06
+FUT-001100,Fútbol,Barcelona,Bayern Munich,2023/10/28,0-3,Ligue 1,3.15,-,4.35
+FUT-001147,Fútbol,Rayo Vallecano,Liverpool,5 de diciembre de 2024,2-2,Ligue 1,2.21,2.9,-1.24
+FUT-001482,Fútbol,Atlético de Madrid,Milan,2024-11-21,2-0,La Liga,1.51,"3,44",1.88
+FUT-000627,Fútbol,Borussia Dortmund,Tottenham,2021-12-22,2-2,Bundesliga,2.54,3.51,2.45
+FUT-001310,Fútbol,  Tottenham ,Osasuna,sin fecha,2-2,Premier League,1.96,3.14,2.88
+FUT-000220,Fútbol,Getafe,Levante,2022/08/06,4-0,Bundesliga,2.99,"3,05",5.92
+FUT-000227,Fútbol,Inter de Milán,,2022/03/24,1-2,Premier League,"2,72",3.65,4.49
+FUT-000374,Fútbol,Bayern Múnich,athletic_bilbao,05-08-2021,1-0,,-1.23,3.96,n/d
+FUT-001330,Fútbol,Villarreal,Borussia Dortmund,2024/01/10,5-3,Premier League,3.0,4.29,4.27
+FUT-001175,Fútbol,Osasuna,Mallorca,29-09-2024,2-1,Serie A,3.27,4.24,3.72
+FUT-001660,Fútbol,Osasuna,MANCHESTER CITY,04/11/2021,2-3,Ligue 1,1.68,3.02,4.82
+FUT-001110,Fútbol,Alavés,Garnada,18/06/2022,1-3,UEFA Champions League,3.43,4.03,"3,20"
+FUT-000435,Fútbol,Osasuna,LEVANTE,2024-01-14,3-0,La Liga,1.57,"4,00",2.42
+FUT-000628,Fútbol,Betis,Mallorca,4 de octubre de 2024,2-3,Premier League,2.41,3.48,2.8
+FUT-001150,Fútbol,Real Madrid,Liverpool,2021/02/05,5-2,Ligue 1,2.77,3.25,1.99
+FUT-000694,Fútbol,Bayern Múnich,real_betis,2021-02-15,2-1, Premier League ,3.47,2.93,2.35
+FUT-001399,Fútbol,real_madird,Chelsea,2021/05/14,3-1,Bundesliga,3.8,3.4,5.76
+FUT-001794,Fútbol,Real Madrid,Liverpool,,5-4,Bundesliga,1.73,"3,10",4.63
+FUT-000205,Fútbol,Betis,Manchester City,2024/04/30,5-1,Serie A,2.5,3.76,5.29
+FUT-000070,Fútbol,Juventus,,2022/10/28,3-2,Premier League,3.27,3.37,3.72
+FUT-000500,Fútbol,Atletico de Madrid,Milan,2022/07/17,1-1,Bundesliga,3.91,4.13,4.09
+FUT-000828,Fútbol,Elche,Espanyol,2023/02/03,4-1,Serie A,"2,58",3.61,4.79
+FUT-000454,Fútbol,Celta de Vigo,athletic,2022-03-07,0-2,UEFA Champions League,2.5,3.67,n/d
+FUT-000301,Fútbol,Aresnal,Inter de Milán,2023/07/28,5-1,UEFA Champions League,1.41,3.98,89.2
+FUT-000874,Fútbol,Valencia,BETIS,28/07/2021,0-3,UEFA Champions League,1.55,3.76,3.44
+FUT-001212,Fútbol,Osasuna,Chelsea,2024-10-29,2-5,Serie A,2.07,114.08,2.76
+FUT-000493,Fútbol,Real Sociedad,Valencia,2024/01/07,2-1,Ligue 1,-2.55,3.62,2.66
+FUT-001287,Fútbol,  Granada ,Manchester United,10-03-2021,0-1,UEFA Champions League,2.11,4.19,4.23
+FUT-001304,Fútbol,Real Sociedad,Lvierpool,25 de julio de 2021,4-0,Premier League,2.58,"3,37","4,42"
+FUT-000215,Fútbol,Juventus,Eclhe,11-07-2022,3-0,,3.72,3.28,4.03
+FUT-001536,Fútbol,Milan,cádiz,22/10/2022,2-2,UEFA Champions League,2.33,3.17,2.07
+FUT-000844,Fútbol,Barcelona,,2024/12/16,2-2,Ligue 1,4.09,0.0,2.43
+FUT-000360,Fútbol,Real Sociedad,Mialn,2021-03-10,3-2,Serie A,3.52,248.65,3.53
+FUT-000635,Fútbol,Sevilla,manchester united,10-11-2022,2-0,Bundesliga,2.67,"4,17","4,08"
+FUT-000856,Fútbol,Cádiz,  Borussia  Dortmund ,24-07-2024,1-2,Serie A,0.0,4.14,5.75
+FUT-000063,Fútbol,Liveropol,Alvaés,2022-02-13,2-3,La Liga,3.22,3.96,5.77
+FUT-001682,Fútbol,Granada,Sevilla,sin fecha,2-2,Bundesliga,-1.67,3.67,5.01
+FUT-001308,Fútbol,Barcelona,Ossauna,11/02/2022,2-4,Ligue 1,3.88,4.25,-1.03
+FUT-000531,Fútbol,Ahtletic Club,Elche,20/08/2021,2-1,Premier League,2.41,2.97,4.5
+FUT-001534,Fútbol,Borussia Dortmund,Athletic Club,2021-09-20,2-2,Serie A,2.36,3.42,4.6
+FUT-001394,Fútbol,Liverpool,Valencia,19-05-2023,1-1,Serie A,225.05,n/d,2.86
+FUT-001222,Fútbol,Barcelona,Osasuna,10 de marzo de 2022,1-1,Serie A,1.82,3.73,1.98
+FUT-000665,Fútbol,Manchester United,TOTTENHAM,2022/03/13,1-5,La Liga,3.01,3.09,5.26
+FUT-001148,Fútbol,Milan,Granada,2022/11/12,4-2,Bundesliga,1.88,"3,85",2.25
+FUT-000615,Fútbol,internazionale,Betis,12-08-2024,0-3,UEFA Champions League,3.36,3.04,2.9
+FUT-001016,Fútbol,Bteis,Liverpool,7 de agosto de 2022,3-0,La Liga,"3,87",3.89,2.0
+FUT-000502,Fútbol,Lievrpool,Tottenham,09/10/2022,4-3,UEFA Champions League,2.68,3.07,3.83
+FUT-000937,Fútbol,Alavés,Chelsea,2022/01/30,2-0,La Liga,3.16,2.99,3.71
+FUT-000560,Fútbol,Aresnal,Liverpool,18 de diciembre de 2022,1-1,Ligue 1,3.24,3.98,2.26
+FUT-001181,Fútbol,Elche,Betis,19 de mayo de 2021,3-2,La Liga,3.03,3.72,"5,23"
+FUT-001784,Fútbol,Bayern Munich,Atlético de Madird,2023/01/29,1-2,Bundesliga,3.12,3.07,1.96
+FUT-000045,Fútbol,ARSENAL,Borussia Dortmund,08/09/2022,0-2,Ligue 1,2.32,-2.37,5.32
+FUT-000809,Fútbol,Milan,Athletic Club,2022/08/13,2-4,UEFA Champions League,2.37,3.88,1.59
+FUT-000552,Fútbol,Granada,Villarreal,2023/09/16,2-2,Premier League,2.01,3.01,2.96
+FUT-001338,Fútbol,Inter de Milán,  Barcelona ,2021/02/17,0-2,Serie A,3.15,3.69,3.37
+FUT-001450,Fútbol,Betis,Real Sociedad,22/05/2024,5-3,Premier League,2.82,3.57,2.91
+FUT-001719,Fútbol,Tottenham,Barcelona,2022/05/16,0-5,UEFA Champions League,1.7,4.16,2.63
+FUT-001644,Fútbol,  Milan ,Atlético de Madrid,2023-11-04,5-3, Premier League ,2.74,3.39,2.37
+FUT-000711,Fútbol,Inter de Milan,Alavés,26 de agosto de 2023,0-0,La Liga,2.14,4.24,5.25
+FUT-001650,Fútbol,Bayern Múnich,Mallorca,08/03/2022,1-3,La Liga,1.82,3.67,2.65
+FUT-001041,Fútbol,,Elche,2022-07-05,4-2,Premier League,2.94,4.04,2.49
+FUT-001413,Fútbol,Real Madrid,MILAN,2023/07/15,2-1,Premier League,3.16,4.04,4.1
+FUT-000508,Fútbol,SEVILLA,Rayo Vallecano,2023/01/10,3-1,Serie A,3.16,3.53,3.01
+FUT-000356,Fútbol,Atlético de Madrid,Getafe,14/10/2023,2-4,,4.11,3.21,-1.05
+FUT-000657,Fútbol,GRANADA,Tottenham,28/11/2022,0-5,La Liga,3.21,3.41,5.34
+FUT-000980,Fútbol,Inter de Milán,Osasuna,05/02/2022,2-1,UEFA Champions League,2.75,4.16,2.44
+FUT-000958,Fútbol,Real Madrid,Chelsea,22 de noviembre de 2022,2-5,Ligue 1,3.53,4.2,3.63
+FUT-000190,Fútbol,Getafe,Betis,4 de diciembre de 2021,2-4,Premier League,1.56,3.07,2.19
+FUT-000514,Fútbol,,getafe,2021-06-13,4-0,Premier League,2.06,3.25,4.85
+FUT-001014,Fútbol,CELTA DE VIGO,Bayern Múnich,21/03/2023,0-1,Serie A,1.84,"3,82",2.52
+FUT-000896,Fútbol,  Betis ,Villarreal,2022/11/20,1-2,Bundesliga,2.04,2.96,3.81
+FUT-000736,Fútbol,PSG,Barcelona,2021/07/17,5-1,La Liga,"3,30",3.11,4.3
+FUT-001632,Fútbol,Cádiz,Getafe,29/12/2023,2-3,Premier League,2.95,3.42,2.31
+FUT-000142,Fútbol,Valencia,Tottenham,2024/03/25,4-0,Bundesliga,1.45,4.19,5.38
+FUT-000685,Fútbol,Barcelona,Inter de Milán,2024-07-07,2-0,Bundesliga,3.37,3.16,5.42
+FUT-000486,Fútbol,Sevilla,Osasuna,2024/05/14,1-2,Bundesliga,3.65,4.05,"3,62"
+FUT-001418,Fútbol,Tottenham,  Mallorca ,13/12/2023,0-2,Ligue 1,3.57,"3,18",4.85
+FUT-000742,Fútbol,Sevilla,  Barcelona ,2024-07-04,2-0,Serie A,2.43,4.03,4.13
+FUT-000579,Fútbol,PSG,Manchester City,19 de febrero de 2023,4-4,UEFA Champions League,2.6,"3,99",-1.18
+FUT-000242,Fútbol,Inter de Milán,Sevilla,2022-02-21,2-5,Serie A,2.96,3.09,2.59
+FUT-001178,Fútbol,INTER DE MILÁN,Cádiz,2024/12/17,0-0,Ligue 1,2.8,4.11,"2,45"
+FUT-000287,Fútbol,Tottenham,Athletic Club,2 de septiembre de 2022,1-3,Ligue 1,N/A,213.71,4.68
+FUT-000908,Fútbol,Granada,Villarreal,2021/02/24,1-2,Premier League,1.9,4.06,4.22
+FUT-001545,Fútbol,Cáidz,Mlalorca,11-09-2021,3-1,La Liga,1.86,3.08,5.8
+FUT-000278,Fútbol,TOTTENHAM,Manchester United,2023-11-29,5-1,Ligue 1,1.43,3.26,3.8
+FUT-000504,Fútbol,Cádiz,Milan,2023/02/02,5-1,Serie A,1.91,3.49,3.39
+FUT-000967,Fútbol,real sociedad,Borussia Dortmund,2022-07-29,5-0,Premier League,4.0,3.36,3.23
+FUT-000241,Fútbol,Bayern Múnich,Celta de Vigo,20-12-2024,1-0,Premier League,2.91,3.24,2.51
+FUT-001750,Fútbol,MANCHESTER UNITED,Villarreal,28-04-2022,1-2,Bundesliga,2.88,3.47,4.03
+FUT-001171,Fútbol,PSG,Betis,2021/01/14,1-2,Bundesliga,239.48,3.32,2.9
+FUT-000207,Fútbol,Barcelona,Milan,16 de abril de 2021,1-2,Ligue 1,4.12,3.71,2.52
+FUT-000064,Fútbol,Celta de Vigo,Espanyol,26/01/2023,0-2,Premier League,"2,98",3.21,4.65
+FUT-001605,Fútbol,Manchseter City,Granaad,22 de abril de 2024,4-1,UEFA Champions League,2.77,3.96,5.28
+FUT-001428,Fútbol,Elche,  Athletic  Club ,25 de septiembre de 2023,2-1,Serie A,1.87,3.89,5.39
+FUT-000433,Fútbol,Getfae,Manchester City,2024/12/25,3-3,Bundesliga,"2,97","3,72",5.74
+FUT-000003,Fútbol,bayern múnich,Alavés,2023/05/16,2-1,Serie A,-1.59,3.96,2.22
+FUT-000153,Fútbol,Levatne,  Chelsea ,2021/05/15,1-1,Serie A,3.07,4.0,"4,41"
+FUT-000623,Fútbol,Rayo Vallecano,Betis,02/11/2021,4-4,,3.18,2.9,2.16
+FUT-001568,Fútbol,Inter de Milán,,2022/07/30,1-0,UEFA Champions League,3.91,3.82,5.82
+FUT-001194,Fútbol,Rayo Vallecano,Manchester United,2024/02/29,5-2,,3.86,3.23,1.83
+FUT-000025,Fútbol,Sevilla,madrid,14-03-2022,,Bundesliga,3.78,3.13,3.69
+FUT-001588,Fútbol,Valencia,Getafe,10 de abril de 2021,2-2,,2.49,4.19,4.44
+FUT-000563,Fútbol,Granada,Juventus,2022-06-14,2-1,Ligue 1,3.47,3.2,3.96
+FUT-001092,Fútbol,Chelsea,Real Madrid,24/10/2021,2-4,Serie A,1.96,3.91,4.1
+FUT-001242,Fútbol,PSG,Elche,11/06/2021,0-0,UEFA Champions League,2.18,3.84,"5,86"
+FUT-000975,Fútbol,Granada,Athletic Club,20-08-2022,1-3,UEFA Champions League,3.01,3.78,"2,47"
+FUT-000415,Fútbol,Osasuna,Athletic Club,24-04-2024,0-2,Bundesliga,4.15,4.08,1.97
+FUT-000222,Fútbol,Elche,Getafe,2024-06-05,0-1,UEFA Champions League,2.23,3.84,2.37
+FUT-000505,Fútbol,Tottenham,Cdáiz,2022/07/07,2-2,Premier League,4.14,3.86,5.16
+FUT-000080,Fútbol,Espanyol,ATHLETIC CLUB,19 de febrero de 2023,2-1,Bundesliga,"3,07",3.77,4.99
+FUT-000344,Fútbol,Espanyol,Lveante,09-05-2023,2-4,Premier League,"2,74",3.02,3.22
+FUT-001000,Fútbol,Granada,PSG,22 de julio de 2021,0-1,La Liga,3.0,3.29,2.72
+FUT-000266,Fútbol,Betis,Villarreal,26 de diciembre de 2022,1-1,Ligue 1,2.95,3.47,"1,62"
+FUT-001559,Fútbol,Rayo Vallecano,Granada,01-06-2022,1-0,Premier League,"3,15","3,69",5.48
+FUT-001096,Fútbol,Rayo Vallecano,Mallorca,2022/09/21,5-2,Ligue 1,1.44,4.04,1.57
+FUT-001553,Fútbol,Levante,PSG,15-03-2021,0-2,Premier League,2.56,3.0,2.4
+FUT-000610,Fútbol,Rayo Vallecano,manchester city,13/07/2022,1-1,Premier League,2.89,3.98,4.52
+FUT-000885,Fútbol,Tottenham,Getafe,2021/10/19,4-0,Serie A,1.43,3.4,4.0
+FUT-001213,Fútbol,Villarreal,Espanyol,5 de julio de 2022,3-1,UEFA Champions League,3.0,2.95,2.73
+FUT-001359,Fútbol,Osasuna,LIVERPOOL,21 de septiembre de 2023,2-2,UEFA Champions League,2.8,3.63,3.2
+FUT-001419,Fútbol,Celta de Vigo,Sevilla,06-02-2023,3-1,Premier League,2.05,4.23,3.89
+FUT-000182,Fútbol,Celta de Vigo,Juventus,2023-03-27,5-1,Serie A,3.54,3.7,3.88
+FUT-001024,Fútbol,Mallroca,Vilalrreal,2022-03-31,4-1,Serie A,136.94,3.88,5.91
+FUT-000848,Fútbol,Manchester City,  Getafe ,2022-10-26,0-0,Serie A,2.49,3.35,3.36
+FUT-000670,Fútbol,Geatfe,PSG,2024-02-17,2-0,Premier League,3.71,3.32,3.38
+FUT-001120,Fútbol,Juventus,Borussia Dortmund,14 de febrero de 2022,2-1,Ligue 1,2.29,3.05,3.22
+FUT-001800,Fútbol,Borussia Dortmund,Tottenham,4 de marzo de 2023,4-1,Ligue 1,4.2,3.06,5.91
+FUT-000387,Fútbol,Cádiz,BORUSSIA DORTMUND,03/12/2023,4-3,Ligue 1,2.69,3.21,2.86
+FUT-000734,Fútbol,Cádiz,Tottenham,2021-10-29,1-2,Bundesliga,4.06,4.28,3.8
+FUT-001206,Fútbol,arsenal,Celta de Vigo,13 de febrero de 2021,0-1,Bundesliga,2.63,"3,97",5.79
+FUT-001082,Fútbol,mancity,Arsenal,2021-03-29,0-1,Ligue 1,2.66,4.13,5.96
+FUT-000275,Fútbol,PSG,Betis,2021/06/01,2-1,Bundesliga,3.24,3.9,5.05
+FUT-000133,Fútbol,Garnada,Liverpool,19/12/2022,0-2,Ligue 1,1.83,3.58,5.31
+FUT-001597,Fútbol,Celta de Vigo,Granada,19 de agosto de 2021,0-2,Ligue 1,1.43,2.98,5.05
+FUT-000663,Fútbol,Atlético de Madrid,Espanyol,19/07/2021,3-0,Bundesliga,1.88,-1.85,2.88
+FUT-001431,Fútbol,Manchester United,Bayern Múnich,22 de septiembre de 2023,3-1,Premier League,2.4,"2,92",4.71
+FUT-001452,Fútbol,Osasuna,Barcelona,2021-10-30,2-2, La Liga ,1.56,3.39,5.4
+FUT-000682,Fútbol,real_madrid_baloncesto,Bayern Múnich,2023/12/24,5-0,Bundesliga,2.72,3.98,1.65
+FUT-001486,Fútbol,Mallorca,Manchester United,2023/12/19,2-1,Serie A,3.84,3.0,130.6
+FUT-000568,Fútbol,Barcelona,Atlético de Madrid,2022/12/12,1-2,UEFA Champions League,2.33,3.45,2.21
+FUT-000990,Fútbol,,Athletic Club,13 de marzo de 2021,0-2,La Liga,3.23,3.02,2.66
+FUT-000581,Fútbol,REAL SOCIEDAD,Juventus,22-03-2021,2-4,Ligue 1,3.86,3.24,3.92
+FUT-000300,Fútbol,Cádiz,bayern múnich,24 de julio de 2022,1-0,UEFA Champions League,"3,62","3,98",3.31
+FUT-000698,Fútbol,Getafe,Celta de Vigo,28-01-2023,1-0,Premier League,4.18,3.7,3.48
+FUT-000200,Fútbol,Tottenham,Inter de Milán,01/09/2024,5-0,UEFA Champions League,"2,39",2.97,3.73
+FUT-000491,Fútbol,Mallorca,Real Madrid,8 de abril de 2024,3-0,Serie A,1.65,3.3,5.23
+FUT-000605,Fútbol,Bayern Múnich,Villarreal,2022/09/12,2-1,Premier League,2.67,4.23,-2.12
+FUT-001346,Fútbol,Chelsea,mallorca,2024-12-30,4-0,Premier League,2.43,4.12,2.29
+FUT-001104,Fútbol,Bayern Munich,Atlético de Madrid,2024-05-13,0-0,Serie A,2.45,4.04,5.19
+FUT-000192,Fútbol,Cadiz,Betis,04/04/2024,2-2,Premier League,1.66,"3,80",4.16
+FUT-000893,Fútbol,Arsenal,PSG,11-10-2023,2-0,Bundesliga,3.39,3.64,3.67
+FUT-001070,Fútbol,Real Sociedad,Valencia,08-03-2021,1-0,Premier League,3.95,3.16,2.41
+FUT-000871,Fútbol,Barcelona,Milan,22-05-2022,2-0,La Liga,3.63,4.21,N/A
+FUT-000105,Fútbol,Espanyol,PSG,20 de enero de 2021,4-0,Bundesliga,"2,69",3.26,"2,65"
+FUT-000421,Fútbol,Alavés,CHELSEA,18 de octubre de 2023,1-1,Bundesliga,2.69,4.02,3.52
+FUT-001623,Fútbol,rayo vallecano,Arsenal,8 de abril de 2023,0-0,Premier League,3.74,3.86,2.26
+FUT-001621,Fútbol,Juventus,Celta de Vigo,11/07/2022,3-1,Premier League,3.12,3.43,3.94
+FUT-001779,Fútbol,Rayo Vallecano,Arsenal,2021/11/12,1-4,UEFA Champions League,1.65,4.12,1.62
+FUT-000995,Fútbol,Tottenham,Inter de Milná,2021/05/25,0-1,UEFA Champions League,2.59,3.87,3.91
+FUT-000009,Fútbol,Alavsé,MANCHESTER CITY,2022-07-03,4-3,La Liga,2.04,2.94,2.92
+FUT-000031,Fútbol,Manchester City,Valencia,2023-11-03,0-2,Serie A,2.98,3.04,3.92
+FUT-001191,Fútbol,Barcelona,Alaves,2021/11/20,4-1,Serie A,3.72,3.45,3.11
+FUT-000236,Fútbol,Cádiz,Mlalorca,2 de febrero de 2021,5-2,Premier League,1.72,4.03,3.39
+FUT-001780,Fútbol,inter de milán,Valencia,29/11/2022,1-3,Serie A,1.68,3.15,2.48
+FUT-000900,Fútbol,CÁDIZ,Malolrca,19/06/2022,3-5,La Liga,"4,20",3.95,4.83
+FUT-000693,Fútbol,Osasuna,  Cádiz ,16 de febrero de 2021,0-0,Serie A,1.82,3.19,5.78
+FUT-000498,Fútbol,Mallorca,PSG,27-05-2022,3-1,Ligue 1,2.08,3.27,2.53
+FUT-001028,Fútbol,la_real,Real Madrid,21 de abril de 2024,3-3, Ligue 1 ,1.76,3.4,-2.5
+FUT-001395,Fútbol,Alavés,Rayo Vallecano,08-02-2023,3-0,La Liga,3.86,4.22,2.05
+FUT-000692,Fútbol,Arsenal,Valencia,07-06-2021,1-4,La Liga,1.64,3.45,2.3
+FUT-001281,Fútbol,Osasuna,Milan,2023-06-20,4-1,Bundesliga,"3,91",2.97,0.0
+FUT-000593,Fútbol,Getaef,Inter de Milán,16/02/2023,3-1,La Liga,"1,50",3.98,2.95
+FUT-000911,Fútbol,Milan,Valencia,2024-12-24,1-4,UEFA Champions League,1.98,4.12,"2,89"
+FUT-000763,Fútbol,Espanyol,Juventus,4 de julio de 2021,1-4,Premier League,2.5,4.27,2.65
+FUT-000829,Fútbol,Liverpool,Athletic Club,18/07/2023,,Serie A,1.75,0.0,4.82
+FUT-000597,Fútbol,PSG,,sin fecha,4-1,UEFA Champions League,219.63,3.17,2.03
+FUT-000402,Fútbol,Granada,Osasuna,10 de diciembre de 2023,0-0,Serie A,4.06,3.54,3.84
+FUT-000506,Fútbol,Borussia Dortmund,Chelsea,14-05-2023,1-3,Bundesliga,3.47,3.56,1.54
+FUT-000556,Fútbol,Sevilla,Tottenham,19/03/2023,5-3,Premier League,3.01,3.03,3.44
+FUT-000297,Fútbol,Liverpool,Cádiz,20/11/2023,2-0,UEFA Champions League,4.14,3.31,4.08
+FUT-001354,Fútbol,Valencia,INTER DE MILÁN,30 de junio de 2023,4-1,Serie A,2.09,3.26,2.83
+FUT-000788,Fútbol,Celat de Vigo,Barcelona,01-05-2024,0-3,UEFA Champions League,3.25,3.54,5.8
+FUT-000925,Fútbol,,Villarreal,10-05-2021,0-0,Premier League,1.44,4.05,4.56
+FUT-000686,Fútbol,Real Madrid,valencia_cf,30-11-2024,,Ligue 1,2.89,3.32,4.89
+FUT-001546,Fútbol,Manchester City,Milan,2024-08-16,1-1,Serie A,3.42,3.67,4.33
+FUT-000012,Fútbol,Athletic Club,Celta de Vigo,17 de agosto de 2023,2-3,Ligue 1,2.58,2.99,3.22
+FUT-000320,Fútbol,Gteafe,Athletic Club,26-11-2023,0-0,UEFA Champions League,1.43,0.0,"3,06"
+FUT-001499,Fútbol,Getafe,Cádiz,2022/02/10,5-2,Premier League,3.55,3.8,4.09
+FUT-001563,Fútbol,Granada,Juventus,,1-2,Bundesliga,1.85,2.97,2.47
+FUT-000824,Fútbol,Levante,Bayern Múnich,6 de diciembre de 2022,1-2,La Liga,2.95,-,4.84
+FUT-000598,Fútbol,Athletic Club,Rayo Vallecano,2024-07-29,3-5,Premier League,2.56,3.37,4.02
+FUT-000122,Fútbol,Rayo Vallecano,Alavés,24/10/2021,1-0,Premier League,3.92,2.9,5.36
+FUT-000528,Fútbol,Cáidz,spurs,2021-01-26,0-1,La Liga,1.94,4.08,5.18
+FUT-000260,Fútbol,Manchester City,Barcelona,07-06-2021,5-2,Serie A,3.51,3.9,n/d
+FUT-000341,Fútbol,Elche,Valencia,11/11/2022,0-0,La Liga,3.93,3.52,2.08
+FUT-001480,Fútbol,Osausna,Elche,13/03/2024,5-2,Serie A,3.35,3.3,2.79
+FUT-000240,Fútbol,Getafe,Borussia Dortmund,2023/12/11,2-0,Serie A,2.36,3.8,3.22
+FUT-001763,Fútbol,Barcelona,alavés,19-07-2022,3-1,Serie A,2.96,3.6,2.3
+FUT-001606,Fútbol,  Betis ,Milan,2021-05-09,1-2,Serie A,"4,13",3.65,4.27
+FUT-001080,Fútbol,Inter de Milán,  Elche ,11 de septiembre de 2021,5-5,Ligue 1,3.54,3.52,5.66
+FUT-000474,Fútbol,Levante,villarreal,22 de abril de 2023,1-2,Ligue 1,-2.81,3.57,2.49
+FUT-001562,Fútbol,,Valencia,2022-07-16,2-4,La Liga,3.79,-,0.0
+FUT-001318,Fútbol,Tottenham,Real Sociedad,26-01-2021,2-0,Premier League,3.32,3.04,5.38
+FUT-000495,Fútbol,Inetr de Milán,Barcleona,07-12-2024,2-1,Premier League,2.47,4.0,2.49
+FUT-001645,Fútbol,real madrid,Real Soicedad,2023-12-04,0-2,Serie A,2.15,2.93,2.48
+FUT-000349,Fútbol,Espanyol,man_city,2024/03/08,3-2,Ligue 1,3.96,2.94,4.65
+FUT-000252,Fútbol,Sevilla,Real Madrid,2023-11-02,1-3,Bundesliga,2.05,3.89,1.54
+FUT-001490,Fútbol,Chelsea,  Levante ,2022/05/28,3-1,Serie A,3.95,3.23,3.71
+FUT-000622,Fútbol,Valencia,Real Sociedad,2021-05-06,3-2,La Liga,3.7,3.36,4.4
+FUT-001303,Fútbol,Getafe,Milan,11-03-2021,0-2,Serie A,2.44,3.43,4.15
