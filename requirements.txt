@@ -1,0 +1,7 @@
+pandas>=2.0
+openpyxl>=3.1
+matplotlib>=3.9
+pytest>=8.0
+# Opcional: solo para validar el proyecto de Power BI contra los esquemas oficiales
+# (python powerbi/build_pbip.py --validar)
+jsonschema>=4.20

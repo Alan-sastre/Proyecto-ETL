@@ -1,0 +1,26 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+
+# Power BI: archivos locales del usuario
+powerbi/PBIP/**/.pbi/
+powerbi/PBIP/**/localSettings.json
+powerbi/PBIP/**/cache.abf
