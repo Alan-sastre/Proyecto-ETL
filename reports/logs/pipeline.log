@@ -1,0 +1,416 @@
+2026-11-11 09:14:44,147 | INFO     | __main__ | Fuente generada: eventos_futbol.csv (1841 registros)
+2026-11-11 09:14:44,177 | INFO     | __main__ | Fuente generada: eventos_baloncesto.csv (920 registros)
+2026-11-11 09:14:44,491 | INFO     | __main__ | Fuente generada: eventos_tenis.xlsx (664 registros)
+2026-11-11 09:14:44,492 | INFO     | __main__ | Datos simulados creados con semilla=42 | total registros crudos=3425
+2026-11-11 09:14:51,017 | INFO     | main | ========================================================================
+2026-11-11 09:14:51,018 | INFO     | main | PROYECTO ETL: ANÁLISIS DE DATOS DE APUESTAS DEPORTIVAS
+2026-11-11 09:14:51,018 | INFO     | main | ========================================================================
+2026-11-11 09:14:51,018 | INFO     | main | Se usarán las fuentes existentes en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\raw
+2026-11-11 09:14:51,019 | INFO     | main | --- FASE 1: EXTRACT ---
+2026-11-11 09:14:51,046 | INFO     | src.extract | Leídos 920 registros desde eventos_baloncesto.csv
+2026-11-11 09:14:51,048 | INFO     | src.extract | Fuente eventos_baloncesto.csv aportada al dataset: 920 registros
+2026-11-11 09:14:51,072 | INFO     | src.extract | Leídos 1841 registros desde eventos_futbol.csv
+2026-11-11 09:14:51,073 | INFO     | src.extract | Fuente eventos_futbol.csv aportada al dataset: 1841 registros
+2026-11-11 09:14:51,374 | INFO     | src.extract | Leídos 664 registros desde eventos_tenis.xlsx
+2026-11-11 09:14:51,375 | WARNING  | src.extract | eventos_tenis.xlsx: columnas ausentes completadas con nulos: cuota_empate
+2026-11-11 09:14:51,376 | INFO     | src.extract | Fuente eventos_tenis.xlsx aportada al dataset: 664 registros
+2026-11-11 09:14:51,377 | INFO     | src.extract | Extracción finalizada: 3425 registros desde 3 fuentes
+2026-11-11 09:14:51,377 | INFO     | main | --- FASE 2: TRANSFORM ---
+2026-11-11 09:14:51,405 | INFO     | src.transform | Duplicados eliminados: 0 exactos y 75 por id_evento (quedan 3350 filas)
+2026-11-11 09:14:51,412 | INFO     | src.transform | Nulos tratados: 0 filas sin id eliminadas; imputaciones={'equipo_local': 39, 'equipo_visitante': 41, 'competicion': 52, 'resultado': 68}
+2026-11-11 09:14:52,049 | INFO     | src.transform | Fechas estandarizadas: 88 registros con fecha inválida o nula eliminados
+2026-11-11 09:14:52,483 | INFO     | src.transform | Nombres de equipos/jugadores corregidos: 1391
+2026-11-11 09:14:52,497 | INFO     | src.transform | Cuotas validadas: inválidas={'cuota_local': 97, 'cuota_empate': 51, 'cuota_visitante': 99} | atípicas={'cuota_local': 40, 'cuota_empate': 17, 'cuota_visitante': 44} | imputadas={'cuota_local': 206, 'cuota_empate': 107, 'cuota_visitante': 200}
+2026-11-11 09:14:52,519 | INFO     | src.transform | Columnas derivadas creadas: temporales, marcadores, resultado, favorito y probabilidades implícitas (resultados desconocidos=67)
+2026-11-11 09:14:52,524 | INFO     | src.transform | Tipos de datos convertidos correctamente.
+2026-11-11 09:14:52,530 | INFO     | src.transform | Reporte de calidad generado: reporte_calidad.md y reporte_calidad.csv
+2026-11-11 09:14:52,530 | INFO     | src.transform | Transformación finalizada: 3425 filas de entrada -> 3262 filas limpias
+2026-11-11 09:14:52,530 | INFO     | main | --- FASE 3: LOAD ---
+2026-11-11 09:14:53,954 | INFO     | src.load | Dataset limpio guardado: eventos_limpios.csv y eventos_limpios.xlsx
+2026-11-11 09:14:53,988 | INFO     | src.load | Tabla del modelo estrella guardada: dim_deportes.csv (3 filas)
+2026-11-11 09:14:53,990 | INFO     | src.load | Tabla del modelo estrella guardada: dim_competiciones.csv (33 filas)
+2026-11-11 09:14:53,991 | INFO     | src.load | Tabla del modelo estrella guardada: dim_equipos.csv (76 filas)
+2026-11-11 09:14:54,005 | INFO     | src.load | Tabla del modelo estrella guardada: dim_fecha.csv (1305 filas)
+2026-11-11 09:14:54,036 | INFO     | src.load | Tabla del modelo estrella guardada: fact_eventos.csv (3262 filas)
+2026-11-11 09:14:54,052 | INFO     | src.load | Tabla SQLite cargada: dim_deportes (3 filas)
+2026-11-11 09:14:54,058 | INFO     | src.load | Tabla SQLite cargada: dim_competiciones (33 filas)
+2026-11-11 09:14:54,065 | INFO     | src.load | Tabla SQLite cargada: dim_equipos (76 filas)
+2026-11-11 09:14:54,078 | INFO     | src.load | Tabla SQLite cargada: dim_fecha (1305 filas)
+2026-11-11 09:14:54,102 | INFO     | src.load | Tabla SQLite cargada: fact_eventos (3262 filas)
+2026-11-11 09:14:54,102 | INFO     | src.load | Base SQLite disponible en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\processed\apuestas.db
+2026-11-11 09:14:54,102 | INFO     | src.load | Carga finalizada: 3262 filas y 5 tablas del modelo estrella
+2026-11-11 09:14:54,103 | INFO     | main | --- FASE 4: VISUALIZACIÓN ---
+2026-11-11 09:14:54,236 | INFO     | src.visualizations | Figura generada: 01_total_eventos.png
+2026-11-11 09:14:54,351 | INFO     | src.visualizations | Figura generada: 02_eventos_por_deporte.png
+2026-11-11 09:14:54,526 | INFO     | src.visualizations | Figura generada: 03_resultados_por_equipo.png
+2026-11-11 09:14:54,779 | INFO     | src.visualizations | Figura generada: 04_local_vs_visitante.png
+2026-11-11 09:14:54,959 | INFO     | src.visualizations | Figura generada: 05_eventos_por_competicion.png
+2026-11-11 09:14:55,293 | INFO     | src.visualizations | Figura generada: 06_analisis_cuotas.png
+2026-11-11 09:14:55,484 | INFO     | src.visualizations | Figura generada: 07_tendencia_mensual.png
+2026-11-11 09:14:55,484 | INFO     | src.visualizations | Visualizaciones generadas: 7 archivos en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports\figures
+2026-11-11 09:14:55,484 | INFO     | main | ========================================================================
+2026-11-11 09:14:55,484 | INFO     | main | RESUMEN DEL PROCESO
+2026-11-11 09:14:55,484 | INFO     | main | ========================================================================
+2026-11-11 09:14:55,484 | INFO     | main | Registros crudos extraídos:        3,425
+2026-11-11 09:14:55,485 | INFO     | main | Registros limpios finales:         3,262
+2026-11-11 09:14:55,485 | INFO     | main | Duplicados exactos eliminados:     0
+2026-11-11 09:14:55,485 | INFO     | main | Duplicados por id eliminados:      75
+2026-11-11 09:14:55,485 | INFO     | main | Filas sin id eliminadas:           0
+2026-11-11 09:14:55,485 | INFO     | main | Fechas inválidas eliminadas:       88
+2026-11-11 09:14:55,485 | INFO     | main | Nombres de equipo corregidos:      1,391
+2026-11-11 09:14:55,485 | INFO     | main | Cuotas inválidas corregidas:       247
+2026-11-11 09:14:55,485 | INFO     | main | Cuotas atípicas tratadas:          101
+2026-11-11 09:14:55,485 | INFO     | main | Cuotas nulas imputadas:            513
+2026-11-11 09:14:55,485 | INFO     | main | Resultados desconocidos:           67
+2026-11-11 09:14:55,485 | INFO     | main | Tablas del modelo estrella:        6
+2026-11-11 09:14:55,485 | INFO     | main | Dataset limpio:                    C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\processed
+2026-11-11 09:14:55,485 | INFO     | main | Reporte de calidad:                C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports
+2026-11-11 09:14:55,485 | INFO     | main | Figuras:                           C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports\figures
+2026-11-11 09:14:55,486 | INFO     | main | Duración total:                    4.5 segundos
+2026-11-11 09:14:55,486 | INFO     | main | ========================================================================
+2026-11-11 09:15:33,300 | INFO     | main | ========================================================================
+2026-11-11 09:15:33,301 | INFO     | main | PROYECTO ETL: ANÁLISIS DE DATOS DE APUESTAS DEPORTIVAS
+2026-11-11 09:15:33,301 | INFO     | main | ========================================================================
+2026-11-11 09:15:33,301 | INFO     | main | Se usarán las fuentes existentes en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\raw
+2026-11-11 09:15:33,301 | INFO     | main | --- FASE 1: EXTRACT ---
+2026-11-11 09:15:33,309 | INFO     | src.extract | Leídos 920 registros desde eventos_baloncesto.csv
+2026-11-11 09:15:33,314 | INFO     | src.extract | Fuente eventos_baloncesto.csv aportada al dataset: 920 registros
+2026-11-11 09:15:33,324 | INFO     | src.extract | Leídos 1841 registros desde eventos_futbol.csv
+2026-11-11 09:15:33,326 | INFO     | src.extract | Fuente eventos_futbol.csv aportada al dataset: 1841 registros
+2026-11-11 09:15:33,764 | INFO     | src.extract | Leídos 664 registros desde eventos_tenis.xlsx
+2026-11-11 09:15:33,767 | WARNING  | src.extract | eventos_tenis.xlsx: columnas ausentes completadas con nulos: cuota_empate
+2026-11-11 09:15:33,768 | INFO     | src.extract | Fuente eventos_tenis.xlsx aportada al dataset: 664 registros
+2026-11-11 09:15:33,770 | INFO     | src.extract | Extracción finalizada: 3425 registros desde 3 fuentes
+2026-11-11 09:15:33,770 | INFO     | main | --- FASE 2: TRANSFORM ---
+2026-11-11 09:15:33,790 | INFO     | src.transform | Duplicados eliminados: 49 exactos y 26 por id_evento (quedan 3350 filas)
+2026-11-11 09:15:33,797 | INFO     | src.transform | Nulos tratados: 0 filas sin id eliminadas; imputaciones={'equipo_local': 39, 'equipo_visitante': 41, 'competicion': 52, 'resultado': 68}
+2026-11-11 09:15:34,758 | INFO     | src.transform | Fechas estandarizadas: 88 registros con fecha inválida o nula eliminados
+2026-11-11 09:15:35,223 | INFO     | src.transform | Nombres de equipos/jugadores corregidos: 1391
+2026-11-11 09:15:35,252 | INFO     | src.transform | Cuotas validadas: inválidas={'cuota_local': 97, 'cuota_empate': 51, 'cuota_visitante': 99} | atípicas={'cuota_local': 40, 'cuota_empate': 17, 'cuota_visitante': 44} | imputadas={'cuota_local': 206, 'cuota_empate': 107, 'cuota_visitante': 200}
+2026-11-11 09:15:35,290 | INFO     | src.transform | Columnas derivadas creadas: temporales, marcadores, resultado, favorito y probabilidades implícitas (resultados desconocidos=67)
+2026-11-11 09:15:35,299 | INFO     | src.transform | Tipos de datos convertidos correctamente.
+2026-11-11 09:15:35,307 | INFO     | src.transform | Reporte de calidad generado: reporte_calidad.md y reporte_calidad.csv
+2026-11-11 09:15:35,307 | INFO     | src.transform | Transformación finalizada: 3425 filas de entrada -> 3262 filas limpias
+2026-11-11 09:15:35,307 | INFO     | main | --- FASE 3: LOAD ---
+2026-11-11 09:15:37,065 | INFO     | src.load | Dataset limpio guardado: eventos_limpios.csv y eventos_limpios.xlsx
+2026-11-11 09:15:37,120 | INFO     | src.load | Tabla del modelo estrella guardada: dim_deportes.csv (3 filas)
+2026-11-11 09:15:37,122 | INFO     | src.load | Tabla del modelo estrella guardada: dim_competiciones.csv (33 filas)
+2026-11-11 09:15:37,124 | INFO     | src.load | Tabla del modelo estrella guardada: dim_equipos.csv (76 filas)
+2026-11-11 09:15:37,130 | INFO     | src.load | Tabla del modelo estrella guardada: dim_fecha.csv (1305 filas)
+2026-11-11 09:15:37,161 | INFO     | src.load | Tabla del modelo estrella guardada: fact_eventos.csv (3262 filas)
+2026-11-11 09:15:37,177 | INFO     | src.load | Tabla SQLite cargada: dim_deportes (3 filas)
+2026-11-11 09:15:37,190 | INFO     | src.load | Tabla SQLite cargada: dim_competiciones (33 filas)
+2026-11-11 09:15:37,202 | INFO     | src.load | Tabla SQLite cargada: dim_equipos (76 filas)
+2026-11-11 09:15:37,219 | INFO     | src.load | Tabla SQLite cargada: dim_fecha (1305 filas)
+2026-11-11 09:15:37,250 | INFO     | src.load | Tabla SQLite cargada: fact_eventos (3262 filas)
+2026-11-11 09:15:37,250 | INFO     | src.load | Base SQLite disponible en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\processed\apuestas.db
+2026-11-11 09:15:37,251 | INFO     | src.load | Carga finalizada: 3262 filas y 5 tablas del modelo estrella
+2026-11-11 09:15:37,251 | INFO     | main | --- FASE 4: VISUALIZACIÓN ---
+2026-11-11 09:15:37,401 | INFO     | src.visualizations | Figura generada: 01_total_eventos.png
+2026-11-11 09:15:37,549 | INFO     | src.visualizations | Figura generada: 02_eventos_por_deporte.png
+2026-11-11 09:15:37,790 | INFO     | src.visualizations | Figura generada: 03_resultados_por_equipo.png
+2026-11-11 09:15:38,079 | INFO     | src.visualizations | Figura generada: 04_local_vs_visitante.png
+2026-11-11 09:15:38,257 | INFO     | src.visualizations | Figura generada: 05_eventos_por_competicion.png
+2026-11-11 09:15:38,627 | INFO     | src.visualizations | Figura generada: 06_analisis_cuotas.png
+2026-11-11 09:15:38,785 | INFO     | src.visualizations | Figura generada: 07_tendencia_mensual.png
+2026-11-11 09:15:38,786 | INFO     | src.visualizations | Visualizaciones generadas: 7 archivos en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports\figures
+2026-11-11 09:15:38,786 | INFO     | main | ========================================================================
+2026-11-11 09:15:38,786 | INFO     | main | RESUMEN DEL PROCESO
+2026-11-11 09:15:38,786 | INFO     | main | ========================================================================
+2026-11-11 09:15:38,786 | INFO     | main | Registros crudos extraídos:        3,425
+2026-11-11 09:15:38,786 | INFO     | main | Registros limpios finales:         3,262
+2026-11-11 09:15:38,786 | INFO     | main | Duplicados exactos eliminados:     49
+2026-11-11 09:15:38,786 | INFO     | main | Duplicados por id eliminados:      26
+2026-11-11 09:15:38,786 | INFO     | main | Filas sin id eliminadas:           0
+2026-11-11 09:15:38,786 | INFO     | main | Fechas inválidas eliminadas:       88
+2026-11-11 09:15:38,786 | INFO     | main | Nombres de equipo corregidos:      1,391
+2026-11-11 09:15:38,786 | INFO     | main | Cuotas inválidas corregidas:       247
+2026-11-11 09:15:38,786 | INFO     | main | Cuotas atípicas tratadas:          101
+2026-11-11 09:15:38,786 | INFO     | main | Cuotas nulas imputadas:            513
+2026-11-11 09:15:38,786 | INFO     | main | Resultados desconocidos:           67
+2026-11-11 09:15:38,786 | INFO     | main | Tablas del modelo estrella:        5
+2026-11-11 09:15:38,786 | INFO     | main | Dataset limpio:                    C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\processed
+2026-11-11 09:15:38,786 | INFO     | main | Reporte de calidad:                C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports
+2026-11-11 09:15:38,786 | INFO     | main | Figuras:                           C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports\figures
+2026-11-11 09:15:38,786 | INFO     | main | Duración total:                    5.5 segundos
+2026-11-11 09:15:38,786 | INFO     | main | ========================================================================
+2026-11-11 09:15:48,153 | INFO     | main | ========================================================================
+2026-11-11 09:15:48,154 | INFO     | main | PROYECTO ETL: ANÁLISIS DE DATOS DE APUESTAS DEPORTIVAS
+2026-11-11 09:15:48,154 | INFO     | main | ========================================================================
+2026-11-11 09:15:48,154 | INFO     | main | Se usarán las fuentes existentes en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\raw
+2026-11-11 09:15:48,155 | INFO     | main | --- FASE 1: EXTRACT ---
+2026-11-11 09:15:48,174 | INFO     | src.extract | Leídos 920 registros desde eventos_baloncesto.csv
+2026-11-11 09:15:48,189 | INFO     | src.extract | Fuente eventos_baloncesto.csv aportada al dataset: 920 registros
+2026-11-11 09:15:48,220 | INFO     | src.extract | Leídos 1841 registros desde eventos_futbol.csv
+2026-11-11 09:15:48,227 | INFO     | src.extract | Fuente eventos_futbol.csv aportada al dataset: 1841 registros
+2026-11-11 09:15:49,485 | INFO     | src.extract | Leídos 664 registros desde eventos_tenis.xlsx
+2026-11-11 09:15:49,487 | WARNING  | src.extract | eventos_tenis.xlsx: columnas ausentes completadas con nulos: cuota_empate
+2026-11-11 09:15:49,488 | INFO     | src.extract | Fuente eventos_tenis.xlsx aportada al dataset: 664 registros
+2026-11-11 09:15:49,491 | INFO     | src.extract | Extracción finalizada: 3425 registros desde 3 fuentes
+2026-11-11 09:15:49,493 | INFO     | main | --- FASE 2: TRANSFORM ---
+2026-11-11 09:15:49,517 | INFO     | src.transform | Duplicados eliminados: 49 exactos y 26 por id_evento (quedan 3350 filas)
+2026-11-11 09:15:49,533 | INFO     | src.transform | Nulos tratados: 0 filas sin id eliminadas; imputaciones={'equipo_local': 39, 'equipo_visitante': 41, 'competicion': 52, 'resultado': 68}
+2026-11-11 09:15:50,467 | INFO     | src.transform | Fechas estandarizadas: 88 registros con fecha inválida o nula eliminados
+2026-11-11 09:15:50,882 | INFO     | src.transform | Nombres de equipos/jugadores corregidos: 1391
+2026-11-11 09:15:50,902 | INFO     | src.transform | Cuotas validadas: inválidas={'cuota_local': 97, 'cuota_empate': 51, 'cuota_visitante': 99} | atípicas={'cuota_local': 40, 'cuota_empate': 17, 'cuota_visitante': 44} | imputadas={'cuota_local': 206, 'cuota_empate': 107, 'cuota_visitante': 200}
+2026-11-11 09:15:50,926 | INFO     | src.transform | Columnas derivadas creadas: temporales, marcadores, resultado, favorito y probabilidades implícitas (resultados desconocidos=67)
+2026-11-11 09:15:50,934 | INFO     | src.transform | Tipos de datos convertidos correctamente.
+2026-11-11 09:15:50,946 | INFO     | src.transform | Reporte de calidad generado: reporte_calidad.md y reporte_calidad.csv
+2026-11-11 09:15:50,946 | INFO     | src.transform | Transformación finalizada: 3425 filas de entrada -> 3262 filas limpias
+2026-11-11 09:15:50,946 | INFO     | main | --- FASE 3: LOAD ---
+2026-11-11 09:15:52,538 | INFO     | src.load | Dataset limpio guardado: eventos_limpios.csv y eventos_limpios.xlsx
+2026-11-11 09:15:52,605 | INFO     | src.load | Tabla del modelo estrella guardada: dim_deportes.csv (3 filas)
+2026-11-11 09:15:52,606 | INFO     | src.load | Tabla del modelo estrella guardada: dim_competiciones.csv (33 filas)
+2026-11-11 09:15:52,608 | INFO     | src.load | Tabla del modelo estrella guardada: dim_equipos.csv (76 filas)
+2026-11-11 09:15:52,617 | INFO     | src.load | Tabla del modelo estrella guardada: dim_fecha.csv (1305 filas)
+2026-11-11 09:15:52,652 | INFO     | src.load | Tabla del modelo estrella guardada: fact_eventos.csv (3262 filas)
+2026-11-11 09:15:52,682 | INFO     | src.load | Tabla SQLite cargada: dim_deportes (3 filas)
+2026-11-11 09:15:52,698 | INFO     | src.load | Tabla SQLite cargada: dim_competiciones (33 filas)
+2026-11-11 09:15:52,717 | INFO     | src.load | Tabla SQLite cargada: dim_equipos (76 filas)
+2026-11-11 09:15:52,737 | INFO     | src.load | Tabla SQLite cargada: dim_fecha (1305 filas)
+2026-11-11 09:15:52,790 | INFO     | src.load | Tabla SQLite cargada: fact_eventos (3262 filas)
+2026-11-11 09:15:52,791 | INFO     | src.load | Base SQLite disponible en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\processed\apuestas.db
+2026-11-11 09:15:52,791 | INFO     | src.load | Carga finalizada: 3262 filas y 5 tablas del modelo estrella
+2026-11-11 09:15:52,794 | INFO     | main | --- FASE 4: VISUALIZACIÓN ---
+2026-11-11 09:15:53,000 | INFO     | src.visualizations | Figura generada: 01_total_eventos.png
+2026-11-11 09:15:53,166 | INFO     | src.visualizations | Figura generada: 02_eventos_por_deporte.png
+2026-11-11 09:15:53,483 | INFO     | src.visualizations | Figura generada: 03_resultados_por_equipo.png
+2026-11-11 09:15:53,949 | INFO     | src.visualizations | Figura generada: 04_local_vs_visitante.png
+2026-11-11 09:15:54,194 | INFO     | src.visualizations | Figura generada: 05_eventos_por_competicion.png
+2026-11-11 09:15:54,661 | INFO     | src.visualizations | Figura generada: 06_analisis_cuotas.png
+2026-11-11 09:15:54,896 | INFO     | src.visualizations | Figura generada: 07_tendencia_mensual.png
+2026-11-11 09:15:54,896 | INFO     | src.visualizations | Visualizaciones generadas: 7 archivos en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports\figures
+2026-11-11 09:15:54,896 | INFO     | main | ========================================================================
+2026-11-11 09:15:54,897 | INFO     | main | RESUMEN DEL PROCESO
+2026-11-11 09:15:54,897 | INFO     | main | ========================================================================
+2026-11-11 09:15:54,897 | INFO     | main | Registros crudos extraídos:        3,425
+2026-11-11 09:15:54,897 | INFO     | main | Registros limpios finales:         3,262
+2026-11-11 09:15:54,897 | INFO     | main | Duplicados exactos eliminados:     49
+2026-11-11 09:15:54,897 | INFO     | main | Duplicados por id eliminados:      26
+2026-11-11 09:15:54,897 | INFO     | main | Filas sin id eliminadas:           0
+2026-11-11 09:15:54,897 | INFO     | main | Fechas inválidas eliminadas:       88
+2026-11-11 09:15:54,897 | INFO     | main | Nombres de equipo corregidos:      1,391
+2026-11-11 09:15:54,897 | INFO     | main | Cuotas inválidas corregidas:       247
+2026-11-11 09:15:54,897 | INFO     | main | Cuotas atípicas tratadas:          101
+2026-11-11 09:15:54,897 | INFO     | main | Cuotas nulas imputadas:            513
+2026-11-11 09:15:54,897 | INFO     | main | Resultados desconocidos:           67
+2026-11-11 09:15:54,897 | INFO     | main | Tablas del modelo estrella:        5
+2026-11-11 09:15:54,897 | INFO     | main | Dataset limpio:                    C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\processed
+2026-11-11 09:15:54,897 | INFO     | main | Reporte de calidad:                C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports
+2026-11-11 09:15:54,897 | INFO     | main | Figuras:                           C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports\figures
+2026-11-11 09:15:54,897 | INFO     | main | Duración total:                    6.7 segundos
+2026-11-11 09:15:54,897 | INFO     | main | ========================================================================
+2026-11-11 09:21:31,379 | INFO     | __main__ | Figura generada: 01_total_eventos.png
+2026-11-11 09:21:31,485 | INFO     | __main__ | Figura generada: 02_eventos_por_deporte.png
+2026-11-11 09:21:31,639 | INFO     | __main__ | Figura generada: 03_resultados_por_equipo.png
+2026-11-11 09:21:31,972 | INFO     | __main__ | Figura generada: 04_local_vs_visitante.png
+2026-11-11 09:21:32,112 | INFO     | __main__ | Figura generada: 05_eventos_por_competicion.png
+2026-11-11 09:21:32,396 | INFO     | __main__ | Figura generada: 06_analisis_cuotas.png
+2026-11-11 09:21:32,533 | INFO     | __main__ | Figura generada: 07_tendencia_mensual.png
+2026-11-11 09:21:32,533 | INFO     | __main__ | Visualizaciones generadas: 7 archivos en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports\figures
+2026-11-11 09:22:20,853 | INFO     | main | ========================================================================
+2026-11-11 09:22:20,854 | INFO     | main | PROYECTO ETL: ANÁLISIS DE DATOS DE APUESTAS DEPORTIVAS
+2026-11-11 09:22:20,854 | INFO     | main | ========================================================================
+2026-11-11 09:22:20,854 | INFO     | main | Generando datos simulados (semilla=42)...
+2026-11-11 09:22:20,899 | INFO     | src.generate_sample_data | Fuente generada: eventos_futbol.csv (1841 registros)
+2026-11-11 09:22:20,915 | INFO     | src.generate_sample_data | Fuente generada: eventos_baloncesto.csv (920 registros)
+2026-11-11 09:22:21,234 | INFO     | src.generate_sample_data | Fuente generada: eventos_tenis.xlsx (664 registros)
+2026-11-11 09:22:21,234 | INFO     | src.generate_sample_data | Datos simulados creados con semilla=42 | total registros crudos=3425
+2026-11-11 09:22:21,234 | INFO     | main | --- FASE 1: EXTRACT ---
+2026-11-11 09:22:21,251 | INFO     | src.extract | Leídos 920 registros desde eventos_baloncesto.csv
+2026-11-11 09:22:21,252 | INFO     | src.extract | Fuente eventos_baloncesto.csv aportada al dataset: 920 registros
+2026-11-11 09:22:21,271 | INFO     | src.extract | Leídos 1841 registros desde eventos_futbol.csv
+2026-11-11 09:22:21,272 | INFO     | src.extract | Fuente eventos_futbol.csv aportada al dataset: 1841 registros
+2026-11-11 09:22:21,327 | INFO     | src.extract | Leídos 664 registros desde eventos_tenis.xlsx
+2026-11-11 09:22:21,328 | WARNING  | src.extract | eventos_tenis.xlsx: columnas ausentes completadas con nulos: cuota_empate
+2026-11-11 09:22:21,328 | INFO     | src.extract | Fuente eventos_tenis.xlsx aportada al dataset: 664 registros
+2026-11-11 09:22:21,330 | INFO     | src.extract | Extracción finalizada: 3425 registros desde 3 fuentes
+2026-11-11 09:22:21,330 | INFO     | main | --- FASE 2: TRANSFORM ---
+2026-11-11 09:22:21,339 | INFO     | src.transform | Duplicados eliminados: 49 exactos y 26 por id_evento (quedan 3350 filas)
+2026-11-11 09:22:21,345 | INFO     | src.transform | Nulos tratados: 0 filas sin id eliminadas; imputaciones={'equipo_local': 40, 'equipo_visitante': 43, 'competicion': 56, 'resultado': 62}
+2026-11-11 09:22:21,955 | INFO     | src.transform | Fechas estandarizadas: 72 registros con fecha inválida o nula eliminados
+2026-11-11 09:22:22,278 | INFO     | src.transform | Nombres de equipos/jugadores corregidos: 1406
+2026-11-11 09:22:22,289 | INFO     | src.transform | Cuotas validadas: inválidas={'cuota_local': 70, 'cuota_empate': 53, 'cuota_visitante': 118} | atípicas={'cuota_local': 40, 'cuota_empate': 18, 'cuota_visitante': 47} | imputadas={'cuota_local': 184, 'cuota_empate': 110, 'cuota_visitante': 216}
+2026-11-11 09:22:22,309 | INFO     | src.transform | Columnas derivadas creadas: temporales, marcadores, resultado, favorito y probabilidades implícitas (resultados desconocidos=60)
+2026-11-11 09:22:22,315 | INFO     | src.transform | Tipos de datos convertidos correctamente.
+2026-11-11 09:22:22,319 | INFO     | src.transform | Reporte de calidad generado: reporte_calidad.md y reporte_calidad.csv
+2026-11-11 09:22:22,319 | INFO     | src.transform | Transformación finalizada: 3425 filas de entrada -> 3278 filas limpias
+2026-11-11 09:22:22,319 | INFO     | main | --- FASE 3: LOAD ---
+2026-11-11 09:22:23,505 | INFO     | src.load | Dataset limpio guardado: eventos_limpios.csv y eventos_limpios.xlsx
+2026-11-11 09:22:23,531 | INFO     | src.load | Tabla del modelo estrella guardada: dim_deportes.csv (3 filas)
+2026-11-11 09:22:23,532 | INFO     | src.load | Tabla del modelo estrella guardada: dim_competiciones.csv (35 filas)
+2026-11-11 09:22:23,533 | INFO     | src.load | Tabla del modelo estrella guardada: dim_equipos.csv (76 filas)
+2026-11-11 09:22:23,537 | INFO     | src.load | Tabla del modelo estrella guardada: dim_fecha.csv (1308 filas)
+2026-11-11 09:22:23,568 | INFO     | src.load | Tabla del modelo estrella guardada: fact_eventos.csv (3278 filas)
+2026-11-11 09:22:23,583 | INFO     | src.load | Tabla SQLite cargada: dim_deportes (3 filas)
+2026-11-11 09:22:23,595 | INFO     | src.load | Tabla SQLite cargada: dim_competiciones (35 filas)
+2026-11-11 09:22:23,605 | INFO     | src.load | Tabla SQLite cargada: dim_equipos (76 filas)
+2026-11-11 09:22:23,626 | INFO     | src.load | Tabla SQLite cargada: dim_fecha (1308 filas)
+2026-11-11 09:22:23,664 | INFO     | src.load | Tabla SQLite cargada: fact_eventos (3278 filas)
+2026-11-11 09:22:23,664 | INFO     | src.load | Base SQLite disponible en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\processed\apuestas.db
+2026-11-11 09:22:23,664 | INFO     | src.load | Carga finalizada: 3278 filas y 5 tablas del modelo estrella
+2026-11-11 09:22:23,665 | INFO     | main | --- FASE 4: VISUALIZACIÓN ---
+2026-11-11 09:22:23,769 | INFO     | src.visualizations | Figura generada: 01_total_eventos.png
+2026-11-11 09:22:23,897 | INFO     | src.visualizations | Figura generada: 02_eventos_por_deporte.png
+2026-11-11 09:22:24,081 | INFO     | src.visualizations | Figura generada: 03_resultados_por_equipo.png
+2026-11-11 09:22:24,470 | INFO     | src.visualizations | Figura generada: 04_local_vs_visitante.png
+2026-11-11 09:22:24,632 | INFO     | src.visualizations | Figura generada: 05_eventos_por_competicion.png
+2026-11-11 09:22:25,525 | INFO     | src.visualizations | Figura generada: 06_analisis_cuotas.png
+2026-11-11 09:22:26,033 | INFO     | src.visualizations | Figura generada: 07_tendencia_mensual.png
+2026-11-11 09:22:26,034 | INFO     | src.visualizations | Visualizaciones generadas: 7 archivos en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports\figures
+2026-11-11 09:22:26,034 | INFO     | main | ========================================================================
+2026-11-11 09:22:26,034 | INFO     | main | RESUMEN DEL PROCESO
+2026-11-11 09:22:26,034 | INFO     | main | ========================================================================
+2026-11-11 09:22:26,034 | INFO     | main | Registros crudos extraídos:        3,425
+2026-11-11 09:22:26,034 | INFO     | main | Registros limpios finales:         3,278
+2026-11-11 09:22:26,034 | INFO     | main | Duplicados exactos eliminados:     49
+2026-11-11 09:22:26,034 | INFO     | main | Duplicados por id eliminados:      26
+2026-11-11 09:22:26,034 | INFO     | main | Filas sin id eliminadas:           0
+2026-11-11 09:22:26,034 | INFO     | main | Fechas inválidas eliminadas:       72
+2026-11-11 09:22:26,034 | INFO     | main | Nombres de equipo corregidos:      1,406
+2026-11-11 09:22:26,034 | INFO     | main | Cuotas inválidas corregidas:       241
+2026-11-11 09:22:26,034 | INFO     | main | Cuotas atípicas tratadas:          105
+2026-11-11 09:22:26,035 | INFO     | main | Cuotas nulas imputadas:            510
+2026-11-11 09:22:26,035 | INFO     | main | Resultados desconocidos:           60
+2026-11-11 09:22:26,035 | INFO     | main | Tablas del modelo estrella:        5
+2026-11-11 09:22:26,035 | INFO     | main | Dataset limpio:                    C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\processed
+2026-11-11 09:22:26,035 | INFO     | main | Reporte de calidad:                C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports
+2026-11-11 09:22:26,035 | INFO     | main | Figuras:                           C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports\figures
+2026-11-11 09:22:26,035 | INFO     | main | Duración total:                    5.2 segundos
+2026-11-11 09:22:26,035 | INFO     | main | ========================================================================
+2026-11-11 09:23:57,567 | INFO     | main | ========================================================================
+2026-11-11 09:23:57,567 | INFO     | main | PROYECTO ETL: ANÁLISIS DE DATOS DE APUESTAS DEPORTIVAS
+2026-11-11 09:23:57,567 | INFO     | main | ========================================================================
+2026-11-11 09:23:57,567 | INFO     | main | Se usarán las fuentes existentes en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\raw
+2026-11-11 09:23:57,567 | INFO     | main | --- FASE 1: EXTRACT ---
+2026-11-11 09:23:57,573 | INFO     | src.extract | Leídos 920 registros desde eventos_baloncesto.csv
+2026-11-11 09:23:57,574 | INFO     | src.extract | Fuente eventos_baloncesto.csv aportada al dataset: 920 registros
+2026-11-11 09:23:57,585 | INFO     | src.extract | Leídos 1841 registros desde eventos_futbol.csv
+2026-11-11 09:23:57,587 | INFO     | src.extract | Fuente eventos_futbol.csv aportada al dataset: 1841 registros
+2026-11-11 09:23:57,983 | INFO     | src.extract | Leídos 664 registros desde eventos_tenis.xlsx
+2026-11-11 09:23:57,984 | WARNING  | src.extract | eventos_tenis.xlsx: columnas ausentes completadas con nulos: cuota_empate
+2026-11-11 09:23:57,984 | INFO     | src.extract | Fuente eventos_tenis.xlsx aportada al dataset: 664 registros
+2026-11-11 09:23:57,985 | INFO     | src.extract | Extracción finalizada: 3425 registros desde 3 fuentes
+2026-11-11 09:23:57,985 | INFO     | main | --- FASE 2: TRANSFORM ---
+2026-11-11 09:23:57,995 | INFO     | src.transform | Duplicados eliminados: 49 exactos y 26 por id_evento (quedan 3350 filas)
+2026-11-11 09:23:58,002 | INFO     | src.transform | Nulos tratados: 0 filas sin id eliminadas; imputaciones={'equipo_local': 40, 'equipo_visitante': 43, 'competicion': 56, 'resultado': 62}
+2026-11-11 09:23:58,569 | INFO     | src.transform | Fechas estandarizadas: 72 registros con fecha inválida o nula eliminados
+2026-11-11 09:23:58,903 | INFO     | src.transform | Nombres de equipos/jugadores corregidos: 1406
+2026-11-11 09:23:58,915 | INFO     | src.transform | Cuotas validadas: inválidas={'cuota_local': 70, 'cuota_empate': 53, 'cuota_visitante': 118} | atípicas={'cuota_local': 40, 'cuota_empate': 18, 'cuota_visitante': 47} | imputadas={'cuota_local': 184, 'cuota_empate': 110, 'cuota_visitante': 216}
+2026-11-11 09:23:58,931 | INFO     | src.transform | Columnas derivadas creadas: temporales, marcadores, resultado, favorito y probabilidades implícitas (resultados desconocidos=60)
+2026-11-11 09:23:58,936 | INFO     | src.transform | Tipos de datos convertidos correctamente.
+2026-11-11 09:23:58,944 | INFO     | src.transform | Reporte de calidad generado: reporte_calidad.md y reporte_calidad.csv
+2026-11-11 09:23:58,944 | INFO     | src.transform | Transformación finalizada: 3425 filas de entrada -> 3278 filas limpias
+2026-11-11 09:23:58,945 | INFO     | main | --- FASE 3: LOAD ---
+2026-11-11 09:24:00,087 | INFO     | src.load | Dataset limpio guardado: eventos_limpios.csv y eventos_limpios.xlsx
+2026-11-11 09:24:00,121 | INFO     | src.load | Tabla del modelo estrella guardada: dim_deportes.csv (3 filas)
+2026-11-11 09:24:00,122 | INFO     | src.load | Tabla del modelo estrella guardada: dim_competiciones.csv (35 filas)
+2026-11-11 09:24:00,123 | INFO     | src.load | Tabla del modelo estrella guardada: dim_equipos.csv (76 filas)
+2026-11-11 09:24:00,126 | INFO     | src.load | Tabla del modelo estrella guardada: dim_fecha.csv (1308 filas)
+2026-11-11 09:24:00,146 | INFO     | src.load | Tabla del modelo estrella guardada: fact_eventos.csv (3278 filas)
+2026-11-11 09:24:00,158 | INFO     | src.load | Tabla SQLite cargada: dim_deportes (3 filas)
+2026-11-11 09:24:00,167 | INFO     | src.load | Tabla SQLite cargada: dim_competiciones (35 filas)
+2026-11-11 09:24:00,177 | INFO     | src.load | Tabla SQLite cargada: dim_equipos (76 filas)
+2026-11-11 09:24:00,190 | INFO     | src.load | Tabla SQLite cargada: dim_fecha (1308 filas)
+2026-11-11 09:24:00,215 | INFO     | src.load | Tabla SQLite cargada: fact_eventos (3278 filas)
+2026-11-11 09:24:00,215 | INFO     | src.load | Base SQLite disponible en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\processed\apuestas.db
+2026-11-11 09:24:00,215 | INFO     | src.load | Carga finalizada: 3278 filas y 5 tablas del modelo estrella
+2026-11-11 09:24:00,216 | INFO     | main | --- FASE 4: VISUALIZACIÓN ---
+2026-11-11 09:24:00,345 | INFO     | src.visualizations | Figura generada: 01_total_eventos.png
+2026-11-11 09:24:00,470 | INFO     | src.visualizations | Figura generada: 02_eventos_por_deporte.png
+2026-11-11 09:24:00,648 | INFO     | src.visualizations | Figura generada: 03_resultados_por_equipo.png
+2026-11-11 09:24:01,022 | INFO     | src.visualizations | Figura generada: 04_local_vs_visitante.png
+2026-11-11 09:24:01,165 | INFO     | src.visualizations | Figura generada: 05_eventos_por_competicion.png
+2026-11-11 09:24:01,466 | INFO     | src.visualizations | Figura generada: 06_analisis_cuotas.png
+2026-11-11 09:24:01,616 | INFO     | src.visualizations | Figura generada: 07_tendencia_mensual.png
+2026-11-11 09:24:01,616 | INFO     | src.visualizations | Visualizaciones generadas: 7 archivos en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports\figures
+2026-11-11 09:24:01,616 | INFO     | main | ========================================================================
+2026-11-11 09:24:01,617 | INFO     | main | RESUMEN DEL PROCESO
+2026-11-11 09:24:01,617 | INFO     | main | ========================================================================
+2026-11-11 09:24:01,617 | INFO     | main | Registros crudos extraídos:        3,425
+2026-11-11 09:24:01,617 | INFO     | main | Registros limpios finales:         3,278
+2026-11-11 09:24:01,617 | INFO     | main | Duplicados exactos eliminados:     49
+2026-11-11 09:24:01,617 | INFO     | main | Duplicados por id eliminados:      26
+2026-11-11 09:24:01,617 | INFO     | main | Filas sin id eliminadas:           0
+2026-11-11 09:24:01,617 | INFO     | main | Fechas inválidas eliminadas:       72
+2026-11-11 09:24:01,617 | INFO     | main | Nombres de equipo corregidos:      1,406
+2026-11-11 09:24:01,617 | INFO     | main | Cuotas inválidas corregidas:       241
+2026-11-11 09:24:01,617 | INFO     | main | Cuotas atípicas tratadas:          105
+2026-11-11 09:24:01,617 | INFO     | main | Cuotas nulas imputadas:            510
+2026-11-11 09:24:01,617 | INFO     | main | Resultados desconocidos:           60
+2026-11-11 09:24:01,617 | INFO     | main | Tablas del modelo estrella:        5
+2026-11-11 09:24:01,617 | INFO     | main | Dataset limpio:                    C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\processed
+2026-11-11 09:24:01,618 | INFO     | main | Reporte de calidad:                C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports
+2026-11-11 09:24:01,618 | INFO     | main | Figuras:                           C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports\figures
+2026-11-11 09:24:01,618 | INFO     | main | Duración total:                    4.1 segundos
+2026-11-11 09:24:01,618 | INFO     | main | ========================================================================
+2026-11-11 09:34:52,693 | INFO     | main | ========================================================================
+2026-11-11 09:34:52,693 | INFO     | main | PROYECTO ETL: ANÁLISIS DE DATOS DE APUESTAS DEPORTIVAS
+2026-11-11 09:34:52,693 | INFO     | main | ========================================================================
+2026-11-11 09:34:52,694 | INFO     | main | Generando datos simulados (semilla=42)...
+2026-11-11 09:34:52,726 | INFO     | src.generate_sample_data | Fuente generada: eventos_futbol.csv (1841 registros)
+2026-11-11 09:34:52,742 | INFO     | src.generate_sample_data | Fuente generada: eventos_baloncesto.csv (920 registros)
+2026-11-11 09:34:53,188 | INFO     | src.generate_sample_data | Fuente generada: eventos_tenis.xlsx (664 registros)
+2026-11-11 09:34:53,188 | INFO     | src.generate_sample_data | Datos simulados creados con semilla=42 | total registros crudos=3425
+2026-11-11 09:34:53,189 | INFO     | main | --- FASE 1: EXTRACT ---
+2026-11-11 09:34:53,203 | INFO     | src.extract | Leídos 920 registros desde eventos_baloncesto.csv
+2026-11-11 09:34:53,204 | INFO     | src.extract | Fuente eventos_baloncesto.csv aportada al dataset: 920 registros
+2026-11-11 09:34:53,222 | INFO     | src.extract | Leídos 1841 registros desde eventos_futbol.csv
+2026-11-11 09:34:53,223 | INFO     | src.extract | Fuente eventos_futbol.csv aportada al dataset: 1841 registros
+2026-11-11 09:34:53,299 | INFO     | src.extract | Leídos 664 registros desde eventos_tenis.xlsx
+2026-11-11 09:34:53,301 | WARNING  | src.extract | eventos_tenis.xlsx: columnas ausentes completadas con nulos: cuota_empate
+2026-11-11 09:34:53,301 | INFO     | src.extract | Fuente eventos_tenis.xlsx aportada al dataset: 664 registros
+2026-11-11 09:34:53,302 | INFO     | src.extract | Extracción finalizada: 3425 registros desde 3 fuentes
+2026-11-11 09:34:53,303 | INFO     | main | --- FASE 2: TRANSFORM ---
+2026-11-11 09:34:53,313 | INFO     | src.transform | Duplicados eliminados: 49 exactos y 26 por id_evento (quedan 3350 filas)
+2026-11-11 09:34:53,319 | INFO     | src.transform | Nulos tratados: 0 filas sin id eliminadas; imputaciones={'equipo_local': 40, 'equipo_visitante': 43, 'competicion': 56, 'resultado': 62}
+2026-11-11 09:34:53,859 | INFO     | src.transform | Fechas estandarizadas: 72 registros con fecha inválida o nula eliminados
+2026-11-11 09:34:54,190 | INFO     | src.transform | Nombres de equipos/jugadores corregidos: 1406
+2026-11-11 09:34:54,201 | INFO     | src.transform | Cuotas validadas: inválidas={'cuota_local': 70, 'cuota_empate': 53, 'cuota_visitante': 118} | atípicas={'cuota_local': 40, 'cuota_empate': 18, 'cuota_visitante': 47} | imputadas={'cuota_local': 184, 'cuota_empate': 110, 'cuota_visitante': 216}
+2026-11-11 09:34:54,218 | INFO     | src.transform | Columnas derivadas creadas: temporales, marcadores, resultado, favorito y probabilidades implícitas (resultados desconocidos=60)
+2026-11-11 09:34:54,223 | INFO     | src.transform | Tipos de datos convertidos correctamente.
+2026-11-11 09:34:54,227 | INFO     | src.transform | Reporte de calidad generado: reporte_calidad.md y reporte_calidad.csv
+2026-11-11 09:34:54,227 | INFO     | src.transform | Transformación finalizada: 3425 filas de entrada -> 3278 filas limpias
+2026-11-11 09:34:54,227 | INFO     | main | --- FASE 3: LOAD ---
+2026-11-11 09:34:55,235 | INFO     | src.load | Dataset limpio guardado: eventos_limpios.csv y eventos_limpios.xlsx
+2026-11-11 09:34:55,257 | INFO     | src.load | Tabla del modelo estrella guardada: dim_deportes.csv (3 filas)
+2026-11-11 09:34:55,257 | INFO     | src.load | Tabla del modelo estrella guardada: dim_competiciones.csv (35 filas)
+2026-11-11 09:34:55,260 | INFO     | src.load | Tabla del modelo estrella guardada: dim_equipos.csv (76 filas)
+2026-11-11 09:34:55,263 | INFO     | src.load | Tabla del modelo estrella guardada: dim_fecha.csv (1308 filas)
+2026-11-11 09:34:55,283 | INFO     | src.load | Tabla del modelo estrella guardada: fact_eventos.csv (3278 filas)
+2026-11-11 09:34:55,293 | INFO     | src.load | Tabla SQLite cargada: dim_deportes (3 filas)
+2026-11-11 09:34:55,302 | INFO     | src.load | Tabla SQLite cargada: dim_competiciones (35 filas)
+2026-11-11 09:34:55,311 | INFO     | src.load | Tabla SQLite cargada: dim_equipos (76 filas)
+2026-11-11 09:34:55,324 | INFO     | src.load | Tabla SQLite cargada: dim_fecha (1308 filas)
+2026-11-11 09:34:55,348 | INFO     | src.load | Tabla SQLite cargada: fact_eventos (3278 filas)
+2026-11-11 09:34:55,348 | INFO     | src.load | Base SQLite disponible en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\processed\apuestas.db
+2026-11-11 09:34:55,348 | INFO     | src.load | Carga finalizada: 3278 filas y 5 tablas del modelo estrella
+2026-11-11 09:34:55,349 | INFO     | main | --- FASE 4: VISUALIZACIÓN ---
+2026-11-11 09:34:55,454 | INFO     | src.visualizations | Figura generada: 01_total_eventos.png
+2026-11-11 09:34:55,548 | INFO     | src.visualizations | Figura generada: 02_eventos_por_deporte.png
+2026-11-11 09:34:55,694 | INFO     | src.visualizations | Figura generada: 03_resultados_por_equipo.png
+2026-11-11 09:34:55,985 | INFO     | src.visualizations | Figura generada: 04_local_vs_visitante.png
+2026-11-11 09:34:56,116 | INFO     | src.visualizations | Figura generada: 05_eventos_por_competicion.png
+2026-11-11 09:34:56,395 | INFO     | src.visualizations | Figura generada: 06_analisis_cuotas.png
+2026-11-11 09:34:56,509 | INFO     | src.visualizations | Figura generada: 07_tendencia_mensual.png
+2026-11-11 09:34:56,509 | INFO     | src.visualizations | Visualizaciones generadas: 7 archivos en C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports\figures
+2026-11-11 09:34:56,509 | INFO     | main | ========================================================================
+2026-11-11 09:34:56,509 | INFO     | main | RESUMEN DEL PROCESO
+2026-11-11 09:34:56,509 | INFO     | main | ========================================================================
+2026-11-11 09:34:56,509 | INFO     | main | Registros crudos extraídos:        3,425
+2026-11-11 09:34:56,510 | INFO     | main | Registros limpios finales:         3,278
+2026-11-11 09:34:56,510 | INFO     | main | Duplicados exactos eliminados:     49
+2026-11-11 09:34:56,510 | INFO     | main | Duplicados por id eliminados:      26
+2026-11-11 09:34:56,510 | INFO     | main | Filas sin id eliminadas:           0
+2026-11-11 09:34:56,510 | INFO     | main | Fechas inválidas eliminadas:       72
+2026-11-11 09:34:56,510 | INFO     | main | Nombres de equipo corregidos:      1,406
+2026-11-11 09:34:56,510 | INFO     | main | Cuotas inválidas corregidas:       241
+2026-11-11 09:34:56,510 | INFO     | main | Cuotas atípicas tratadas:          105
+2026-11-11 09:34:56,510 | INFO     | main | Cuotas nulas imputadas:            510
+2026-11-11 09:34:56,510 | INFO     | main | Resultados desconocidos:           60
+2026-11-11 09:34:56,510 | INFO     | main | Tablas del modelo estrella:        5
+2026-11-11 09:34:56,510 | INFO     | main | Dataset limpio:                    C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\data\processed
+2026-11-11 09:34:56,510 | INFO     | main | Reporte de calidad:                C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports
+2026-11-11 09:34:56,510 | INFO     | main | Figuras:                           C:\Users\alan.sastre\Desktop\Proyecto apuestas\proyecto_etl_apuestas\reports\figures
+2026-11-11 09:34:56,510 | INFO     | main | Duración total:                    3.8 segundos
+2026-11-11 09:34:56,511 | INFO     | main | ========================================================================
