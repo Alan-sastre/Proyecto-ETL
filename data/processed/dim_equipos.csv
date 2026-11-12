@@ -1,0 +1,77 @@
+﻿id_equipo,equipo,deporte,partidos,victorias,empates,derrotas,tasa_victoria
+EQP-0001,Barcelona,Baloncesto,75,41,0,32,0.5467
+EQP-0002,Baskonia,Baloncesto,87,42,0,44,0.4828
+EQP-0003,Bilbao Basket,Baloncesto,91,44,0,45,0.4835
+EQP-0004,Bucks,Baloncesto,78,34,0,39,0.4359
+EQP-0005,Bulls,Baloncesto,81,48,0,32,0.5926
+EQP-0006,Celtics,Baloncesto,100,46,0,52,0.46
+EQP-0007,Gran Canaria,Baloncesto,94,49,0,43,0.5213
+EQP-0008,Heat,Baloncesto,84,38,0,43,0.4524
+EQP-0009,Joventut,Baloncesto,87,37,0,49,0.4253
+EQP-0010,Knicks,Baloncesto,87,45,1,40,0.5172
+EQP-0011,Lakers,Baloncesto,101,46,1,52,0.4554
+EQP-0012,Mavericks,Baloncesto,90,38,2,50,0.4222
+EQP-0013,Nuggets,Baloncesto,91,50,0,39,0.5495
+EQP-0014,Real Madrid,Baloncesto,68,37,1,30,0.5441
+EQP-0015,Suns,Baloncesto,75,38,0,36,0.5067
+EQP-0016,Tenerife,Baloncesto,98,55,0,41,0.5612
+EQP-0017,Unicaja,Baloncesto,101,47,0,52,0.4653
+EQP-0018,Valencia Basket,Baloncesto,84,38,0,44,0.4524
+EQP-0019,Warriors,Baloncesto,79,31,1,43,0.3924
+EQP-0020,Zaragoza,Baloncesto,90,45,0,44,0.5
+EQP-0021,Alavés,Fútbol,106,49,15,39,0.4623
+EQP-0022,Arsenal,Fútbol,91,33,17,41,0.3626
+EQP-0023,Athletic Club,Fútbol,121,47,28,44,0.3884
+EQP-0024,Atlético de Madrid,Fútbol,92,38,19,35,0.413
+EQP-0025,Barcelona,Fútbol,109,47,16,46,0.4312
+EQP-0026,Bayern Múnich,Fútbol,105,39,20,43,0.3714
+EQP-0027,Betis,Fútbol,120,41,23,56,0.3417
+EQP-0028,Borussia Dortmund,Fútbol,133,54,25,52,0.406
+EQP-0029,Celta de Vigo,Fútbol,124,42,17,62,0.3387
+EQP-0030,Chelsea,Fútbol,108,38,20,47,0.3519
+EQP-0031,Cádiz,Fútbol,124,54,22,45,0.4355
+EQP-0032,Elche,Fútbol,92,38,15,39,0.413
+EQP-0033,Espanyol,Fútbol,94,39,13,36,0.4149
+EQP-0034,Getafe,Fútbol,106,37,20,46,0.3491
+EQP-0035,Granada,Fútbol,93,37,18,38,0.3978
+EQP-0036,Inter de Milán,Fútbol,133,55,28,48,0.4135
+EQP-0037,Juventus,Fútbol,111,36,20,54,0.3243
+EQP-0038,Levante,Fútbol,108,48,19,39,0.4444
+EQP-0039,Liverpool,Fútbol,97,36,20,39,0.3711
+EQP-0040,Mallorca,Fútbol,114,54,19,40,0.4737
+EQP-0041,Manchester City,Fútbol,120,42,29,47,0.35
+EQP-0042,Manchester United,Fútbol,103,41,16,44,0.3981
+EQP-0043,Milan,Fútbol,118,49,18,46,0.4153
+EQP-0044,Osasuna,Fútbol,103,45,25,32,0.4369
+EQP-0045,PSG,Fútbol,108,47,20,39,0.4352
+EQP-0046,Rayo Vallecano,Fútbol,105,39,26,40,0.3714
+EQP-0047,Real Madrid,Fútbol,97,42,15,36,0.433
+EQP-0048,Real Sociedad,Fútbol,108,46,14,47,0.4259
+EQP-0049,Sevilla,Fútbol,109,44,18,46,0.4037
+EQP-0050,Tottenham,Fútbol,106,45,22,39,0.4245
+EQP-0051,Valencia,Fútbol,108,52,17,38,0.4815
+EQP-0052,Villarreal,Fútbol,104,38,21,40,0.3654
+EQP-0053,Alex de Minaur,Tenis,52,30,0,22,0.5769
+EQP-0054,Alexander Zverev,Tenis,50,17,1,31,0.34
+EQP-0055,Andrey Rublev,Tenis,46,21,0,21,0.4565
+EQP-0056,Aryna Sabalenka,Tenis,58,30,0,27,0.5172
+EQP-0057,Carlos Alcaraz,Tenis,52,25,1,25,0.4808
+EQP-0058,Caroline Garcia,Tenis,53,23,1,27,0.434
+EQP-0059,Casper Ruud,Tenis,62,36,0,25,0.5806
+EQP-0060,Coco Gauff,Tenis,53,24,0,28,0.4528
+EQP-0061,Daniil Medvedev,Tenis,53,30,1,22,0.566
+EQP-0062,Elena Rybakina,Tenis,64,29,1,34,0.4531
+EQP-0063,Frances Tiafoe,Tenis,44,24,1,19,0.5455
+EQP-0064,Grigor Dimitrov,Tenis,46,25,0,21,0.5435
+EQP-0065,Holger Rune,Tenis,56,30,0,24,0.5357
+EQP-0066,Hubert Hurkacz,Tenis,61,33,0,27,0.541
+EQP-0067,Iga Swiatek,Tenis,40,22,0,18,0.55
+EQP-0068,Jannik Sinner,Tenis,59,24,1,33,0.4068
+EQP-0069,Jessica Pegula,Tenis,62,31,0,29,0.5
+EQP-0070,Maria Sakkari,Tenis,48,24,1,22,0.5
+EQP-0071,Novak Djokovic,Tenis,45,19,0,24,0.4222
+EQP-0072,Ons Jabeur,Tenis,54,25,1,26,0.463
+EQP-0073,Rafael Nadal,Tenis,60,33,0,27,0.55
+EQP-0074,Stefanos Tsitsipas,Tenis,53,25,1,27,0.4717
+EQP-0075,Taylor Fritz,Tenis,47,20,0,27,0.4255
+EQP-0076,Tommy Paul,Tenis,45,16,0,27,0.3556

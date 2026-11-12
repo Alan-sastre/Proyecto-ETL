@@ -1,0 +1,36 @@
+﻿id_competicion,competicion,deporte,n_eventos
+COM-001, Copa del Rey ,Baloncesto,6
+COM-002, Euroliga ,Baloncesto,5
+COM-003, Liga ACB ,Baloncesto,2
+COM-004, NBA ,Baloncesto,3
+COM-005,Copa del Rey,Baloncesto,245
+COM-006,Desconocida,Baloncesto,15
+COM-007,Euroliga,Baloncesto,203
+COM-008,Liga ACB,Baloncesto,199
+COM-009,NBA,Baloncesto,199
+COM-010, Bundesliga ,Fútbol,6
+COM-011, La Liga ,Fútbol,7
+COM-012, Ligue 1 ,Fútbol,5
+COM-013, Premier League ,Fútbol,5
+COM-014, Serie A ,Fútbol,4
+COM-015, UEFA Champions League ,Fútbol,8
+COM-016,Bundesliga,Fútbol,285
+COM-017,Desconocida,Fútbol,30
+COM-018,La Liga,Fútbol,279
+COM-019,Ligue 1,Fútbol,268
+COM-020,Premier League,Fútbol,283
+COM-021,Serie A,Fútbol,299
+COM-022,UEFA Champions League,Fútbol,283
+COM-023, ATP Masters 1000 ,Tenis,2
+COM-024, Australian Open ,Tenis,1
+COM-025, Roland Garros ,Tenis,3
+COM-026, US Open ,Tenis,1
+COM-027, WTA 1000 ,Tenis,2
+COM-028, Wimbledon ,Tenis,3
+COM-029,ATP Masters 1000,Tenis,99
+COM-030,Australian Open,Tenis,120
+COM-031,Desconocida,Tenis,11
+COM-032,Roland Garros,Tenis,102
+COM-033,US Open,Tenis,97
+COM-034,WTA 1000,Tenis,96
+COM-035,Wimbledon,Tenis,102
