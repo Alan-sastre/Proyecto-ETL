@@ -1,0 +1,16 @@
+DASHBOARD DE APUESTAS - PROYECTO ETL
+====================================
+
+1. Instala Power BI Desktop (gratis): https://powerbi.microsoft.com/desktop/
+2. Abre el archivo "Dashboard_Apuestas.pbip" (doble clic o Archivo > Abrir).
+3. Cuando cargue el informe, pulsa Inicio > Actualizar para traer los datos.
+4. Encontraras tres paginas: Resumen general, Cuotas y mercado y Detalle por
+   equipo, con 24 visuales y 33 medidas ya creadas.
+5. Para guardar una copia en formato clasico: Archivo > Guardar como >
+   Power BI (.pbix).
+
+La ruta de los CSV esta en el parametro "RutaDatos" (Inicio > Transformar
+datos > Transformar datos > RutaDatos). Si mueves la carpeta del proyecto,
+cambia esa ruta y vuelve a actualizar.
+
+Guia completa: ../ABRIR_EN_POWER_BI.md

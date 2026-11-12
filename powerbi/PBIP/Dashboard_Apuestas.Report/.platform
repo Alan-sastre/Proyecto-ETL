@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Dashboard Apuestas"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a5de5ce1-5d5e-5061-b956-0f85ee0e4ede"
+  }
+}

@@ -1,0 +1,961 @@
+{
+  "name": "Dashboard_Apuestas",
+  "compatibilityLevel": 1550,
+  "model": {
+    "culture": "es-ES",
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "expressions": [
+      {
+        "name": "RutaDatos",
+        "kind": "m",
+        "expression": "\"C:\\Users\\alan.sastre\\Desktop\\Proyecto apuestas\\proyecto_etl_apuestas\\data\\processed\" meta [IsParameterQuery=true, Type=\"Text\", IsParameterQueryRequired=true]",
+        "annotations": [
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
+          },
+          {
+            "name": "PBI_ResultType",
+            "value": "Text"
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "name": "fact_eventos",
+        "lineageTag": "451124fd-c044-5f71-8207-14bbe254eb6a",
+        "columns": [
+          {
+            "name": "id_evento",
+            "dataType": "string",
+            "sourceColumn": "id_evento",
+            "lineageTag": "75f196e2-1724-52e7-be4c-8d7cc9edba5e",
+            "summarizeBy": "none",
+            "isHidden": true
+          },
+          {
+            "name": "id_fecha",
+            "dataType": "string",
+            "sourceColumn": "id_fecha",
+            "lineageTag": "7f33bafa-d899-5186-a2f1-afc5c7df73da",
+            "summarizeBy": "none",
+            "isHidden": true
+          },
+          {
+            "name": "fecha_evento",
+            "dataType": "dateTime",
+            "sourceColumn": "fecha_evento",
+            "lineageTag": "60e2d931-6da3-5546-a8cb-8dc02985a724",
+            "summarizeBy": "none",
+            "formatString": "dd/MM/yyyy"
+          },
+          {
+            "name": "id_deporte",
+            "dataType": "string",
+            "sourceColumn": "id_deporte",
+            "lineageTag": "a413e423-994e-5357-a6a7-b89e1d64fc43",
+            "summarizeBy": "none",
+            "isHidden": true
+          },
+          {
+            "name": "id_competicion",
+            "dataType": "string",
+            "sourceColumn": "id_competicion",
+            "lineageTag": "24bfde69-3a2a-55ad-9bcd-669fafc101c5",
+            "summarizeBy": "none",
+            "isHidden": true
+          },
+          {
+            "name": "id_equipo_local",
+            "dataType": "string",
+            "sourceColumn": "id_equipo_local",
+            "lineageTag": "ca30d9ad-ab4c-54ba-9af5-dba7f81a968e",
+            "summarizeBy": "none",
+            "isHidden": true
+          },
+          {
+            "name": "id_equipo_visitante",
+            "dataType": "string",
+            "sourceColumn": "id_equipo_visitante",
+            "lineageTag": "fc103b44-f659-57ed-83e1-cd0391c8cffc",
+            "summarizeBy": "none",
+            "isHidden": true
+          },
+          {
+            "name": "marcador_local",
+            "dataType": "int64",
+            "sourceColumn": "marcador_local",
+            "lineageTag": "254f50a5-4ea0-57c7-834a-5df23a5ea062",
+            "summarizeBy": "none",
+            "formatString": "0"
+          },
+          {
+            "name": "marcador_visitante",
+            "dataType": "int64",
+            "sourceColumn": "marcador_visitante",
+            "lineageTag": "b6b35a1e-10f1-561c-b984-ba7497cbfe3d",
+            "summarizeBy": "none",
+            "formatString": "0"
+          },
+          {
+            "name": "goles_local",
+            "dataType": "double",
+            "sourceColumn": "goles_local",
+            "lineageTag": "70850a54-3794-5e6d-a03f-1b3a4506df5b",
+            "summarizeBy": "none",
+            "formatString": "0.00"
+          },
+          {
+            "name": "goles_visitante",
+            "dataType": "double",
+            "sourceColumn": "goles_visitante",
+            "lineageTag": "8aaa924b-70b8-5f0b-9df8-6206e927badd",
+            "summarizeBy": "none",
+            "formatString": "0.00"
+          },
+          {
+            "name": "puntos_local",
+            "dataType": "int64",
+            "sourceColumn": "puntos_local",
+            "lineageTag": "e4226c00-017c-5174-a92b-0277d14509db",
+            "summarizeBy": "none",
+            "formatString": "0"
+          },
+          {
+            "name": "puntos_visitante",
+            "dataType": "int64",
+            "sourceColumn": "puntos_visitante",
+            "lineageTag": "92a873b9-20a3-52d5-920b-06d41043a30b",
+            "summarizeBy": "none",
+            "formatString": "0"
+          },
+          {
+            "name": "diferencia_marcador",
+            "dataType": "int64",
+            "sourceColumn": "diferencia_marcador",
+            "lineageTag": "30e1abbe-21e3-5af3-8da2-c39499cb16bd",
+            "summarizeBy": "none",
+            "formatString": "+0;-0;0"
+          },
+          {
+            "name": "resultado_normalizado",
+            "dataType": "string",
+            "sourceColumn": "resultado_normalizado",
+            "lineageTag": "77d6f5a9-2854-5a90-9678-4d3e0bd8b991",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "cuota_local",
+            "dataType": "double",
+            "sourceColumn": "cuota_local",
+            "lineageTag": "4a24548d-1c0b-5d71-a891-2d498ff25c3c",
+            "summarizeBy": "none",
+            "formatString": "0.00"
+          },
+          {
+            "name": "cuota_empate",
+            "dataType": "double",
+            "sourceColumn": "cuota_empate",
+            "lineageTag": "0b0b24fa-f514-5077-8e86-d9fab4240a28",
+            "summarizeBy": "none",
+            "formatString": "0.00"
+          },
+          {
+            "name": "cuota_visitante",
+            "dataType": "double",
+            "sourceColumn": "cuota_visitante",
+            "lineageTag": "7d0b20fe-9802-5846-a205-6f06d46a631a",
+            "summarizeBy": "none",
+            "formatString": "0.00"
+          },
+          {
+            "name": "cuota_favorita",
+            "dataType": "double",
+            "sourceColumn": "cuota_favorita",
+            "lineageTag": "73a08b14-09ed-57a6-b86c-22be7b699cec",
+            "summarizeBy": "none",
+            "formatString": "0.00"
+          },
+          {
+            "name": "favorito",
+            "dataType": "string",
+            "sourceColumn": "favorito",
+            "lineageTag": "a93fa1d1-f8bc-53b3-bb91-d714a9fd97bd",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "prob_implicita_local",
+            "dataType": "double",
+            "sourceColumn": "prob_implicita_local",
+            "lineageTag": "04a19b2d-1c0e-5e13-9161-5727d869eba2",
+            "summarizeBy": "none",
+            "formatString": "0.0%"
+          },
+          {
+            "name": "prob_implicita_empate",
+            "dataType": "double",
+            "sourceColumn": "prob_implicita_empate",
+            "lineageTag": "98e039ea-964c-5afa-b0b1-2d89cc92af4e",
+            "summarizeBy": "none",
+            "formatString": "0.0%"
+          },
+          {
+            "name": "prob_implicita_visitante",
+            "dataType": "double",
+            "sourceColumn": "prob_implicita_visitante",
+            "lineageTag": "b8042a18-3d1c-5059-a306-a87b4736faf5",
+            "summarizeBy": "none",
+            "formatString": "0.0%"
+          },
+          {
+            "name": "margen_mercado",
+            "dataType": "double",
+            "sourceColumn": "margen_mercado",
+            "lineageTag": "edbefc72-3f77-5c82-93d4-a2155e836482",
+            "summarizeBy": "none",
+            "formatString": "0.0%"
+          },
+          {
+            "name": "fuente_archivo",
+            "dataType": "string",
+            "sourceColumn": "fuente_archivo",
+            "lineageTag": "d70d4f18-42ad-500d-bd59-ce432d59399e",
+            "summarizeBy": "none",
+            "isHidden": true
+          }
+        ],
+        "partitions": [
+          {
+            "name": "fact_eventos",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "let",
+                "    Origen = Csv.Document(",
+                "        File.Contents(RutaDatos & \"\\fact_eventos.csv\"),",
+                "        [Delimiter = \",\", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]",
+                "    ),",
+                "    Encabezado = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),",
+                "    Primera = Table.ColumnNames(Encabezado){0},",
+                "    SinBom = if Text.StartsWith(Primera, \"#(feff)\") then",
+                "        Table.RenameColumns(Encabezado, {{Primera, Text.TrimStart(Primera, \"#(feff)\")}})",
+                "    else",
+                "        Encabezado,",
+                "    Saneado = Table.ReplaceValue(SinBom, \"\", null, Replacer.ReplaceValue, Table.ColumnNames(SinBom)),",
+                "    Tipado = Table.TransformColumnTypes(",
+                "        Saneado,",
+                "        {{\"id_evento\", type text}, {\"id_fecha\", type text}, {\"fecha_evento\", type date}, {\"id_deporte\", type text}, {\"id_competicion\", type text}, {\"id_equipo_local\", type text}, {\"id_equipo_visitante\", type text}, {\"marcador_local\", Int64.Type}, {\"marcador_visitante\", Int64.Type}, {\"goles_local\", type number}, {\"goles_visitante\", type number}, {\"puntos_local\", Int64.Type}, {\"puntos_visitante\", Int64.Type}, {\"diferencia_marcador\", Int64.Type}, {\"resultado_normalizado\", type text}, {\"cuota_local\", type number}, {\"cuota_empate\", type number}, {\"cuota_visitante\", type number}, {\"cuota_favorita\", type number}, {\"favorito\", type text}, {\"prob_implicita_local\", type number}, {\"prob_implicita_empate\", type number}, {\"prob_implicita_visitante\", type number}, {\"margen_mercado\", type number}, {\"fuente_archivo\", type text}},",
+                "        \"en-US\"",
+                "    )",
+                "in",
+                "    Tipado"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "dim_fecha",
+        "lineageTag": "ac5b76ee-a58b-5747-90c2-b96c2d0bad6a",
+        "columns": [
+          {
+            "name": "id_fecha",
+            "dataType": "string",
+            "sourceColumn": "id_fecha",
+            "lineageTag": "5aa449ba-6494-5c6b-8dee-1cbe12b89768",
+            "summarizeBy": "none",
+            "isHidden": true
+          },
+          {
+            "name": "fecha",
+            "dataType": "dateTime",
+            "sourceColumn": "fecha",
+            "lineageTag": "4a0e9df4-00c8-50ab-8206-529b914f0ce2",
+            "summarizeBy": "none",
+            "formatString": "dd/MM/yyyy"
+          },
+          {
+            "name": "año",
+            "dataType": "int64",
+            "sourceColumn": "año",
+            "lineageTag": "792266b6-ac96-51e2-8e2d-35e2738b7eb6",
+            "summarizeBy": "none",
+            "formatString": "0"
+          },
+          {
+            "name": "trimestre",
+            "dataType": "string",
+            "sourceColumn": "trimestre",
+            "lineageTag": "8af1c51b-7ba2-564a-8306-28522394d6cc",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "mes",
+            "dataType": "int64",
+            "sourceColumn": "mes",
+            "lineageTag": "c199f5fb-31e6-530f-9d02-95e75ba99016",
+            "summarizeBy": "none",
+            "formatString": "0"
+          },
+          {
+            "name": "nombre_mes",
+            "dataType": "string",
+            "sourceColumn": "nombre_mes",
+            "lineageTag": "be55ea13-8840-5d04-9e19-8d5362c9aa34",
+            "summarizeBy": "none",
+            "sortByColumn": "mes"
+          },
+          {
+            "name": "semana_iso",
+            "dataType": "int64",
+            "sourceColumn": "semana_iso",
+            "lineageTag": "139a68f0-8c42-5ae8-8ac3-c39357bf7efb",
+            "summarizeBy": "none",
+            "formatString": "0"
+          },
+          {
+            "name": "dia",
+            "dataType": "int64",
+            "sourceColumn": "dia",
+            "lineageTag": "16faf556-22d0-5c39-934e-636ef09d1cb7",
+            "summarizeBy": "none",
+            "formatString": "0"
+          },
+          {
+            "name": "dia_semana",
+            "dataType": "string",
+            "sourceColumn": "dia_semana",
+            "lineageTag": "306322c4-dfd2-52ab-9670-75165aaa254b",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "es_fin_semana",
+            "dataType": "boolean",
+            "sourceColumn": "es_fin_semana",
+            "lineageTag": "056b74bb-6375-59a0-b356-e8f1220657a3",
+            "summarizeBy": "none"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "dim_fecha",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "let",
+                "    Origen = Csv.Document(",
+                "        File.Contents(RutaDatos & \"\\dim_fecha.csv\"),",
+                "        [Delimiter = \",\", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]",
+                "    ),",
+                "    Encabezado = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),",
+                "    Primera = Table.ColumnNames(Encabezado){0},",
+                "    SinBom = if Text.StartsWith(Primera, \"#(feff)\") then",
+                "        Table.RenameColumns(Encabezado, {{Primera, Text.TrimStart(Primera, \"#(feff)\")}})",
+                "    else",
+                "        Encabezado,",
+                "    Saneado = Table.ReplaceValue(SinBom, \"\", null, Replacer.ReplaceValue, Table.ColumnNames(SinBom)),",
+                "    Tipado = Table.TransformColumnTypes(",
+                "        Saneado,",
+                "        {{\"id_fecha\", type text}, {\"fecha\", type date}, {\"año\", Int64.Type}, {\"trimestre\", type text}, {\"mes\", Int64.Type}, {\"nombre_mes\", type text}, {\"semana_iso\", Int64.Type}, {\"dia\", Int64.Type}, {\"dia_semana\", type text}, {\"es_fin_semana\", type logical}},",
+                "        \"en-US\"",
+                "    )",
+                "in",
+                "    Tipado"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "dim_deportes",
+        "lineageTag": "82a867a5-f5b1-50f9-b658-23463d9219b7",
+        "columns": [
+          {
+            "name": "id_deporte",
+            "dataType": "string",
+            "sourceColumn": "id_deporte",
+            "lineageTag": "f1eea7a6-c2b9-5ad3-a4f1-917275f00be7",
+            "summarizeBy": "none",
+            "isHidden": true
+          },
+          {
+            "name": "deporte",
+            "dataType": "string",
+            "sourceColumn": "deporte",
+            "lineageTag": "fc00cd51-5471-584a-8598-6947931d647c",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "n_eventos",
+            "dataType": "int64",
+            "sourceColumn": "n_eventos",
+            "lineageTag": "181638e7-044a-5ad0-8a9e-7e5b118e4a36",
+            "summarizeBy": "none",
+            "formatString": "#,##0"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "dim_deportes",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "let",
+                "    Origen = Csv.Document(",
+                "        File.Contents(RutaDatos & \"\\dim_deportes.csv\"),",
+                "        [Delimiter = \",\", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]",
+                "    ),",
+                "    Encabezado = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),",
+                "    Primera = Table.ColumnNames(Encabezado){0},",
+                "    SinBom = if Text.StartsWith(Primera, \"#(feff)\") then",
+                "        Table.RenameColumns(Encabezado, {{Primera, Text.TrimStart(Primera, \"#(feff)\")}})",
+                "    else",
+                "        Encabezado,",
+                "    Saneado = Table.ReplaceValue(SinBom, \"\", null, Replacer.ReplaceValue, Table.ColumnNames(SinBom)),",
+                "    Tipado = Table.TransformColumnTypes(",
+                "        Saneado,",
+                "        {{\"id_deporte\", type text}, {\"deporte\", type text}, {\"n_eventos\", Int64.Type}},",
+                "        \"en-US\"",
+                "    )",
+                "in",
+                "    Tipado"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "dim_competiciones",
+        "lineageTag": "63104d22-c8a2-5aec-b37f-485f45615a07",
+        "columns": [
+          {
+            "name": "id_competicion",
+            "dataType": "string",
+            "sourceColumn": "id_competicion",
+            "lineageTag": "1051440c-584b-5805-8e60-3e6f8399fb04",
+            "summarizeBy": "none",
+            "isHidden": true
+          },
+          {
+            "name": "competicion",
+            "dataType": "string",
+            "sourceColumn": "competicion",
+            "lineageTag": "6e01c5ee-ee6d-594c-bef5-99f5c10bf8f2",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "deporte",
+            "dataType": "string",
+            "sourceColumn": "deporte",
+            "lineageTag": "ef8caacd-1ca8-5728-ad7c-54097fd45d2c",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "n_eventos",
+            "dataType": "int64",
+            "sourceColumn": "n_eventos",
+            "lineageTag": "00bcb013-d960-50d3-88af-a7a483b041be",
+            "summarizeBy": "none",
+            "formatString": "#,##0"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "dim_competiciones",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "let",
+                "    Origen = Csv.Document(",
+                "        File.Contents(RutaDatos & \"\\dim_competiciones.csv\"),",
+                "        [Delimiter = \",\", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]",
+                "    ),",
+                "    Encabezado = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),",
+                "    Primera = Table.ColumnNames(Encabezado){0},",
+                "    SinBom = if Text.StartsWith(Primera, \"#(feff)\") then",
+                "        Table.RenameColumns(Encabezado, {{Primera, Text.TrimStart(Primera, \"#(feff)\")}})",
+                "    else",
+                "        Encabezado,",
+                "    Saneado = Table.ReplaceValue(SinBom, \"\", null, Replacer.ReplaceValue, Table.ColumnNames(SinBom)),",
+                "    Tipado = Table.TransformColumnTypes(",
+                "        Saneado,",
+                "        {{\"id_competicion\", type text}, {\"competicion\", type text}, {\"deporte\", type text}, {\"n_eventos\", Int64.Type}},",
+                "        \"en-US\"",
+                "    )",
+                "in",
+                "    Tipado"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "dim_equipos",
+        "lineageTag": "f0110c50-2d0e-5d4f-a56b-4b7cb83939f5",
+        "columns": [
+          {
+            "name": "id_equipo",
+            "dataType": "string",
+            "sourceColumn": "id_equipo",
+            "lineageTag": "74b49ea8-7b2c-5195-9ff8-39755799a546",
+            "summarizeBy": "none",
+            "isHidden": true
+          },
+          {
+            "name": "equipo",
+            "dataType": "string",
+            "sourceColumn": "equipo",
+            "lineageTag": "52a99701-fd92-5bf6-b731-b81c4cdf72e0",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "deporte",
+            "dataType": "string",
+            "sourceColumn": "deporte",
+            "lineageTag": "18284942-871e-50d4-9682-f5936487a638",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "partidos",
+            "dataType": "int64",
+            "sourceColumn": "partidos",
+            "lineageTag": "237ba4c3-41b5-5e07-b122-928eea2bcff6",
+            "summarizeBy": "none",
+            "formatString": "#,##0"
+          },
+          {
+            "name": "victorias",
+            "dataType": "int64",
+            "sourceColumn": "victorias",
+            "lineageTag": "9a943547-033f-5c9f-97ef-4b076d09e921",
+            "summarizeBy": "none",
+            "formatString": "#,##0"
+          },
+          {
+            "name": "empates",
+            "dataType": "int64",
+            "sourceColumn": "empates",
+            "lineageTag": "bfc865b8-a272-5097-8237-a7fd0a830dcc",
+            "summarizeBy": "none",
+            "formatString": "#,##0"
+          },
+          {
+            "name": "derrotas",
+            "dataType": "int64",
+            "sourceColumn": "derrotas",
+            "lineageTag": "21fe425b-073c-55b2-acd0-040f8ea692c1",
+            "summarizeBy": "none",
+            "formatString": "#,##0"
+          },
+          {
+            "name": "tasa_victoria",
+            "dataType": "double",
+            "sourceColumn": "tasa_victoria",
+            "lineageTag": "c867d0a0-f88a-5e38-bb3f-1ea9009176a4",
+            "summarizeBy": "none",
+            "formatString": "0.0%"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "dim_equipos",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "let",
+                "    Origen = Csv.Document(",
+                "        File.Contents(RutaDatos & \"\\dim_equipos.csv\"),",
+                "        [Delimiter = \",\", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]",
+                "    ),",
+                "    Encabezado = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),",
+                "    Primera = Table.ColumnNames(Encabezado){0},",
+                "    SinBom = if Text.StartsWith(Primera, \"#(feff)\") then",
+                "        Table.RenameColumns(Encabezado, {{Primera, Text.TrimStart(Primera, \"#(feff)\")}})",
+                "    else",
+                "        Encabezado,",
+                "    Saneado = Table.ReplaceValue(SinBom, \"\", null, Replacer.ReplaceValue, Table.ColumnNames(SinBom)),",
+                "    Tipado = Table.TransformColumnTypes(",
+                "        Saneado,",
+                "        {{\"id_equipo\", type text}, {\"equipo\", type text}, {\"deporte\", type text}, {\"partidos\", Int64.Type}, {\"victorias\", Int64.Type}, {\"empates\", Int64.Type}, {\"derrotas\", Int64.Type}, {\"tasa_victoria\", type number}},",
+                "        \"en-US\"",
+                "    )",
+                "in",
+                "    Tipado"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "_Medidas",
+        "lineageTag": "6cbfa72f-f05b-516c-8384-f27d193c402b",
+        "columns": [
+          {
+            "name": "Medida",
+            "dataType": "string",
+            "sourceColumn": "Medida",
+            "lineageTag": "f6ef0ecf-b82a-5909-86a8-0b6573dfca3e",
+            "isHidden": true,
+            "summarizeBy": "none"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "_Medidas",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "let Origen = #table({\"Medida\"}, {}) in Origen"
+              ]
+            }
+          }
+        ],
+        "measures": [
+          {
+            "name": "Total Eventos",
+            "expression": [
+              "COUNTROWS ( fact_eventos )"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "09e1e59a-1990-5239-9714-ec8b6257835e"
+          },
+          {
+            "name": "Eventos con Resultado",
+            "expression": [
+              "CALCULATE ( [Total Eventos], fact_eventos[resultado_normalizado] <> \"Desconocido\" )"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "462703b2-4d05-571f-b5cc-b5d9cdeb0de5"
+          },
+          {
+            "name": "% del Total",
+            "expression": [
+              "DIVIDE ( [Total Eventos], CALCULATE ( [Total Eventos], ALLSELECTED ( fact_eventos ) ) )"
+            ],
+            "formatString": "0.0%",
+            "lineageTag": "fe331c39-4604-58df-aa4c-e16a4fcdaf63"
+          },
+          {
+            "name": "Equipos Distintos",
+            "expression": [
+              "COUNTROWS ( dim_equipos )"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "d11af6c0-1110-54b9-ae2a-429ed49e7367"
+          },
+          {
+            "name": "Competiciones Distintas",
+            "expression": [
+              "COUNTROWS ( dim_competiciones )"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "e7bc5126-cc0e-5a1c-a715-ce8f85c283ba"
+          },
+          {
+            "name": "Deportes Distintos",
+            "expression": [
+              "COUNTROWS ( dim_deportes )"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "f0d60b85-3e21-5842-8188-1e207e10e49a"
+          },
+          {
+            "name": "Victorias Local",
+            "expression": [
+              "CALCULATE ( [Total Eventos], fact_eventos[resultado_normalizado] = \"Local\" )"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "1c72b163-d321-5eb6-acd1-869d826cdde6"
+          },
+          {
+            "name": "Victorias Visitante",
+            "expression": [
+              "CALCULATE ( [Total Eventos], fact_eventos[resultado_normalizado] = \"Visitante\" )"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "2e1ec115-5c17-5a3b-bb78-22ba6b57fd02"
+          },
+          {
+            "name": "Empates",
+            "expression": [
+              "CALCULATE ( [Total Eventos], fact_eventos[resultado_normalizado] = \"Empate\" )"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "1a0d2ca4-8632-54ba-bb81-ad610e75634a"
+          },
+          {
+            "name": "Resultados Desconocidos",
+            "expression": [
+              "CALCULATE ( [Total Eventos], fact_eventos[resultado_normalizado] = \"Desconocido\" )"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "5bbff6ec-efa3-5d4f-835d-3ed875ef3e68"
+          },
+          {
+            "name": "% Victorias Local",
+            "expression": [
+              "DIVIDE ( [Victorias Local], [Eventos con Resultado] )"
+            ],
+            "formatString": "0.0%",
+            "lineageTag": "61f074ea-a013-54c7-a195-93f690fb61e2"
+          },
+          {
+            "name": "% Victorias Visitante",
+            "expression": [
+              "DIVIDE ( [Victorias Visitante], [Eventos con Resultado] )"
+            ],
+            "formatString": "0.0%",
+            "lineageTag": "1b561e1f-ad76-5644-89d1-42219ff354ea"
+          },
+          {
+            "name": "% Empates",
+            "expression": [
+              "DIVIDE ( [Empates], [Eventos con Resultado] )"
+            ],
+            "formatString": "0.0%",
+            "lineageTag": "52928efc-bac9-5e42-8fd5-bd0015169faf"
+          },
+          {
+            "name": "Promedio Cuota Local",
+            "expression": [
+              "AVERAGE ( fact_eventos[cuota_local] )"
+            ],
+            "formatString": "0.00",
+            "lineageTag": "ea883f2e-f1d5-5cb4-903d-e2c4211b3a62"
+          },
+          {
+            "name": "Promedio Cuota Visitante",
+            "expression": [
+              "AVERAGE ( fact_eventos[cuota_visitante] )"
+            ],
+            "formatString": "0.00",
+            "lineageTag": "618783b2-f128-5555-ad08-6efbf746ee5a"
+          },
+          {
+            "name": "Promedio Cuota Empate",
+            "expression": [
+              "AVERAGE ( fact_eventos[cuota_empate] )"
+            ],
+            "formatString": "0.00",
+            "lineageTag": "9feb787d-2a78-5474-bd13-4debc9c932ef"
+          },
+          {
+            "name": "Promedio Cuota Favorita",
+            "expression": [
+              "AVERAGE ( fact_eventos[cuota_favorita] )"
+            ],
+            "formatString": "0.00",
+            "lineageTag": "484205f5-ab62-547d-8600-1e14e2bff262"
+          },
+          {
+            "name": "Cuota Mínima",
+            "expression": [
+              "MIN ( fact_eventos[cuota_local] )"
+            ],
+            "formatString": "0.00",
+            "lineageTag": "d0d62a19-ea04-5834-af6c-139c58e19611"
+          },
+          {
+            "name": "Cuota Máxima",
+            "expression": [
+              "MAX ( fact_eventos[cuota_local] )"
+            ],
+            "formatString": "0.00",
+            "lineageTag": "f45d763c-994d-57d1-ad7b-a310f45ff9d9"
+          },
+          {
+            "name": "Margen Medio del Mercado",
+            "expression": [
+              "AVERAGE ( fact_eventos[margen_mercado] )"
+            ],
+            "formatString": "0.0%",
+            "lineageTag": "0ca2b840-e82c-5e22-91b8-8c0e1eab35f9"
+          },
+          {
+            "name": "% Favorito Local",
+            "expression": [
+              "DIVIDE ( CALCULATE ( [Total Eventos], fact_eventos[favorito] = \"Local\" ), [Total Eventos] )"
+            ],
+            "formatString": "0.0%",
+            "lineageTag": "ae486b60-0138-59e2-9289-cc9a920ff057"
+          },
+          {
+            "name": "% Favorito Visitante",
+            "expression": [
+              "DIVIDE ( CALCULATE ( [Total Eventos], fact_eventos[favorito] = \"Visitante\" ), [Total Eventos] )"
+            ],
+            "formatString": "0.0%",
+            "lineageTag": "21170da2-4186-5bb1-983f-275c27c25130"
+          },
+          {
+            "name": "Promedio Goles Local",
+            "expression": [
+              "AVERAGE ( fact_eventos[goles_local] )"
+            ],
+            "formatString": "0.00",
+            "lineageTag": "47ee007e-4a9c-52c8-a588-633d235490a8"
+          },
+          {
+            "name": "Promedio Goles Visitante",
+            "expression": [
+              "AVERAGE ( fact_eventos[goles_visitante] )"
+            ],
+            "formatString": "0.00",
+            "lineageTag": "3b1b9bc1-9599-54a1-835c-6132470aeb67"
+          },
+          {
+            "name": "Promedio Puntos Local",
+            "expression": [
+              "AVERAGE ( fact_eventos[puntos_local] )"
+            ],
+            "formatString": "0.0",
+            "lineageTag": "f7ca9dce-2170-5500-92f5-286fc6757c95"
+          },
+          {
+            "name": "Promedio Puntos Visitante",
+            "expression": [
+              "AVERAGE ( fact_eventos[puntos_visitante] )"
+            ],
+            "formatString": "0.0",
+            "lineageTag": "ecf9fdb9-038e-5d8e-a19e-1df6fd2a2da6"
+          },
+          {
+            "name": "Partidos como Visitante",
+            "expression": [
+              "CALCULATE (",
+              "    [Total Eventos],",
+              "    USERELATIONSHIP ( fact_eventos[id_equipo_visitante], dim_equipos[id_equipo] )",
+              ")"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "fe200153-a2d1-5759-b578-a9d6d39353c9"
+          },
+          {
+            "name": "Partidos Totales Equipo",
+            "expression": [
+              "[Total Eventos] + [Partidos como Visitante]"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "da9467b4-e042-5eba-8d92-20eabbc4b025"
+          },
+          {
+            "name": "Victorias Equipo",
+            "expression": [
+              "CALCULATE ( [Total Eventos], fact_eventos[resultado_normalizado] = \"Local\" )",
+              "+ CALCULATE (",
+              "    [Total Eventos],",
+              "    fact_eventos[resultado_normalizado] = \"Visitante\",",
+              "    USERELATIONSHIP ( fact_eventos[id_equipo_visitante], dim_equipos[id_equipo] )",
+              ")"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "33b34710-c74f-5067-ab2a-125e082f1365"
+          },
+          {
+            "name": "Empates Equipo",
+            "expression": [
+              "CALCULATE ( [Total Eventos], fact_eventos[resultado_normalizado] = \"Empate\" )",
+              "+ CALCULATE (",
+              "    [Total Eventos],",
+              "    fact_eventos[resultado_normalizado] = \"Empate\",",
+              "    USERELATIONSHIP ( fact_eventos[id_equipo_visitante], dim_equipos[id_equipo] )",
+              ")"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "9ec012ec-11e8-547b-9c1d-697acd1c6164"
+          },
+          {
+            "name": "Derrotas Equipo",
+            "expression": [
+              "[Partidos Totales Equipo] - [Victorias Equipo] - [Empates Equipo]"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "b26685f6-9d76-517b-bc64-1c2ac506f763"
+          },
+          {
+            "name": "% Victorias Equipo",
+            "expression": [
+              "DIVIDE ( [Victorias Equipo], [Partidos Totales Equipo] )"
+            ],
+            "formatString": "0.0%",
+            "lineageTag": "f44db160-fb9b-5b37-805d-455ec61ee87d"
+          },
+          {
+            "name": "Ranking Equipos",
+            "expression": [
+              "RANKX (",
+              "    ALLSELECTED ( dim_equipos[id_equipo] ),",
+              "    [Partidos Totales Equipo],",
+              "    ,",
+              "    DESC,",
+              "    DENSE",
+              ")"
+            ],
+            "formatString": "#,##0",
+            "lineageTag": "f31458a9-e031-50ab-a43c-31e50ceb3064"
+          }
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "name": "4f48dcdc-377c-5ce9-b3ff-acafaa5c811f",
+        "fromTable": "fact_eventos",
+        "fromColumn": "id_fecha",
+        "toTable": "dim_fecha",
+        "toColumn": "id_fecha",
+        "crossFilteringBehavior": "oneDirection"
+      },
+      {
+        "name": "66c98e92-2e43-5d4c-818b-e8e1f66fdf46",
+        "fromTable": "fact_eventos",
+        "fromColumn": "id_deporte",
+        "toTable": "dim_deportes",
+        "toColumn": "id_deporte",
+        "crossFilteringBehavior": "oneDirection"
+      },
+      {
+        "name": "67bd87c8-67cf-55b4-bf0c-2595212d67d0",
+        "fromTable": "fact_eventos",
+        "fromColumn": "id_competicion",
+        "toTable": "dim_competiciones",
+        "toColumn": "id_competicion",
+        "crossFilteringBehavior": "oneDirection"
+      },
+      {
+        "name": "e6ffba98-3303-58cb-8eed-6449e3646f82",
+        "fromTable": "fact_eventos",
+        "fromColumn": "id_equipo_local",
+        "toTable": "dim_equipos",
+        "toColumn": "id_equipo",
+        "crossFilteringBehavior": "oneDirection"
+      },
+      {
+        "name": "695aa06b-06cd-5da8-812e-208326ee39b9",
+        "fromTable": "fact_eventos",
+        "fromColumn": "id_equipo_visitante",
+        "toTable": "dim_equipos",
+        "toColumn": "id_equipo",
+        "crossFilteringBehavior": "oneDirection",
+        "isActive": false
+      }
+    ],
+    "annotations": [
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "0"
+      },
+      {
+        "name": "PBIDesktopVersion",
+        "value": "2.140.1.0"
+      }
+    ]
+  }
+}
