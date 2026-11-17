@@ -3,8 +3,9 @@
 > **¿Solo necesitas abrir el dashboard?** El proyecto ya está generado en
 > `powerbi/PBIP/`. Abre `Dashboard_Apuestas.pbip` con Power BI Desktop y pulsa
 > **Actualizar**; no hay que crear nada a mano. Instrucciones completas en
-> [`ABRIR_EN_POWER_BI.md`](ABRIR_EN_POWER_BI.md). Esta guía queda como
-> alternativa manual y como documentación del paso a paso.
+> [`ABRIR_EN_POWER_BI.md`](ABRIR_EN_POWER_BI.md). Para publicarlo en el servicio
+> de Power BI, sigue [`SUBIR_A_POWER_BI.md`](SUBIR_A_POWER_BI.md). Esta guía
+> queda como alternativa manual y como documentación del paso a paso.
 
 Esta guía permite armar el dashboard del proyecto en **Power BI Desktop** a
 partir de los CSV generados por el ETL. No requiere escribir código M salvo que
@@ -329,25 +330,38 @@ todos los filtros*.
 
 ## 7. Actualización de datos
 
-### Opción A — Ruta fija
+### Opción A — Datos incrustados (entrega recomendada)
 
-1. **Inicio → Actualizar**. Power BI usará la ruta original del CSV.
-2. Si el proyecto se mueve de carpeta, ir a **Transformar datos → Configuración
-   del origen de datos** y actualizar la ruta.
+El proyecto generado por defecto ya contiene los 3.278 eventos y las cuatro
+dimensiones dentro del modelo. Al abrir el `.pbip` solo hay que pulsar
+**Inicio → Actualizar**; no hay rutas, credenciales ni puerta de enlace.
 
-### Opción B — Parámetro de ruta (recomendado)
+### Opción B — Conectar a los CSV (para seguir trabajando)
 
-1. **Inicio → Administrar parámetros → Nuevo parámetro**.
-2. Nombre: `RutaDatos`, tipo Texto, valor actual:
-   `C:\ruta\al\proyecto\proyecto_etl_apuestas\data\processed`.
-3. En Power Query, reemplazar la ruta de cada consulta por `RutaDatos`.
-4. Al mover el proyecto, basta cambiar el parámetro.
+1. Genera el proyecto en modo conectado:
+
+   ```powershell
+   python powerbi/build_pbip.py --usar-csv
+   ```
+
+2. Ese modo crea el parámetro `RutaDatos` con la carpeta `data/processed` del
+   equipo donde se ejecutó el script.
+3. Si mueves el proyecto, ve a **Inicio → Transformar datos → Transformar
+   datos**, selecciona `RutaDatos` y escribe la ruta nueva (sin barra final).
+4. **Inicio → Cerrar y aplicar** y después **Actualizar**.
+
+También puedes generar directamente con otra carpeta:
+
+```powershell
+python powerbi/build_pbip.py --ruta-datos "C:\ruta\a\data\processed"
+```
 
 ### Opción C — Script de Power Query
 
 El archivo `powerbi/power_query.m` contiene una consulta lista para conectar a
 `data/processed/eventos_limpios.csv` con tipos explícitos. También incluye una
-variante para combinar todos los CSV de la carpeta.
+variante para combinar todos los CSV de la carpeta. Es una alternativa manual:
+el proyecto `.pbip` ya trae las consultas equivalentes.
 
 ---
 
@@ -383,15 +397,26 @@ Antes de entregar, comprobar:
 | Las fechas se interpretan como texto | Configurar la referencia cultural **Español (España)** y tipo **Fecha** |
 | Solo se puede crear una relación activa con equipos | Es lo esperado; usar `USERELATIONSHIP` para visitante |
 | Los totales no coinciden | Revisar filtros de página/visual y que no haya duplicados en dimensiones |
-| Power BI no encuentra los CSV | Actualizar la ruta o usar el parámetro `RutaDatos` |
+| Power BI no encuentra los CSV | Solo ocurre en el modo `--usar-csv`: actualiza `RutaDatos` o regenera sin ese modo |
 | El histograma no aparece | Usar la columna calculada `Rango Cuota` o instalar el visual de histograma |
 
 ---
 
-## 10. Publicación (opcional)
+## 10. Publicación en Power BI Service
 
-1. Guardar como `powerbi/dashboard_apuestas.pbix`.
-2. **Publicar** en un área de trabajo de Power BI Service.
+El servicio de Power BI **no acepta `.pbip`**. Para publicar este dashboard:
+
+1. Abre `powerbi/PBIP/Dashboard_Apuestas.pbip` en Power BI Desktop y pulsa
+   **Actualizar**.
+2. **Archivo → Guardar como → Power BI (.pbix)** y guarda
+   `powerbi/dashboard_apuestas.pbix`.
+3. **Inicio → Publicar** y elige el área de trabajo.
+4. Abre el informe en <https://app.powerbi.com> y crea un panel si lo necesitas.
+
+Si no puedes usar Power BI Desktop, sube `powerbi/datos_powerbi.xlsx` al
+servicio y construye el informe con los datos (las relaciones y medidas hay que
+crearlas a mano). El paso a paso completo está en
+[`SUBIR_A_POWER_BI.md`](SUBIR_A_POWER_BI.md).
 3. Configurar la puerta de enlace si los CSV están en un equipo local.
 4. Programar la actualización si se ejecuta el ETL periódicamente.
 

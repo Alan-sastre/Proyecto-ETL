@@ -51,9 +51,24 @@ def test_columnas_tecnicas_ocultas_y_formato_de_fecha() -> None:
     assert columnas["cuota_local"]["dataType"] == "double"
 
 
-def test_consulta_m_usa_el_parametro_de_ruta_sin_barra_final() -> None:
-    """La consulta M concatena la ruta del parámetro con el nombre del archivo."""
+def test_modelo_incrusta_los_datos_sin_rutas_externas() -> None:
+    """Por defecto el modelo contiene tablas M con los datos y ninguna ruta."""
     modelo = pbip.construir_modelo()
+    consulta = "\n".join(modelo["model"]["tables"][0]["partitions"][0]["source"]["expression"])
+
+    assert "expressions" not in modelo["model"]
+    assert "File.Contents" not in consulta
+    assert "RutaDatos" not in consulta
+    assert "#table(" in consulta and "type table [" in consulta
+    assert "#date(" in consulta
+    assert consulta.rstrip().endswith("Origen")
+    # 3.278 eventos del CSV + una línea por cabecera de tabla
+    assert consulta.count("\n            { ") >= 3278
+
+
+def test_modo_csv_usa_el_parametro_de_ruta_sin_barra_final() -> None:
+    """El modo opcional --usar-csv conecta el modelo con la carpeta indicada."""
+    modelo = pbip.construir_modelo(usar_csv=True, ruta_datos=pbip.PROCESADOS)
     parametro = modelo["model"]["expressions"][0]
     consulta = "\n".join(modelo["model"]["tables"][0]["partitions"][0]["source"]["expression"])
 
@@ -62,7 +77,7 @@ def test_consulta_m_usa_el_parametro_de_ruta_sin_barra_final() -> None:
     # La ruta no debe terminar en barra: se añade junto al nombre del archivo.
     ruta = parametro["expression"].split('"')[1]
     assert not ruta.endswith("\\")
-    assert 'RutaDatos & "\\fact_eventos.csv"' in consulta
+    assert 'File.Contents(RutaDatos & "\\fact_eventos.csv")' in consulta
     assert consulta.rstrip().endswith("Tipado")
 
 
@@ -78,11 +93,31 @@ def test_paginas_y_visuales_unicos() -> None:
     assert len(set(nombres_visuales)) == len(nombres_visuales)
 
 
+def test_excel_para_power_bi_tiene_una_hoja_por_tabla() -> None:
+    """El libro listo para subir incluye las cinco tablas y sus cabeceras."""
+    from openpyxl import load_workbook
+
+    pbip.generar(excel=True)
+    libro = load_workbook(pbip.EXCEL, read_only=True)
+
+    assert libro.sheetnames == [
+        "fact_eventos",
+        "dim_fecha",
+        "dim_deportes",
+        "dim_competiciones",
+        "dim_equipos",
+    ]
+    assert libro["fact_eventos"].max_row == 3279
+    assert libro["fact_eventos"].max_column == 25
+    libro.close()
+
+
 def test_proyecto_generado_es_coherente() -> None:
     """El proyecto escrito en disco referencia solo campos existentes."""
     pbip.generar()
 
     assert pbip.verificar() == []
+    assert pbip.EXCEL.exists()
 
     entrada = pbip.DESTINO / f"{pbip.NOMBRE}.pbip"
     datos = json.loads(entrada.read_text(encoding="utf-8"))

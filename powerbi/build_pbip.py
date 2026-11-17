@@ -1,11 +1,18 @@
-"""Genera un proyecto Power BI (.pbip) listo para abrir en Power BI Desktop.
+"""Genera un proyecto Power BI (.pbip) listo para abrir y publicar.
 
 El script construye, a partir de los CSV de ``data/processed``:
 
 * el modelo semantico en formato TMSL (``model.bim``) con tipos, medidas DAX
   y relaciones del esquema estrella;
 * el informe en formato PBIR (``definition``) con tres paginas y sus visuales;
-* los archivos de plataforma (``.platform``, ``definition.pbip*``).
+* los archivos de plataforma (``.platform``, ``definition.pbip*``);
+* un libro ``powerbi/datos_powerbi.xlsx`` con las cinco tablas para subirlo
+  directamente al servicio de Power BI.
+
+Por defecto los datos se **incrustan** en el modelo, de modo que el ``.pbip``
+no depende de ninguna ruta absoluta y funciona en cualquier equipo. Con
+``--usar-csv`` (o ``--ruta-datos``) se genera el modelo conectado a los CSV,
+pensado para el flujo ETL local.
 
 Con ``--validar`` se comprueba cada archivo JSON contra los esquemas publicos
 de Microsoft (requiere el paquete ``jsonschema`` y conexion a Internet).
@@ -13,6 +20,8 @@ de Microsoft (requiere el paquete ``jsonschema`` y conexion a Internet).
 Uso::
 
     python powerbi/build_pbip.py
+    python powerbi/build_pbip.py --usar-csv
+    python powerbi/build_pbip.py --ruta-datos "C:\\datos\\processed"
     python powerbi/build_pbip.py --validar
 """
 
@@ -22,13 +31,16 @@ import argparse
 import csv
 import json
 import logging
+import re
 import uuid
+from datetime import date
 from pathlib import Path
 from typing import Any
 
 RAIZ = Path(__file__).resolve().parents[1]
 PROCESADOS = RAIZ / "data" / "processed"
 DESTINO = RAIZ / "powerbi" / "PBIP"
+EXCEL = RAIZ / "powerbi" / "datos_powerbi.xlsx"
 NOMBRE = "Dashboard_Apuestas"
 
 ESPACIO = uuid.UUID("8f1a4c62-3d77-4b1e-9c0a-5e6d7f8a9b10")
@@ -48,17 +60,18 @@ TEXTO_LEEME = """DASHBOARD DE APUESTAS - PROYECTO ETL
 
 1. Instala Power BI Desktop (gratis): https://powerbi.microsoft.com/desktop/
 2. Abre el archivo "Dashboard_Apuestas.pbip" (doble clic o Archivo > Abrir).
-3. Cuando cargue el informe, pulsa Inicio > Actualizar para traer los datos.
-4. Encontraras tres paginas: Resumen general, Cuotas y mercado y Detalle por
+3. Pulsa Inicio > Actualizar. Los datos ya van incluidos en el modelo: no
+   necesitas los CSV ni cambiar ninguna ruta.
+4. Encontrarás tres páginas: Resumen general, Cuotas y mercado y Detalle por
    equipo, con 24 visuales y 33 medidas ya creadas.
-5. Para guardar una copia en formato clasico: Archivo > Guardar como >
-   Power BI (.pbix).
+5. Para publicarlo en el servicio de Power BI: Archivo > Guardar como >
+   Power BI (.pbix) y después Publicar. El servicio NO acepta archivos .pbip.
 
-La ruta de los CSV esta en el parametro "RutaDatos" (Inicio > Transformar
-datos > Transformar datos > RutaDatos). Si mueves la carpeta del proyecto,
-cambia esa ruta y vuelve a actualizar.
+El libro "powerbi/datos_powerbi.xlsx" contiene las cinco tablas y sirve para
+crear un conjunto de datos directamente en el servicio de Power BI.
 
-Guia completa: ../ABRIR_EN_POWER_BI.md
+Guía paso a paso: ../SUBIR_A_POWER_BI.md
+Guía de apertura: ../ABRIR_EN_POWER_BI.md
 """
 
 LOG = logging.getLogger("build_pbip")
@@ -73,6 +86,15 @@ TIPOS_M = {
     "double": "type number",
     "date": "type date",
     "boolean": "type logical",
+}
+
+# tipos usados dentro de "type table [...]" para los datos incrustados
+TIPOS_M_TABLA = {
+    "string": "text",
+    "int64": "Int64.Type",
+    "double": "number",
+    "date": "date",
+    "boolean": "logical",
 }
 
 TIPOS_TMSL = {
@@ -390,12 +412,75 @@ def _expresion_m(tabla: str, columnas: list[tuple[str, str, str | None, bool]]) 
     ]
 
 
-def construir_modelo() -> dict[str, Any]:
-    """Devuelve el diccionario TMSL completo del modelo semantico."""
-    ruta = str(PROCESADOS)
+def _m_texto(valor: str) -> str:
+    """Devuelve un literal de texto M correctamente escapado."""
+    escapado = (
+        valor.replace('"', '""')
+        .replace("\r", "#(cr)")
+        .replace("\n", "#(lf)")
+        .replace("\t", "#(tab)")
+    )
+    return f'"{escapado}"'
+
+
+def _m_valor(valor: str, tipo: str) -> str:
+    """Convierte un valor del CSV en un literal M del tipo indicado."""
+    limpio = (valor or "").strip()
+    if limpio == "" or limpio.lower() in {"nan", "none", "null"}:
+        return "null"
+    if tipo == "string":
+        return _m_texto(valor)
+    if tipo == "int64":
+        return str(int(float(limpio)))
+    if tipo == "double":
+        return repr(float(limpio))
+    if tipo == "boolean":
+        return "true" if limpio.lower() in {"true", "1", "si", "sí"} else "false"
+    if tipo == "date":
+        fecha = date.fromisoformat(limpio[:10])
+        return f"#date({fecha.year}, {fecha.month}, {fecha.day})"
+    raise ValueError(f"tipo M desconocido: {tipo}")
+
+
+def _expresion_embebida(tabla: str, columnas: list[tuple[str, str, str | None, bool]]) -> list[str]:
+    """Construye una tabla M literal con todos los datos del CSV.
+
+    Al no usar ``File.Contents`` el modelo queda autocontenido: el proyecto
+    funciona aunque se mueva de carpeta o se abra en otro equipo.
+    """
+    ruta = PROCESADOS / f"{tabla}.csv"
+    with ruta.open(encoding="utf-8-sig", newline="") as archivo:
+        filas = list(csv.DictReader(archivo))
+
+    lineas = ["let", "    Origen = #table(", "        type table ["]
+    for indice, (nombre, tipo, _, _) in enumerate(columnas):
+        coma = "," if indice < len(columnas) - 1 else ""
+        lineas.append(f'            #"{nombre}" = {TIPOS_M_TABLA[tipo]}{coma}')
+    lineas += ["        ],", "        {"]
+    for fila in filas:
+        valores = ", ".join(_m_valor(fila.get(nombre, ""), tipo) for nombre, tipo, _, _ in columnas)
+        lineas.append(f"            {{ {valores} }},")
+    lineas += ["        }", "    )", "in", "    Origen"]
+    return lineas
+
+
+def construir_modelo(
+    usar_csv: bool = False, ruta_datos: str | Path | None = None
+) -> dict[str, Any]:
+    """Devuelve el diccionario TMSL completo del modelo semantico.
+
+    Por defecto incrusta los datos de los CSV. Con ``usar_csv=True`` genera
+    consultas M que leen los CSV de ``ruta_datos`` (o de ``data/processed``).
+    """
+    carpeta = (
+        Path(ruta_datos).expanduser().resolve() if ruta_datos else PROCESADOS
+    )
+    ruta = str(carpeta)
     tablas: list[dict[str, Any]] = []
 
     for tabla, columnas in COLUMNAS.items():
+        if usar_csv and not (carpeta / f"{tabla}.csv").exists():
+            raise FileNotFoundError(f"No se encuentra {carpeta / f'{tabla}.csv'}")
         columnas_tmsl = []
         for nombre, tipo, formato, oculta in columnas:
             columna: dict[str, Any] = {
@@ -414,6 +499,11 @@ def construir_modelo() -> dict[str, Any]:
                 columna["sortByColumn"] = orden
             columnas_tmsl.append(columna)
 
+        expresion = (
+            _expresion_m(tabla, columnas)
+            if usar_csv
+            else _expresion_embebida(tabla, columnas)
+        )
         tablas.append(
             {
                 "name": tabla,
@@ -423,7 +513,7 @@ def construir_modelo() -> dict[str, Any]:
                     {
                         "name": tabla,
                         "mode": "import",
-                        "source": {"type": "m", "expression": _expresion_m(tabla, columnas)},
+                        "source": {"type": "m", "expression": expresion},
                     }
                 ],
             }
@@ -479,31 +569,34 @@ def construir_modelo() -> dict[str, Any]:
             relacion["isActive"] = False
         relaciones.append(relacion)
 
+    modelo: dict[str, Any] = {
+        "culture": "es-ES",
+        "defaultPowerBIDataSourceVersion": "powerBI_V3",
+        "tables": tablas,
+        "relationships": relaciones,
+        "annotations": [
+            {"name": "__PBI_TimeIntelligenceEnabled", "value": "0"},
+            {"name": "PBIDesktopVersion", "value": "2.140.1.0"},
+        ],
+    }
+    if usar_csv:
+        modelo["expressions"] = [
+            {
+                "name": "RutaDatos",
+                "kind": "m",
+                "expression": '"%s" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]'
+                % ruta,
+                "annotations": [
+                    {"name": "PBI_NavigationStepName", "value": "Navigation"},
+                    {"name": "PBI_ResultType", "value": "Text"},
+                ],
+            }
+        ]
+
     return {
         "name": NOMBRE,
         "compatibilityLevel": 1550,
-        "model": {
-            "culture": "es-ES",
-            "defaultPowerBIDataSourceVersion": "powerBI_V3",
-            "expressions": [
-                {
-                    "name": "RutaDatos",
-                    "kind": "m",
-                    "expression": '"%s" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]'
-                    % ruta,
-                    "annotations": [
-                        {"name": "PBI_NavigationStepName", "value": "Navigation"},
-                        {"name": "PBI_ResultType", "value": "Text"},
-                    ],
-                }
-            ],
-            "tables": tablas,
-            "relationships": relaciones,
-            "annotations": [
-                {"name": "__PBI_TimeIntelligenceEnabled", "value": "0"},
-                {"name": "PBIDesktopVersion", "value": "2.140.1.0"},
-            ],
-        },
+        "model": modelo,
     }
 
 
@@ -878,7 +971,85 @@ def escribir_json(ruta: Path, datos: Any) -> None:
     LOG.info("Escrito %s", ruta.relative_to(RAIZ))
 
 
-def generar() -> list[Path]:
+def _valor_excel(valor: str, tipo: str) -> Any:
+    """Convierte un valor del CSV al tipo nativo que entiende Excel."""
+    limpio = (valor or "").strip()
+    if limpio == "" or limpio.lower() in {"nan", "none", "null"}:
+        return None
+    if tipo == "string":
+        return valor
+    if tipo == "int64":
+        return int(float(limpio))
+    if tipo == "double":
+        return float(limpio)
+    if tipo == "boolean":
+        return limpio.lower() in {"true", "1", "si", "sí"}
+    if tipo == "date":
+        return date.fromisoformat(limpio[:10])
+    raise ValueError(f"tipo desconocido: {tipo}")
+
+
+def exportar_excel(destino: Path | None = None) -> Path:
+    """Escribe un libro con una hoja por tabla, listo para Power BI."""
+    from openpyxl import Workbook
+    from openpyxl.styles import Alignment, Font, PatternFill
+    from openpyxl.utils import get_column_letter
+
+    destino = destino or EXCEL
+    destino.parent.mkdir(parents=True, exist_ok=True)
+
+    libro = Workbook()
+    libro.remove(libro.active)
+
+    for tabla, columnas in COLUMNAS.items():
+        hoja = libro.create_sheet(tabla)
+        hoja.append([nombre for nombre, _, _, _ in columnas])
+        for celda in hoja[1]:
+            celda.font = Font(bold=True, color="FFFFFF")
+            celda.fill = PatternFill("solid", fgColor="1F4E78")
+            celda.alignment = Alignment(horizontal="center")
+
+        anchos = [len(nombre) for nombre, _, _, _ in columnas]
+        with (PROCESADOS / f"{tabla}.csv").open(encoding="utf-8-sig", newline="") as archivo:
+            for fila in csv.DictReader(archivo):
+                valores = [
+                    _valor_excel(fila.get(nombre, ""), tipo)
+                    for nombre, tipo, _, _ in columnas
+                ]
+                hoja.append(valores)
+                for indice, valor in enumerate(valores):
+                    if valor is not None:
+                        anchos[indice] = max(anchos[indice], min(len(str(valor)), 45))
+
+        hoja.freeze_panes = "A2"
+        hoja.auto_filter.ref = hoja.dimensions
+        for indice, (ancho, (_, tipo, formato, _)) in enumerate(
+            zip(anchos, columnas), start=1
+        ):
+            letra = get_column_letter(indice)
+            dimension = hoja.column_dimensions[letra]
+            dimension.width = min(max(ancho + 2, 10), 45)
+            if tipo == "date":
+                dimension.number_format = "dd/mm/yyyy"
+                # openpyxl asigna un estilo de fecha a cada celda; se quita para
+                # que herede el formato de fecha de la columna.
+                for fila in range(2, hoja.max_row + 1):
+                    hoja.cell(row=fila, column=indice).style = "Normal"
+            elif formato in {"0.0%", "0.00%"}:
+                dimension.number_format = "0.0%"
+            elif tipo in {"int64", "double"}:
+                dimension.number_format = formato or "#,##0"
+
+    libro.save(destino)
+    LOG.info("Escrito %s", destino.relative_to(RAIZ))
+    return destino
+
+
+def generar(
+    usar_csv: bool = False,
+    ruta_datos: str | Path | None = None,
+    excel: bool = True,
+) -> list[Path]:
     """Genera todos los archivos del proyecto y devuelve sus rutas."""
     if DESTINO.exists():
         for archivo in sorted(DESTINO.rglob("*"), reverse=True):
@@ -924,7 +1095,7 @@ def generar() -> list[Path]:
         carpeta_modelo / "definition.pbism",
         {"$schema": ESQUEMA_PBISM, "version": "4.0", "settings": {}},
     )
-    guardar(carpeta_modelo / "model.bim", construir_modelo())
+    guardar(carpeta_modelo / "model.bim", construir_modelo(usar_csv, ruta_datos))
 
     # informe
     guardar(
@@ -977,20 +1148,50 @@ def generar() -> list[Path]:
         for nombre_visual, datos in visuales:
             guardar(carpeta_pagina / "visuals" / nombre_visual / "visual.json", datos)
 
+    if excel:
+        try:
+            generados.append(exportar_excel())
+        except ImportError:
+            LOG.warning("openpyxl no esta instalado: no se genero powerbi/datos_powerbi.xlsx")
+
     LOG.info("Proyecto generado en %s (%d archivos)", DESTINO, len(generados))
     return generados
 
 
+def _ruta_del_parametro(modelo: dict[str, Any]) -> Path | None:
+    """Extrae la carpeta configurada en el parametro M ``RutaDatos``."""
+    for expresion in modelo["model"].get("expressions", []):
+        if expresion.get("name") != "RutaDatos":
+            continue
+        coincidencia = re.match(r'^"((?:[^"\\]|\\.)*)"', expresion.get("expression", ""))
+        if coincidencia:
+            return Path(json.loads(f'"{coincidencia.group(1)}"'))
+    return None
+
+
 def verificar() -> list[str]:
     """Comprueba la coherencia entre el modelo, los CSV y los visuales."""
-    import re
-
     errores: list[str] = []
     modelo = json.loads(
         (DESTINO / f"{NOMBRE}.SemanticModel" / "model.bim").read_text(encoding="utf-8")
     )
     tablas: dict[str, list[str]] = {}
     medidas: set[str] = set()
+    carpeta = _ruta_del_parametro(modelo)
+    usar_csv = carpeta is not None
+    carpeta = carpeta or PROCESADOS
+
+    if not usar_csv:
+        for tabla in modelo["model"]["tables"]:
+            if tabla["name"] == TABLA_MEDIDAS:
+                continue
+            consulta = "\n".join(tabla["partitions"][0]["source"]["expression"])
+            if "File.Contents" in consulta or "RutaDatos" in consulta:
+                errores.append(
+                    f"{tabla['name']}: el modelo incrustado no debe leer archivos externos"
+                )
+            if "#table(" not in consulta:
+                errores.append(f"{tabla['name']}: falta la tabla M incrustada")
 
     for tabla in modelo["model"]["tables"]:
         columnas = [columna["name"] for columna in tabla["columns"]]
@@ -1001,14 +1202,32 @@ def verificar() -> list[str]:
             medidas.add(medida["name"])
         if tabla["name"] == TABLA_MEDIDAS:
             continue
-        ruta = PROCESADOS / f"{tabla['name']}.csv"
+        ruta = carpeta / f"{tabla['name']}.csv"
         if not ruta.exists():
-            errores.append(f"falta el archivo {ruta.name}")
+            errores.append(f"falta el archivo {ruta}")
             continue
         with ruta.open(encoding="utf-8", newline="") as archivo:
-            cabecera = [nombre.lstrip("\ufeff") for nombre in next(csv.reader(archivo))]
+            lector = csv.DictReader(archivo)
+            cabecera = [nombre.lstrip("\ufeff") for nombre in (lector.fieldnames or [])]
+            filas_csv = sum(1 for _ in lector)
         if cabecera != columnas:
             errores.append(f"{tabla['name']}: el modelo y el CSV no tienen las mismas columnas")
+        if not usar_csv:
+            consulta = "\n".join(tabla["partitions"][0]["source"]["expression"])
+            filas_m = sum(
+                1
+                for linea in consulta.splitlines()
+                if linea.startswith("            { ")
+            )
+            if filas_m != filas_csv:
+                errores.append(
+                    f"{tabla['name']}: el modelo incrusta {filas_m} filas y el CSV tiene {filas_csv}"
+                )
+        else:
+            consulta = "\n".join(tabla["partitions"][0]["source"]["expression"])
+            esperado = f'File.Contents(RutaDatos & "\\{tabla["name"]}.csv")'
+            if esperado not in consulta:
+                errores.append(f"{tabla['name']}: la consulta M no usa RutaDatos")
 
     for relacion in modelo["model"]["relationships"]:
         for tabla, columna in (
@@ -1110,9 +1329,34 @@ def main() -> int:
         action="store_true",
         help="valida los JSON contra los esquemas oficiales (requiere Internet)",
     )
+    analizador.add_argument(
+        "--usar-csv",
+        action="store_true",
+        help="conecta el modelo a los CSV en lugar de incrustar los datos",
+    )
+    analizador.add_argument(
+        "--ruta-datos",
+        type=Path,
+        metavar="CARPETA",
+        help="carpeta de los CSV (implica --usar-csv)",
+    )
+    analizador.add_argument(
+        "--sin-excel",
+        action="store_true",
+        help="no genera powerbi/datos_powerbi.xlsx",
+    )
     opciones = analizador.parse_args()
 
-    archivos = generar()
+    usar_csv = opciones.usar_csv or opciones.ruta_datos is not None
+    try:
+        archivos = generar(
+            usar_csv=usar_csv,
+            ruta_datos=opciones.ruta_datos,
+            excel=not opciones.sin_excel,
+        )
+    except FileNotFoundError as error:
+        LOG.error("%s", error)
+        return 1
     errores = verificar()
     for error in errores:
         LOG.error("Verificación: %s", error)

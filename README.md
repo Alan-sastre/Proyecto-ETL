@@ -25,20 +25,24 @@ cd Proyecto-ETL
 ### Opción A — Ver el dashboard en Power BI (sin construir nada)
 
 El dashboard ya está generado como proyecto de Power BI en `powerbi/PBIP/`.
+El modelo **lleva los datos incrustados**, así que no depende de ninguna ruta ni
+de los CSV.
 
 1. Instala **Power BI Desktop** (gratis):
    <https://powerbi.microsoft.com/desktop/>
 2. Abre [`powerbi/PBIP/Dashboard_Apuestas.pbip`](powerbi/PBIP/Dashboard_Apuestas.pbip)
    con doble clic (o **Archivo → Abrir**).
-3. Pulsa **Inicio → Actualizar** para cargar los datos de `data/processed/`.
+3. Pulsa **Inicio → Actualizar**. No pedirá rutas ni credenciales.
 4. Listo: verás las tres páginas (**Resumen general**, **Cuotas y mercado** y
    **Detalle por equipo**) con sus 24 visuales.
-5. Si la entrega exige `.pbix`: **Archivo → Guardar como → Power BI (.pbix)**.
+5. Si la entrega exige `.pbix` o quieres **subirlo al servicio de Power BI**:
+   **Archivo → Guardar como → Power BI (.pbix)** y luego **Publicar**.
 
-> El proyecto incluye el modelo estrella, las 5 relaciones, las 33 medidas DAX y
-> los 24 visuales ya armados. Instrucciones detalladas, ruta del parámetro
-> `RutaDatos` y solución de problemas en
-> [`powerbi/ABRIR_EN_POWER_BI.md`](powerbi/ABRIR_EN_POWER_BI.md).
+> El servicio de Power BI **no acepta `.pbip`** en **Cargar un archivo**. Hay que
+> guardarlo como `.pbix` o subir `powerbi/datos_powerbi.xlsx`. El paso a paso,
+> con alternativas en Excel/CSV y solución de errores, está en
+> [`powerbi/SUBIR_A_POWER_BI.md`](powerbi/SUBIR_A_POWER_BI.md).
+> Para abrirlo en Desktop: [`powerbi/ABRIR_EN_POWER_BI.md`](powerbi/ABRIR_EN_POWER_BI.md).
 
 ### Opción B — Ejecutar el ETL desde cero
 
@@ -177,8 +181,10 @@ proyecto_etl_apuestas/
 ├── powerbi/
 │   ├── GUIA_DASHBOARD.md             # Construcción manual paso a paso
 │   ├── ABRIR_EN_POWER_BI.md          # Cómo abrir el dashboard ya generado
+│   ├── SUBIR_A_POWER_BI.md           # Cómo publicarlo en el servicio, paso a paso
 │   ├── medidas_DAX.md
 │   ├── power_query.m
+│   ├── datos_powerbi.xlsx            # Libro con las 5 tablas para subir
 │   ├── build_pbip.py                 # Genera el proyecto .pbip por código
 │   └── PBIP/                         # Proyecto listo para Power BI Desktop
 │       ├── Dashboard_Apuestas.pbip
@@ -414,8 +420,8 @@ Todos los títulos, ejes y leyendas están en español.
 
 El dashboard se entrega **ya construido** como proyecto de Power BI en
 `powerbi/PBIP/`. Se genera por código con `powerbi/build_pbip.py`, que escribe
-un proyecto `.pbip` (formato de texto documentado por Microsoft) equivalente a
-un `.pbix`:
+un proyecto `.pbip` (formato de texto documentado por Microsoft) y un libro
+`powerbi/datos_powerbi.xlsx` para subirlo al servicio:
 
 | Elemento | Contenido |
 |---|---|
@@ -435,11 +441,18 @@ Páginas incluidas:
    de victorias y ranking, más tarjetas de resultados globales.
 
 Pasos para verlo: instalar **Power BI Desktop**, abrir
-`powerbi/PBIP/Dashboard_Apuestas.pbip` y pulsar **Actualizar**. El detalle está
-en [`powerbi/ABRIR_EN_POWER_BI.md`](powerbi/ABRIR_EN_POWER_BI.md).
+`powerbi/PBIP/Dashboard_Apuestas.pbip` y pulsar **Actualizar**. El modelo lleva
+los datos incrustados, por lo que no depende de rutas ni de los CSV. Para
+publicarlo en el servicio, guarda una copia en `.pbix` y publícala: el servicio
+**no acepta `.pbip`**. El detalle está en
+[`powerbi/SUBIR_A_POWER_BI.md`](powerbi/SUBIR_A_POWER_BI.md).
 
 Como respaldo y como documentación del proceso, también se entregan:
 
+- **`powerbi/SUBIR_A_POWER_BI.md`**: publicación paso a paso, alternativas con
+  `.pbix`, Excel y CSV, y solución de errores.
+- **`powerbi/datos_powerbi.xlsx`**: las cinco tablas en hojas separadas, listo
+  para crear un conjunto de datos en el servicio.
 - **`powerbi/GUIA_DASHBOARD.md`**: construcción manual (importación, tipos,
   relaciones, diseño de la página, segmentadores y validación).
 - **`powerbi/medidas_DAX.md`**: las 33 medidas con su formato recomendado.
@@ -448,7 +461,7 @@ Como respaldo y como documentación del proceso, también se entregan:
 
 > El formato `.pbix` es propietario y solo Power BI Desktop puede escribirlo;
 > por eso se entrega el `.pbip`, que se abre igual y desde **Archivo → Guardar
-> como** se convierte en `.pbix`.
+> como** se convierte en `.pbix`. Ese `.pbix` es el que se sube al servicio.
 
 ---
 
@@ -603,15 +616,20 @@ Ejecuta `python main.py` antes para disponer de los archivos procesados.
 ### 14.7 Generar el proyecto de Power BI
 
 ```powershell
-# Regenera powerbi/PBIP a partir de data/processed
+# Regenera powerbi/PBIP y powerbi/datos_powerbi.xlsx desde data/processed
 python powerbi/build_pbip.py
 
 # Además valida los JSON contra los esquemas oficiales (requiere Internet)
 python powerbi/build_pbip.py --validar
+
+# Modo opcional: conectar el modelo a los CSV en lugar de incrustarlos
+python powerbi/build_pbip.py --usar-csv
+python powerbi/build_pbip.py --ruta-datos "C:\ruta\a\data\processed"
 ```
 
 El script verifica las columnas, las relaciones y las referencias de las
-medidas y los visuales antes de terminar. Después basta con abrir
+medidas y los visuales antes de terminar. Por defecto **incrusta los datos** y
+no genera ninguna ruta absoluta. Después basta con abrir
 `powerbi/PBIP/Dashboard_Apuestas.pbip` y pulsar **Actualizar**.
 
 ---
@@ -623,14 +641,20 @@ medidas y los visuales antes de terminar. Después basta con abrir
 1. Instala **Power BI Desktop**
    (<https://powerbi.microsoft.com/desktop/>).
 2. Abre `powerbi/PBIP/Dashboard_Apuestas.pbip` con doble clic.
-3. Pulsa **Inicio → Actualizar** para cargar los datos de `data/processed/`.
+3. Pulsa **Inicio → Actualizar**. Los datos van incrustados en el modelo, así
+   que no hay que configurar ninguna ruta.
 4. Recorre las tres páginas: **Resumen general**, **Cuotas y mercado** y
    **Detalle por equipo**.
-5. Si necesitas el archivo clásico: **Archivo → Guardar como → Power BI
+5. Para entregar o subir al servicio: **Archivo → Guardar como → Power BI
    (.pbix)** y guárdalo como `powerbi/dashboard_apuestas.pbix`.
+6. Para publicarlo, pulsa **Inicio → Publicar** o súbelo desde
+   <https://app.powerbi.com> con **Nuevo → Cargar un archivo**. El servicio
+   **no acepta `.pbip`**.
 
-> La guía completa, la ruta del parámetro `RutaDatos` y la solución de
-> problemas están en
+> La guía de publicación paso a paso, con alternativas en Excel/CSV y solución
+> de errores, está en
+> [`powerbi/SUBIR_A_POWER_BI.md`](powerbi/SUBIR_A_POWER_BI.md). La guía de
+> apertura está en
 > [`powerbi/ABRIR_EN_POWER_BI.md`](powerbi/ABRIR_EN_POWER_BI.md).
 
 ### 15.2 Opción manual (para la sustentación paso a paso)
@@ -681,10 +705,12 @@ python main.py --regenerar --semilla 42
   `src/config.py`.
 - El modelo estrella es intencionalmente simple y no incluye dimensiones de
   jugadores, entrenadores ni estadísticas detalladas por evento.
-- Power BI: se entrega el proyecto `.pbip` ya generado y validado, además de la
-  guía manual. El archivo `.pbix` final se obtiene con **Archivo → Guardar
-  como**, porque el formato `.pbix` es propietario y solo Power BI Desktop
-  puede escribirlo.
+- Power BI: se entrega el proyecto `.pbip` ya generado y validado (con los datos
+  incrustados), el libro `datos_powerbi.xlsx` y la guía manual. El archivo
+  `.pbix` final se obtiene con **Archivo → Guardar como**, porque el formato
+  `.pbix` es propietario y solo Power BI Desktop puede escribirlo. El servicio
+  de Power BI no admite `.pbip`: hay que subir el `.pbix` o el Excel/CSV (ver
+  `powerbi/SUBIR_A_POWER_BI.md`).
 
 ---
 
