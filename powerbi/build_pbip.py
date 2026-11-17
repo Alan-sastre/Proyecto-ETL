@@ -31,13 +31,18 @@ import argparse
 import csv
 import json
 import logging
+import os
 import re
 import uuid
 from datetime import date
 from pathlib import Path
 from typing import Any
 
-RAIZ = Path(__file__).resolve().parents[1]
+# ``PROYECTO_ETL_ROOT`` permite que el ejecutable empaquetado genere los
+# archivos junto al .exe y no en la carpeta temporal de PyInstaller.
+RAIZ = Path(
+    os.environ.get("PROYECTO_ETL_ROOT", Path(__file__).resolve().parents[1])
+).expanduser().resolve()
 PROCESADOS = RAIZ / "data" / "processed"
 DESTINO = RAIZ / "powerbi" / "PBIP"
 EXCEL = RAIZ / "powerbi" / "datos_powerbi.xlsx"

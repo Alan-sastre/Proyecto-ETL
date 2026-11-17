@@ -24,3 +24,9 @@ desktop.ini
 powerbi/PBIP/**/.pbi/
 powerbi/PBIP/**/localSettings.json
 powerbi/PBIP/**/cache.abf
+
+# Entregables generados por ejecutar_todo.py
+/entrega_powerbi.zip
+/build/
+/dist/
+/*.spec

@@ -8,6 +8,10 @@ modelo estrella, las relaciones, las 33 medidas DAX y las tres páginas con sus
 > **Resumen en tres pasos:** instalar Power BI Desktop → abrir
 > `powerbi/PBIP/Dashboard_Apuestas.pbip` → pulsar **Actualizar**.
 
+> **Atajo:** `EJECUTAR_TODO.bat` (Windows) o `./EJECUTAR_TODO.sh` genera el
+> dashboard, el Excel y el ZIP de entrega de una sola vez. Ver
+> [`../COMO_EJECUTAR_TODO.md`](../COMO_EJECUTAR_TODO.md).
+
 > **¿Quieres subirlo al servicio de Power BI?** El servicio **no acepta
 > `.pbip`**. Abre el proyecto en Desktop, guárdalo como `.pbix` y publícalo.
 > El paso a paso está en [`SUBIR_A_POWER_BI.md`](SUBIR_A_POWER_BI.md).

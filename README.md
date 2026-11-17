@@ -22,6 +22,20 @@ git clone https://github.com/Alan-sastre/Proyecto-ETL.git
 cd Proyecto-ETL
 ```
 
+### Opción 0 — Ejecutar TODO automáticamente (recomendada)
+
+Si no quieres hacer pasos sueltos, usa el lanzador:
+
+- **Windows:** doble clic en `EJECUTAR_TODO.bat`.
+- **Linux/macOS:** `./EJECUTAR_TODO.sh`.
+
+El lanzador regenera los datos, ejecuta el ETL, crea el `.pbip`, genera
+`powerbi/datos_powerbi.xlsx`, verifica el modelo y empaqueta
+`entrega_powerbi.zip`. Si quieres un `.exe`, ejecuta
+`crear_ejecutable_windows.bat` una vez.
+
+Guía: [`COMO_EJECUTAR_TODO.md`](COMO_EJECUTAR_TODO.md).
+
 ### Opción A — Ver el dashboard en Power BI (sin construir nada)
 
 El dashboard ya está generado como proyecto de Power BI en `powerbi/PBIP/`.
@@ -45,6 +59,14 @@ de los CSV.
 > Para abrirlo en Desktop: [`powerbi/ABRIR_EN_POWER_BI.md`](powerbi/ABRIR_EN_POWER_BI.md).
 
 ### Opción B — Ejecutar el ETL desde cero
+
+La forma corta, con todo incluido:
+
+```powershell
+python ejecutar_todo.py --abrir
+```
+
+O paso a paso, si prefieres controlar cada fase:
 
 ```powershell
 python -m venv .venv

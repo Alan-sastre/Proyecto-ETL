@@ -4,6 +4,13 @@ Guía paso a paso para publicar este proyecto en el **servicio de Power BI**
 (`app.powerbi.com`). Si solo quieres verlo en tu equipo, abre primero
 [`ABRIR_EN_POWER_BI.md`](ABRIR_EN_POWER_BI.md).
 
+> **Atajo:** si no quieres ejecutar comandos sueltos, haz doble clic en
+> [`../EJECUTAR_TODO.bat`](../EJECUTAR_TODO.bat) (Windows) o ejecuta
+> `./EJECUTAR_TODO.sh` (Linux/macOS). Ese lanzador regenera los datos, crea el
+> `.pbip`, el Excel y el ZIP de entrega. Después solo queda el último clic de
+> **Publicar** o **Cargar** en Power BI. Detalles en
+> [`../COMO_EJECUTAR_TODO.md`](../COMO_EJECUTAR_TODO.md).
+
 ---
 
 ## 0. Lo primero: por qué fallaba la subida

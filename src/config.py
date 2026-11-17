@@ -8,6 +8,7 @@ trabaja con rutas relativas construidas a partir de la ubicación de este archiv
 from __future__ import annotations
 
 import logging
+import os
 import re
 import sys
 import unicodedata
@@ -17,7 +18,11 @@ from typing import Any
 # ---------------------------------------------------------------------------
 # Rutas del proyecto (siempre relativas a la raíz del repositorio)
 # ---------------------------------------------------------------------------
-PROJECT_ROOT: Path = Path(__file__).resolve().parent.parent
+# ``PROYECTO_ETL_ROOT`` permite que el ejecutable empaquetado escriba los
+# resultados junto al .exe en lugar de dentro de su carpeta temporal.
+PROJECT_ROOT: Path = Path(
+    os.environ.get("PROYECTO_ETL_ROOT", Path(__file__).resolve().parent.parent)
+).expanduser().resolve()
 DATA_DIR: Path = PROJECT_ROOT / "data"
 RAW_DIR: Path = DATA_DIR / "raw"
 PROCESSED_DIR: Path = DATA_DIR / "processed"
